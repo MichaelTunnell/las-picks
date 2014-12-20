@@ -18,9 +18,9 @@ Contributions are welcomed and encouraged.
 <li>Fork this repository to your account.</li>
 <li>Edit the 3 list files.
 <ul>
-<li>Desktop App Picks - **desktop-apps.php**</li>
-<li>Spotlight Picks - **spotlights.php**</li>
-<li>Runs Linux Picks - **runs-linux.php**</li>
+<li>Desktop App Picks - <strong>desktop-apps.php</strong></li>
+<li>Spotlight Picks - <strong>spotlights.php</strong></li>
+<li>Runs Linux Picks - <strong>runs-linux.php</strong></li>
 </ul></li>
 <li>. . . finally, just submit a Pull Request</li>
 </ul>
