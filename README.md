@@ -19,6 +19,9 @@ Contributions are welcomed and encouraged.
 - Desktop App Picks - **desktop-apps.php**
 - Spotlight Picks - **spotlights.php**
 - Runs Linux Picks - **runs-linux.php**
+ 
+ . . . finally, just submit a Pull Request
+
 
 Watch the following video to know how to structure the updates. The process is actually very simple and straight-forward...you will need to edit these files but you don't need to know how to code in order to do it. The video explains everything you need to know.
 
