@@ -1,0 +1,115 @@
+.clr {
+	clear:both;
+}
+body {
+	background: none repeat scroll 0% 0% #EFEFEF;
+	color: #565050;
+	margin:20px;
+	padding:0;
+	font-family: 'Open Sans', sans-serif;}
+header {
+	text-align: center;
+	width:100%;
+	margin:0 auto;
+}
+nav	{
+	width:400px;
+	margin:0 auto 20px auto;
+	text-align: center;
+	border: 1px solid #D3D3D3;
+	border-radius: 5px;
+	background: url(images/menubarbg.png) 0 0 repeat-x #fff;
+	background: -moz-linear-gradient(top,  #feffff 0%, #ffffff 55%, #cecece 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#feffff), color-stop(55%,#ffffff), color-stop(100%,#cecece));
+	background: -webkit-linear-gradient(top,  #feffff 0%,#ffffff 55%,#cecece 100%);
+	background: -o-linear-gradient(top,  #feffff 0%,#ffffff 55%,#cecece 100%);
+	background: -ms-linear-gradient(top,  #feffff 0%,#ffffff 55%,#cecece 100%);
+	background: linear-gradient(to bottom,  #feffff 0%,#ffffff 55%,#cecece 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#cecece',GradientType=0 );
+}
+nav ul {
+	margin:0;
+	padding:5px 10px;
+	list-style: none;
+	line-height: 20px;
+}
+nav li {
+	float:left;
+	margin:0 20px 0 0;
+	line-height: 18px;
+}
+nav li:last-of-type {
+	margin:0;
+}
+nav a {
+	font-size: 16px;
+	text-decoration: none;
+}
+nav a:link, nav a:visited {
+	color:#111;
+}
+nav a:hover, nav a:active {
+	color:#0B4B75;
+}
+img {
+	width:294px;
+	height: 192px;
+	margin:0 auto;
+	background:#0B4B75;
+	padding:1px;
+	border:1px solid #505050;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+}
+h1 {
+	font-size: 24px;
+	text-shadow:1px 2px 3px rgba(0,0,0,0.3);
+}
+h1 span {
+	font-size: 34px;
+}
+table {
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+	width:50%;
+	margin: 40px auto;
+}
+th {
+	background: #0B4B75;
+	color:#efefef;
+	padding:5px 10px;
+	text-align: center;
+}
+td {
+	background: none repeat scroll 0px 0px #FEFEFE;
+	padding: 5px 10px;
+	border-bottom:1px solid #999;
+}
+a:link, a:visited {
+	color:#0B4B75;
+}
+a:hover, a:active {
+	color:#565050;
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 767px) {
+	body {margin:5px;}
+	table {width:100%;}
+	nav {width:310px;}
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1224px) {
+	table {width:80%;}
+}
+
+@media only screen 
+and (min-width : 1224px) {
+	table {width:70%;}
+}
+
+@media only screen 
+and (min-width : 1824px) {
+	table {width:60%;}
+}
