@@ -1,4 +1,11 @@
 <?php 
+// Page Variables
+$rltitle = "Runs Linux";
+$rltitlemobile = "Runs Linux";
+$daptitle = "Desktop App Picks";
+$daptitlemobile = "Desktop Apps";
+$sptitle = "Spotlight Picks";
+$sptitlemobile = "Spotlights";
 // Date Variables
 $sd2015 = "2015-01-04 10:00 PST";
 $sd2014 = "2014-01-05 10:00 PST";

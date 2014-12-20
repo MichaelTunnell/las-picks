@@ -1,6 +1,7 @@
 <?php 
-$pagetitle = "Spotlight Picks";
 include 'common.php';
+$pagetitle = $sptitle;
+$pagetitlemobile = $sptitlemobile;
 include 'header.php';
 ?>
 	<table>

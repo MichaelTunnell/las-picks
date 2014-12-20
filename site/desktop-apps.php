@@ -1,6 +1,7 @@
 <?php 
-$pagetitle = "Desktop App Picks";
 include 'common.php';
+$pagetitle = $daptitle;
+$pagetitlemobile = $daptitlemobile;
 include 'header.php';
 ?>
 	<table>

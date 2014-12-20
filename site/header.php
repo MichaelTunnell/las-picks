@@ -11,11 +11,30 @@
 	<header>
 		<nav>
 			<ul>
-				<li><a href="runs-linux.php">Runs Linux</a></li>
-				<li><a href="desktop-apps.php">Desktop App Picks</a></li>
-				<li><a href="spotlights.php">Spotlight Picks</a></li>
-		<div class="clr"></div>
+				<li>
+					<a href="runs-linux.php">
+						<span class="full"><?php echo $rltitle; ?></span>
+						<span class="mobile"><?php echo $rltitlemobile; ?></span>
+					</a>
+				</li>
+				<li>
+					<a href="desktop-apps.php">
+						<span class="full"><?php echo $daptitle; ?></span>
+						<span class="mobile"><?php echo $daptitlemobile; ?></span>
+					</a>
+				</li>
+				<li>
+					<a href="spotlights.php">
+						<span class="full"><?php echo $sptitle; ?></span>
+						<span class="mobile"><?php echo $sptitlemobile; ?></span>
+					</a>
+				</li>
+				<div class="clr"></div>
 			</ul>
 		</nav>
-		<img class="logo" src="jb-las-logo-192.jpg" /><br /><h1>Linux Action Show<br /><span><?php echo $pagetitle; ?></span></h1>
+		<img class="logo" src="jb-las-logo-192.jpg" /><br />
+		<h1>Linux Action Show<br />
+			<span class="full"><?php echo $pagetitle; ?></span>
+			<span class="mobile"><?php echo $pagetitlemobile; ?></span>
+		</h1>
 	</header>

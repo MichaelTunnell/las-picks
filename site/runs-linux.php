@@ -1,11 +1,12 @@
 <?php 
-$pagetitle = "Runs Linux";
 include 'common.php';
+$pagetitle = $rltitle;
+$pagetitlemobile = $rltitlemobile;
 include 'header.php';
 ?>
 	<table>
 		<tr>
-			<th>App Pick</th>
+			<th>Runs Linux</th>
 			<th>Episode</th>
 			<th>Date</th>
 		</tr>
