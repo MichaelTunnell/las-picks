@@ -14,7 +14,7 @@ Contributions are welcomed and encouraged.
 ### How to Contribute
 1. You'll need a GitHub Account
 2. Fork this repository to your account.
-3. 2Edit the 3 list files.
+3. Edit the 3 list files.
 
 - Desktop App Picks - **desktop-apps.php**
 - Spotlight Picks - **spotlights.php**
