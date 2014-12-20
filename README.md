@@ -5,7 +5,7 @@ These are the weekly picks provided by the Jupiter Broadcasting podcast, the Lin
 
 This site includes a separate list for the Desktop App Picks, Spotlight Picks, and the Runs Linux Picks.
 
-Completed Episodes on the List:
+#### Completed Episodes:
 **333 - 343**
 
 ---------------
@@ -13,12 +13,17 @@ Completed Episodes on the List:
 Contributions are welcomed and encouraged.
 
 ### How to Contribute
-1. You'll need a GitHub Account
-2. Fork this repository to your account.
-3. Edit the 3 list files.
-a. Desktop App Picks - **desktop-apps.php**
-b. Spotlight Picks - **spotlights.php**
-c. Runs Linux Picks - **runs-linux.php**
+<ul>
+<li>You'll need a GitHub Account</li>
+<li>Fork this repository to your account.</li>
+<li>Edit the 3 list files.
+<ul>
+<li>Desktop App Picks - **desktop-apps.php**</li>
+<li>Spotlight Picks - **spotlights.php**</li>
+<li>Runs Linux Picks - **runs-linux.php**</li>
+</ul></li>
+<li>. . . finally, just submit a Pull Request</li>
+</ul>
 
 Watch the following video to know how to structure the updates. The process is actually very simple and straight-forward...you will need to edit these files but you don't need to know how to code in order to do it. The video explains everything you need to know.
 
