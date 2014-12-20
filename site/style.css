@@ -51,7 +51,7 @@ nav a:link, nav a:visited {
 nav a:hover, nav a:active {
 	color:#0B4B75;
 }
-img {
+img.logo {
 	width:294px;
 	height: 192px;
 	margin:0 auto;
@@ -96,20 +96,31 @@ and (max-device-width : 767px) {
 	body {margin:5px;}
 	table {width:100%;}
 	nav {width:310px;}
+	a.forkongithub {position: absolute;top: 10px;right: 0;border: 0;float:right;background:#60A760; border:1px solid #007200;padding:1px;box-shadow: 0px 0px 5px rgba(0,0,0,0.3);display: block;text-decoration: none;color: #efefef;text-shadow:1px 1px 3px rgba(0,0,0,0.2);font-size: 12px;font-weight: bold;}
+	a.forkongithub span {background: #007200;padding: 5px 10px;text-align: center;display: inline-block;}
+	a.forkongithub img {display: none;}
+	header {margin-top: 50px;}
+
 }
 
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1224px) {
+	a.forkongithub span {display: none;}
+	a.forkongithub img {position: absolute;top: 0;right: 0;border: 0;}
 	table {width:80%;}
 }
 
 @media only screen 
 and (min-width : 1224px) {
+	a.forkongithub span {display: none;}
+	a.forkongithub img {position: absolute;top: 0;right: 0;border: 0;}
 	table {width:70%;}
 }
 
 @media only screen 
 and (min-width : 1824px) {
+	a.forkongithub span {display: none;}
+	a.forkongithub img {position: absolute;top: 0;right: 0;border: 0;}
 	table {width:60%;}
 }
