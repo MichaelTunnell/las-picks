@@ -191,7 +191,7 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+14 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href="http://arstechnica.com/information-technology/2014/03/meet-the-manic-miner-who-wants-to-mint-10-of-all-new-bitcoins/">The man who wants to mint 10% of all new bitcoins</a></td>
+			<td><a href="http://arstechnica.com/information-technology/2014/03/meet-the-manic-miner-who-wants-to-mint-10-of-all-new-bitcoins/">The Manic Miner (bitcoins)</a></td>
 			<td><a href="<?php echo $las_307_url; ?>"><?php echo $las_307_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+13 weeks")); ?></td>
 		</tr>
@@ -246,17 +246,17 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+3 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href="http://linuxgizmos.com/home-automation-hub-offers-siri-like-voice-assistant/">Ivee Controls Yours House, and Runs Linux</a></td>
+			<td><a href="http://linuxgizmos.com/home-automation-hub-offers-siri-like-voice-assistant/">Ivee - Home Automation</a></td>
 			<td><a href="<?php echo $las_296_url; ?>"><?php echo $las_296_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+2 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href="http://www.muktware.com/2014/01/belkin-shows-linux-powered-smart-slow-cooker-ces-2014/18852">Linux Powered Smart Slow Cooker</a></td>
+			<td><a href="http://www.muktware.com/2014/01/belkin-shows-linux-powered-smart-slow-cooker-ces-2014/18852">Smart Slow Cooker</a></td>
 			<td><a href="<?php echo $las_295_url; ?>"><?php echo $las_295_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+1 week")); ?></td>
 		</tr>
 		<tr>
-			<td><a href="http://www.reddit.com/r/LinuxActionShow/comments/1u5xg6/runs_linux_nsas_sparrow_mobile_access_point/">NSA’s Sparrow Mobile Access Point</a></td>
+			<td><a href="http://www.reddit.com/r/LinuxActionShow/comments/1u5xg6/runs_linux_nsas_sparrow_mobile_access_point/">NSA’s Sparrow</a></td>
 			<td><a href="<?php echo $las_294_url; ?>"><?php echo $las_294_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014)); ?></td>
 		</tr>
