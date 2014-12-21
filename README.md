@@ -27,6 +27,9 @@ Contributions are welcomed and encouraged.
 
 Watch the following video to know how to structure the updates. The process is actually very simple and straight-forward...you will need to edit these files but you don't need to know how to code in order to do it. The video explains everything you need to know.
 
+### Video Preview & Contribution Tutorial
+<a href="http://www.youtube.com/watch?v=DA0EDiNcwO4"><img src="http://i.ytimg.com/vi/DA0EDiNcwO4/maxresdefault.jpg" width="560" height="315" /></a>
+
 ### Website Preview
 
 ![LAS Picks Preview](http://michaeltunnell.com/jb/picks/las-picks-preview.jpg)
