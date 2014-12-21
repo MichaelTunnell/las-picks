@@ -186,7 +186,7 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+15 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://blog.arduino.cc/2013/11/20/turning-encryption-on-with-light-cryptalk/#more-8450">Light Cryptalk</a></td>
 			<td><a href="<?php echo $las_308_url; ?>"><?php echo $las_308_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+14 weeks")); ?></td>
 		</tr>
