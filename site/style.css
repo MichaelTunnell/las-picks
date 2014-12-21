@@ -6,12 +6,15 @@ body {
 	color: #565050;
 	margin:20px;
 	padding:0;
-	font-family: 'Open Sans', sans-serif;}
+	font-family: 'Open Sans', sans-serif;
+}
+
 header {
 	text-align: center;
 	width:100%;
 	margin:0 auto;
 }
+
 nav	{
 	width:400px;
 	margin:0 auto 20px auto;
@@ -27,30 +30,37 @@ nav	{
 	background: linear-gradient(to bottom,  #feffff 0%,#ffffff 55%,#cecece 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#cecece',GradientType=0 );
 }
+
 nav ul {
 	margin:0;
 	padding:5px 10px;
 	list-style: none;
 	line-height: 20px;
 }
+
 nav li {
 	float:left;
 	margin:0 20px 0 0;
 	line-height: 18px;
 }
+
 nav li:last-of-type {
 	margin:0;
 }
+
 nav a {
 	font-size: 16px;
 	text-decoration: none;
 }
+
 nav a:link, nav a:visited {
 	color:#111;
 }
+
 nav a:hover, nav a:active {
 	color:#0B4B75;
 }
+
 img.logo {
 	width:294px;
 	height: 192px;
@@ -60,44 +70,55 @@ img.logo {
 	border:1px solid #505050;
 	box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
 }
+
 h1 {
 	font-size: 24px;
 	text-shadow:1px 2px 3px rgba(0,0,0,0.3);
 }
+
 h1 span {
 	font-size: 34px;
 }
+
 span.full {
 	display:inline-block;
 }
+
 span.mobile {
 	display:none;
 }
+
 table {
 	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
 	width:50%;
 	margin: 40px auto;
 }
+
 th {
 	background: #0B4B75;
 	color:#efefef;
 	padding:5px 10px;
 	text-align: center;
 }
+
 td {
 	background: none repeat scroll 0px 0px #FEFEFE;
 	padding: 5px 10px;
 	border-bottom:1px solid #999;
 }
+
 a:link, a:visited {
 	color:#0B4B75;
 }
+
 a:hover, a:active {
 	color:#565050;
 }
+
 a.forkongithub span {
 	display: none;
 }
+
 a.forkongithub img {
 	position: absolute;
 	top: 0;
@@ -108,31 +129,78 @@ a.forkongithub img {
 @media only screen 
 and (min-device-width : 320px) 
 and (max-device-width : 767px) {
-	body {margin:5px;}
-	table {width:100%;}
-	nav {width:310px;}
-	nav li {margin:0 10px 0 0;}
-	a.forkongithub {position: absolute;top: 10px;right: 0;border: 0;float:right;background:#60A760; border:1px solid #007200;padding:1px;box-shadow: 0px 0px 5px rgba(0,0,0,0.3);display: block;text-decoration: none;color: #efefef;text-shadow:1px 1px 3px rgba(0,0,0,0.2);font-size: 12px;font-weight: bold;}
-	a.forkongithub span {background: #007200;padding: 5px 10px;text-align: center;display: inline-block;}
-	a.forkongithub img {display: none;}
-	header {margin-top: 50px;}
-	span.full {display:none;}
-	span.mobile {display:inline-block;}
+	body {
+	     margin:5px;
+	}
+	table {
+	      width:100%;
+	}
+	nav {
+	    width:310px;
+	}
+	nav li {
+	    margin:0 10px 0 0;
+	}
 
+a.forkongithub {
+	       position: absolute;
+	       top: 10px;
+	       right: 0;
+	       border: 0;
+	       float: right;
+	       background: #60A760;
+	       border: 1px solid #007200;
+	       padding: 1px;
+	       box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+	       display: block;
+	       text-decoration: none;
+	       color: #efefef;
+	       text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+	       font-size: 12px;
+	       font-weight: bold;
 }
+
+a.forkongithub span {
+	       background: #007200;
+	       padding: 5px 10px;
+	       text-align: center;display: inline-block;
+}
+
+a.forkongithub img {
+	       display: none;
+}
+
+header {
+       margin-top: 50px;
+}
+span.full {
+	  display:none;
+}
+
+span.mobile {
+	    display:inline-block;
+}
+
+}/*end media*/
 
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1224px) {
-	table {width:80%;}
+	table {
+	      width: 80%;
+	}
 }
 
 @media only screen 
 and (min-width : 1224px) {
-	table {width:70%;}
+	table {
+	      width: 70%;
+	}
 }
 
 @media only screen 
 and (min-width : 1824px) {
-	table {width:60%;}
+	table {
+	      width: 60%;
+	}
 }
