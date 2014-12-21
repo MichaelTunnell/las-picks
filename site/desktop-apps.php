@@ -251,7 +251,7 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+2 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://getspringseed.com/">Springseed</a></td>
 			<td><a href="<?php echo $las_295_url; ?>"><?php echo $las_295_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+1 week")); ?></td>
 		</tr>
