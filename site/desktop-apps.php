@@ -246,7 +246,7 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+3 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://github.com/eloaders/I-Nex">I-Nex</a></td>
 			<td><a href="<?php echo $las_296_url; ?>"><?php echo $las_296_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+2 weeks")); ?></td>
 		</tr>
