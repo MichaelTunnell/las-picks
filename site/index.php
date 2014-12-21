@@ -12,8 +12,6 @@ include 'header.php';
 			<td>
 				<p>These are the weekly picks provided by the Jupiter Broadcasting podcast, the Linux Action Show.</p>
 				<p>This site includes a separate list for the Desktop App Picks, Spotlight Picks, and the Runs Linux Picks.</p>
-				<h4>Completed Episodes:</h4>
-				<p><strong>333 - 343</strong></p>
 				<hr />
 				<p>Contributions are welcomed and encouraged.</p>
 				<h3>How to Contribute</h3>
