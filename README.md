@@ -5,9 +5,6 @@ These are the weekly picks provided by the Jupiter Broadcasting podcast, the Lin
 
 This site includes a separate list for the Desktop App Picks, Spotlight Picks, and the Runs Linux Picks.
 
-#### Completed Episodes:
-**333 - 343**
-
 ---------------
 
 Contributions are welcomed and encouraged.
@@ -29,6 +26,9 @@ Watch the following video to know how to structure the updates. The process is a
 
 ### Video Preview & Contribution Tutorial
 <a href="http://www.youtube.com/watch?v=DA0EDiNcwO4"><img src="http://i.ytimg.com/vi/DA0EDiNcwO4/maxresdefault.jpg" width="560" height="315" /></a>
+
+### Tutorial: Keep Forked Repo in Sync with Master Repo
+<a href="http://www.youtube.com/watch?v=C5WxrnRVmuY"><img src="http://i.ytimg.com/vi/C5WxrnRVmuY/maxresdefault.jpg" width="560" height="315" /></a>
 
 ### Website Preview
 
