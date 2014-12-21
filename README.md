@@ -27,7 +27,7 @@ Watch the following video to know how to structure the updates. The process is a
 ### Video Preview & Contribution Tutorial
 <a href="http://www.youtube.com/watch?v=DA0EDiNcwO4"><img src="http://i.ytimg.com/vi/DA0EDiNcwO4/maxresdefault.jpg" width="560" height="315" /></a>
 
-### Tutorial to Keep your Forked Repo in Sync with the Master Repo
+### Tutorial: Keep Forked Repo in Sync with Master Repo
 <a href="http://www.youtube.com/watch?v=C5WxrnRVmuY"><img src="http://i.ytimg.com/vi/C5WxrnRVmuY/maxresdefault.jpg" width="560" height="315" /></a>
 
 ### Website Preview
