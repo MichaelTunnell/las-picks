@@ -256,7 +256,7 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+1 week")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://play.google.com/store/apps/details?id=x.org.server&hl=en">XServer XSDL</a></td>
 			<td><a href="<?php echo $las_294_url; ?>"><?php echo $las_294_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014)); ?></td>
 		</tr>
