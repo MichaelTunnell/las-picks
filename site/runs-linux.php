@@ -191,17 +191,17 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+14 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://arstechnica.com/information-technology/2014/03/meet-the-manic-miner-who-wants-to-mint-10-of-all-new-bitcoins/">The man who wants to mint 10% of all new bitcoins</a></td>
 			<td><a href="<?php echo $las_307_url; ?>"><?php echo $las_307_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+13 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://geekdad.com/2014/03/disney-trip-playing-frozens-rigging-tech/">Disney's Frozen</a></td>
 			<td><a href="<?php echo $las_306_url; ?>"><?php echo $las_306_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+12 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://thehackernews.com/2014/03/indian-banks-switching-to-linux-rather.html">Indian Banks</a></td>
 			<td><a href="<?php echo $las_305_url; ?>"><?php echo $las_305_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+11 weeks")); ?></td>
 		</tr>
