@@ -191,17 +191,17 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+14 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.crowdsupply.com/kosagi/novena-open-laptop">Novena</a></td>
 			<td><a href="<?php echo $las_307_url; ?>"><?php echo $las_307_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+13 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://flippfly.com/racethesun/">Race The Sun</a></td>
 			<td><a href="<?php echo $las_306_url; ?>"><?php echo $las_306_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+12 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.youtube.com/watch?v=FsTQc0ME1eo&feature=youtu.be&t=24m56s">Monkey Suit Mir Bet</a> | <a href="http://www.reddit.com/r/LinuxActionShow/comments/1a45pa/if_mir_fails_within_one_year_from_now_ill_wear/">Matt goes monkey</a></td>
 			<td><a href="<?php echo $las_305_url; ?>"><?php echo $las_305_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+11 weeks")); ?></td>
 		</tr>
