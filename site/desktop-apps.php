@@ -196,7 +196,7 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+13 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href="http://dev.yorhel.nl/ncdu">ncdu</a></td>
+			<td><a href="http://dev.yorhel.nl/ncdu">NCurses Disk Usage</a></td>
 			<td><a href="<?php echo $las_306_url; ?>"><?php echo $las_306_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+12 weeks")); ?></td>
 		</tr>
