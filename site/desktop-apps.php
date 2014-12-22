@@ -1,4 +1,4 @@
-<?php 
+<?php
 include 'common.php';
 $pagetitle = $daptitle;
 $pagetitlemobile = $daptitlemobile;
@@ -181,7 +181,7 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+16 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://peterlevi.com/variety/">Variety</a></td>
 			<td><a href="<?php echo $las_309_url; ?>"><?php echo $las_309_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+15 weeks")); ?></td>
 		</tr>
