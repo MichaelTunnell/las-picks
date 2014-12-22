@@ -206,42 +206,42 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+11 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://blog.mozilla.org/blog/2014/03/12/mozilla-and-epic-preview-unreal-engine-4-running-in-firefox/">Firefox preview of Unreal Engine 4</a></td>
 			<td><a href="<?php echo $las_304_url; ?>"><?php echo $las_304_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+10 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.msec.it/blog/?page_id=11">Dukto</a></td>
 			<td><a href="<?php echo $las_303_url; ?>"><?php echo $las_303_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+9 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.wingsofstnazaire.com/index.html">Wings of Saint Nazaire</a></td>
 			<td><a href="<?php echo $las_302_url; ?>"><?php echo $las_302_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+8 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://www.humblebundle.com/">Humble Indie Bundle 11</a></td>
 			<td><a href="<?php echo $las_301_url; ?>"><?php echo $las_301_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+7 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://teespring.com/las300">The LAS 300 Shirt</a></td>
 			<td><a href="<?php echo $las_300_url; ?>"><?php echo $las_300_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+6 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.blackarch.org/index.html">BlackArch</a></td>
 			<td><a href="<?php echo $las_299_url; ?>"><?php echo $las_299_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+5 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://mate-desktop.org/blog/2014-01-30-mate-desktop-live-cd/">MATE desktop live CD</a></td>
 			<td><a href="<?php echo $las_298_url; ?>"><?php echo $las_298_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+4 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.splashtop.com/linux">Splashtop</a></td>
 			<td><a href="<?php echo $las_297_url; ?>"><?php echo $las_297_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+3 weeks")); ?></td>
 		</tr>
