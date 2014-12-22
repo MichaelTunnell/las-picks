@@ -1,4 +1,4 @@
-<?php 
+<?php
 include 'common.php';
 $pagetitle = $rltitle;
 $pagetitlemobile = $rltitlemobile;
@@ -171,17 +171,17 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+18 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://linuxgizmos.com/linux-based-k-9-doppelganger-treads-elc/">K-9 Robot</a></td>
 			<td><a href="<?php echo $las_311_url; ?>"><?php echo $las_311_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+17 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.davidhunt.ie/piphone-a-raspberry-pi-based-smartphone/">PiPhone - Raspberry Pi Smartphone</a></td>
 			<td><a href="<?php echo $las_310_url; ?>"><?php echo $las_310_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+16 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://www.linux.com/news/embedded-mobile/mobile-linux/770243-linux-based-autonomous-sub-leads-malaysia-airlines-flight-search">Autonomous Submarine</a></td>
 			<td><a href="<?php echo $las_309_url; ?>"><?php echo $las_309_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+15 weeks")); ?></td>
 		</tr>
