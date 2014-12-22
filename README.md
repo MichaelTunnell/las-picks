@@ -1,6 +1,8 @@
 LAS Picks
 =========
 
+URL: http://michaeltunnell.com/jb/picks/index.php
+
 These are the weekly picks provided by the Jupiter Broadcasting podcast, the Linux Action Show.
 
 This site includes a separate list for the Desktop App Picks, Spotlight Picks, and the Runs Linux Picks.
