@@ -206,42 +206,42 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+11 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.barix.com/products/exstreamer-family/barix/Product/show/exstreamer-200-205/">Exstreamer</a></td>
 			<td><a href="<?php echo $las_304_url; ?>"><?php echo $las_304_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+10 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.reddit.com/r/IAmA/comments/1zkfmv/wearea_videogame_developer_aua/cfuf1fg">Gabe Newell</a></td>
 			<td><a href="<?php echo $las_303_url; ?>"><?php echo $las_303_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+9 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.reddit.com/r/LinuxActionShow/comments/1z17rd/runs_linux_our_moderator_crazy_computer_p/">q5sys</a></td>
 			<td><a href="<?php echo $las_302_url; ?>"><?php echo $las_302_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+8 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://www.youtube.com/watch?v=pQzOikz63jA&feature=youtube_gdata_player">Project Tango</a></td>
 			<td><a href="<?php echo $las_301_url; ?>"><?php echo $las_301_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+7 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://routerboard.com/RB750">MikroTik Router</a> | <a href="http://i.imgur.com/3g9thWY.jpg">House of Cards season 2</a></td>
 			<td><a href="<?php echo $las_300_url; ?>"><?php echo $las_300_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+6 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://plus.google.com/109797684537320994845/posts/cbkTPN779FL">The Crew of Despicable Me 2</a></td>
 			<td><a href="<?php echo $las_299_url; ?>"><?php echo $las_299_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+5 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://youtu.be/pxOl0b8K6FY?t=1m55s">Corvette C7.R</a></td>
 			<td><a href="<?php echo $las_298_url; ?>"><?php echo $las_298_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+4 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://redd.it/1w2kq5">Tim Horton's</a></td>
 			<td><a href="<?php echo $las_297_url; ?>"><?php echo $las_297_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+3 weeks")); ?></td>
 		</tr>

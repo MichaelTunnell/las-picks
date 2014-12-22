@@ -206,42 +206,42 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+11 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://asciinema.org/">Asciinema</a></td>
 			<td><a href="<?php echo $las_304_url; ?>"><?php echo $las_304_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+10 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://ugetdm.com/blog/3-stable/55-uget-1104-released-and-a-bit-of-celebration">uGet</a> | <a href="http://www.msec.it/blog/?page_id=11">Dukto</a></td>
 			<td><a href="<?php echo $las_303_url; ?>"><?php echo $las_303_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+9 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://tox.im/">Tox</a> | <a href="https://github.com/naxuroqa/Venom">Venom</a></td>
 			<td><a href="<?php echo $las_302_url; ?>"><?php echo $las_302_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+8 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://github.com/claudehohl/Stikked">Stikked</a></td>
 			<td><a href="<?php echo $las_301_url; ?>"><?php echo $las_301_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+7 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://kde.org/applications/system/kdepartitionmanager/">KDE Partition Manager</a> | <a href="https://github.com/sivel/speedtest-cli">speedtest-cli</a></td>
 			<td><a href="<?php echo $las_300_url; ?>"><?php echo $las_300_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+6 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://github.com/afaqurk/linux-dash#installation">Linux-dash</a></td>
 			<td><a href="<?php echo $las_299_url; ?>"><?php echo $las_299_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+5 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://livestreamer.tanuki.se/en/latest/">Livestreamer</a></td>
 			<td><a href="<?php echo $las_298_url; ?>"><?php echo $las_298_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+4 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://bropages.org/">Bro pages</a> | <a href="http://www.splashtop.com/linux">Splashtop</a></td>
 			<td><a href="<?php echo $las_297_url; ?>"><?php echo $las_297_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+3 weeks")); ?></td>
 		</tr>
