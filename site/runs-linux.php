@@ -66,17 +66,17 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+39 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.themukt.com/2014/09/24/red-hat-linux-powering-indian-mission-mars">India's space mission to mars</a></td>
 			<td><a href="<?php echo $las_332_url; ?>"><?php echo $las_332_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+38 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://youtu.be/kZ1LO_O6r4k">Connected Wheelchair Project</a></td>
 			<td><a href="<?php echo $las_331_url; ?>"><?php echo $las_331_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+37 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://www.kickstarter.com/projects/itus/iguardian-the-home-internet-security-system?ref=nav_search">iGuardian</a></td>
 			<td><a href="<?php echo $las_330_url; ?>"><?php echo $las_330_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+36 weeks")); ?></td>
 		</tr>

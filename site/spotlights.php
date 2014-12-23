@@ -66,17 +66,17 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+39 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://rockstor.com/">RockStor</a></td>
 			<td><a href="<?php echo $las_332_url; ?>"><?php echo $las_332_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+38 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://teespring.com/jbjacket">JB Jacket</a></td>
 			<td><a href="<?php echo $las_331_url; ?>"><?php echo $las_331_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+37 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://wiki.gnome.org/Apps/Builder">Builder for Gnome</a></td>
 			<td><a href="<?php echo $las_330_url; ?>"><?php echo $las_330_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+36 weeks")); ?></td>
 		</tr>
