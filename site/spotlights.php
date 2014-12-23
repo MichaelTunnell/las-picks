@@ -1,4 +1,4 @@
-<?php 
+<?php
 include 'common.php';
 $pagetitle = $sptitle;
 $pagetitlemobile = $sptitlemobile;
@@ -171,17 +171,17 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+18 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://sourceforge.net/projects/mooos/">mooOS</a></td>
 			<td><a href="<?php echo $las_311_url; ?>"><?php echo $las_311_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+17 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.networkworld.com/community/blog/band-releases-album-linux-kernel-module">Album released as kernel module</a></td>
 			<td><a href="<?php echo $las_310_url; ?>"><?php echo $las_310_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+16 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://askubuntu.com/questions/35629/are-ppas-safe-to-add-to-my-system-and-what-are-some-red-flags-to-watch-out-fo">PPA Security</a></td>
 			<td><a href="<?php echo $las_309_url; ?>"><?php echo $las_309_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+15 weeks")); ?></td>
 		</tr>
