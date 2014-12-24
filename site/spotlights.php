@@ -11,6 +11,11 @@ include 'header.php';
 			<th>Date</th>
 		</tr>
 		<tr>
+			<td>Not Applicable due to Best Of episode</td>
+			<td><a href="<?php echo $las_344_url; ?>"><?php echo $las_344_title; ?></a></td>
+			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+50 weeks")); ?></td>
+		</tr>
+		<tr>
 			<td><a href="https://github.com/opensuse/imagewriter">openSUSE Imagewriter</a></td>
 			<td><a href="<?php echo $las_343_url; ?>"><?php echo $las_343_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+49 weeks")); ?></td>

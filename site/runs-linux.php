@@ -11,6 +11,11 @@ include 'header.php';
 			<th>Date</th>
 		</tr>
 		<tr>
+			<td>Revisited: 297, 298, 299, 306, 333, 335</td>
+			<td><a href="<?php echo $las_344_url; ?>"><?php echo $las_344_title; ?></a></td>
+			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+50 weeks")); ?></td>
+		</tr>
+		<tr>
 			<td><a href="http://hackaday.com/2014/11/18/running-debian-on-a-graphing-calculator/">Running Debian on a Graphing Calculator</a></td>
 			<td><a href="<?php echo $las_343_url; ?>"><?php echo $las_343_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+49 weeks")); ?></td>
