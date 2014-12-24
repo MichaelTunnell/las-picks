@@ -131,42 +131,42 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+26 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://unix.stackexchange.com/questions?sort=votes">Unix & Linux Stack Exchange</a></td>
 			<td><a href="<?php echo $las_319_url; ?>"><?php echo $las_319_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+25 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://archassault.org/">ArchAssault</a></td>
 			<td><a href="<?php echo $las_318_url; ?>"><?php echo $las_318_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+24 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://magpie-notes.readthedocs.org/en/latest/">Magpie</a></td>
 			<td><a href="<?php echo $las_317_url; ?>"><?php echo $las_317_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+23 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://extensions.gnome.org/extension/820/minimum-workspaces/">Minimum Workspaces - GNOME Shell extension</a></td>
 			<td><a href="<?php echo $las_316_url; ?>"><?php echo $las_316_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+22 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://togetherjs.com/">Mozilla Labs - Together JS</a></td>
 			<td><a href="<?php echo $las_315_url; ?>"><?php echo $las_315_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+21 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://mosh.mit.edu/#">Mosh - the mobile shell</a></td>
 			<td><a href="<?php echo $las_314_url; ?>"><?php echo $las_314_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+20 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://syncthing.net/">Syncthing</a></td>
 			<td><a href="<?php echo $las_313_url; ?>"><?php echo $las_313_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+19 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://kaosx.us/">KaOS</a></td>
 			<td><a href="<?php echo $las_312_url; ?>"><?php echo $las_312_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+18 weeks")); ?></td>
 		</tr>
