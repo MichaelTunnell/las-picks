@@ -131,45 +131,45 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+26 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.instructables.com/id/Raspberry-Pi-Controlled-Aquaponics/?ALLSTEPS">Rasberry Pi Controlled Aquaponics</a></td>
 			<td><a href="<?php echo $las_319_url; ?>"><?php echo $las_319_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+25 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://linuxgizmos.com/goofy-looking-security-guard-bot-runs-linux/">Goofy-looking security guard bot</a></td>
 			<td><a href="<?php echo $las_318_url; ?>"><?php echo $las_318_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+24 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://linuxgizmos.com/linux-mini-drones-jump-flip-climb-and-fly/">Mini-drones</a></td>
 			<td><a href="<?php echo $las_317_url; ?>"><?php echo $las_317_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+23 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://www.indiegogo.com/projects/opi-reclaim-your-digital-life">OPI</a></td>
 			<td><a href="<?php echo $las_316_url; ?>"><?php echo $las_316_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+22 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.youtube.com/watch?v=wRZn7_lpD2U&feature=youtu.be&t=3m44s">Jimmy Research Humanoid Robot</a></td>
 			<td><a href="<?php echo $las_315_url; ?>"><?php echo $las_315_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+21 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.cnn.com/2014/05/12/tech/innovation/big-idea-airborne-wind-turbines/index.html?hpt=hp_c3">BAT - the airborne wind turbine</a></td>
 			<td><a href="<?php echo $las_314_url; ?>"><?php echo $las_314_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+20 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://www.youtube.com/watch?v=TS37p_TKI1k&feature=youtu.be&t=7m24s">ExoMars Mission</a></td>
 			<td><a href="<?php echo $las_313_url; ?>"><?php echo $las_313_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+19 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
-			<td><a href="<?php echo $las_312_url; ?>"><?php echo $las_312_title; ?></a></td>
-			<td><?php echo date("Y-m-d", strtotime($sd2014."+18 weeks")); ?></td>
-		</tr>
+			<td><a href="http://www.newscientist.com/article/mg22229683.900#.U21Btq1dWmd">Flying 3D printer</a></td>
+			<td><a href="<?php echo $las_312_url; ?>"><?php echo $las_312_title; ?8 weeks")); ?></td>
+		</tr>></a></td>
+			<td><?php echo date("Y-m-d", strtotime($sd2014."+1
 		<tr>
 			<td><a href="http://linuxgizmos.com/linux-based-k-9-doppelganger-treads-elc/">K-9 Robot</a></td>
 			<td><a href="<?php echo $las_311_url; ?>"><?php echo $las_311_title; ?></a></td>
