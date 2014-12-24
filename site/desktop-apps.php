@@ -171,7 +171,7 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+18 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href="http://excess.org/speedometer/">Speedometer</a></td> | <a href="http://lintut.com/slurm-command-line-bandwidth-monitoring-tool-for-linux/">Slurm</a></td>
+			<td><a href="http://excess.org/speedometer/">Speedometer</a> | <a href="http://lintut.com/slurm-command-line-bandwidth-monitoring-tool-for-linux/">Slurm</a></td>
 			<td><a href="<?php echo $las_311_url; ?>"><?php echo $las_311_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+17 weeks")); ?></td>
 		</tr>
