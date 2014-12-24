@@ -131,42 +131,42 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+26 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://beets.radbox.org/">Beets - the music geeks media organizer</a></td>
 			<td><a href="<?php echo $las_319_url; ?>"><?php echo $las_319_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+25 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://github.com/joelthelion/autojump/wiki">Autojump</a></td>
 			<td><a href="<?php echo $las_318_url; ?>"><?php echo $las_318_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+24 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://snapraid.sourceforge.net/design.html">SnapRAID</a> | <a href="https://magpie-notes.readthedocs.org/en/latest/">Magpie</a></td>
 			<td><a href="<?php echo $las_317_url; ?>"><?php echo $las_317_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+23 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://otter-browser.org/">Otter Browser</a></td>
 			<td><a href="<?php echo $las_316_url; ?>"><?php echo $las_316_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+22 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://libertyzero.com/GEncfsM/">Gnome Encfs Manager</a></td>
 			<td><a href="<?php echo $las_315_url; ?>"><?php echo $las_315_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+21 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://pinta-project.com/">Pinta</a></td>
 			<td><a href="<?php echo $las_314_url; ?>"><?php echo $las_314_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+20 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://sourceforge.net/projects/castawesome/">Castawesome</a></td>
 			<td><a href="<?php echo $las_313_url; ?>"><?php echo $las_313_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+19 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="https://atom.io/">Atom</a></td>
 			<td><a href="<?php echo $las_312_url; ?>"><?php echo $las_312_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+18 weeks")); ?></td>
 		</tr>
