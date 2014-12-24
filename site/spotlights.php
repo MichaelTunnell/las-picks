@@ -131,7 +131,7 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+26 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href="http://unix.stackexchange.com/questions?sort=votes">Unix & Linux Stack Exchange</a></td>
+			<td><a href="http://unix.stackexchange.com/questions?sort=votes">Unix and Linux Stack Exchange</a></td>
 			<td><a href="<?php echo $las_319_url; ?>"><?php echo $las_319_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($sd2014."+25 weeks")); ?></td>
 		</tr>
