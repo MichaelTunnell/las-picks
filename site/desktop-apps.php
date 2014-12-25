@@ -121,17 +121,17 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+29 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://pad.haroopress.com/">Haroopad</a></td>
 			<td><a href="<?php echo $las_322_url; ?>"><?php echo $las_322_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+28 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://mpv.io/">mpv</a></td>
 			<td><a href="<?php echo $las_321_url; ?>"><?php echo $las_321_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+27 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.omgubuntu.co.uk/2014/06/linux-podcast-app-vocal-hits-preview-kicker">Vocal</a></td>
 			<td><a href="<?php echo $las_320_url; ?>"><?php echo $las_320_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+26 weeks")); ?></td>
 		</tr>

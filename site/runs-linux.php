@@ -121,17 +121,17 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+29 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.vaticanlibrary.va/home.php?pag=ufficio_ced&ling=eng">Vatican Library</a></td>
 			<td><a href="<?php echo $las_322_url; ?>"><?php echo $las_322_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+28 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://www.reddit.com/r/LinuxActionShow/comments/2abk88/runs_linux_radio_station_runs_all_linux/">Radio Station</a></td>
 			<td><a href="<?php echo $las_321_url; ?>"><?php echo $las_321_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+27 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href=""></a></td>
+			<td><a href="http://discourse.criticalengineering.org/t/howto-gsm-base-station-with-the-beaglebone-black-debian-gnu-linux-and-a-usrp/56">Homebrew GSM Base Station</a></td>
 			<td><a href="<?php echo $las_320_url; ?>"><?php echo $las_320_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+26 weeks")); ?></td>
 		</tr>
