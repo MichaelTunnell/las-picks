@@ -121,7 +121,7 @@ include 'header.php';
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+29 weeks")); ?></td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/defer-/nbwmon">nbwmon</a></td>
+			<td><a href="https://github.com/defer-/nbwmon">nbwmon - ncurses bandwidth monitor</a></td>
 			<td><a href="<?php echo $las_322_url; ?>"><?php echo $las_322_title; ?></a></td>
 			<td><?php echo date("Y-m-d", strtotime($startdates['2014']."+28 weeks")); ?></td>
 		</tr>
