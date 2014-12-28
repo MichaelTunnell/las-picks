@@ -1,114 +1,82 @@
 <?php 
+
+// <span><br />Phones, Tablets, DVRs, TV Shows, Movie Studios, Cars, Race Cars, Satellites, and so much more Run Linux. Each week Chris &amp; Matt feature a pick that shows just how awesome Linux is and how far it reaches.<span>
+// <span><br />Productivity Suites, File Syncing &amp; File Comparison, Media Players &amp; Editors, Customization Apps, Command-Line Tools, and so much more. Each week Chris &amp; Matt feature a pick to improve your Desktop Linux experience.</span>
+
 // Page Variables
-$rltitle = "Runs Linux";
-$rltitlemobile = "Runs Linux";
-$daptitle = "Desktop App Picks";
-$daptitlemobile = "Desktop Apps";
-$sptitle = "Spotlight Picks";
-$sptitlemobile = "Spotlights";
+$ak_index	= "index";
+$pt_index	= "Picks";
+
+$ak_contribute	= "contribute";
+$pt_contribute	= "Join the LAS Picks Team";
+$nav_contribute	= "Contribute";
+
+$ak_runslinux	= "runslinux";
+$pt_runslinux	= "Runs Linux";
+$nav_runslinux	= $pt_runslinux;
+$th_runslinux	= $pt_runslinux;
+$time_runslinux	= array('2006', "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014");
+
+$ak_desktop		= "desktopapp";
+$pt_desktop		= "Desktop App Picks";
+$nav_desktop	= "Desktop Apps";
+$th_desktop		= "App Pick";
+$time_desktop	= array("2011", "2012", "2013", "2014");
+
+$ak_spotlight	= "spotlight";
+$pt_spotlight	= "Spotlight Picks";
+$nav_spotlight	= "Spotlights";
+$th_spotlight	= "Spotlight Pick";
+$time_spotlight	= array("2013", "2014");
+
+$ak_android		= "android";
+$pt_android		= "Android Picks";
+$nav_android	= "Android";
+$th_android		= "Android Pick";
+$time_android	= array("2010", "2011", "2012", "2013");
+
+$ak_distro		= "distro";
+$pt_distro		= "Distro of the Day";
+$nav_distro		= "Distros";
+$th_distro		= "Distro";
+$time_distro	= array('2012');
+
+
 // Date Variables
-$sd2015 = "2015-01-04 10:00 PST";
-$sd2014 = "2014-01-05 10:00 PST";
-$sd2013 = "2013-01-06 10:00 PST";
-// Episode Variables
-$las_343_title = "Fedora Developer Roundtable | LAS 343";
-$las_343_url = "http://www.jupiterbroadcasting.com/73857/fedora-developer-roundtable-las-343/";
-$las_342_title = "Lennart's Linux Revolution | LAS 342";
-$las_342_url = "http://www.jupiterbroadcasting.com/73122/lennarts-linux-revolution-las-342/";
-$las_341_title = "Mark Shuttleworth Interview | LAS 341";
-$las_341_url = "http://www.jupiterbroadcasting.com/72637/mark-shuttleworth-interview-las-341/";
-$las_340_title = "Rooting for the Kids | LAS 340";
-$las_340_url = "http://www.jupiterbroadcasting.com/72112/rooting-for-the-kids-las-340/";
-$las_339_title = "Making Linux Beautiful | LAS 339";
-$las_339_url = "http://www.jupiterbroadcasting.com/71512/making-linux-beautiful-las-339/";
-$las_338_title = "Lumina Desktop Preview | LAS 338";
-$las_338_url = "http://www.jupiterbroadcasting.com/70922/lumina-desktop-preview-las-338/";
-$las_337_title = "openSUSE 13.2 Review | LAS 337";
-$las_337_url = "http://www.jupiterbroadcasting.com/70397/opensuse-13-2-review-linux-action-show-337/";
-$las_336_title = "Best of Ohio LinuxFest | LAS 336";
-$las_336_url = "http://www.jupiterbroadcasting.com/70022/best-of-ohio-linuxfest-linux-action-show-336/";
-$las_335_title = "Ubuntu 14.10 Mega Review | LAS 335";
-$las_335_url = "http://www.jupiterbroadcasting.com/69512/ubuntu-14-10-mega-review-las-335/";
-$las_334_title = "Painless Plex Migration | LAS 334";
-$las_334_url = "http://www.jupiterbroadcasting.com/68967/painless-plex-migration-linux-action-show-334/";
-$las_333_title = "Top 5 Linux Games | LAS 333";
-$las_333_url = "http://www.jupiterbroadcasting.com/68222/top-5-linux-games-las-333/";
-$las_332_title = "Weaponized Bash | LAS 332";
-$las_332_url = "http://www.jupiterbroadcasting.com/67717/weaponized-bash-linux-action-show-332/";
-$las_331_title = "Security Onion Review | LAS 331";
-$las_331_url = "http://www.jupiterbroadcasting.com/67182/security-onion-review-las-331/";
-$las_330_title = "Switching Ubuntu to Gnome | LAS 330";
-$las_330_url = "http://www.jupiterbroadcasting.com/66657/switching-ubuntu-to-gnome-las-330/";
-$las_329_title = "OwnCloud Your Chromebook | LAS 329";
-$las_329_url = "http://www.jupiterbroadcasting.com/66142/owncloud-your-chromebook-las-329/";
-$las_328_title = "A Chat with Icculus | LAS 328";
-$las_328_url = "http://www.jupiterbroadcasting.com/65607/a-chat-with-icculus-linux-action-show-328/";
-$las_327_title = "Best of LinuxCon 2014 | LAS 327";
-$las_327_url = "http://www.jupiterbroadcasting.com/65207/best-of-linuxcon-2014-las-327/";
-$las_326_title = "What's Next for Fedora | LAS 326";
-$las_326_url = "http://www.jupiterbroadcasting.com/64637/whats-next-for-fedora-las-326/";
-$las_325_title = "Tomb of Secrets | LAS 325";
-$las_325_url = "http://www.jupiterbroadcasting.com/64207/tomb-of-secrets-las-325/";
-$las_324_title = "ownCloud 7 Interview | LAS 324";
-$las_324_url = "http://www.jupiterbroadcasting.com/63592/owncloud-7-interview-las-324/";
-$las_323_title = "OSCON Interview Roundup | LAS 323";
-$las_323_url = "http://www.jupiterbroadcasting.com/63147/oscon-interview-roundup-las-323/";
-$las_322_title = "Debunking Manjaro Myths | LAS 322";
-$las_322_url = "http://www.jupiterbroadcasting.com/62637/debunking-manjaro-myths-las-322/";
-$las_321_title = "Kali Linux Interview | LAS 321";
-$las_321_url = "http://www.jupiterbroadcasting.com/62177/kali-linux-interview-las-321/";
-$las_320_title = "Preventing a btrfs Nightmare | LAS 320";
-$las_320_url = "http://www.jupiterbroadcasting.com/61572/preventing-a-btrfs-nightmare-las-320/";
-$las_319_title = "Sharing with Samba | LAS 319";
-$las_319_url = "http://www.jupiterbroadcasting.com/60967/sharing-with-samba-las-319/";
-$las_318_title = "SouthEast LinuxFest Highlights | LAS 318";
-$las_318_url = "http://www.jupiterbroadcasting.com/60412/southeast-linuxfest-highlights-las-318/";
-$las_317_title = "Qubes OS: Security By Isolation | LAS 317";
-$las_317_url = "http://www.jupiterbroadcasting.com/59912/qubes-os-security-by-isolation-las-317/";
-$las_316_title = "Introducing Bedrock Linux | LAS 316";
-$las_316_url = "http://www.jupiterbroadcasting.com/59352/introducing-bedrock-linux-las-316/";
-$las_315_title = "CoreOS: Future of Servers | LAS 315";
-$las_315_url = "http://www.jupiterbroadcasting.com/58602/coreos-future-of-servers-las-315/";
-$las_314_title = "OpenShot 2.0 Interview | LAS 314";
-$las_314_url = "http://www.jupiterbroadcasting.com/58192/openshot-2-0-interview-las-314/";
-$las_313_title = "Arch Home Server Challenge | LAS 313";
-$las_313_url = "http://www.jupiterbroadcasting.com/57622/arch-home-server-challenge-las-313/";
-$las_312_title = "LXQt the Xfce Killer? | LAS 312";
-$las_312_url = "http://www.jupiterbroadcasting.com/57112/lxqt-the-xfce-killer-las-312/";
-$las_311_title = "Linux Gaming for Everyone | LAS 311";
-$las_311_url = "http://www.jupiterbroadcasting.com/56552/linux-gaming-for-everyone-las-311/";
-$las_310_title = "LinuxFest Northwest 2014 | LAS 310 (s31e10)";
-$las_310_url = "http://www.jupiterbroadcasting.com/56082/linuxfest-northwest-2014-las-s31e10-310/";
-$las_309_title = "Ubuntu 14.04 Review | LAS 309 (s31e09)";
-$las_309_url = "http://www.jupiterbroadcasting.com/55477/ubuntu-14-04-review-las-s31e09/";
-$las_308_title = "Intel NUC Review | LAS 308 (s31e08)";
-$las_308_url = "http://www.jupiterbroadcasting.com/55107/intel-nuc-review-las-s31e08-308/";
-$las_307_title = "Sabayon Revisited | LAS 307 (s31e07)";
-$las_307_url = "http://www.jupiterbroadcasting.com/54652/sabayon-revisited-las-s31e07/";
-$las_306_title = "Gentoo's Jeff Horelick | LAS 306 (s31e06)";
-$las_306_url = "http://www.jupiterbroadcasting.com/54277/gentoos-jeff-horelick-las-s31e06/";
-$las_305_title = "Mir Monkey Business | LAS 305 (s31e05)";
-$las_305_url = "http://www.jupiterbroadcasting.com/53867/mir-monkey-business-las-s31e05/";
-$las_304_title = "SolydXK Linux Review | LAS 304 (s31e04)";
-$las_304_url = "http://www.jupiterbroadcasting.com/53482/solydxk-linux-review-las-s31e04/";
-$las_303_title = "Linux Your Chromebook | LAS 303 (s31e03)";
-$las_303_url = "http://www.jupiterbroadcasting.com/53067/linux-your-chromebook-las-s31e03/";
-$las_302_title = "Kulture of Design | LAS 302 (s31e02)";
-$las_302_url = "http://www.jupiterbroadcasting.com/52532/kulture-of-design-las-s31e02/";
-$las_301_title = "Numix your Linux | LAS 301 (s31e01)";
-$las_301_url = "http://www.jupiterbroadcasting.com/52182/numix-your-linux-las-s31e01/";
-$las_300_title = "LAS: The Next Generation | 300 (s30e10)";
-$las_300_url = "http://www.jupiterbroadcasting.com/51677/las-the-next-generation-s30e10/";
-$las_299_title = "YaCy Creator Interview | LAS 299 (s30e09)";
-$las_299_url = "http://www.jupiterbroadcasting.com/51277/yacy-creator-interview-las-s30e09/";
-$las_298_title = "CuBox Linux Review | LAS 298 (s30e08)";
-$las_298_url = "http://www.jupiterbroadcasting.com/50842/cubox-linux-review-las-s30e08/";
-$las_297_title = "Steam Streaming Showcased | LAS 297 (s30e07)";
-$las_297_url = "http://www.jupiterbroadcasting.com/50352/steam-streaming-showcased-las-s30e07/";
-$las_296_title = "HDR Photography on Linux | LAS 296 (s30e06)";
-$las_296_url = "http://www.jupiterbroadcasting.com/49842/hdr-photography-on-linux-las-s30e06/";
-$las_295_title = "Linux at CES 2014 | LAS 295 (s30e05)";
-$las_295_url = "http://www.jupiterbroadcasting.com/49347/linux-at-ces-2014-las-s30e05/";
-$las_294_title = "In Defense of Gnome 3 | LAS 294 (s30e04)";
-$las_294_url = "http://www.jupiterbroadcasting.com/48967/in-defense-of-gnome-3-las-s30e04/";
+$startwait['2015'] = "2015-01-04 10:00 PST";
+$startdates['2014'] = "2014-01-05 10:00 PST";
+$startdates['2013'] = "2013-01-06 10:00 PST";
+$startdates['2012'] = "2012-01-01 10:00 PST";
+$startdates['2011'] = "2011-01-02 10:00 PST";
+$startdates['2010'] = "2010-01-03 10:00 PST";
+$startdates['2009'] = "2009-01-04 10:00 PST";
+$startdates['2008'] = "2008-01-06 10:00 PST";
+$startdates['2007'] = "2007-01-07 10:00 PST";
+$startdates['2006'] = "2006-06-10 10:00 PST";
+
+
+//
+// Date Tracking for Pick Types
+
+// Runs Linux
+// Start: Episode 1
+// End: . . .
+
+// Android Picks
+// Start: 102 | S11E02 | March 1, 2010
+// End: 278 | S28E08 | September 14, 2013
+
+// Desktop Apps
+// Start: 154 | S16E04 | April 10, 2011
+// End: . . .
+
+// Spotlights
+// Start: 279 | S28E09 | September 22, 2013
+// End: . . .
+
+// Distro Picks
+// Start: 192 | S20E02 | January 15, 2012
+// End: 235 | S24E05 | November 11, 2012
+
+
 ?>
