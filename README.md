@@ -5,7 +5,7 @@ URL: http://michaeltunnell.com/jb/picks/index.php
 
 These are the weekly picks provided by the Jupiter Broadcasting podcast, the Linux Action Show.
 
-This site includes a separate list for the Desktop App Picks, Spotlight Picks, and the Runs Linux Picks.
+This site includes a separate picks lists for the "Runs Linux", Desktop Apps, Spotlight Picks, Android Picks, and Distro Picks.
 
 ---------------
 
@@ -16,7 +16,7 @@ Contributions are welcomed and encouraged.
 <li>You'll need a GitHub Account</li>
 <li>Fork this repository to your account.</li>
 <li>Edit just ONE file, <strong>data.php</strong></li>
-<li>. . . finally, just submit a Pull Request</li>
+<li>Submit a Pull Request</li>
 </ul>
 
 Watch the following video to know how to structure the updates. The process is actually very simple and straight-forward...you will need to edit these files but you don't need to know how to code in order to do it. The video explains everything you need to know.
