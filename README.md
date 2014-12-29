@@ -1,7 +1,7 @@
 LAS Picks
 =========
 
-URL: http://michaeltunnell.com/jb/picks/index.php
+URL: http://jupiterbroadcasting.com/laspicks
 
 These are the weekly picks provided by the Jupiter Broadcasting podcast, the Linux Action Show.
 
