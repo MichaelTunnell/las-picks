@@ -37,8 +37,8 @@ $data[2]['url'] = "http://theaddress_to_the_episode";
 $data[2]['year'] = "2006";
 $data[2]['week'] = "+1 week";
 
-$data[0]['runslinux']['pick'][0]['name'] = "";
-$data[0]['runslinux']['pick'][0]['url'] = "";
+$data[2]['runslinux']['pick'][0]['name'] = "";
+$data[2]['runslinux']['pick'][0]['url'] = "";
 
 $data[2]['desktopapp']['pick'][0]['name'] = "2 app pick name";
 $data[2]['desktopapp']['pick'][0]['url'] = "http://first_app.com";
