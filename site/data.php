@@ -16,35 +16,23 @@ $data[0]['spotlight']['pick'][0]['url'] = "";
 
 
 // Episode 1
-$data[1]['title'] = "the title of the episode";
-$data[1]['url'] = "http://theaddress_to_the_episode";
+$data[1]['title'] = "";
+$data[1]['url'] = "";
 $data[1]['year'] = "2006";
 $data[1]['week'] = "";
 
-$data[1]['runslinux']['pick'][0]['name'] = "runs linux pick name";
-$data[1]['runslinux']['pick'][0]['url'] = "http://runs_linux.com";
-
-$data[1]['desktopapp']['pick'][0]['name'] = "app pick name";
-$data[1]['desktopapp']['pick'][0]['url'] = "http://first_app.com";
-
-$data[1]['spotlight']['pick'][0]['name'] = "second app pick name";
-$data[1]['spotlight']['pick'][0]['url'] = "http://second_app.com";
+$data[1]['runslinux']['pick'][0]['name'] = "";
+$data[1]['runslinux']['pick'][0]['url'] = "";
 
 
 // Episode 2
-$data[2]['title'] = "2 the title of the episode";
-$data[2]['url'] = "http://theaddress_to_the_episode";
+$data[2]['title'] = "";
+$data[2]['url'] = "";
 $data[2]['year'] = "2006";
 $data[2]['week'] = "+1 week";
 
 $data[0]['runslinux']['pick'][0]['name'] = "";
 $data[0]['runslinux']['pick'][0]['url'] = "";
-
-$data[2]['desktopapp']['pick'][0]['name'] = "2 app pick name";
-$data[2]['desktopapp']['pick'][0]['url'] = "http://first_app.com";
-
-$data[2]['spotlight']['pick'][0]['name'] = "2 second app pick name";
-$data[2]['spotlight']['pick'][0]['url'] = "http://second_app.com";
 
 
 // Episode 294
