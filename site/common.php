@@ -33,7 +33,7 @@ $ak_android		= "android";
 $pt_android		= "Android Picks";
 $nav_android	= "Android";
 $th_android		= "Android Pick";
-$time_android	= array("2010", "2011", "2012", "2013");
+$time_android	= array("2010", "2011", "2012", "2013", "2014");
 
 $ak_distro		= "distro";
 $pt_distro		= "Distro of the Day";

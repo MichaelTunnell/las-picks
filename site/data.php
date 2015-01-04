@@ -16,35 +16,35 @@ $data[0]['spotlight']['pick'][0]['url'] = "";
 
 
 // Episode 1
-$data[1]['title'] = "";
-$data[1]['url'] = "";
+$data[1]['title'] = "the title of the episode";
+$data[1]['url'] = "http://theaddress_to_the_episode";
 $data[1]['year'] = "2006";
 $data[1]['week'] = "";
 
-$data[1]['runslinux']['pick'][0]['name'] = "";
-$data[1]['runslinux']['pick'][0]['url'] = "";
+$data[1]['runslinux']['pick'][0]['name'] = "runs linux pick name";
+$data[1]['runslinux']['pick'][0]['url'] = "http://runs_linux.com";
 
-$data[1]['desktopapp']['pick'][0]['name'] = "";
-$data[1]['desktopapp']['pick'][0]['url'] = "";
+$data[1]['desktopapp']['pick'][0]['name'] = "app pick name";
+$data[1]['desktopapp']['pick'][0]['url'] = "http://first_app.com";
 
-$data[1]['spotlight']['pick'][0]['name'] = "";
-$data[1]['spotlight']['pick'][0]['url'] = "";
+$data[1]['spotlight']['pick'][0]['name'] = "second app pick name";
+$data[1]['spotlight']['pick'][0]['url'] = "http://second_app.com";
 
 
 // Episode 2
-$data[2]['title'] = "";
-$data[2]['url'] = "";
+$data[2]['title'] = "2 the title of the episode";
+$data[2]['url'] = "http://theaddress_to_the_episode";
 $data[2]['year'] = "2006";
 $data[2]['week'] = "+1 week";
 
-$data[2]['runslinux']['pick'][0]['name'] = "";
-$data[2]['runslinux']['pick'][0]['url'] = "";
+$data[0]['runslinux']['pick'][0]['name'] = "";
+$data[0]['runslinux']['pick'][0]['url'] = "";
 
-$data[2]['desktopapp']['pick'][0]['name'] = "";
-$data[2]['desktopapp']['pick'][0]['url'] = "";
+$data[2]['desktopapp']['pick'][0]['name'] = "2 app pick name";
+$data[2]['desktopapp']['pick'][0]['url'] = "http://first_app.com";
 
-$data[2]['spotlight']['pick'][0]['name'] = "";
-$data[2]['spotlight']['pick'][0]['url'] = "";
+$data[2]['spotlight']['pick'][0]['name'] = "2 second app pick name";
+$data[2]['spotlight']['pick'][0]['url'] = "http://second_app.com";
 
 
 // Episode 294
@@ -488,8 +488,8 @@ $data[320]['week'] = "+26 weeks";
 $data[320]['runslinux']['pick'][0]['name'] = "Homebrew GSM Base Station";
 $data[320]['runslinux']['pick'][0]['url'] = "http://discourse.criticalengineering.org/t/howto-gsm-base-station-with-the-beaglebone-black-debian-gnu-linux-and-a-usrp/56";
 
-$data[320]['desktopapp']['pick'][0]['name'] = "";
-$data[320]['desktopapp']['pick'][0]['url'] = "";
+$data[320]['desktopapp']['pick'][0]['name'] = "Vocal";
+$data[320]['desktopapp']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2014/06/linux-podcast-app-vocal-hits-preview-kicker";
 
 $data[320]['spotlight']['pick'][0]['name'] = "Tails";
 $data[320]['spotlight']['pick'][0]['url'] = "https://tails.boum.org/";
@@ -504,8 +504,8 @@ $data[321]['week'] = "+27 weeks";
 $data[321]['runslinux']['pick'][0]['name'] = "Radio Station";
 $data[321]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2abk88/runs_linux_radio_station_runs_all_linux/";
 
-$data[321]['desktopapp']['pick'][0]['name'] = "";
-$data[321]['desktopapp']['pick'][0]['url'] = "";
+$data[321]['desktopapp']['pick'][0]['name'] = "MPV - Media Player";
+$data[321]['desktopapp']['pick'][0]['url'] = "http://mpv.io/";
 
 $data[321]['spotlight']['pick'][0]['name'] = "Unreal Engine 4";
 $data[321]['spotlight']['pick'][0]['url'] = "http://www.gamingonlinux.com/articles/unreal-engine-4-now-has-linux-demo-games-to-try.3992";
@@ -520,8 +520,8 @@ $data[322]['week'] = "+28 weeks";
 $data[322]['runslinux']['pick'][0]['name'] = "Vatican Library";
 $data[322]['runslinux']['pick'][0]['url'] = "http://www.vaticanlibrary.va/home.php?pag=ufficio_ced&ling=eng";
 
-$data[322]['desktopapp']['pick'][0]['name'] = "";
-$data[322]['desktopapp']['pick'][0]['url'] = "";
+$data[322]['desktopapp']['pick'][0]['name'] = "Haroopad";
+$data[322]['desktopapp']['pick'][0]['url'] = "http://pad.haroopress.com/";
 
 $data[322]['spotlight']['pick'][0]['name'] = "nbwmon - ncurses bandwidth monitor";
 $data[322]['spotlight']['pick'][0]['url'] = "https://github.com/defer-/nbwmon";
@@ -569,14 +569,18 @@ $data[325]['url'] = "http://www.jupiterbroadcasting.com/64207/tomb-of-secrets-la
 $data[325]['year'] = "2014";
 $data[325]['week'] = "+31 weeks";
 
-$data[325]['runslinux']['pick'][0]['name'] = "";
-$data[325]['runslinux']['pick'][0]['url'] = "";
+$data[325]['runslinux']['pick'][0]['name'] = "Fish Who Plays Pokemon";
+$data[325]['runslinux']['pick'][0]['url'] = "http://www.twitch.tv/fishplayspokemon";
 
-$data[325]['desktopapp']['pick'][0]['name'] = "";
-$data[325]['desktopapp']['pick'][0]['url'] = "";
+$data[325]['desktopapp']['pick'][0]['name'] = "Serman";
+$data[325]['desktopapp']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2cy5a5/aur_en_serman_dialogbased_systemd_service/";
+$data[325]['desktopapp']['pick'][1]['name'] = "Skyward Collapse";
+$data[325]['desktopapp']['pick'][1]['url'] = "http://store.steampowered.com/app/238890/";
 
-$data[325]['spotlight']['pick'][0]['name'] = "";
-$data[325]['spotlight']['pick'][0]['url'] = "";
+$data[325]['spotlight']['pick'][0]['name'] = "KNOPPIX 7.4.0";
+$data[325]['spotlight']['pick'][0]['url'] = "http://www.knopper.net/knoppix/knoppix740-en.html";
+$data[325]['spotlight']['pick'][1]['name'] = "TalkingArch";
+$data[325]['spotlight']['pick'][1]['url'] = "http://talkingarch.tk/";
 
 
 // Episode 326
@@ -585,14 +589,14 @@ $data[326]['url'] = "http://www.jupiterbroadcasting.com/64637/whats-next-for-fed
 $data[326]['year'] = "2014";
 $data[326]['week'] = "+32 weeks";
 
-$data[326]['runslinux']['pick'][0]['name'] = "";
-$data[326]['runslinux']['pick'][0]['url'] = "";
+$data[326]['runslinux']['pick'][0]['name'] = "European Space Agency";
+$data[326]['runslinux']['pick'][0]['url'] = "http://slexy.org/view/s21ZAbaeFA";
 
-$data[326]['desktopapp']['pick'][0]['name'] = "";
-$data[326]['desktopapp']['pick'][0]['url'] = "";
+$data[326]['desktopapp']['pick'][0]['name'] = "Lynis";
+$data[326]['desktopapp']['pick'][0]['url'] = "http://rootkit.nl/projects/lynis.html";
 
-$data[326]['spotlight']['pick'][0]['name'] = "";
-$data[326]['spotlight']['pick'][0]['url'] = "";
+$data[326]['spotlight']['pick'][0]['name'] = "DEFT Linux 8.2";
+$data[326]['spotlight']['pick'][0]['url'] = "http://www.deftlinux.net/2014/08/10/deft-8-2-ready-for-download/";
 
 
 // Episode 327
@@ -601,14 +605,14 @@ $data[327]['url'] = "http://www.jupiterbroadcasting.com/65207/best-of-linuxcon-2
 $data[327]['year'] = "2014";
 $data[327]['week'] = "+33 weeks";
 
-$data[327]['runslinux']['pick'][0]['name'] = "";
-$data[327]['runslinux']['pick'][0]['url'] = "";
+$data[327]['runslinux']['pick'][0]['name'] = "The STACK Box";
+$data[327]['runslinux']['pick'][0]['url'] = "https://www.kickstarter.com/projects/1561203377/the-stack-box-a-smart-home-controller?ref=nav_search";
 
-$data[327]['desktopapp']['pick'][0]['name'] = "";
-$data[327]['desktopapp']['pick'][0]['url'] = "";
+$data[327]['desktopapp']['pick'][0]['name'] = "Shutter 0.93";
+$data[327]['desktopapp']['pick'][0]['url'] = "http://shutter-project.org/2014/08/shutter-0-93-released/";
 
-$data[327]['spotlight']['pick'][0]['name'] = "";
-$data[327]['spotlight']['pick'][0]['url'] = "";
+$data[327]['spotlight']['pick'][0]['name'] = "HandBrake 0.10 (Beta)";
+$data[327]['spotlight']['pick'][0]['url'] = "http://www.noobslab.com/2014/08/handbrake-converter-for-ubuntu-mint.html";
 
 
 // Episode 328
@@ -617,14 +621,14 @@ $data[328]['url'] = "http://www.jupiterbroadcasting.com/65607/a-chat-with-icculu
 $data[328]['year'] = "2014";
 $data[328]['week'] = "+34 weeks";
 
-$data[328]['runslinux']['pick'][0]['name'] = "";
-$data[328]['runslinux']['pick'][0]['url'] = "";
+$data[328]['runslinux']['pick'][0]['name'] = "Evergreen State Fair";
+$data[328]['runslinux']['pick'][0]['url'] = "https://plus.google.com/photos?hl=en&pid=6050891434634853058&oid=108668411027851722546";
 
-$data[328]['desktopapp']['pick'][0]['name'] = "";
-$data[328]['desktopapp']['pick'][0]['url'] = "";
+$data[328]['desktopapp']['pick'][0]['name'] = "Braid";
+$data[328]['desktopapp']['pick'][0]['url'] = "http://store.steampowered.com/app/26800/";
 
-$data[328]['spotlight']['pick'][0]['name'] = "";
-$data[328]['spotlight']['pick'][0]['url'] = "";
+$data[328]['spotlight']['pick'][0]['name'] = "GParted (Turns 10)";
+$data[328]['spotlight']['pick'][0]['url'] = "http://gparted.sourceforge.net/news.php?item=180";
 
 
 // Episode 329
@@ -633,14 +637,14 @@ $data[329]['url'] = "http://www.jupiterbroadcasting.com/66142/owncloud-your-chro
 $data[329]['year'] = "2014";
 $data[329]['week'] = "+35 weeks";
 
-$data[329]['runslinux']['pick'][0]['name'] = "";
-$data[329]['runslinux']['pick'][0]['url'] = "";
+$data[329]['runslinux']['pick'][0]['name'] = "Hackers Run Linux, Acording to NBC";
+$data[329]['runslinux']['pick'][0]['url'] = "http://news.softpedia.com/news/Ubuntu-Used-by-NBC-and-Today-Show-to-Illustrate-Hacking-into-Celebrities-Accounts-457755.shtml#";
 
-$data[329]['desktopapp']['pick'][0]['name'] = "";
-$data[329]['desktopapp']['pick'][0]['url'] = "";
+$data[329]['desktopapp']['pick'][0]['name'] = "slap";
+$data[329]['desktopapp']['pick'][0]['url'] = "https://github.com/slap-editor/slap";
 
-$data[329]['spotlight']['pick'][0]['name'] = "";
-$data[329]['spotlight']['pick'][0]['url'] = "";
+$data[329]['spotlight']['pick'][0]['name'] = "Simplicity Linux 14.10 Alpha";
+$data[329]['spotlight']['pick'][0]['url'] = "http://simplicitylinux.org/2014/09/simplicity-linux-14-10-netbook-and-desktop-alphas-now-available/";
 
 
 // Episode 330
@@ -895,5 +899,26 @@ $data[344]['desktopapp']['pick'][0]['url'] = "0";
 
 $data[344]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
 $data[344]['spotlight']['pick'][0]['url'] = "0";
+
+
+// Episode 345
+$data[345]['title'] = "2015 Linux Predictions | LAS 345";
+$data[345]['url'] = "http://www.jupiterbroadcasting.com/74497/2015-linux-predictions-linux-action-show-345/";
+$data[345]['year'] = "2014";
+$data[345]['week'] = "+51 weeks";
+
+$data[345]['runslinux']['pick'][0]['name'] = "The Sequestered (TV)";
+$data[345]['runslinux']['pick'][0]['url'] = "http://slexy.org/view/s21sqiodwR`";
+$data[345]['runslinux']['pick'][1]['name'] = "The Strain (TV)";
+$data[345]['runslinux']['pick'][1]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2pb1ig/tv_series_the_strain_runs_linux/";
+
+$data[345]['desktopapp']['pick'][0]['name'] = "Telegram Desktop";
+$data[345]['desktopapp']['pick'][0]['url'] = "https://desktop.telegram.org/";
+
+$data[345]['spotlight']['pick'][0]['name'] = "easyLife";
+$data[345]['spotlight']['pick'][0]['url'] = "http://www.easylifeproject.org/";
+
+$data[345]['android']['pick'][0]['name'] = "Telegram Messenger";
+$data[345]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=org.telegram.messenger";
 
 ?>

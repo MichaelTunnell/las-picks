@@ -15,6 +15,7 @@
 					$i = 0;
 					while($i < $num) {
 						if ($data[$i]['year'] == $pageyears) {
+							if ($data[$i][$pageakey]['pick'][0]['name']) {
 				?>
 							<tr>
 								<!-- app url/name -->
@@ -40,7 +41,7 @@
 								<!-- date -->
 								<td><?php echo date("Y-m-d", strtotime($startdates[$data[$i]['year']].$data[$i]['week'])); ?></td>
 							</tr>
-						<?php } $i++; }/*end pick row loop */ ?>
+						<?php }} $i++; } /*end pick row loop */ ?>
 			<?php }/*end if year */ ?>
 		<?php }/*end year loop */ ?>
 </table>
