@@ -374,6 +374,330 @@ $data[40]['runslinux']['pick'][0]['name'] = "Bad guy in Russian consulate on \"2
 $data[40]['runslinux']['pick'][0]['url'] = "0";
 
 
+// Episode 41
+$data[41]['title'] = "Linux Action Show! | LAS 41";
+$data[41]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[41]['date'] = "2007-04-01";
+
+$data[41]['runslinux']['pick'][0]['name'] = "MooBella Robotic Icecream Vending Machine";
+$data[41]['runslinux']['pick'][0]['url'] = "http://www.blog.arun-prabha.com/2010/05/12/linux-ice-cream-vending-machine/";
+
+
+// Episode 42
+$data[42]['title'] = "Linux Action Show! | LAS 42";
+$data[42]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[42]['date'] = "2007-04-08";
+
+$data[42]['runslinux']['pick'][0]['name'] = "Google Earth Enterprise Servers";
+$data[42]['runslinux']['pick'][0]['url'] = "https://www.google.com/intx/en_uk/work/earthmaps/earth_server.html";
+
+
+// Episode 43
+$data[43]['title'] = "Linux Action Show! | LAS 43";
+$data[43]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[43]['date'] = "2007-04-15";
+
+$data[43]['runslinux']['pick'][0]['name'] = "Nigerian School kids";
+$data[43]['runslinux']['pick'][0]['url'] = "http://www.balancingact-africa.com/news/en/issue-no-337/computing/low-cost-laptop-proj/en";
+
+
+// Episode 44
+$data[44]['title'] = "Linux Action Show! | LAS 44";
+$data[44]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[44]['date'] = "2007-04-22";
+
+$data[44]['runslinux']['pick'][0]['name'] = "Michael Dell";
+$data[44]['runslinux']['pick'][0]['url'] = "http://english.martinvarsavsky.net/internet-technology/michael-dell-uses-ubuntu.html";
+
+
+// Episode 45
+$data[45]['title'] = "Linux Action Show! | LAS 45";
+$data[45]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[45]['date'] = "2007-05-06";
+
+$data[45]['runslinux']['pick'][0]['name'] = "Excito Bubba";
+$data[45]['runslinux']['pick'][0]['url'] = "http://archive09.linux.com/feature/148960";
+
+
+// Episode 46
+$data[46]['title'] = "Linux Action Show! | LAS 46";
+$data[46]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[46]['date'] = "2007-05-13";
+
+$data[46]['runslinux']['pick'][0]['name'] = "VistaForums.com";
+$data[46]['runslinux']['pick'][0]['url'] = "http://www.vistaforums.com/";
+
+
+// Episode 47
+$data[47]['title'] = "Linux Action Show! | LAS 47";
+$data[47]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[47]['date'] = "2007-05-20";
+
+$data[47]['runslinux']['pick'][0]['name'] = "Motorola Razor2";
+$data[47]['runslinux']['pick'][0]['url'] = "http://en.wikipedia.org/wiki/Motorola_Razr2#V8";
+
+
+// Episode 48
+$data[48]['title'] = "Linux Action Show! | LAS 48";
+$data[48]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[48]['date'] = "2007-05-27";
+
+$data[48]['runslinux']['pick'][0]['name'] = "Photo booths In The Mall";
+$data[48]['runslinux']['pick'][0]['url'] = "http://ubuntuforums.org/archive/index.php/t-530010.html";
+
+
+// Episode 49
+$data[49]['title'] = "Linux Action Show! | LAS 49";
+$data[49]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[49]['date'] = "2007-06-03";
+
+$data[49]['runslinux']['pick'][0]['name'] = "Big Red, Worlds Fastest University Computer";
+$data[49]['runslinux']['pick'][0]['url'] = "http://rt.uits.iu.edu/systems/hps/bigred.php";
+
+
+// Episode 50
+$data[50]['title'] = "Linux Action Show! | LAS 50";
+$data[50]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[50]['date'] = "2007-06-10";
+
+$data[50]['runslinux']['pick'][0]['name'] = "Shrek The Third";
+$data[50]['runslinux']['pick'][0]['url'] = "http://www.linuxjournal.com/article/9653";
+
+
+// Episode 51
+$data[51]['title'] = "Linux Action Show! | LAS 51";
+$data[51]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[51]['date'] = "2007-06-17";
+
+$data[51]['runslinux']['pick'][0]['name'] = "Museum of Science In Boston";
+$data[51]['runslinux']['pick'][0]['url'] = "0";
+
+
+// Episode 52
+$data[52]['title'] = "Linux Action Show! | LAS 52";
+$data[52]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[52]['date'] = "2007-06-24";
+
+$data[52]['runslinux']['pick'][0]['name'] = "Mr Fantastic in the Rise of the Silver Surfer";
+$data[52]['runslinux']['pick'][0]['url'] = "http://starringthecomputer.com/appearance.html?f=387&c=52";
+
+
+// Episode 53
+$data[53]['title'] = "Linux Action Show! | LAS 53";
+$data[53]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[53]['date'] = "2007-07-08";
+
+$data[53]['runslinux']['pick'][0]['name'] = "77.8% of the World's Supercomputers";
+$data[53]['runslinux']['pick'][0]['url'] = "http://www.top500.org/statistics/details/osfam/1";
+
+
+// Episode 54
+$data[54]['title'] = "Linux Action Show! | LAS 54";
+$data[54]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[54]['date'] = "2007-07-15";
+
+$data[54]['runslinux']['pick'][0]['name'] = "BMW and Audi's Manufacturing Plant";
+$data[54]['runslinux']['pick'][0]['url'] = "http://archive.news.softpedia.com/news/BMW-and-Audi-Are-Using-Linux-56471.shtml";
+
+
+// Episode 55
+$data[55]['title'] = "Linux Action Show! | LAS 55";
+$data[55]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[55]['date'] = "2007-07-22";
+
+$data[55]['runslinux']['pick'][0]['name'] = "Chester Heights Fire Company 71";
+$data[55]['runslinux']['pick'][0]['url'] = "http://www.chesterheights71.com/";
+
+
+// Episode 56
+$data[56]['title'] = "Linux Action Show! | LAS 56";
+$data[56]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[56]['date'] = "2007-08-05";
+
+$data[56]['runslinux']['pick'][0]['name'] = "Rocario, Santa Fe, Argentina";
+$data[56]['runslinux']['pick'][0]['url'] = "http://www.theinquirer.net/inquirer/news/1021713/city-linux-oss-free-municipal-wi-fi";
+
+
+// Episode 57
+$data[57]['title'] = "Linux Action Show! | LAS 57";
+$data[57]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[57]['date'] = "2007-08-12";
+
+$data[57]['runslinux']['pick'][0]['name'] = "U.S. Navy Missile Simulator Machine";
+$data[57]['runslinux']['pick'][0]['url'] = "http://real-time.ccur.com/docs/default-source/default-document-library/us-navy-crane-missile-simulation.pdf?sfvrsn=0";
+
+
+// Episode 58
+$data[58]['title'] = "Linux Action Show! | LAS 58";
+$data[58]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[58]['date'] = "2007-08-20";
+
+$data[58]['runslinux']['pick'][0]['name'] = "Facebook.com";
+$data[58]['runslinux']['pick'][0]['url'] = "http://www.makeuseof.com/tag/facebook-work-nuts-bolts-technology-explained/";
+
+
+// Episode 59
+$data[59]['title'] = "Linux Action Show! | LAS 59";
+$data[59]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[59]['date'] = "2007-08-27";
+
+$data[59]['runslinux']['pick'][0]['name'] = "University of Missouri Roller Robot team";
+$data[59]['runslinux']['pick'][0]['url'] = "http://people.cs.missouri.edu/~skubicm/Papers/Final-ARpaper-jan2007.pdf";
+
+
+// Episode 60
+$data[60]['title'] = "Linux Action Show! | LAS 60";
+$data[60]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[60]['date'] = "2007-09-09";
+
+$data[60]['runslinux']['pick'][0]['name'] = "Lowes Hardware store Terminals";
+$data[60]['runslinux']['pick'][0]['url'] = "http://fixunix.com/ubuntu/540308-linux-lowes-home-improvement-store.html";
+
+
+// Episode 61
+$data[61]['title'] = "Linux Action Show! | LAS 61";
+$data[61]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[61]['date'] = "2007-09-17";
+
+$data[61]['runslinux']['pick'][0]['name'] = "Texas Department of Transportation";
+$data[61]['runslinux']['pick'][0]['url'] = "0";
+
+
+// Episode 62
+$data[62]['title'] = "Linux Action Show! | LAS 62";
+$data[62]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[62]['date'] = "2007-09-23";
+
+$data[62]['runslinux']['pick'][0]['name'] = "Swedish pharmacy will soon";
+$data[62]['runslinux']['pick'][0]['url'] = "http://investors.redhat.com/releasedetail.cfm?releaseid=354676";
+
+
+// Episode 63
+$data[63]['title'] = "Linux Action Show! | LAS 63";
+$data[63]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[63]['date'] = "2007-09-30";
+
+$data[63]['runslinux']['pick'][0]['name'] = "The Sony Ebook Reader";
+$data[63]['runslinux']['pick'][0]['url'] = "http://www.goodbyemicrosoft.net/news.php?item.688.2";
+
+
+// Episode 64
+$data[64]['title'] = "Linux Action Show! | LAS 64";
+$data[64]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[64]['date'] = "2007-10-13";
+
+$data[64]['runslinux']['pick'][0]['name'] = "The Mtube";
+$data[64]['runslinux']['pick'][0]['url'] = "http://gizmodo.com/308842/mtube-linux-based-umpc-is-tiny-touchy-wimax-y";
+
+
+// Episode 65
+$data[65]['title'] = "Linux Action Show! | LAS 65";
+$data[65]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[65]['date'] = "2007-10-27";
+
+$data[65]['runslinux']['pick'][0]['name'] = "Startrek Nemesis";
+$data[65]['runslinux']['pick'][0]['url'] = "http://tech-beta.slashdot.org/story/02/12/08/151252/linux-used-to-make-star-trek-nemesis";
+
+
+// Episode 66
+$data[66]['title'] = "Linux Action Show! | LAS 66";
+$data[66]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[66]['date'] = "2007-11-11";
+
+$data[66]['runslinux']['pick'][0]['name'] = "6 legged brain surgery robot";
+$data[66]['runslinux']['pick'][0]['url'] = "http://tech.slashdot.org/story/03/01/16/1333259/brain-surgery-robot-running-linux";
+
+
+// Episode 67
+$data[67]['title'] = "Linux Action Show! | LAS 67";
+$data[67]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[67]['date'] = "2007-11-24";
+
+$data[67]['runslinux']['pick'][0]['name'] = "Archos 604";
+$data[67]['runslinux']['pick'][0]['url'] = "http://lwn.net/Articles/259126/";
+
+
+// Episode 68
+$data[68]['title'] = "Linux Action Show! | LAS 68";
+$data[68]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[68]['date'] = "2007-12-10";
+
+$data[68]['runslinux']['pick'][0]['name'] = "Veracity's TimeNet";
+$data[68]['runslinux']['pick'][0]['url'] = "http://archive.linuxgizmos.com/device-profile-veracity-timenet-miniature-ntp-server/";
+
+
+// Episode 69
+$data[69]['title'] = "Linux Action Show! | LAS 69";
+$data[69]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[69]['date'] = "2007-12-30";
+
+$data[69]['runslinux']['pick'][0]['name'] = "Netgear's ReadyNAS NV+ systems";
+$data[69]['runslinux']['pick'][0]['url'] = "http://natisbad.org/NAS5/";
+
+
+// Episode 70
+$data[70]['title'] = "Linux Action Show! | LAS 70";
+$data[70]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[70]['date'] = "2008-01-13";
+
+$data[70]['runslinux']['pick'][0]['name'] = "AgfaPhoto Photoframe";
+$data[70]['runslinux']['pick'][0]['url'] = "http://www.engadget.com/2008/01/11/agfaphoto-intros-new-linux-based-wifi-equipped-digital-photo-fr/";
+
+
+// Episode 71
+$data[71]['title'] = "Linux Action Show! | LAS 71 (S08E01)";
+$data[71]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[71]['date'] = "2008-02-10";
+
+$data[71]['runslinux']['pick'][0]['name'] = "Chris's eeePC runs all kinds of Linux!";
+$data[71]['runslinux']['pick'][0]['url'] = "0";
+
+
+// Episode 72
+$data[72]['title'] = "Linux Action Show! | LAS 72 (S08E02)";
+$data[72]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[72]['date'] = "2008-02-24";
+
+$data[72]['runslinux']['pick'][0]['name'] = "US Presidental candidates' websites";
+$data[72]['runslinux']['pick'][0]['url'] = "https://www.marketingtechblog.com/2008-elections-by-server/";
+
+
+// Episode 73
+$data[73]['title'] = "Linux Action Show! | LAS 73 (S08E03)";
+$data[73]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[73]['date'] = "2008-03-09";
+
+$data[73]['runslinux']['pick'][0]['name'] = "NASA runs a lot of Fedora";
+$data[73]['runslinux']['pick'][0]['url'] = "http://www.cnet.com/news/nasa-runs-fedora-lots-and-lots-of-fedora/";
+
+
+// Episode 74
+$data[74]['title'] = "Linux Action Show! | LAS 74 (S08E04)";
+$data[74]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[74]['date'] = "2008-03-23";
+
+$data[74]['runslinux']['pick'][0]['name'] = "Popcorn Hour A-100";
+$data[74]['runslinux']['pick'][0]['url'] = "http://www.linuxjournal.com/magazine/popcorn-hour-100";
+
+
+// Episode 75
+$data[75]['title'] = "Linux Action Show! | LAS 75 (S08E05)";
+$data[75]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[75]['date'] = "2008-04-06";
+
+$data[75]['runslinux']['pick'][0]['name'] = "Motorola A1600 MING 2";
+$data[75]['runslinux']['pick'][0]['url'] = "http://www.engadget.com/2007/12/13/motorolas-a1600-ming-2-surfaces/";
+
+
+// Episode 76
+$data[76]['title'] = "Linux Action Show! | LAS 76 (S08E06)";
+$data[76]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[76]['date'] = "2008-04-19";
+
+$data[76]['runslinux']['pick'][0]['name'] = "Contact Air airlines";
+$data[76]['runslinux']['pick'][0]['url'] = "http://www.ubuntu.com/products/casestudies/ContactAir";
+
+
 // Episode 91
 $data[91]['title'] = "Linux Action Show! | LAS 91 (S10E01)";
 $data[91]['url'] = "http://www.jupiterbroadcasting.com/1078/the-linux-action-show-season-10-episode-1/";
