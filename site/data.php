@@ -698,6 +698,132 @@ $data[76]['runslinux']['pick'][0]['name'] = "Contact Air airlines";
 $data[76]['runslinux']['pick'][0]['url'] = "http://www.ubuntu.com/products/casestudies/ContactAir";
 
 
+// Episode 77
+$data[77]['title'] = "Linux Action Show! | LAS 77 (S08E07)";
+$data[77]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[77]['date'] = "2008-05-05";
+
+$data[77]['runslinux']['pick'][0]['name'] = "Hybrid Nano-PC Phone";
+$data[77]['runslinux']['pick'][0]['url'] = "http://archive.linuxgizmos.com/hybrid-nano-pc-phone-runs-linux/";
+
+
+// Episode 78
+$data[78]['title'] = "Linux Action Show! | LAS 78 (S08E08)";
+$data[78]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[78]['date'] = "2008-05-18";
+
+$data[78]['runslinux']['pick'][0]['name'] = "QNAP NVR-1012 Network Surveillance Kit";
+$data[78]['runslinux']['pick'][0]['url'] = "http://www.qnapsecurity.com/PressRelease_detail.asp?pr_id=83";
+
+
+// Episode 79
+$data[79]['title'] = "Linux Action Show! | LAS 79 (S08E09)";
+$data[79]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[79]['date'] = "2008-06-01";
+
+$data[79]['runslinux']['pick'][0]['name'] = "DeLaval Voluntary Milking System";
+$data[79]['runslinux']['pick'][0]['url'] = "http://archive.linuxgizmos.com/device-profile-delaval-voluntary-milking-system/";
+
+
+// Episode 80
+$data[80]['title'] = "Linux Action Show! | LAS 80 (S08E10)";
+$data[80]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[80]['date'] = "2008-06-15";
+
+$data[80]['runslinux']['pick'][0]['name'] = "NASA's Mars Phoenix Lander";
+$data[80]['runslinux']['pick'][0]['url'] = "http://www.computerworld.com/article/2535165/app-development/nasa---extreme-programming--controls-mars-lander-robot.html";
+
+
+// Episode 81
+$data[81]['title'] = "Linux Action Show! | LAS 81 (S09E01)";
+$data[81]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[81]['date'] = "2008-08-03";
+
+$data[81]['runslinux']['pick'][0]['name'] = "Episode did not include a pick";
+$data[81]['runslinux']['pick'][0]['url'] = "0";
+
+
+// Episode 82
+$data[82]['title'] = "Linux Action Show! | LAS 82 (S09E02)";
+$data[82]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[82]['date'] = "2008-08-17";
+
+$data[82]['runslinux']['pick'][0]['name'] = "Netgear WGR614L";
+$data[82]['runslinux']['pick'][0]['url'] = "http://en.wikipedia.org/wiki/Netgear_WGR614L";
+
+
+// Episode 83
+$data[83]['title'] = "Linux Action Show! | LAS 83 (S09E03)";
+$data[83]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[83]['date'] = "2008-08-31";
+
+$data[83]['runslinux']['pick'][0]['name'] = "GP2X Wiz";
+$data[83]['runslinux']['pick'][0]['url'] = "http://en.wikipedia.org/wiki/GP2X_Wiz";
+
+
+// Episode 84
+$data[84]['title'] = "Linux Action Show! | LAS 84 (S09E04)";
+$data[84]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[84]['date'] = "2008-09-14";
+
+$data[84]['runslinux']['pick'][0]['name'] = "Large Hadron Collider";
+$data[84]['runslinux']['pick'][0]['url'] = "http://www.computerworld.com/article/2468248/high-performance-computing/high-energy-linux--linux---the-large-hadron-collider.html";
+
+
+// Episode 85
+$data[85]['title'] = "Linux Action Show! | LAS 85 (S09E05)";
+$data[85]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[85]['date'] = "2008-09-28";
+
+$data[85]['runslinux']['pick'][0]['name'] = "T-Mobile G1";
+$data[85]['runslinux']['pick'][0]['url'] = "https://en.wikipedia.org/wiki/HTC_Dream";
+
+
+// Episode 86
+$data[86]['title'] = "Linux Action Show! | LAS 86 (S09E06)";
+$data[86]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[86]['date'] = "2008-10-12";
+
+$data[86]['runslinux']['pick'][0]['name'] = "Wikipedia / Wikimedia";
+$data[86]['runslinux']['pick'][0]['url'] = "http://www.ubuntu.com/products/casestudies/wikimedia";
+
+
+// Episode 87
+$data[87]['title'] = "Linux Action Show! | LAS 87 (S09E07)";
+$data[87]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[87]['date'] = "2008-10-26";
+
+$data[87]['runslinux']['pick'][0]['name'] = "Linux Evo Smart Console";
+$data[87]['runslinux']['pick'][0]['url'] = "https://en.wikipedia.org/wiki/EVO_Smart_Console";
+
+
+// Episode 88
+$data[88]['title'] = "Linux Action Show! | LAS 88 (S09E08)";
+$data[88]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[88]['date'] = "2008-11-09";
+
+$data[88]['runslinux']['pick'][0]['name'] = "Russian Post Offices";
+$data[88]['runslinux']['pick'][0]['url'] = "http://eng.cnews.ru/news/top/indexEn.shtml?2008/04/24/298514";
+
+
+// Episode 89
+$data[89]['title'] = "Linux Action Show! | LAS 89 (S09E09)";
+$data[89]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[89]['date'] = "2008-11-23";
+
+$data[89]['runslinux']['pick'][0]['name'] = "Neuros LINK";
+$data[89]['runslinux']['pick'][0]['url'] = "http://en.wikipedia.org/wiki/Neuros_Technology";
+
+
+// Episode 90
+$data[90]['title'] = "Linux Action Show! | LAS 90 (S09E10)";
+$data[90]['url'] = "https://archive.org/details/LinuxActionShowArchive01";
+$data[90]['date'] = "2008-12-07";
+
+$data[90]['runslinux']['pick'][0]['name'] = "iPhone (sort of)";
+$data[90]['runslinux']['pick'][0]['url'] = "0";
+
+
 // Episode 91
 $data[91]['title'] = "Linux Action Show! | LAS 91 (S10E01)";
 $data[91]['url'] = "http://www.jupiterbroadcasting.com/1078/the-linux-action-show-season-10-episode-1/";
@@ -875,7 +1001,7 @@ $data[110]['url'] = "http://www.jupiterbroadcasting.com/1915/ubuntu-1004-review-
 $data[110]['date'] = "2010-05-02";
 
 $data[110]['runslinux']['pick'][0]['name'] = "iPhone First Gen (hacked via Android)";
-$data[110]['runslinux']['pick'][0]['url'] = "0";
+$data[110]['runslinux']['pick'][0]['url'] = "http://www.techhive.com/article/194748/iphone_runs_android_hands_on.html";
 
 
 // Episode 111
