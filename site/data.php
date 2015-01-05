@@ -1486,7 +1486,7 @@ $data[214]['title'] = "Airtime Rocks | LAS 214 (S22E04)";
 $data[214]['url'] = "http://www.jupiterbroadcasting.com/20662/airtime-rocks/";
 $data[214]['date'] = "2012-06-17";
 
-$data[214]['runslinux']['pick'][0]['name'] = "“Big Brain” Computer";
+$data[214]['runslinux']['pick'][0]['name'] = "\"Big Brain\" Computer";
 $data[214]['runslinux']['pick'][0]['url'] = "http://www.datacenterknowledge.com/archives/2012/06/14/hawking-is-first-user-of-sgi-big-brain-supercomputer/";
 
 
@@ -1522,7 +1522,7 @@ $data[218]['title'] = "Sabayon 9 Review | LAS 218 (S22E08)";
 $data[218]['url'] = "http://www.jupiterbroadcasting.com/21676/sabayon-9-review-las-s22e08/";
 $data[218]['date'] = "2012-07-15";
 
-$data[218]['runslinux']['pick'][0]['name'] = "This “smart TV” from a Spanish hospital";
+$data[218]['runslinux']['pick'][0]['name'] = "This \"Smart TV\" from a Spanish hospital";
 $data[218]['runslinux']['pick'][0]['url'] = "http://imgur.com/a/Hi5Q9";
 
 
