@@ -43,7 +43,7 @@ $time_distro	= array('2012');
 
 
 // Date Variables
-$startwait['2015'] = "2015-01-04 10:00 PST";
+$startdates['2015'] = "2015-01-04 10:00 PST";
 $startdates['2014'] = "2014-01-05 10:00 PST";
 $startdates['2013'] = "2013-01-06 10:00 PST";
 $startdates['2012'] = "2012-01-01 10:00 PST";

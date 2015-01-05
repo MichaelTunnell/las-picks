@@ -14,7 +14,8 @@
 					$num = count($data);
 					$i = 0;
 					while($i < $num) {
-						if ($data[$i]['year'] == $pageyears) {
+						$pickyear = substr($data[$i]['date'], 0, 4);
+						if ($pickyear == $pageyears) {
 							if ($data[$i][$pageakey]['pick'][0]['name']) {
 				?>
 							<tr>
@@ -39,7 +40,7 @@
 								<!-- episode url/title -->
 								<td><a href="<?php echo $data[$i]['url']; ?>"><?php echo $data[$i]['title']; ?></a></td>
 								<!-- date -->
-								<td><?php echo date("Y-m-d", strtotime($startdates[$data[$i]['year']].$data[$i]['week'])); ?></td>
+								<td><?php echo $data[$i]['date']; ?></td>
 							</tr>
 						<?php }} $i++; } /*end pick row loop */ ?>
 			<?php }/*end if year */ ?>
