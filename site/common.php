@@ -1,11 +1,18 @@
-<?php 
+<?php
 
 // <span><br />Phones, Tablets, DVRs, TV Shows, Movie Studios, Cars, Race Cars, Satellites, and so much more Run Linux. Each week Chris &amp; Matt feature a pick that shows just how awesome Linux is and how far it reaches.<span>
 // <span><br />Productivity Suites, File Syncing &amp; File Comparison, Media Players &amp; Editors, Customization Apps, Command-Line Tools, and so much more. Each week Chris &amp; Matt feature a pick to improve your Desktop Linux experience.</span>
 
-// Page Variables
-$ak_index	= "index";
-$pt_index	= "Picks";
+$structure = array(
+    array(
+        'uri'   => 'runs-linux',
+        'pt'    => 'Runs Linux',
+        'nav'   => 'Runs Linux',
+        'th'    => 'Runs Linux',
+        'key'   => 'runslinux',
+        'start' => 2006
+    ),
+);
 
 $ak_contribute	= "contribute";
 $pt_contribute	= "Join the LAS Picks Team";

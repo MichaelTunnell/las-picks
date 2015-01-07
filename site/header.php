@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
 <head>
 	<title><?php echo $pagetitle; ?> &middot; Linux Action Show &middot; Jupiter Broadcasting</title>
@@ -27,7 +28,7 @@
 				<label class="years" for="years" onclick><img src="calendar-icon.png" /></label>
 				<nav role="years">
 				    <ul>
-						<?php 
+						<?php
 							foreach ($startdates as $startdate) {
 								$sdyear = substr($startdate, 0, 4);
 								if (in_array($sdyear, $pagetime)) {
