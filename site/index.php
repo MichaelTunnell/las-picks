@@ -17,7 +17,7 @@ if (!isset($page)) {
     foreach ($structure as $item) {
         if ($item['uri'] === $page) {
             $selected = $item;
-            $title    = $item['th'];
+            $title    = $item['pt'];
 
             break;
         }
@@ -39,5 +39,5 @@ echo ($twig->renderTemplate(
         'structure' => $structure,
         'selected'  => $selected,
         'data'      => $dataHelper->normalize()
-    ), (bool)($selected === null))
+    ), isset($selected['key']) !== true)
 );

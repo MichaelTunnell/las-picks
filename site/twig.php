@@ -32,7 +32,11 @@ class Twig
     public function renderTemplate($data, $home = false)
     {
         if ($home) {
-            return $this->twig->render('home.html.twig', $data);
+            if (isset($data['selected']['uri'])) {
+                return $this->twig->render($data['selected']['uri'] . '.html.twig', $data);
+            } else {
+                return $this->twig->render('home.html.twig', $data);
+            }
         } else {
             return $this->twig->render('page.html.twig', $data);
         }

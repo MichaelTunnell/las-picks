@@ -12,41 +12,49 @@ $structure = array(
         'key'   => 'runslinux',
         'start' => 2006
     ),
+
+    array(
+        'uri'   => 'desktop-apps',
+        'pt'    => 'Desktop App Picks',
+        'nav'   => 'Desktop Apps',
+        'th'    => 'App Pick',
+        'key'   => 'desktopapp',
+        'start' => 2011
+    ),
+
+    array(
+        'uri'   => 'spotlights',
+        'pt'    => 'Spotlight Picks',
+        'nav'   => 'Spotlights',
+        'th'    => 'Spotlight Pick',
+        'key'   => 'spotlight',
+        'start' => 2013
+    ),
+
+    array(
+        'uri'   => 'android',
+        'pt'    => 'Android Picks',
+        'nav'   => 'Android',
+        'th'    => 'Android Pick',
+        'key'   => 'android',
+        'start' => 2010
+    ),
+
+    array(
+        'uri'   => 'distros',
+        'pt'    => 'Distro of the Day',
+        'nav'   => 'Distros',
+        'th'    => 'Distro',
+        'key'   => 'distro',
+        'start' => 2012
+    ),
+
+    array(
+        'uri'   => 'contribute',
+        'pt'    => 'Join the LAS Picks Team',
+        'nav'   => 'Contribute'
+    ),
 );
-
-$ak_contribute	= "contribute";
-$pt_contribute	= "Join the LAS Picks Team";
-$nav_contribute	= "Contribute";
-
-$ak_runslinux	= "runslinux";
-$pt_runslinux	= "Runs Linux";
-$nav_runslinux	= $pt_runslinux;
-$th_runslinux	= $pt_runslinux;
-$time_runslinux	= array('2006', "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014");
-
-$ak_desktop		= "desktopapp";
-$pt_desktop		= "Desktop App Picks";
-$nav_desktop	= "Desktop Apps";
-$th_desktop		= "App Pick";
-$time_desktop	= array("2011", "2012", "2013", "2014");
-
-$ak_spotlight	= "spotlight";
-$pt_spotlight	= "Spotlight Picks";
-$nav_spotlight	= "Spotlights";
-$th_spotlight	= "Spotlight Pick";
-$time_spotlight	= array("2013", "2014");
-
-$ak_android		= "android";
-$pt_android		= "Android Picks";
-$nav_android	= "Android";
-$th_android		= "Android Pick";
-$time_android	= array("2010", "2011", "2012", "2013", "2014");
-
-$ak_distro		= "distro";
-$pt_distro		= "Distro of the Day";
-$nav_distro		= "Distros";
-$th_distro		= "Distro";
-$time_distro	= array('2012');
 
 
 // Date Variables
