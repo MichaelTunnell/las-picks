@@ -29,7 +29,10 @@ $dataHelper = new DataHelper();
 
 if ($selected !== null) {
     $dataHelper->setData($data);
-    $dataHelper->setKey($selected['key']);
+
+    if (isset($selected['key'])) {
+        $dataHelper->setKey($selected['key']);
+    }
 }
 
 // Render the template using twig and echo it to the output stream

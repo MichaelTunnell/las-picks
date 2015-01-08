@@ -24,6 +24,12 @@
                     <td>{{ iter.date }}</td>
                 </tr>
             {% endfor %}
+
+            {% if data[year] is not defined %}
+                <tr>
+                    <td colspan="3">There are no known {{ selected.nav|lower }} in the year {{ year }}</td>
+                </tr>
+            {% endif %}
         {% endfor %}
     </table>
 {% endblock %}
