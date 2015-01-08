@@ -1,6 +1,16 @@
+<?php
+
+include ('twig.php');
+
+$twig = new Twig();
+
+echo ($twig->renderTemplate(array(), false));
+
+exit;
+
 <?php $data = array_reverse($data); ?>
 <table>
-	<?php 
+	<?php
 		foreach ($startdates as $startdate) {
 			$pageyears = substr($startdate, 0, 4);
 			if (in_array($pageyears, $pagetime)) {
@@ -21,7 +31,7 @@
 							<tr>
 								<!-- app url/name -->
 								<td>
-									<?php 
+									<?php
 										$picks_count = count($data[$i][$pageakey]['pick']);
 										$iter = 0;
 										while( $iter < $picks_count ) {
@@ -43,6 +53,7 @@
 								<td><?php echo $data[$i]['date']; ?></td>
 							</tr>
 						<?php }} $i++; } /*end pick row loop */ ?>
-			<?php }/*end if year */ ?>
+			<?php } else {
+			} echo 'no'; }/*end if year */ ?>
 		<?php }/*end year loop */ ?>
 </table>

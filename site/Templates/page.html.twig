@@ -1,0 +1,35 @@
+{% extends 'base.html.twig' %}
+
+{% block content %}
+    <table>
+        {% for year in "now"|date('Y')..selected.start %}
+            <tr id="{{ year }}">
+                <th>{{ selected.th }}</th>
+                <th>Episode</th>
+                <th>Date <span>[{{ year }}]</span></th>
+            </tr>
+
+            {% for iter in data[year] %}
+                <tr>
+                    <td>
+                        {% for item in iter.items %}
+                            <a href="{{ item.url }}">{{ item.name }}</a>
+
+                            {% if loop.last == false %}
+                                |
+                            {% endif %}
+                        {% endfor %}
+                    </td>
+                    <td><a href="{{ iter.url }}">{{ iter.title }}</a></td>
+                    <td>{{ iter.date }}</td>
+                </tr>
+            {% endfor %}
+
+            {% if data[year] is not defined %}
+                <tr>
+                    <td colspan="3">There are no known {{ selected.nav|lower }} in the year {{ year }}</td>
+                </tr>
+            {% endif %}
+        {% endfor %}
+    </table>
+{% endblock %}

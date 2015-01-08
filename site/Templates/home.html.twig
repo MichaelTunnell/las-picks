@@ -1,0 +1,9 @@
+{% extends 'base.html.twig' %}
+
+{% block content %}
+<div class="index">
+    {% for menuItem in structure %}
+        <a href="{{ menuItem.uri }}.php">{{ menuItem.nav }}</a>
+    {% endfor %}
+</div>
+{% endblock %}
