@@ -3473,4 +3473,19 @@ $data[345]['spotlight']['pick'][0]['url'] = "http://www.easylifeproject.org/";
 $data[345]['android']['pick'][0]['name'] = "Telegram Messenger";
 $data[345]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=org.telegram.messenger";
 
+
+// Episode 347
+$data[0]['title'] = "Meet MATE’s Mastermind | LAS 347";
+$data[0]['url'] = "http://www.jupiterbroadcasting.com/75242/meet-mates-mastermind-las-347/";
+$data[0]['date'] = "2015-01-11";
+
+$data[0]['runslinux']['pick'][0]['name'] = "NVIDIA CES 2015 press conference";
+$data[0]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=zsVsUvx8ieo";
+
+$data[0]['desktopapp']['pick'][0]['name'] = "Qtractor – An Audio/MIDI multi-track sequencer";
+$data[0]['desktopapp']['pick'][0]['url'] = "http://qtractor.sourceforge.net/qtractor-index.html";
+
+$data[0]['spotlight']['pick'][0]['name'] = "“grep was a private command of mine for quite a while before i made it public.”";
+$data[0]['spotlight']['pick'][0]['url'] = "https://medium.com/@rualthanzauva/grep-was-a-private-command-of-mine-for-quite-a-while-before-i-made-it-public-ken-thompson-a40e24a5ef48";
+
 ?>
