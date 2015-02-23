@@ -3473,4 +3473,33 @@ $data[345]['spotlight']['pick'][0]['url'] = "http://www.easylifeproject.org/";
 $data[345]['android']['pick'][0]['name'] = "Telegram Messenger";
 $data[345]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=org.telegram.messenger";
 
+// Episode 347
+$data[0]['title'] = "Meet MATE's Mastermind";
+$data[0]['url'] = "http://www.jupiterbroadcasting.com/75242/meet-mates-mastermind-las-347/";
+$data[0]['date'] = "2015-1-11";
+
+$data[0]['runslinux']['pick'][0]['name'] = "NVIDIA CES 2015 press conference";
+$data[0]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=zsVsUvx8ieo";
+
+$data[0]['desktopapp']['pick'][0]['name'] = "Qtractor";
+$data[0]['desktopapp']['pick'][0]['url'] = "http://qtractor.sourceforge.net/qtractor-index.html";
+
+$data[0]['spotlight']['pick'][0]['name'] = "The history of grep, the 40 year old Unix command";
+$data[0]['spotlight']['pick'][0]['url'] = "https://medium.com/@rualthanzauva/grep-was-a-private-command-of-mine-for-quite-a-while-before-i-made-it-public-ken-thompson-a40e24a5ef48";
+
+
+//Episode 348
+$data[0]['title'] = "The Deepin Review";
+$data[0]['url'] = "http://www.jupiterbroadcasting.com/75737/the-deepin-review-linux-action-show-348/";
+$data[0]['date'] = "2015-1-18";
+
+$data[0]['runslinux']['pick'][0]['name'] = "Mars One";
+$data[0]['runslinux']['pick'][0]['url'] = "http://www.mars-one.com/";
+
+$data[0]['desktopapp']['pick'][0]['name'] = "StarFaux";
+$data[0]['desktopapp']['pick'][0]['url'] = "https://github.com/insomniac34/StarFaux";
+
+$data[0]['spotlight']['pick'][0]['name'] = "Douane";
+$data[0]['spotlight']['pick'][0]['url'] = "http://douaneapp.com/";
+
 ?>
