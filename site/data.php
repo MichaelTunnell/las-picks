@@ -15,6 +15,7 @@ $data[0]['spotlight']['pick'][0]['url'] = "";
 
 $data[0]['android']['pick'][0]['name'] = "";
 $data[0]['android']['pick'][0]['url'] = "";
+$data[0]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 1
@@ -5441,7 +5442,7 @@ $data[358]['distro']['pick'][0]['url'] = "http://openelec.tv";
 // Episode 359
 $data[359]['title'] = "Get A Job, You Linux Bum! | LAS 359";
 $data[359]['url'] = "http://www.jupiterbroadcasting.com/79937/get-a-job-you-linux-bum-las-359/";
-$data[359]['date'] = "2015-04-03";
+$data[359]['date'] = "2015-04-05";
 
 $data[359]['runslinux']['pick'][0]['name'] = "Bowling Alley";
 $data[359]['runslinux']['pick'][0]['url'] = "http://imgur.com/M0IV27O,T6fzI9t,1F9Tpb1,EZKVZay,oU3jFL9,bXGXLtz,44R87wO";
@@ -5457,5 +5458,24 @@ $data[359]['spotlight']['pick'][0]['url'] = "http://manuel-kehl.de/projects/go-f
 $data[359]['android']['pick'][0]['name'] = "Boot the Dispute";
 $data[359]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.bipolardesign.bootdispute";
 $data[359]['android']['pick'][0]['source'] = "ting";
+
+
+// Episode 360
+$data[360]['title'] = "LAS 360";
+$data[360]['url'] = "http://jupiterbroadcasting.com";
+$data[360]['date'] = "2015-04-12";
+
+$data[360]['runslinux']['pick'][0]['name'] = "Coastland Mall Touchscreen Kiosk";
+$data[360]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=EgPsrZjEb6k";
+
+$data[360]['desktopapp']['pick'][0]['name'] = "Gramps";
+$data[360]['desktopapp']['pick'][0]['url'] = "http://gramps-project.org";
+
+$data[360]['spotlight']['pick'][0]['name'] = "BitPay's Internal Mining Pool";
+$data[360]['spotlight']['pick'][0]['url'] = "http://imgur.com/3I0mEKR";
+
+$data[360]['android']['pick'][0]['name'] = "Yummly";
+$data[360]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.yummly.android&hl=en";
+$data[360]['android']['pick'][0]['source'] = "ting";
 
 ?>
