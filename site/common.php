@@ -15,31 +15,31 @@ $ak_runslinux	= "runslinux";
 $pt_runslinux	= "Runs Linux";
 $nav_runslinux	= $pt_runslinux;
 $th_runslinux	= $pt_runslinux;
-$time_runslinux	= array('2006', "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014");
+$time_runslinux	= array('2006', "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015");
 
 $ak_desktop		= "desktopapp";
 $pt_desktop		= "Desktop App Picks";
 $nav_desktop	= "Desktop Apps";
 $th_desktop		= "App Pick";
-$time_desktop	= array("2011", "2012", "2013", "2014");
+$time_desktop	= array("2011", "2012", "2013", "2014", "2015");
 
 $ak_spotlight	= "spotlight";
 $pt_spotlight	= "Spotlight Picks";
 $nav_spotlight	= "Spotlights";
 $th_spotlight	= "Spotlight Pick";
-$time_spotlight	= array("2013", "2014");
+$time_spotlight	= array("2013", "2014", "2015");
 
 $ak_android		= "android";
 $pt_android		= "Android Picks";
 $nav_android	= "Android";
 $th_android		= "Android Pick";
-$time_android	= array("2010", "2011", "2012", "2013", "2014");
+$time_android	= array("2010", "2011", "2012", "2013", "2014", "2015");
 
 $ak_distro		= "distro";
 $pt_distro		= "Distro of the Day";
 $nav_distro		= "Distros";
 $th_distro		= "Distro";
-$time_distro	= array('2012');
+$time_distro	= array("2012", "2013", "2014", "2015");
 
 
 // Date Variables
@@ -61,22 +61,27 @@ $startdates['2006'] = "2006-06-10 10:00 PST";
 // Runs Linux
 // Start: Episode 1
 // End: . . .
+// Up to date
 
 // Android Picks
-// Start: 102 | S11E02 | March 1, 2010
-// End: 278 | S28E08 | September 14, 2013
+// JB Start: 102 | S11E02 | 2010-03-01
+// JB End: 278 | S28E08 | 2014-09-14
+// Ting Start: 
+// Ting End: 
+// Up to date
 
 // Desktop Apps
-// Start: 154 | S16E04 | April 10, 2011
+// Start: 154 | S16E04 | 2011-04-10
 // End: . . .
 
 // Spotlights
-// Start: 279 | S28E09 | September 22, 2013
+// Start: 279 | S28E09 | 2013-09-22
 // End: . . .
 
 // Distro Picks
-// Start: 192 | S20E02 | January 15, 2012
-// End: 235 | S24E05 | November 11, 2012
+// Start: 192 | S20E02 | 2012-01-15
+// End: 235 | S24E05 | 2012-11-11
+// Up to date
 
 
 ?>

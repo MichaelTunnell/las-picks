@@ -28,6 +28,12 @@
 									?>
 										<?php if(0!=$iter){ echo " | "; } ?>
 										<?php if ($data[$i][$pageakey]['pick'][$iter]['url'] != "0") { ?>
+											<?php if ($pageakey == "android" && $iter == "0" && $data[$i][$pageakey]['pick'][$iter]['source'] == "ting") { ?>
+												<img class="favicon" src="favicon-ting.png" alt="Ting favicon" />
+											<?php } ?>
+											<?php if ($pageakey == "android" && $iter == "0" && $data[$i][$pageakey]['pick'][$iter]['source'] == "jb") { ?>
+												<img class="favicon" src="favicon-jb.png" alt="Jupiter Broadcasting favicon" />
+											<?php } ?>
 											<a href="<?php echo $data[$i][$pageakey]['pick'][$iter]['url']; ?>"><?php echo $data[$i][$pageakey]['pick'][$iter]['name']; ?></a>
 										<?php } else { ?>
 											<?php echo $data[$i][$pageakey]['pick'][$iter]['name']; ?>

@@ -139,6 +139,10 @@ td {
 	border-bottom:1px solid #999;
 }
 
+th a {
+  color:#efefef !important;
+}
+
 td:nth-child(3) {
 	text-align: center;
 }
@@ -151,6 +155,12 @@ a:hover, a:active {
 	color:#565050;
 }
 
+img.favicon {
+  float:right;
+  margin:3px 0 0 0;
+  border-radius: 3px;
+}
+
 a.forkongithub span {
 	display: none;
 }
@@ -160,6 +170,65 @@ a.forkongithub img {
 	top: 3.3em;
 	right: 0;
 	border: 0;
+}
+
+body.contribute div.wrapper {
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+  width:50%;
+  margin: 40px auto;
+}
+
+body.contribute div.wrapper .dhead {
+  background: #0B4B75;
+  color:#efefef;
+  text-align: center;
+  height: 3.3em;
+  font-weight: bold;
+}
+
+body.contribute div.wrapper .dhead h3 {
+  padding: 14px 0 0 0;
+}
+
+body.contribute div.wrapper .about {
+  background:#fdfdfd;
+  padding: 0 0 4px 0;
+  border-bottom: 1px solid #ccc;
+  float: left;
+  width: 100%;
+}
+
+body.contribute div.wrapper .about p {
+  margin: 16px;
+}
+
+body.contribute div.wrapper .howto {
+  float: left;
+  width: 50%;
+  height: 1030px;
+  background: #fafafa;
+}
+
+body.contribute div.wrapper .contributors {
+  float: left;
+  width: 28%;
+  background: #f4f4f4;
+}
+
+body.contribute div.wrapper .api {
+  float: left;
+  width: 22%;
+  height: 1030px;
+  background: #fafafa;
+  text-align: center;
+}
+
+body.contribute div.wrapper .inwrap {
+  padding: 20px;
+}
+
+body.contribute div.wrapper .api .note {
+  text-align: left;
 }
 
 /* ----- */
@@ -413,7 +482,7 @@ nav[role="years"] {
     margin-right:-(20em + .5em);
   }
 
-	table, div.index {
+	table, div.index, body.contribute div.wrapper {
     width:100%;
     margin: 0;
 	}
@@ -467,7 +536,7 @@ nav[role="years"] {
 }/*end media*/
 
 @media only screen and (min-device-width : 782px) {
-	table, #navigation, div.index {
+	table, #navigation, div.index, body.contribute div.wrapper {
     width: 80%;
 	}
 
@@ -555,7 +624,7 @@ nav[role="years"] {
 }
 
 @media only screen and (min-width : 1224px) {
-  table, #navigation, div.index {
+  table, #navigation, div.index, body.contribute div.wrapper {
         width: 70%;
   }
   a.forkongithub {
@@ -566,7 +635,7 @@ nav[role="years"] {
 }
 
 @media only screen and (min-width : 1824px) {
-	table, #navigation, div.index {
+	table, #navigation, div.index, body.contribute div.wrapper {
 		width: 60%;
 	}
 	a.forkongithub {

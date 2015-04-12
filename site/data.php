@@ -13,6 +13,9 @@ $data[0]['desktopapp']['pick'][0]['url'] = "";
 $data[0]['spotlight']['pick'][0]['name'] = "";
 $data[0]['spotlight']['pick'][0]['url'] = "";
 
+$data[0]['android']['pick'][0]['name'] = "";
+$data[0]['android']['pick'][0]['url'] = "";
+
 
 // Episode 1
 $data[1]['title'] = "Linux Action Show! | LAS 1";
@@ -931,6 +934,10 @@ $data[102]['date'] = "2010-03-01";
 $data[102]['runslinux']['pick'][0]['name'] = "Player Piano";
 $data[102]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/Digital-piano-adds-Linux/";
 
+$data[102]['android']['pick'][0]['name'] = "Google Listen";
+$data[102]['android']['pick'][0]['url'] = "http://listen.googlelabs.com/";
+$data[102]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 103
 $data[103]['title'] = "Apple Attacks Android & Webcam Studio | LAS 103 (S11E03)";
@@ -939,6 +946,10 @@ $data[103]['date'] = "2010-03-07";
 
 $data[103]['runslinux']['pick'][0]['name'] = "Episode did not include a pick";
 $data[103]['runslinux']['pick'][0]['url'] = "0";
+
+$data[103]['android']['pick'][0]['name'] = "Google Goggles";
+$data[103]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.google.android.apps.unveil&referrer=utm_source%3Dappbrain%26utm_medium%3Dappbrain_web%26utm_campaign%3Dappbrain_web";
+$data[103]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 104
@@ -949,6 +960,10 @@ $data[104]['date'] = "2010-03-15";
 $data[104]['runslinux']['pick'][0]['name'] = "Your Land-line";
 $data[104]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/Motorola-HS1001-and-DSP-Group-Android-Home-Phone/?kc=rss";
 
+$data[104]['android']['pick'][0]['name'] = "ShapeWriter";
+$data[104]['android']['pick'][0]['url'] = "http://www.shapewriter.com/android.html";
+$data[104]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 105
 $data[105]['title'] = "Boxee Review | LAS 105 (S11E05)";
@@ -957,6 +972,10 @@ $data[105]['date'] = "2010-03-28";
 
 $data[105]['runslinux']['pick'][0]['name'] = "Simmtronics Simmbook";
 $data[105]['runslinux']['pick'][0]['url'] = "http://www.linux-netbook.com/simmtronics-simmbook";
+
+$data[105]['android']['pick'][0]['name'] = "Locale";
+$data[105]['android']['pick'][0]['url'] = "http://www.twofortyfouram.com/";
+$data[105]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 106
@@ -967,6 +986,10 @@ $data[106]['date'] = "2010-04-04";
 $data[106]['runslinux']['pick'][0]['name'] = "JooJoo Tablet";
 $data[106]['runslinux']['pick'][0]['url'] = "https://en.wikipedia.org/wiki/JooJoo";
 
+$data[106]['android']['pick'][0]['name'] = "Google Gesture Search";
+$data[106]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.google.android.apps.gesturesearch";
+$data[106]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 107
 $data[107]['title'] = "The Future of Software Development | LAS 107 (S11E07)";
@@ -975,6 +998,10 @@ $data[107]['date'] = "2010-04-11";
 
 $data[107]['runslinux']['pick'][0]['name'] = "The Drobo FS";
 $data[107]['runslinux']['pick'][0]['url'] = "http://www.drobo.com/storage-products/5n/";
+
+$data[107]['android']['pick'][0]['name'] = "Ustream Broadcaster";
+$data[107]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=tv.ustream.ustream";
+$data[107]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 108
@@ -985,6 +1012,10 @@ $data[108]['date'] = "2010-04-18";
 $data[108]['runslinux']['pick'][0]['name'] = "All-in-one PC";
 $data[108]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/Elcom-Uniq-PC/";
 
+$data[108]['android']['pick'][0]['name'] = "CallTrack";
+$data[108]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=app.calltrack";
+$data[108]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 109
 $data[109]['title'] = "LinuxFest Northwest 2010 Highlights | LAS 109 (S11E09)";
@@ -993,6 +1024,10 @@ $data[109]['date'] = "2010-04-25";
 
 $data[109]['runslinux']['pick'][0]['name'] = "Episode did not include a pick";
 $data[109]['runslinux']['pick'][0]['url'] = "0";
+
+$data[109]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[109]['android']['pick'][0]['url'] = "0";
+$data[109]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 110
@@ -1003,6 +1038,10 @@ $data[110]['date'] = "2010-05-02";
 $data[110]['runslinux']['pick'][0]['name'] = "iPhone First Gen (hacked via Android)";
 $data[110]['runslinux']['pick'][0]['url'] = "http://www.techhive.com/article/194748/iphone_runs_android_hands_on.html";
 
+$data[110]['android']['pick'][0]['name'] = "Astrid Tasks";
+$data[110]['android']['pick'][0]['url'] = "https://twitter.com/yahooinc/status/329721496530456576";
+$data[110]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 111
 $data[111]['title'] = "Fedora 13 Review | LAS 111 (S12E01)";
@@ -1011,6 +1050,10 @@ $data[111]['date'] = "2010-05-16";
 
 $data[111]['runslinux']['pick'][0]['name'] = "Cherrypal Asia";
 $data[111]['runslinux']['pick'][0]['url'] = "http://www.engadget.com/2010/05/14/cherrypal-asia-runs-android-on-the-cheap-comes-in-7-and-10-1-i/";
+
+$data[111]['android']['pick'][0]['name'] = "Bump";
+$data[111]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.bumptech.bumpga";
+$data[111]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 112
@@ -1021,6 +1064,10 @@ $data[112]['date'] = "2010-05-23";
 $data[112]['runslinux']['pick'][0]['name'] = "This Rocking Guitar";
 $data[112]['runslinux']['pick'][0]['url'] = "http://ostatic.com/blog/rocking-out-with-a-linux-guitar";
 
+$data[112]['android']['pick'][0]['name'] = "Home++";
+$data[112]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/mobi.intuitit.android.x.launcher";
+$data[112]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 113
 $data[113]['title'] = "How Can MeeGo Survive in an Android's World? | LAS 113 (S12E03)";
@@ -1029,6 +1076,10 @@ $data[113]['date'] = "2010-05-30";
 
 $data[113]['runslinux']['pick'][0]['name'] = "McDonald's";
 $data[113]['runslinux']['pick'][0]['url'] = "http://blog.gnu-designs.com/wait-mcdonalds-runs-linux-yes-yes-they-do/";
+
+$data[113]['android']['pick'][0]['name'] = "Super KO Boxing 2";
+$data[113]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/super-ko-boxing-2/com.glu.android.skob2_free";
+$data[113]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 114
@@ -1039,6 +1090,10 @@ $data[114]['date'] = "2010-06-06";
 $data[114]['runslinux']['pick'][0]['name'] = "Episode did not include a pick";
 $data[114]['runslinux']['pick'][0]['url'] = "0";
 
+$data[114]['android']['pick'][0]['name'] = "eBuddy Messenger";
+$data[114]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.ebuddy.android.xms";
+$data[114]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 115
 $data[115]['title'] = "XBMC Review & New Chrome OS Details! | LAS 115 (S12E05)";
@@ -1047,6 +1102,10 @@ $data[115]['date'] = "2010-06-13";
 
 $data[115]['runslinux']['pick'][0]['name'] = "Nano-Notes";
 $data[115]['runslinux']['pick'][0]['url'] = "http://sharism.cc/blog/";
+
+$data[115]['android']['pick'][0]['name'] = "Trapster";
+$data[115]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.trapster.android";
+$data[115]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 116
@@ -1057,6 +1116,10 @@ $data[116]['date'] = "2010-06-20";
 $data[116]['runslinux']['pick'][0]['name'] = "Slot Machines";
 $data[116]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/Acrosser-ACES8700/";
 
+$data[116]['android']['pick'][0]['name'] = "EnRoute – Location Sharing";
+$data[116]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.batwood.onmyway";
+$data[116]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 117
 $data[117]['title'] = "ShotWell Review & Security Tips  | LAS 117 (S12E07)";
@@ -1065,6 +1128,10 @@ $data[117]['date'] = "2010-06-27";
 
 $data[117]['runslinux']['pick'][0]['name'] = "Ultraslim Toshiba Laptop";
 $data[117]['runslinux']['pick'][0]['url'] = "http://news.cnet.com/8301-13924_3-20008301-64.html";
+
+$data[117]['android']['pick'][0]['name'] = "LauncherPro Beta";
+$data[117]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.fede.launcher";
+$data[117]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 118
@@ -1075,6 +1142,10 @@ $data[118]['date'] = "2010-07-11";
 $data[118]['runslinux']['pick'][0]['name'] = "Commodore 64bit Phoenix";
 $data[118]['runslinux']['pick'][0]['url'] = "http://www.myretrocomputer.com/index.html";
 
+$data[118]['android']['pick'][0]['name'] = "Fast Web Installer";
+$data[118]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.appspot.swisscodemonkeys.apppusher";
+$data[118]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 119
 $data[119]['title'] = "openSUSE 11.3 Review | LAS 119 (S12E09)";
@@ -1083,6 +1154,13 @@ $data[119]['date'] = "2010-07-18";
 
 $data[119]['runslinux']['pick'][0]['name'] = "The ReadyNAS Ultra 6";
 $data[119]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/NetGear-ReadyNAS-Ultra-4-and-Ultra-6/?kc=rss";
+
+$data[119]['android']['pick'][0]['name'] = "WebSharing File/Media Sync";
+$data[119]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=nextapp.websharing&referrer=utm_source%3Dappbrain%26utm_medium%3Dappbrain_web%26utm_campaign%3Dappbrain_web";
+$data[119]['android']['pick'][0]['source'] = "jb";
+$data[119]['android']['pick'][1]['name'] = "AndFTP";
+$data[119]['android']['pick'][1]['url'] = "http://www.lysesoft.com/products/andftp/index.html";
+$data[119]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 120
@@ -1093,6 +1171,10 @@ $data[120]['date'] = "2010-07-25";
 $data[120]['runslinux']['pick'][0]['name'] = "India's $35 Tablet";
 $data[120]['runslinux']['pick'][0]['url'] = "http://www.linuxjournal.com/content/indias-35-tablet-everything-killer";
 
+$data[120]['android']['pick'][0]['name'] = "Scanner Radio";
+$data[120]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.scannerradio&referrer=utm_source%3Dappbrain%26utm_medium%3Dappbrain_web%26utm_campaign%3Dappbrain_web";
+$data[120]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 121
 $data[121]['title'] = "EVO 4G + Froyo Review | LAS 121 (S13E01)";
@@ -1101,6 +1183,13 @@ $data[121]['date'] = "2010-08-01";
 
 $data[121]['runslinux']['pick'][0]['name'] = "HTC Evo 4G (via Android)";
 $data[121]['runslinux']['pick'][0]['url'] = "http://www.intomobile.com/2010/07/31/hands-on-android-2-2-froyo-for-the-sprint-htc-evo-4g";
+
+$data[121]['android']['pick'][0]['name'] = "Edwin";
+$data[121]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.neureau.edwin";
+$data[121]['android']['pick'][0]['source'] = "jb";
+$data[121]['android']['pick'][1]['name'] = "eBuddy Messenger";
+$data[121]['android']['pick'][1]['url'] = "http://www.appbrain.com/app/com.ebuddy.android";
+$data[121]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 122
@@ -1111,6 +1200,13 @@ $data[122]['date'] = "2010-08-08";
 $data[122]['runslinux']['pick'][0]['name'] = "The Pogoplug";
 $data[122]['runslinux']['pick'][0]['url'] = "http://www.amazon.com/dp/B0033WSDR4/?tag=thelinactsho-20";
 
+$data[122]['android']['pick'][0]['name'] = "Startup Cleaner 2.0";
+$data[122]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.bright.startup2";
+$data[122]['android']['pick'][0]['source'] = "jb";
+$data[122]['android']['pick'][1]['name'] = "Official XBMC Remote";
+$data[122]['android']['pick'][1]['url'] = "http://www.appbrain.com/app/org.xbmc.android.remote";
+$data[122]['android']['pick'][1]['source'] = "jb";
+
 
 // Episode 123
 $data[123]['title'] = "Linux Home Server Build PT2 | LAS 123 (S13E03)";
@@ -1119,6 +1215,13 @@ $data[123]['date'] = "2010-08-15";
 
 $data[123]['runslinux']['pick'][0]['name'] = "The Axon";
 $data[123]['runslinux']['pick'][0]['url'] = "http://www.tuxmachines.org/node/47121";
+
+$data[123]['android']['pick'][0]['name'] = "Google Chrome to Phone";
+$data[123]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.google.android.apps.chrometophone";
+$data[123]['android']['pick'][0]['source'] = "jb";
+$data[123]['android']['pick'][1]['name'] = "TweetDeck Beta";
+$data[123]['android']['pick'][1]['url'] = "https://blog.twitter.com/tweetdeck";
+$data[123]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 124
@@ -1129,6 +1232,10 @@ $data[124]['date'] = "2010-08-22";
 $data[124]['runslinux']['pick'][0]['name'] = "The new PocketBooks";
 $data[124]['runslinux']['pick'][0]['url'] = "http://www.i4u.com/38182/pocketbook-unveils-pocketbook-pro-602-pro-902-pro-603-pro-903-and-iq-ifa-2010";
 
+$data[124]['android']['pick'][0]['name'] = "Evernote";
+$data[124]['android']['pick'][0]['url'] = "http://www.evernote.com/about/download/android.php";
+$data[124]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 125
 $data[125]['title'] = "Lenovo's Ultimate Linux Tablet! | LAS 125 (S13E05)";
@@ -1137,6 +1244,10 @@ $data[125]['date'] = "2010-08-29";
 
 $data[125]['runslinux']['pick'][0]['name'] = "PS3";
 $data[125]['runslinux']['pick'][0]['url'] = "http://www.theinquirer.net/inquirer/blog-post/1728930/sony-ps3-jailbroken-run-linux";
+
+$data[125]['android']['pick'][0]['name'] = "TwonkyServer Mobile";
+$data[125]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.pv.TMS";
+$data[125]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 126
@@ -1147,6 +1258,16 @@ $data[126]['date'] = "2010-09-05";
 $data[126]['runslinux']['pick'][0]['name'] = "Samsung Galaxy Tab";
 $data[126]['runslinux']['pick'][0]['url'] = "https://en.wikipedia.org/wiki/Samsung_Galaxy_Tab_7.0";
 
+$data[126]['android']['pick'][0]['name'] = "AppBrain App Market";
+$data[126]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.appspot.swisscodemonkeys.apps";
+$data[126]['android']['pick'][0]['source'] = "jb";
+$data[126]['android']['pick'][1]['name'] = "Fast Web Installer";
+$data[126]['android']['pick'][1]['url'] = "http://www.appbrain.com/app/com.appspot.swisscodemonkeys.apppusher";
+$data[126]['android']['pick'][1]['source'] = "jb";
+$data[126]['android']['pick'][2]['name'] = "Angry Birds Lite";
+$data[126]['android']['pick'][2]['url'] = "http://www.appbrain.com/app/com.rovio.angrybirds_lite";
+$data[126]['android']['pick'][2]['source'] = "jb";
+
 
 // Episode 127
 $data[127]['title'] = "Linux Mint Debian Review | LAS 127 (S13E07)";
@@ -1155,6 +1276,13 @@ $data[127]['date'] = "2010-09-12";
 
 $data[127]['runslinux']['pick'][0]['name'] = "Tron";
 $data[127]['runslinux']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2010/09/linux-top-command-used-in-tron-trailer/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+d0od+%28Omg!+Ubuntu!%29";
+
+$data[127]['android']['pick'][0]['name'] = "BatteryFu battery saver";
+$data[127]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.tobykurien.batteryfu";
+$data[127]['android']['pick'][0]['source'] = "jb";
+$data[127]['android']['pick'][1]['name'] = "RockPlayer Universal";
+$data[127]['android']['pick'][1]['url'] = "http://www.appbrain.com/app/com.redirectin.rockplayer.android.unified";
+$data[127]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 128
@@ -1165,6 +1293,10 @@ $data[128]['date'] = "2010-09-19";
 $data[128]['runslinux']['pick'][0]['name'] = "The WeTab";
 $data[128]['runslinux']['pick'][0]['url'] = "http://www.goodgearguide.com.au/article/360719/idf_2010_first_meego-based_tablet_ship_next_week/";
 
+$data[128]['android']['pick'][0]['name'] = "IP Webcam";
+$data[128]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.pas.webcam";
+$data[128]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 129
 $data[129]['title'] = "Ubuntu Store Concerns | LAS 129 (S13E09)";
@@ -1173,6 +1305,10 @@ $data[129]['date'] = "2010-09-26";
 
 $data[129]['runslinux']['pick'][0]['name'] = "Amazon Web Services";
 $data[129]['runslinux']['pick'][0]['url'] = "https://aws.amazon.com/blogs/aws/introducing-amazon-linux-ami/";
+
+$data[129]['android']['pick'][0]['name'] = "Call Block Unlimited";
+$data[129]['android']['pick'][0]['url'] = "http://www.androidtapp.com/call-block-unlimited/";
+$data[129]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 130
@@ -1183,6 +1319,10 @@ $data[130]['date'] = "2010-10-03";
 $data[130]['runslinux']['pick'][0]['name'] = "Swarming Micro Air Vehicle Network";
 $data[130]['runslinux']['pick'][0]['url'] = "http://lis.epfl.ch/smavs";
 
+$data[130]['android']['pick'][0]['name'] = "Stitcher";
+$data[130]['android']['pick'][0]['url'] = "http://www.androlib.com/android.application.com-stitcher-app-xzDF.aspx";
+$data[130]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 131
 $data[131]['title'] = "Ubuntu 10.10 Review | LAS 131 (S14E01)";
@@ -1191,6 +1331,13 @@ $data[131]['date'] = "2010-10-10";
 
 $data[131]['runslinux']['pick'][0]['name'] = "Augen Tablets";
 $data[131]['runslinux']['pick'][0]['url'] = "http://androidcommunity.com/augen-will-toss-six-new-tablets-onto-market-all-packing-android-20101008/";
+
+$data[131]['android']['pick'][0]['name'] = "Share Keyboard";
+$data[131]['android']['pick'][0]['url'] = "http://www.androidcentral.com/use-your-computer-keyboard-type-your-android-device";
+$data[131]['android']['pick'][0]['source'] = "jb";
+$data[131]['android']['pick'][1]['name'] = "Adobe Air";
+$data[131]['android']['pick'][1]['url'] = "http://www.droid-life.com/2010/10/08/adobe-air-lands-on-android-market/";
+$data[131]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 132
@@ -1201,6 +1348,10 @@ $data[132]['date'] = "2010-10-17";
 $data[132]['runslinux']['pick'][0]['name'] = "Sony TVs";
 $data[132]['runslinux']['pick'][0]['url'] = "http://www.engadget.com/2010/10/29/sony-internet-tv-with-google-tv-review/";
 
+$data[132]['android']['pick'][0]['name'] = "Evernote 2.0 Beta";
+$data[132]['android']['pick'][0]['url'] = "http://phandroid.com/2010/10/12/evernote-2-0-beta-get-it-now/";
+$data[132]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 133
 $data[133]['title'] = "Arch Linux Review | LAS 133 (S14E03)";
@@ -1209,6 +1360,13 @@ $data[133]['date'] = "2010-10-31";
 
 $data[133]['runslinux']['pick'][0]['name'] = "Delta Airlines";
 $data[133]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=IthV5Sfg9SU";
+
+$data[133]['android']['pick'][0]['name'] = "Tango Video Calls";
+$data[133]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/tango-video-calls/com.sgiggle.production";
+$data[133]['android']['pick'][0]['source'] = "jb";
+$data[133]['android']['pick'][1]['name'] = "Uninstaller";
+$data[133]['android']['pick'][1]['url'] = "http://www.appbrain.com/app/uninstaller/com.rhythm.hexise.uninst";
+$data[133]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 134
@@ -1219,6 +1377,10 @@ $data[134]['date'] = "2010-11-07";
 $data[134]['runslinux']['pick'][0]['name'] = "The New OLPC XO-3";
 $data[134]['runslinux']['pick'][0]['url'] = "http://www.engadget.com/2010/11/03/olpc-xo-3-debut-delayed-till-february-as-the-quest-continues-for/";
 
+$data[134]['android']['pick'][0]['name'] = "Real Signal";
+$data[134]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/real-signal/kenyu73.realsignal";
+$data[134]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 135
 $data[135]['title'] = "Linux Gaming Picks | LAS 135 (S14E05)";
@@ -1227,6 +1389,10 @@ $data[135]['date'] = "2010-11-14";
 
 $data[135]['runslinux']['pick'][0]['name'] = "Chris' Boxee Box";
 $data[135]['runslinux']['pick'][0]['url'] = "http://www.amazon.com/dp/B0038JE07O/?tag=thelinactsho-20";
+
+$data[135]['android']['pick'][0]['name'] = "SwiftKey";
+$data[135]['android']['pick'][0]['url'] = "http://www.swiftkey.net/download.html";
+$data[135]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 136
@@ -1237,6 +1403,13 @@ $data[136]['date'] = "2010-11-21";
 $data[136]['runslinux']['pick'][0]['name'] = "System76's Dual Core Netbook";
 $data[136]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/System76-Starling-Netbook-goes-dualcore/?kc=rss";
 
+$data[136]['android']['pick'][0]['name'] = "Beer Guide";
+$data[136]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/android-beer-guide/com.AKTmedia.beerDirectory";
+$data[136]['android']['pick'][0]['source'] = "jb";
+$data[136]['android']['pick'][1]['name'] = "History Eraser";
+$data[136]['android']['pick'][1]['url'] = "http://www.pheedcontent.com/click.phdo?i=809cb4ced7671dbbd1c18e75ed637d3e";
+$data[136]['android']['pick'][1]['source'] = "jb";
+
 
 // Episode 137
 $data[137]['title'] = "Boxee Box Review | LAS 137 (S14E07)";
@@ -1245,6 +1418,13 @@ $data[137]['date'] = "2010-11-28";
 
 $data[137]['runslinux']['pick'][0]['name'] = "Linux-Powered Smart Fridge";
 $data[137]['runslinux']['pick'][0]['url'] = "http://www.geek.com/articles/chips/this-intelligent-fridge-runs-linux-on-an-arm-chip-20101126/";
+
+$data[137]['android']['pick'][0]['name'] = "Dolphin Browser™ HD";
+$data[137]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/dolphin-browser%E2%84%A2-hd/mobi.mgeek.TunnyBrowser";
+$data[137]['android']['pick'][0]['source'] = "jb";
+$data[137]['android']['pick'][1]['name'] = "Skyfire Web Browser ";
+$data[137]['android']['pick'][1]['url'] = "http://www.appbrain.com/app/skyfire-web-browser-3-0/com.skyfire.browser";
+$data[137]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 138
@@ -1255,6 +1435,13 @@ $data[138]['date'] = "2010-12-12";
 $data[138]['runslinux']['pick'][0]['name'] = "The new PSP Phone";
 $data[138]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=O6cxaVRs60w";
 
+$data[138]['android']['pick'][0]['name'] = "Google Reader";
+$data[138]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/com.google.android.apps.reader";
+$data[138]['android']['pick'][0]['source'] = "jb";
+$data[138]['android']['pick'][1]['name'] = "Angry Birds Seasons";
+$data[138]['android']['pick'][1]['url'] = "http://www.appbrain.com/app/angry-birds-seasons/com.rovio.angrybirdsseasons";
+$data[138]['android']['pick'][1]['source'] = "jb";
+
 
 // Episode 139
 $data[139]['title'] = "Linux in 2010 Review | LAS 139 (S14E09)";
@@ -1263,6 +1450,10 @@ $data[139]['date'] = "2010-12-19";
 
 $data[139]['runslinux']['pick'][0]['name'] = "Galaxy Tab";
 $data[139]['runslinux']['pick'][0]['url'] = "http://www.samsung.com/global/microsite/galaxytab/10.1/index.html";
+
+$data[139]['android']['pick'][0]['name'] = "Glympse";
+$data[139]['android']['pick'][0]['url'] = "http://glympse.com/";
+$data[139]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 140
@@ -1273,6 +1464,10 @@ $data[140]['date'] = "2011-01-02";
 $data[140]['runslinux']['pick'][0]['name'] = "Iron Man";
 $data[140]['runslinux']['pick'][0]['url'] = "http://jupitercolony.com/viewtopic.php?f=3&t=6217&p=54252";
 
+$data[140]['android']['pick'][0]['name'] = "ConnectBot";
+$data[140]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/connectbot/org.connectbot";
+$data[140]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 141
 $data[141]['title'] = "Brothers in Arms | LAS 141 (S15E01)";
@@ -1281,6 +1476,13 @@ $data[141]['date'] = "2011-01-09";
 
 $data[141]['runslinux']['pick'][0]['name'] = "CES 2011";
 $data[141]['runslinux']['pick'][0]['url'] = "http://www.techradar.com/news/world-of-tech/ces-2012-what-to-expect-1042619";
+
+$data[141]['android']['pick'][0]['name'] = "Gentle Alarm (TRIAL)";
+$data[141]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/gentle-alarm-(trial)/com.mobitobi.android.gentlealarmtrial";
+$data[141]['android']['pick'][0]['source'] = "jb";
+$data[141]['android']['pick'][1]['name'] = "Gentle Alarm (PAY)";
+$data[141]['android']['pick'][1]['url'] = "http://www.appbrain.com/app/gentle-alarm/com.mobitobi.android.gentlealarm";
+$data[141]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 142
@@ -1291,6 +1493,10 @@ $data[142]['date'] = "2011-01-16";
 $data[142]['runslinux']['pick'][0]['name'] = "\"Watson\" Supercomputer (Jeopardy)";
 $data[142]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/IBMs-Watson-wins-Jeopardy-practice-round/?kc=rss";
 
+$data[142]['android']['pick'][0]['name'] = "Prey Tracker";
+$data[142]['android']['pick'][0]['url'] = "http://preyproject.com/";
+$data[142]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 143
 $data[143]['title'] = "2011 Linux Predictions | LAS 143 (S15E03)";
@@ -1299,6 +1505,10 @@ $data[143]['date'] = "2011-01-23";
 
 $data[143]['runslinux']['pick'][0]['name'] = "The Nook Color";
 $data[143]['runslinux']['pick'][0]['url'] = "http://thegadgets.net/technology-news/breaking-news-technology-news/breaking-nook-color-hacked-to-run-ubuntu/";
+
+$data[143]['android']['pick'][0]['name'] = "picplz";
+$data[143]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/picplz/com.picplz.rangefinder";
+$data[143]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 144
@@ -1309,6 +1519,10 @@ $data[144]['date'] = "2011-01-30";
 $data[144]['runslinux']['pick'][0]['name'] = "ZT Systems' ARM server";
 $data[144]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/ZT-Systems-R1801e-/";
 
+$data[144]['android']['pick'][0]['name'] = "StreamFurious";
+$data[144]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/streamfurious/com.streamfurious.android.free";
+$data[144]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 145
 $data[145]['title'] = "How Do I Encode WebM Under Linux? | LAS 145 (S15E05)";
@@ -1317,6 +1531,10 @@ $data[145]['date'] = "2011-02-06";
 
 $data[145]['runslinux']['pick'][0]['name'] = "Episode did not include a pick";
 $data[145]['runslinux']['pick'][0]['url'] = "0";
+
+$data[145]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[145]['android']['pick'][0]['url'] = "0";
+$data[145]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 146
@@ -1327,6 +1545,13 @@ $data[146]['date'] = "2011-02-13";
 $data[146]['runslinux']['pick'][0]['name'] = "Qnap Turbo NAS";
 $data[146]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/Qnap-TSx12/";
 
+$data[146]['android']['pick'][0]['name'] = "Tricorder TR-580";
+$data[146]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/tricorder-tr-580/de.schosoft.Tricorder";
+$data[146]['android']['pick'][0]['source'] = "jb";
+$data[146]['android']['pick'][1]['name'] = "Network Info II";
+$data[146]['android']['pick'][1]['url'] = "http://www.appbrain.com/app/network-info-ii/aws.apps.networkInfoIi";
+$data[146]['android']['pick'][1]['source'] = "jb";
+
 
 // Episode 147
 $data[147]['title'] = "Ubuntu vs Banshee | LAS 147 (S15E07)";
@@ -1335,6 +1560,13 @@ $data[147]['date'] = "2011-02-20";
 
 $data[147]['runslinux']['pick'][0]['name'] = "Dual-core Smartphone Runs Android / Ubuntu";
 $data[147]['runslinux']['pick'][0]['url'] = "http://news.slashdot.org/story/11/02/16/1655209/Dual-core-Smartphone-Runs-Android-and-Ubuntu";
+
+$data[147]['android']['pick'][0]['name'] = "RD Mute";
+$data[147]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/rd-mute/com.raidroid.rdmute";
+$data[147]['android']['pick'][0]['source'] = "jb";
+$data[147]['android']['pick'][1]['name'] = "CyanogenMod-7";
+$data[147]['android']['pick'][1]['url'] = "http://downloadsquad.switched.com/2011/02/16/cyanogenmod-7-rc-brings-android-2-3-gingerbread-to-the-masses/";
+$data[147]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 148
@@ -1345,6 +1577,10 @@ $data[148]['date'] = "2011-02-27";
 $data[148]['runslinux']['pick'][0]['name'] = "The FBCB2";
 $data[148]['runslinux']['pick'][0]['url'] = "http://farm4.static.flickr.com/3616/3585877715_be13950b7d.jpg";
 
+$data[148]['android']['pick'][0]['name'] = "AirAttack HD Lite";
+$data[148]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/airattack-hd-lite/com.ArtInGames.AirAttackHDLite";
+$data[148]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 149
 $data[149]['title'] = "Noobie Linux & BSD Tips | LAS 149 (S15E09)";
@@ -1353,6 +1589,13 @@ $data[149]['date'] = "2011-03-06";
 
 $data[149]['runslinux']['pick'][0]['name'] = "Jhurley's XOOM";
 $data[149]['runslinux']['pick'][0]['url'] = "https://plus.google.com/photos/+ChrisFisher/albums/5580783868696329825?banner=pwa";
+
+$data[149]['android']['pick'][0]['name'] = "GoodNews";
+$data[149]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/goodnews-google-reader-app/com.gettingmobile.goodnews";
+$data[149]['android']['pick'][0]['source'] = "jb";
+$data[149]['android']['pick'][1]['name'] = "Skyfire";
+$data[149]['android']['pick'][1]['url'] = "http://www.appbrain.com/app/skyfire-web-browser-3-0/com.skyfire.browser";
+$data[149]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 150
@@ -1363,6 +1606,10 @@ $data[150]['date'] = "2011-03-13";
 $data[150]['runslinux']['pick'][0]['name'] = "Weather Radar data relay prototype system";
 $data[150]['runslinux']['pick'][0]['url'] = "http://www.vaisala.com/en/hydrology/offering/weatherradars/Pages/RVP900.aspx";
 
+$data[150]['android']['pick'][0]['name'] = "IRC Radio";
+$data[150]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/irc-radio/com.earthflare.android.ircradio";
+$data[150]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 151
 $data[151]['title'] = "B3 Server Review | LAS 151 (S16E01)";
@@ -1371,6 +1618,13 @@ $data[151]['date'] = "2011-03-20";
 
 $data[151]['runslinux']['pick'][0]['name'] = "Ross Visio Broadcast Video Mixer";
 $data[151]['runslinux']['pick'][0]['url'] = "http://www.rossvideo.com/pdf/brochures/production-switchers/vision/vision_octane_brochure.pdf";
+
+$data[151]['android']['pick'][0]['name'] = "Old Time Radio Player";
+$data[151]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/old-time-radio-player/com.oldtimeradio";
+$data[151]['android']['pick'][0]['source'] = "jb";
+$data[151]['android']['pick'][1]['name'] = "HTML ref";
+$data[151]['android']['pick'][1]['url'] = "http://www.appbrain.com/app/html-ref/com.hart.htmlref";
+$data[151]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 152
@@ -1381,6 +1635,10 @@ $data[152]['date'] = "2011-03-27";
 $data[152]['runslinux']['pick'][0]['name'] = "@Crashatu's Aussie Supercomputer";
 $data[152]['runslinux']['pick'][0]['url'] = "https://twitter.com/crashatau/status/51061755530592256";
 
+$data[152]['android']['pick'][0]['name'] = "Amazon App Store";
+$data[152]['android']['pick'][0]['url'] = "http://www.amazon.com/mobile-apps/b?ie=UTF8&node=2350149011";
+$data[152]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 153
 $data[153]['title'] = "Meego on the N900 Review in HD | LAS 153 (S16E03)";
@@ -1389,6 +1647,13 @@ $data[153]['date'] = "2011-04-03";
 
 $data[153]['runslinux']['pick'][0]['name'] = "Oscar winning workplace";
 $data[153]['runslinux']['pick'][0]['url'] = "http://www.dneg.com/news/dnegs_work_on_inception_wins_visual_effects_oscar_307.html";
+
+$data[153]['android']['pick'][0]['name'] = "Amazon MP3";
+$data[153]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/amazon-mp3/com.amazon.mp3";
+$data[153]['android']['pick'][0]['source'] = "jb";
+$data[153]['android']['pick'][1]['name'] = "Vendetta Online";
+$data[153]['android']['pick'][1]['url'] = "https://market.android.com/details?id=com.guildsoftware.vendetta";
+$data[153]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 154
@@ -1399,6 +1664,13 @@ $data[154]['date'] = "2011-04-10";
 $data[154]['runslinux']['pick'][0]['name'] = "Partimus";
 $data[154]['runslinux']['pick'][0]['url'] = "http://partimus.org/";
 
+$data[154]['desktopapp']['pick'][0]['name'] = "Shutter";
+$data[154]['desktopapp']['pick'][0]['url'] = "http://shutter-project.org/";
+
+$data[154]['android']['pick'][0]['name'] = "PewPew";
+$data[154]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/pewpew/com.jyaif.pewpew";
+$data[154]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 155
 $data[155]['title'] = "Gnome 3 Review [in HD] | LAS 155 (S16E05)";
@@ -1407,6 +1679,13 @@ $data[155]['date'] = "2011-04-17";
 
 $data[155]['runslinux']['pick'][0]['name'] = "Russia will be running Linux by 2012";
 $data[155]['runslinux']['pick'][0]['url'] = "http://vator.tv/news/2010-12-27-russia-transitioning-to-linux-in-2012";
+
+$data[155]['desktopapp']['pick'][0]['name'] = "SyncTerm";
+$data[155]['desktopapp']['pick'][0]['url'] = "http://syncterm.bbsdev.net/";
+
+$data[155]['android']['pick'][0]['name'] = "CyanogenMod";
+$data[155]['android']['pick'][0]['url'] = "http://www.cyanogenmod.com/";
+$data[155]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 156
@@ -1417,6 +1696,13 @@ $data[156]['date'] = "2011-04-24";
 $data[156]['runslinux']['pick'][0]['name'] = "Chinese robotic triceratops";
 $data[156]['runslinux']['pick'][0]['url'] = "http://www.engadget.com/2011/04/20/chinese-robotic-triceratops-skeleton-packs-linux-no-horns/";
 
+$data[156]['desktopapp']['pick'][0]['name'] = "Vendetta Online";
+$data[156]['desktopapp']['pick'][0]['url'] = "http://www.vendetta-online.com/";
+
+$data[156]['android']['pick'][0]['name'] = "Location Cache";
+$data[156]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/location-cache/ch.rrelmy.android.locationcachemap";
+$data[156]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 157
 $data[157]['title'] = "Live from LFNW 2011 | LAS 157 (S16E07)";
@@ -1425,6 +1711,13 @@ $data[157]['date'] = "2011-05-01";
 
 $data[157]['runslinux']['pick'][0]['name'] = "Bomb Defeating Robot";
 $data[157]['runslinux']['pick'][0]['url'] = "http://www.youtube.com/watch?v=7wsYxcEbKh0";
+
+$data[157]['desktopapp']['pick'][0]['name'] = "Midori";
+$data[157]['desktopapp']['pick'][0]['url'] = "http://en.wikipedia.org/wiki/Midori_(web_browser)";
+
+$data[157]['android']['pick'][0]['name'] = "Google Docs";
+$data[157]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/google-docs/com.google.android.apps.docs";
+$data[157]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 158
@@ -1435,6 +1728,13 @@ $data[158]['date'] = "2011-05-07";
 $data[158]['runslinux']['pick'][0]['name'] = "Episode did not include a pick";
 $data[158]['runslinux']['pick'][0]['url'] = "0";
 
+$data[158]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[158]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[158]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[158]['android']['pick'][0]['url'] = "0";
+$data[158]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 159
 $data[159]['title'] = "Is Your Desktop Torture? | LAS 159 (S16E09)";
@@ -1443,6 +1743,13 @@ $data[159]['date'] = "2011-05-15";
 
 $data[159]['runslinux']['pick'][0]['name'] = "A $25 PC On a USB Stick";
 $data[159]['runslinux']['pick'][0]['url'] = "http://tech.slashdot.org/story/11/05/06/122233/A-25-PC-On-a-USB-Stick";
+
+$data[159]['desktopapp']['pick'][0]['name'] = "WebcamStudio";
+$data[159]['desktopapp']['pick'][0]['url'] = "http://www.ws4gl.org/";
+
+$data[159]['android']['pick'][0]['name'] = "Netflix";
+$data[159]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/netflix/com.netflix.mediaclient";
+$data[159]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 160
@@ -1453,6 +1760,13 @@ $data[160]['date'] = "2011-05-22";
 $data[160]['runslinux']['pick'][0]['name'] = "Your Web Browser";
 $data[160]['runslinux']['pick'][0]['url'] = "http://bellard.org/jslinux/";
 
+$data[160]['desktopapp']['pick'][0]['name'] = "TrippleA";
+$data[160]['desktopapp']['pick'][0]['url'] = "http://triplea.sourceforge.net/mywiki";
+
+$data[160]['android']['pick'][0]['name'] = "RedWall";
+$data[160]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/redwall/com.kudzu.android.redwall";
+$data[160]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 161
 $data[161]['title'] = "Fedora 15 Review | LAS 161 (S17E01)";
@@ -1461,6 +1775,19 @@ $data[161]['date'] = "2011-05-29";
 
 $data[161]['runslinux']['pick'][0]['name'] = "Envizions Evo 2";
 $data[161]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/Envizions-Evo-2/?kc=rss";
+
+$data[161]['desktopapp']['pick'][0]['name'] = "Ultimate Plugins link for gEdit";
+$data[161]['desktopapp']['pick'][0]['url'] = "https://github.com/gmate/gmate";
+
+$data[161]['android']['pick'][0]['name'] = "Dropin";
+$data[161]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/dropin/com.ondraz.dropin";
+$data[161]['android']['pick'][0]['source'] = "jb";
+$data[161]['android']['pick'][1]['name'] = "Charlie Sheen Sound Board";
+$data[161]['android']['pick'][1]['url'] = "https://market.android.com/details?id=com.twisteddevicessounds.charliesheen&feature=search_result";
+$data[161]['android']['pick'][1]['source'] = "jb";
+$data[161]['android']['pick'][2]['name'] = "GI Monitor";
+$data[161]['android']['pick'][2]['url'] = "https://market.android.com/details?id=com.wellapps.gimonitor&feature=order_history";
+$data[161]['android']['pick'][2]['source'] = "jb";
 
 
 // Episode 162
@@ -1471,6 +1798,13 @@ $data[162]['date'] = "2011-06-05";
 $data[162]['runslinux']['pick'][0]['name'] = "Three Eee PC Netbooks";
 $data[162]['runslinux']['pick'][0]['url'] = "http://www.extremetech.com/article2/0,2845,2386355,00.asp";
 
+$data[162]['desktopapp']['pick'][0]['name'] = "Ardour";
+$data[162]['desktopapp']['pick'][0]['url'] = "http://ardour.org/";
+
+$data[162]['android']['pick'][0]['name'] = "Mt Gox Bitcoin Widget";
+$data[162]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/mt-gox-bitcoin-widget/st.brothas.mtgoxwidget";
+$data[162]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 163
 $data[163]['title'] = "Pinguy OS Review | LAS 163 (S17E03)";
@@ -1479,6 +1813,13 @@ $data[163]['date'] = "2011-06-12";
 
 $data[163]['runslinux']['pick'][0]['name'] = "Rugged Computers and Modular Tactical System";
 $data[163]['runslinux']['pick'][0]['url'] = "http://www.bdatech.com/";
+
+$data[163]['desktopapp']['pick'][0]['name'] = "Postler";
+$data[163]['desktopapp']['pick'][0]['url'] = "https://launchpad.net/postler";
+
+$data[163]['android']['pick'][0]['name'] = "Taptu";
+$data[163]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/taptu-dj-your-news/com.taptu.streams";
+$data[163]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 164
@@ -1489,6 +1830,13 @@ $data[164]['date'] = "2011-06-19";
 $data[164]['runslinux']['pick'][0]['name'] = "Fanless PC has two expansion slots";
 $data[164]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/Adlink-MXC6000/?kc=rss";
 
+$data[164]['desktopapp']['pick'][0]['name'] = "Freeciv";
+$data[164]['desktopapp']['pick'][0]['url'] = "http://freeciv.wikia.com/wiki/Main_Page";
+
+$data[164]['android']['pick'][0]['name'] = "Friday";
+$data[164]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/friday/com.dex.friday";
+$data[164]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 165
 $data[165]['title'] = "Haiku Review - Alpha 3 | LAS 165 (S17E05)";
@@ -1497,6 +1845,13 @@ $data[165]['date'] = "2011-06-25";
 
 $data[165]['runslinux']['pick'][0]['name'] = "Amazon EC2";
 $data[165]['runslinux']['pick'][0]['url'] = "http://www.readwriteweb.com/cloud/2011/06/amazon-ec2-now-runs-red-hat-li.php";
+
+$data[165]['desktopapp']['pick'][0]['name'] = "Darktable";
+$data[165]['desktopapp']['pick'][0]['url'] = "http://darktable.sourceforge.net/index.shtml";
+
+$data[165]['android']['pick'][0]['name'] = "Lookout Mobile Security";
+$data[165]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/lookout-mobile-security/com.lookout";
+$data[165]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 166
@@ -1507,6 +1862,13 @@ $data[166]['date'] = "2011-07-03";
 $data[166]['runslinux']['pick'][0]['name'] = "The HP TouchPad";
 $data[166]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/HP-Touchpad-ships/";
 
+$data[166]['desktopapp']['pick'][0]['name'] = "DOSBox";
+$data[166]['desktopapp']['pick'][0]['url'] = "http://www.dosbox.com/";
+
+$data[166]['android']['pick'][0]['name'] = "Ubuntu One Files App";
+$data[166]['android']['pick'][0]['url'] = "http://voices.canonical.com/ubuntuone/?p=954";
+$data[166]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 167
 $data[167]['title'] = "AROS Broadway Review | LAS 167 (S17E07)";
@@ -1515,6 +1877,13 @@ $data[167]['date'] = "2011-07-09";
 
 $data[167]['runslinux']['pick'][0]['name'] = "Motorola Xoom";
 $data[167]['runslinux']['pick'][0]['url'] = "http://www.youtube.com/watch?v=lKLLZaEeGEk";
+
+$data[167]['desktopapp']['pick'][0]['name'] = "VirtualBox";
+$data[167]['desktopapp']['pick'][0]['url'] = "http://www.virtualbox.org/";
+
+$data[167]['android']['pick'][0]['name'] = "Paint Commander";
+$data[167]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.terrorfortress.paintcommanderlite";
+$data[167]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 168
@@ -1525,6 +1894,13 @@ $data[168]['date'] = "2011-07-17";
 $data[168]['runslinux']['pick'][0]['name'] = "Episode did not include a pick";
 $data[168]['runslinux']['pick'][0]['url'] = "0";
 
+$data[168]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[168]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[168]['android']['pick'][0]['name'] = "Epistle";
+$data[168]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/epistle/com.kooklab.epistle";
+$data[168]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 169
 $data[169]['title'] = "Linux Media Centers Part 1 | LAS 169 (S17E09)";
@@ -1533,6 +1909,13 @@ $data[169]['date'] = "2011-07-24";
 
 $data[169]['runslinux']['pick'][0]['name'] = "Roku's boxes";
 $data[169]['runslinux']['pick'][0]['url'] = "http://www.amazon.com/dp/B005CLPP84/?tag=thelinactsho-20";
+
+$data[169]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[169]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[169]['android']['pick'][0]['name'] = "Switch";
+$data[169]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/switch/com.playboxgames.pbswitch";
+$data[169]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 170
@@ -1543,6 +1926,13 @@ $data[170]['date'] = "2011-07-31";
 $data[170]['runslinux']['pick'][0]['name'] = "CME Group";
 $data[170]['runslinux']['pick'][0]['url'] = "http://openadvantage.redhat.com/2011/02/14/investing-for-growth-cme-group-builds-state-of-the-art-datacenter-on-red-hat-enterprise-linux-2/";
 
+$data[170]['desktopapp']['pick'][0]['name'] = "RabitVCS";
+$data[170]['desktopapp']['pick'][0]['url'] = "http://www.rabbitvcs.org/";
+
+$data[170]['android']['pick'][0]['name'] = "aDosBox";
+$data[170]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/adosbox/org.hystudio.android.dosbox";
+$data[170]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 171
 $data[171]['title'] = "Great Linux Games | LAS 171 (S18E01)";
@@ -1551,6 +1941,13 @@ $data[171]['date'] = "2011-08-07";
 
 $data[171]['runslinux']['pick'][0]['name'] = "Flying Drone";
 $data[171]['runslinux']['pick'][0]['url'] = "http://blogs.forbes.com/andygreenberg/2011/07/28/flying-drone-can-crack-wifi-networks-snoop-on-cell-phones/";
+
+$data[171]['desktopapp']['pick'][0]['name'] = "Marble";
+$data[171]['desktopapp']['pick'][0]['url'] = "http://edu.kde.org/marble/";
+
+$data[171]['android']['pick'][0]['name'] = "Official XBMC Remote";
+$data[171]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/org.xbmc.android.remote";
+$data[171]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 172
@@ -1561,6 +1958,13 @@ $data[172]['date'] = "2011-08-14";
 $data[172]['runslinux']['pick'][0]['name'] = "Raspberry Pi";
 $data[172]['runslinux']['pick'][0]['url'] = "http://robots.net/article/3215.html";
 
+$data[172]['desktopapp']['pick'][0]['name'] = "Inkscape";
+$data[172]['desktopapp']['pick'][0]['url'] = "http://inkscape.org/";
+
+$data[172]['android']['pick'][0]['name'] = "TeamSpeak";
+$data[172]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/teamspeak-for-android-beta/com.teamspeak.ts";
+$data[172]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 173
 $data[173]['title'] = "Happy Birthday Linux | LAS 173 (S18E03)";
@@ -1569,6 +1973,13 @@ $data[173]['date'] = "2011-08-21";
 
 $data[173]['runslinux']['pick'][0]['name'] = "Mavizen's 130 MPH TTX02 Electric Motorcycle";
 $data[173]['runslinux']['pick'][0]['url'] = "http://www.treehugger.com/files/2009/11/mavizens-ttx02-electric-motorcycle-laptop-on-wheels-linux.php";
+
+$data[173]['desktopapp']['pick'][0]['name'] = "LottaNZB";
+$data[173]['desktopapp']['pick'][0]['url'] = "http://www.lottanzb.org/";
+
+$data[173]['android']['pick'][0]['name'] = "Overlook Fing";
+$data[173]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.overlook.android.fing";
+$data[173]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 174
@@ -1579,6 +1990,13 @@ $data[174]['date'] = "2011-08-27";
 $data[174]['runslinux']['pick'][0]['name'] = "This Potato";
 $data[174]['runslinux']['pick'][0]['url'] = "http://www.bbspot.com/news/2008/12/linux-on-a-potato.html";
 
+$data[174]['desktopapp']['pick'][0]['name'] = "OpenTTD";
+$data[174]['desktopapp']['pick'][0]['url'] = "http://www.openttd.org/en/";
+
+$data[174]['android']['pick'][0]['name'] = "F-Droid";
+$data[174]['android']['pick'][0]['url'] = "http://f-droid.org/";
+$data[174]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 175
 $data[175]['title'] = "Mandriva 2011 Review | LAS 175 (S18E05)";
@@ -1587,6 +2005,13 @@ $data[175]['date'] = "2011-09-04";
 
 $data[175]['runslinux']['pick'][0]['name'] = "Dual-band Wi-Fi router";
 $data[175]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/NetGear-N600-Wireless-Dual-Band-Gigabit-Router-Premium-Edition-/";
+
+$data[175]['desktopapp']['pick'][0]['name'] = "wibom: Wine bottle management";
+$data[175]['desktopapp']['pick'][0]['url'] = "http://wibom.sourceforge.net/";
+
+$data[175]['android']['pick'][0]['name'] = "ETERNITY WARRIORS";
+$data[175]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.glu.android.warriors";
+$data[175]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 176
@@ -1597,6 +2022,13 @@ $data[176]['date'] = "2011-09-11";
 $data[176]['runslinux']['pick'][0]['name'] = "Marcos Garcia software enables entire Industries";
 $data[176]['runslinux']['pick'][0]['url'] = "https://docs.google.com/document/pub?id=1t0yBCQT_V_20tB3rXWXkgFpXVJBFRiPjp1tB0IkdJS0&pli=1";
 
+$data[176]['desktopapp']['pick'][0]['name'] = "Community Hack Allows Linux/Wine users to experience OnLive";
+$data[176]['desktopapp']['pick'][0]['url'] = "http://onliveinformer.com/2011/09/04/community-hack-allows-linuxwine-users-to-experience-onlive/";
+
+$data[176]['android']['pick'][0]['name'] = "Linux Commands";
+$data[176]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.dekryptedit.LinuxCommands&hl=en";
+$data[176]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 177
 $data[177]['title'] = "Best Firewall Ever | LAS 177 (S18E07)";
@@ -1605,6 +2037,16 @@ $data[177]['date'] = "2011-09-18";
 
 $data[177]['runslinux']['pick'][0]['name'] = "Rugged Video Server";
 $data[177]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/Harris-Falcon-III-RF7800NCP-Mobile-Computing-Platform-MCP-/?kc=rss";
+
+$data[177]['desktopapp']['pick'][0]['name'] = "portupgrade (BSD)";
+$data[177]['desktopapp']['pick'][0]['url'] = "http://www.freshports.org/ports-mgmt/portupgrade/";
+
+$data[177]['android']['pick'][0]['name'] = "Samba Filesharing";
+$data[177]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.funkyfresh.samba&feature=search_result";
+$data[177]['android']['pick'][0]['source'] = "jb";
+$data[177]['android']['pick'][1]['name'] = "ASTRO SMB module";
+$data[177]['android']['pick'][1]['url'] = "https://play.google.com/store/apps/details?id=com.metago.astro.smb&feature=search_result";
+$data[177]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 178
@@ -1615,6 +2057,13 @@ $data[178]['date'] = "2011-09-24";
 $data[178]['runslinux']['pick'][0]['name'] = "Control4 home automation system";
 $data[178]['runslinux']['pick'][0]['url'] = "http://archive.linuxgizmos.com/linux-based-home-automation-system-adds-tablet-controller-android-app/";
 
+$data[178]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[178]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[178]['android']['pick'][0]['name'] = "ASTRO File Manager";
+$data[178]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.metago.astro";
+$data[178]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 179
 $data[179]['title'] = "Simple Linux File Sharing | LAS 179 (S18E09)";
@@ -1623,6 +2072,13 @@ $data[179]['date'] = "2011-10-02";
 
 $data[179]['runslinux']['pick'][0]['name'] = "Autonomous Flying Robots";
 $data[179]['runslinux']['pick'][0]['url'] = "http://www.wired.com/wiredscience/2011/09/flocking-robots/";
+
+$data[179]['desktopapp']['pick'][0]['name'] = "Bodhi Linux";
+$data[179]['desktopapp']['pick'][0]['url'] = "http://www.bodhilinux.com/";
+
+$data[179]['android']['pick'][0]['name'] = "Mon.itor.us";
+$data[179]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.monitorus.android.mobile";
+$data[179]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 180
@@ -1633,6 +2089,16 @@ $data[180]['date'] = "2011-10-08";
 $data[180]['runslinux']['pick'][0]['name'] = "Juniper's Junosphere Lab";
 $data[180]['runslinux']['pick'][0]['url'] = "http://www.linuxtoday.com/high_performance/2011100400841NWNT";
 
+$data[180]['desktopapp']['pick'][0]['name'] = "PlayTerm";
+$data[180]['desktopapp']['pick'][0]['url'] = "http://playterm.org/";
+
+$data[180]['android']['pick'][0]['name'] = "1980s TV Trivia";
+$data[180]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.alaskajim.tvtrivia1980s&feature=trending-apps";
+$data[180]['android']['pick'][0]['source'] = "jb";
+
+$data[180]['distro']['pick'][0]['name'] = "Bodhi Linux";
+$data[180]['distro']['pick'][0]['url'] = "http://www.bodhilinux.com/";
+
 
 // Episode 181
 $data[181]['title'] = "Ubuntu & Kubuntu 11.10 Review | LAS 181 (S19E01)";
@@ -1641,6 +2107,15 @@ $data[181]['date'] = "2011-10-16";
 
 $data[181]['runslinux']['pick'][0]['name'] = "HP's Cloud Service";
 $data[181]['runslinux']['pick'][0]['url'] = "http://arstechnica.com/business/2011/10/ubuntu-will-power-hps-new-cloud-service/";
+
+$data[181]['desktopapp']['pick'][0]['name'] = "NixNote";
+$data[181]['desktopapp']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2011/10/evernote-ubuntu-clone-nixnote-adds/";
+$data[181]['desktopapp']['pick'][1]['name'] = "Nevernote";
+$data[181]['desktopapp']['pick'][1]['url'] = "http://nevernote.sourceforge.net/";
+
+$data[181]['android']['pick'][0]['name'] = "Jupiter Broadcasting App";
+$data[181]['android']['pick'][0]['url'] = "http://shaneqful.blogspot.com/2011/10/jupiter-broadcasting-app.html#";
+$data[181]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 182
@@ -1651,6 +2126,15 @@ $data[182]['date'] = "2011-10-23";
 $data[182]['runslinux']['pick'][0]['name'] = "2012 Cadillacs";
 $data[182]['runslinux']['pick'][0]['url'] = "http://www.autoblog.com/2011/10/12/cadillac-cue-gms-luxury-brand-ups-the-infotainment-game-w-vid/";
 
+$data[182]['desktopapp']['pick'][0]['name'] = "MegaGlest";
+$data[182]['desktopapp']['pick'][0]['url'] = "http://megaglest.org/screenshots.html";
+$data[182]['desktopapp']['pick'][1]['name'] = "Free Game Alliance";
+$data[182]['desktopapp']['pick'][1]['url'] = "http://www.ubuntuvibes.com/2011/10/5-open-source-games-come-together-to.html";
+
+$data[182]['android']['pick'][0]['name'] = "Marvel Comics";
+$data[182]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.marvel.comics";
+$data[182]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 183
 $data[183]['title'] = "Arch Made Easy | LAS 183 (S19E03)";
@@ -1659,6 +2143,15 @@ $data[183]['date'] = "2011-10-30";
 
 $data[183]['runslinux']['pick'][0]['name'] = "200 stores across China";
 $data[183]['runslinux']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2011/10/in-store-ubuntu-displays-pcs-come-to-china/";
+
+$data[183]['desktopapp']['pick'][0]['name'] = "Guake terminal";
+$data[183]['desktopapp']['pick'][0]['url'] = "http://guake.org/";
+$data[183]['desktopapp']['pick'][1]['name'] = "Yakuake terminal";
+$data[183]['desktopapp']['pick'][1]['url'] = "http://kde-apps.org/content/show.php?content=29153";
+
+$data[183]['android']['pick'][0]['name'] = "Guns’n’Glory WW2";
+$data[183]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.hg.gunsandglory2free&feature=apps_topselling_free";
+$data[183]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 184
@@ -1669,6 +2162,13 @@ $data[184]['date'] = "2011-11-06";
 $data[184]['runslinux']['pick'][0]['name'] = "\"World's smallest\" SDR radio";
 $data[184]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/Epiq-Matchstiq/";
 
+$data[184]['desktopapp']['pick'][0]['name'] = "SystemRescueCd";
+$data[184]['desktopapp']['pick'][0]['url'] = "http://www.sysresccd.org/Main_Page";
+
+$data[184]['android']['pick'][0]['name'] = "reddit is fun";
+$data[184]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.andrewshu.android.reddit";
+$data[184]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 185
 $data[185]['title'] = "Fedora 16 Review | LAS 185 (S19E05)";
@@ -1677,6 +2177,13 @@ $data[185]['date'] = "2011-11-13";
 
 $data[185]['runslinux']['pick'][0]['name'] = "2012 Tesla Model S Beta";
 $data[185]['runslinux']['pick'][0]['url'] = "http://www.autoblog.com/2011/10/04/2012-tesla-model-s-beta/";
+
+$data[185]['desktopapp']['pick'][0]['name'] = "KeepVid";
+$data[185]['desktopapp']['pick'][0]['url'] = "http://keepvid.com/";
+
+$data[185]['android']['pick'][0]['name'] = "Any.DO: To Do List";
+$data[185]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.anydo";
+$data[185]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 186
@@ -1687,6 +2194,13 @@ $data[186]['date'] = "2011-11-20";
 $data[186]['runslinux']['pick'][0]['name'] = "iPod creator's Fancy Thermosta";
 $data[186]['runslinux']['pick'][0]['url'] = "http://www.theverge.com/2011/11/14/2559567/tony-fadell-nest-learning-thermostat";
 
+$data[186]['desktopapp']['pick'][0]['name'] = "Wunderlist";
+$data[186]['desktopapp']['pick'][0]['url'] = "http://www.6wunderkinder.com/wunderlist/";
+
+$data[186]['android']['pick'][0]['name'] = "Wunderlist Task Manager";
+$data[186]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.wunderkinder.wunderlistandroid";
+$data[186]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 187
 $data[187]['title'] = "Thankful for Open Source | LAS 187 (S19E07)";
@@ -1695,6 +2209,13 @@ $data[187]['date'] = "2011-11-27";
 
 $data[187]['runslinux']['pick'][0]['name'] = "The GameGadget";
 $data[187]['runslinux']['pick'][0]['url'] = "http://www.geek.com/articles/games/linux-based-gamegadget-wants-to-become-the-ipod-of-classic-portable-gaming-20111121/";
+
+$data[187]['desktopapp']['pick'][0]['name'] = "ZevenOS";
+$data[187]['desktopapp']['pick'][0]['url'] = "http://www.zevenos.com/allgemein/zevenos-4-0-release-announcement.html";
+
+$data[187]['android']['pick'][0]['name'] = "ezPDF Reader";
+$data[187]['android']['pick'][0]['url'] = "https://market.android.com/details?id=udk.android.reader&hl=en";
+$data[187]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 188
@@ -1705,6 +2226,16 @@ $data[188]['date'] = "2011-12-04";
 $data[188]['runslinux']['pick'][0]['name'] = "Instagram";
 $data[188]['runslinux']['pick'][0]['url'] = "http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances-dozens-of";
 
+$data[188]['desktopapp']['pick'][0]['name'] = "Aleph One 1.0";
+$data[188]['desktopapp']['pick'][0]['url'] = "http://freegamer.blogspot.com/2011/12/aleph-one-10-released.html";
+
+$data[188]['android']['pick'][0]['name'] = "Carrier IQ Detector";
+$data[188]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.lookout.carrieriqdetector";
+$data[188]['android']['pick'][0]['source'] = "jb";
+
+$data[188]['distro']['pick'][0]['name'] = "ZevenOS";
+$data[188]['distro']['pick'][0]['url'] = "http://www.zevenos.com/allgemein/zevenos-4-0-release-announcement.html";
+
 
 // Episode 189
 $data[189]['title'] = "Linux Sound Card Troubleshooting  | LAS 189 (S19E09)";
@@ -1713,6 +2244,13 @@ $data[189]['date'] = "2011-12-11";
 
 $data[189]['runslinux']['pick'][0]['name'] = "Solar powered, titanium-framed fiberglass robots";
 $data[189]['runslinux']['pick'][0]['url'] = "http://www.ubuntuvibes.com/2011/12/linux-based-robots-depart-on-300-day.html?";
+
+$data[189]['desktopapp']['pick'][0]['name'] = "Pissed Off Penguins";
+$data[189]['desktopapp']['pick'][0]['url'] = "http://beginlinux.com/blog/2011/12/pissed-off-penguins-game/";
+
+$data[189]['android']['pick'][0]['name'] = "Google Currents";
+$data[189]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.google.android.apps.currents";
+$data[189]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 190
@@ -1723,6 +2261,13 @@ $data[190]['date'] = "2011-12-18";
 $data[190]['runslinux']['pick'][0]['name'] = "Impromptu lamp";
 $data[190]['runslinux']['pick'][0]['url'] = "http://hackaday.com/2011/12/15/impromptu-lamp-runs-linux/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+hackaday%2FLgoM+%28Hack+a+Day%29";
 
+$data[190]['desktopapp']['pick'][0]['name'] = "Blender 2.61";
+$data[190]['desktopapp']['pick'][0]['url'] = "http://www.blender.org/development/release-logs/blender-261/";
+
+$data[190]['android']['pick'][0]['name'] = "UNO Free";
+$data[190]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.gameloft.android.ANMP.GloftUFHM";
+$data[190]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 191
 $data[191]['title'] = "2012 Linux Predictions! | LAS 191 (S20E01)";
@@ -1731,6 +2276,13 @@ $data[191]['date'] = "2012-01-08";
 
 $data[191]['runslinux']['pick'][0]['name'] = "BeagleBone";
 $data[191]['runslinux']['pick'][0]['url'] = "http://www.engadget.com/2011/11/01/beaglebone-offers-up-arm-a8-processor-linux-and-10-second-boot/";
+
+$data[191]['desktopapp']['pick'][0]['name'] = "Qtractor";
+$data[191]['desktopapp']['pick'][0]['url'] = "http://qtractor.sourceforge.net/qtractor-index.html#Intro";
+
+$data[191]['android']['pick'][0]['name'] = "Tether by ClockworkMod";
+$data[191]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.koushikdutta.tether";
+$data[191]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 192
@@ -1741,6 +2293,16 @@ $data[192]['date'] = "2012-01-15";
 $data[192]['runslinux']['pick'][0]['name'] = "US killer spy drone controls";
 $data[192]['runslinux']['pick'][0]['url'] = "http://www.theregister.co.uk/2012/01/12/drone_consoles_linux_switch/";
 
+$data[192]['desktopapp']['pick'][0]['name'] = "FreeOrion";
+$data[192]['desktopapp']['pick'][0]['url'] = "http://www.freeorion.org/index.php/Main_Page";
+
+$data[192]['android']['pick'][0]['name'] = "Winter Wake-up";
+$data[192]['android']['pick'][0]['url'] = "https://market.android.com/details?id=eu.boondoggle.eoyalarm";
+$data[192]['android']['pick'][0]['source'] = "jb";
+
+$data[192]['distro']['pick'][0]['name'] = "DEFT Linux";
+$data[192]['distro']['pick'][0]['url'] = "http://www.deftlinux.net/";
+
 
 // Episode 193
 $data[193]['title'] = "FreeBSD 9.0 Review  | LAS 193 (S20E03)";
@@ -1749,6 +2311,18 @@ $data[193]['date'] = "2012-01-22";
 
 $data[193]['runslinux']['pick'][0]['name'] = "The University of Windsor";
 $data[193]['runslinux']['pick'][0]['url'] = "http://www.disklessworkstations.com/blog/school-leverages-sun-hardware-switches-to-ltsp-thin-clients/";
+
+$data[193]['desktopapp']['pick'][0]['name'] = "Tor";
+$data[193]['desktopapp']['pick'][0]['url'] = "https://www.torproject.org/index.html.en";
+$data[193]['desktopapp']['pick'][1]['name'] = "Pencil";
+$data[193]['desktopapp']['pick'][1]['url'] = "http://www.pencil-animation.org/";
+
+$data[193]['android']['pick'][0]['name'] = "Significant Other Pleaser Free";
+$data[193]['android']['pick'][0]['url'] = "https://market.android.com/details?id=net.dankolb.SigOthPls&feature=search_result#?t=W251bGwsMSwxLDEsIm5ldC5kYW5rb2xiLlNpZ090aFBscyJd";
+$data[193]['android']['pick'][0]['source'] = "jb";
+
+$data[193]['distro']['pick'][0]['name'] = "Tails";
+$data[193]['distro']['pick'][0]['url'] = "https://tails.boum.org/index.en.html";
 
 
 // Episode 194
@@ -1759,6 +2333,16 @@ $data[194]['date'] = "2012-01-29";
 $data[194]['runslinux']['pick'][0]['name'] = "Reddit";
 $data[194]['runslinux']['pick'][0]['url'] = "http://blog.reddit.com/2012/01/january-2012-state-of-servers.html";
 
+$data[194]['desktopapp']['pick'][0]['name'] = "Synchronet";
+$data[194]['desktopapp']['pick'][0]['url'] = "http://en.wikipedia.org/wiki/Synchronet";
+
+$data[194]['android']['pick'][0]['name'] = "imgur";
+$data[194]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.imgurforandroid";
+$data[194]['android']['pick'][0]['source'] = "jb";
+
+$data[194]['distro']['pick'][0]['name'] = "linuX gamers";
+$data[194]['distro']['pick'][0]['url'] = "http://live.linux-gamers.net/";
+
 
 // Episode 195
 $data[195]['title'] = "ArchBang Review | LAS 195 (S20E05)";
@@ -1767,6 +2351,21 @@ $data[195]['date'] = "2012-02-04";
 
 $data[195]['runslinux']['pick'][0]['name'] = "Your home could";
 $data[195]['runslinux']['pick'][0]['url'] = "http://www.linuxfordevices.com/c/a/News/ConnectPort-X2e-for-Smart-Energy-/";
+
+$data[195]['desktopapp']['pick'][0]['name'] = "BeerSmith";
+$data[195]['desktopapp']['pick'][0]['url'] = "http://www.beersmith.com/";
+
+$data[195]['android']['pick'][0]['name'] = "Easy Development Studio";
+$data[195]['android']['pick'][0]['url'] = "http://eds.osmasterminds.com/";
+$data[195]['android']['pick'][0]['source'] = "jb";
+$data[195]['android']['pick'][1]['name'] = "The Humble Bundle";
+$data[195]['android']['pick'][1]['url'] = "http://blog.humblebundle.com/post/16825398450/the-humble-bundle-for-android-is-here";
+$data[195]['android']['pick'][1]['source'] = "jb";
+
+$data[195]['distro']['pick'][0]['name'] = "Tiny Core Linux 4.2";
+$data[195]['distro']['pick'][0]['url'] = "http://liliputing.com/2012/01/tiny-core-linux-4-2-is-a-complete-operating-system-in-64mb-or-less.html";
+$data[195]['distro']['pick'][1]['name'] = "Bridge Linux";
+$data[195]['distro']['pick'][1]['url'] = "http://millertechnologies.net/";
 
 
 // Episode 196
@@ -1777,6 +2376,16 @@ $data[196]['date'] = "2012-02-12";
 $data[196]['runslinux']['pick'][0]['name'] = "BT Vision";
 $data[196]['runslinux']['pick'][0]['url'] = "http://www.theregister.co.uk/2012/02/03/bt_vision_upgrade/";
 
+$data[196]['desktopapp']['pick'][0]['name'] = "Sandbox Game Maker";
+$data[196]['desktopapp']['pick'][0]['url'] = "http://www.sandboxgamemaker.com/";
+
+$data[196]['android']['pick'][0]['name'] = "ComicRack Free";
+$data[196]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.cyo.comicrack.viewer.free&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5jeW8uY29taWNyYWNrLnZpZXdlci5mcmVlIl0.";
+$data[196]['android']['pick'][0]['source'] = "jb";
+
+$data[196]['distro']['pick'][0]['name'] = "Puppy Arcade";
+$data[196]['distro']['pick'][0]['url'] = "http://scottjarvis.com/page105.htm";
+
 
 // Episode 197
 $data[197]['title'] = "KDE 4.8 Review | LAS 197 (S20E07)";
@@ -1785,6 +2394,16 @@ $data[197]['date'] = "2012-02-19";
 
 $data[197]['runslinux']['pick'][0]['name'] = "Artist's \"Transparency Grenade\"";
 $data[197]['runslinux']['pick'][0]['url'] = "http://www.wired.com/underwire/2012/02/transparency-grenade/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+wired%2Findex+%28Wired%3A+Index+3+%28Top+Stories+2%29%29";
+
+$data[197]['desktopapp']['pick'][0]['name'] = "2299 : THE GAME";
+$data[197]['desktopapp']['pick'][0]['url'] = "http://2299online.com/thegame/";
+
+$data[197]['android']['pick'][0]['name'] = "Osmos Demo";
+$data[197]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.hemispheregames.osmosdemo";
+$data[197]['android']['pick'][0]['source'] = "jb";
+
+$data[197]['distro']['pick'][0]['name'] = "Kwort";
+$data[197]['distro']['pick'][0]['url'] = "http://kwort.org/";
 
 
 // Episode 198
@@ -1795,6 +2414,16 @@ $data[198]['date'] = "2012-02-26";
 $data[198]['runslinux']['pick'][0]['name'] = "Kroger Gas Station";
 $data[198]['runslinux']['pick'][0]['url'] = "http://www.tekkidd.com/2012/02/ubuntu-spotted-found-at-kroger-gas.html";
 
+$data[198]['desktopapp']['pick'][0]['name'] = "xxxterm";
+$data[198]['desktopapp']['pick'][0]['url'] = "https://opensource.conformal.com/wiki/xxxterm";
+
+$data[198]['android']['pick'][0]['name'] = "Great Little War Game";
+$data[198]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.rubicon.dev.glwg";
+$data[198]['android']['pick'][0]['source'] = "jb";
+
+$data[198]['distro']['pick'][0]['name'] = "Connocaet";
+$data[198]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=connochaet";
+
 
 // Episode 199
 $data[199]['title'] = "Leopard Extreme Review the New System76 Big Rig | LAS 199 (S20E09)";
@@ -1803,6 +2432,16 @@ $data[199]['date'] = "2012-03-04";
 
 $data[199]['runslinux']['pick'][0]['name'] = "AB 5500xl SOLiD sequencer";
 $data[199]['runslinux']['pick'][0]['url'] = "https://plus.google.com/u/0/photos/100580194039914237814/albums/5714187554021250817";
+
+$data[199]['desktopapp']['pick'][0]['name'] = "KompoZer";
+$data[199]['desktopapp']['pick'][0]['url'] = "http://kompozer.net/";
+
+$data[199]['android']['pick'][0]['name'] = "Lookout Ad Network Detector";
+$data[199]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.lookout.addetector";
+$data[199]['android']['pick'][0]['source'] = "jb";
+
+$data[199]['distro']['pick'][0]['name'] = "DigAnTel";
+$data[199]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=digantehttpl";
 
 
 // Episode 200
@@ -1813,6 +2452,16 @@ $data[200]['date'] = "2012-03-11";
 $data[200]['runslinux']['pick'][0]['name'] = "Angela Fisher's son";
 $data[200]['runslinux']['pick'][0]['url'] = "https://plus.google.com/101366257805402002854/posts/euh3yCGx19T";
 
+$data[200]['desktopapp']['pick'][0]['name'] = "Ascii Sector";
+$data[200]['desktopapp']['pick'][0]['url'] = "http://www.asciisector.net/";
+
+$data[200]['android']['pick'][0]['name'] = "Jupiter Broadcasting";
+$data[200]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=jupiter.broadcasting.live.tv";
+$data[200]['android']['pick'][0]['source'] = "jb";
+
+$data[200]['distro']['pick'][0]['name'] = "Oracle Linux";
+$data[200]['distro']['pick'][0]['url'] = "http://distrowatch.com/?newsid=07143";
+
 
 // Episode 201
 $data[201]['title'] = "Bryan Hates Freedom | LAS 201 (S21E01)";
@@ -1821,6 +2470,16 @@ $data[201]['date'] = "2012-03-18";
 
 $data[201]['runslinux']['pick'][0]['name'] = "DIY: Coffee Roaster";
 $data[201]['runslinux']['pick'][0]['url'] = "http://arkarthick.com/2012/01/18/linux-powered-coffee-roaster/";
+
+$data[201]['desktopapp']['pick'][0]['name'] = "Bitfighter";
+$data[201]['desktopapp']['pick'][0]['url'] = "http://bitfighter.org/";
+
+$data[201]['android']['pick'][0]['name'] = "Draw Something Free";
+$data[201]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.omgpop.dstfree";
+$data[201]['android']['pick'][0]['source'] = "jb";
+
+$data[201]['distro']['pick'][0]['name'] = "Kademar";
+$data[201]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=kdemar";
 
 
 // Episode 202
@@ -1831,6 +2490,16 @@ $data[202]['date'] = "2012-03-25";
 $data[202]['runslinux']['pick'][0]['name'] = "McDonalds";
 $data[202]['runslinux']['pick'][0]['url'] = "http://linuxinthewild.tumblr.com/post/19743708797/ubuntu-presumably-8-10-due-to-the-ui-has-been";
 
+$data[202]['desktopapp']['pick'][0]['name'] = "Frodo";
+$data[202]['desktopapp']['pick'][0]['url'] = "http://frodo.cebix.net/";
+
+$data[202]['android']['pick'][0]['name'] = "Babbler Audio Recorder";
+$data[202]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.itadapter.android.games.babbler";
+$data[202]['android']['pick'][0]['source'] = "jb";
+
+$data[202]['distro']['pick'][0]['name'] = "Redo - Backup & Recovery";
+$data[202]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=redo";
+
 
 // Episode 203
 $data[203]['title'] = "Windows 8 Preview | LAS 203 (S21E03)";
@@ -1839,6 +2508,16 @@ $data[203]['date'] = "2012-04-01";
 
 $data[203]['runslinux']['pick'][0]['name'] = "This transparent 3D desktop";
 $data[203]['runslinux']['pick'][0]['url'] = "http://www.theverge.com/2012/2/28/2829903/microsoft-transparent-3d-desktop-virtual-computing-environment";
+
+$data[203]['desktopapp']['pick'][0]['name'] = "Photoshop (April Fools)";
+$data[203]['desktopapp']['pick'][0]['url'] = "http://en.wikipedia.org/wiki/Photoshop";
+
+$data[203]['android']['pick'][0]['name'] = "Minesweeper (April Fools)";
+$data[203]['android']['pick'][0]['url'] = "http://www.windowsphone.com/en-US/apps/48eedfbe-b24f-4a59-86f2-924538452fc5";
+$data[203]['android']['pick'][0]['source'] = "jb";
+
+$data[203]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[203]['distro']['pick'][0]['url'] = "0";
 
 
 // Episode 204
@@ -1849,6 +2528,16 @@ $data[204]['date'] = "2012-04-07";
 $data[204]['runslinux']['pick'][0]['name'] = "The Tricorder project";
 $data[204]['runslinux']['pick'][0]['url'] = "http://www.tricorderproject.org/tricorder-mark2.html";
 
+$data[204]['desktopapp']['pick'][0]['name'] = "Linux Tycoon";
+$data[204]['desktopapp']['pick'][0]['url'] = "http://lunduke.com/?page_id=2646";
+
+$data[204]['android']['pick'][0]['name'] = "Six-Guns";
+$data[204]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftSXHM&feature=featured-apps";
+$data[204]['android']['pick'][0]['source'] = "jb";
+
+$data[204]['distro']['pick'][0]['name'] = "Bio-Linux";
+$data[204]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=biolinux";
+
 
 // Episode 205
 $data[205]['title'] = "Mysterious Blue Systems | LAS 205 (S21E05)";
@@ -1857,6 +2546,16 @@ $data[205]['date'] = "2012-04-15";
 
 $data[205]['runslinux']['pick'][0]['name'] = "This hand dryer";
 $data[205]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/s8c56/this_hand_dryer_runs_linux/";
+
+$data[205]['desktopapp']['pick'][0]['name'] = "Synergy";
+$data[205]['desktopapp']['pick'][0]['url'] = "http://synergy-foss.org/";
+
+$data[205]['android']['pick'][0]['name'] = "BaconReader for Reddit";
+$data[205]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.onelouder.baconreader";
+$data[205]['android']['pick'][0]['source'] = "jb";
+
+$data[205]['distro']['pick'][0]['name'] = "Semplice";
+$data[205]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=semplice";
 
 
 // Episode 206
@@ -1867,6 +2566,16 @@ $data[206]['date'] = "2012-04-22";
 $data[206]['runslinux']['pick'][0]['name'] = "Pebble";
 $data[206]['runslinux']['pick'][0]['url'] = "http://www.unixmen.com/pebble-the-smartwatch-with-linux-at-its-heart/";
 
+$data[206]['desktopapp']['pick'][0]['name'] = "ReText";
+$data[206]['desktopapp']['pick'][0]['url'] = "http://sourceforge.net/p/retext/home/ReText/";
+
+$data[206]['android']['pick'][0]['name'] = "BeyondPod Podcast Manager";
+$data[206]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=mobi.beyondpod";
+$data[206]['android']['pick'][0]['source'] = "jb";
+
+$data[206]['distro']['pick'][0]['name'] = "DescentOS";
+$data[206]['distro']['pick'][0]['url'] = "http://www.descentos.org/";
+
 
 // Episode 207
 $data[207]['title'] = "LinuxFest Northwest 2012 | LAS 207 (S21E07)";
@@ -1875,6 +2584,16 @@ $data[207]['date'] = "2012-04-29";
 
 $data[207]['runslinux']['pick'][0]['name'] = "This bus";
 $data[207]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/stnmo/this_bus_runs_linux/";
+
+$data[207]['desktopapp']['pick'][0]['name'] = "Deluge";
+$data[207]['desktopapp']['pick'][0]['url'] = "http://deluge-torrent.org/";
+
+$data[207]['android']['pick'][0]['name'] = "AndChat";
+$data[207]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=net.andchat&hl=en";
+$data[207]['android']['pick'][0]['source'] = "jb";
+
+$data[207]['distro']['pick'][0]['name'] = "YellowDog";
+$data[207]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=yellowdog";
 
 
 // Episode 208
@@ -1885,6 +2604,16 @@ $data[208]['date'] = "2012-05-06";
 $data[208]['runslinux']['pick'][0]['name'] = "fiftyfoldchris' Local Library";
 $data[208]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/t9aqe/my_local_library_runs_linux/";
 
+$data[208]['desktopapp']['pick'][0]['name'] = "UFO: Alien Invasion";
+$data[208]['desktopapp']['pick'][0]['url'] = "http://ufoai.org/wiki/index.php/News";
+
+$data[208]['android']['pick'][0]['name'] = "The Avengers-Iron Man Mark VII";
+$data[208]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/the-avengers-iron-man-mark-vii/com.loudcrow.marvelavengers";
+$data[208]['android']['pick'][0]['source'] = "jb";
+
+$data[208]['distro']['pick'][0]['name'] = "VortexBox";
+$data[208]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=vortexbox";
+
 
 // Episode 209
 $data[209]['title'] = "State of Linux Wireless | LAS 209 (S21E09)";
@@ -1893,6 +2622,16 @@ $data[209]['date'] = "2012-05-12";
 
 $data[209]['runslinux']['pick'][0]['name'] = "This Rocket";
 $data[209]['runslinux']['pick'][0]['url'] = "http://www.linuxforu.com/2009/09/linux-in-rocket-science/";
+
+$data[209]['desktopapp']['pick'][0]['name'] = "Jupiter Broadcasting App (Roku)";
+$data[209]['desktopapp']['pick'][0]['url'] = "https://owner.roku.com/add/JBTV";
+
+$data[209]['android']['pick'][0]['name'] = "Jupiter Broadcasting";
+$data[209]['android']['pick'][0]['url'] = "https://owner.roku.com/add/JBTV";
+$data[209]['android']['pick'][0]['source'] = "jb";
+
+$data[209]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[209]['distro']['pick'][0]['url'] = "0";
 
 
 // Episode 210
@@ -1903,6 +2642,16 @@ $data[210]['date'] = "2012-05-20";
 $data[210]['runslinux']['pick'][0]['name'] = "Tux Racer Arcade Cabinet";
 $data[210]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/tsked/runs_linux_tux_racer_arcade_cabinet/";
 
+$data[210]['desktopapp']['pick'][0]['name'] = "Awesome Blocks of Awesome";
+$data[210]['desktopapp']['pick'][0]['url'] = "http://lunduke.com/?page_id=3152";
+
+$data[210]['android']['pick'][0]['name'] = "Linux Installer for Android";
+$data[210]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/linux-installer/com.galoula.LinuxInstall";
+$data[210]['android']['pick'][0]['source'] = "jb";
+
+$data[210]['distro']['pick'][0]['name'] = "DouDouLinux";
+$data[210]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=doudou";
+
 
 // Episode 211
 $data[211]['title'] = "Fedora 17 Review | LAS 211 (S22E01)";
@@ -1911,6 +2660,16 @@ $data[211]['date'] = "2012-05-27";
 
 $data[211]['runslinux']['pick'][0]['name'] = "This Cadillac";
 $data[211]['runslinux']['pick'][0]['url'] = "http://www.wired.com/autopia/2012/05/2013-cadillac-xts/";
+
+$data[211]['desktopapp']['pick'][0]['name'] = "Miro";
+$data[211]['desktopapp']['pick'][0]['url'] = "http://www.getmiro.com/";
+
+$data[211]['android']['pick'][0]['name'] = "Poop Salary";
+$data[211]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.poopsalary";
+$data[211]['android']['pick'][0]['source'] = "jb";
+
+$data[211]['distro']['pick'][0]['name'] = "Hybryde";
+$data[211]['distro']['pick'][0]['url'] = "http://www.hybryde.org/hybryde_evolution";
 
 
 // Episode 212
@@ -1921,6 +2680,16 @@ $data[212]['date'] = "2012-06-03";
 $data[212]['runslinux']['pick'][0]['name'] = "Parrot AR.Drone 2.0 Quadricopter";
 $data[212]['runslinux']['pick'][0]['url'] = "http://www.amazon.com/dp/B007HZLLOK/?tag=thelinactsho-20";
 
+$data[212]['desktopapp']['pick'][0]['name'] = "PabloDraw";
+$data[212]['desktopapp']['pick'][0]['url'] = "http://picoe.ca/products/pablodraw/";
+
+$data[212]['android']['pick'][0]['name'] = "Sipdroid";
+$data[212]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/sipdroid/org.sipdroid.sipua";
+$data[212]['android']['pick'][0]['source'] = "jb";
+
+$data[212]['distro']['pick'][0]['name'] = "Kaspersky Live CD";
+$data[212]['distro']['pick'][0]['url'] = "http://www.unixmen.com/kaspersky-antivirus-use-linux-to-rescue-windows/";
+
 
 // Episode 213
 $data[213]['title'] = "One Giant Leap | LAS 213 (S22E03)";
@@ -1929,6 +2698,16 @@ $data[213]['date'] = "2012-06-10";
 
 $data[213]['runslinux']['pick'][0]['name'] = "Ground Control Stations for Drones";
 $data[213]['runslinux']['pick'][0]['url'] = "http://news.cnet.com/8301-11386_3-57449783-76/u.s-navy-turns-to-linux-to-run-its-drone-fleet/";
+
+$data[213]['desktopapp']['pick'][0]['name'] = "ChatZilla Add-on for Firefox";
+$data[213]['desktopapp']['pick'][0]['url'] = "https://addons.mozilla.org/en-US/firefox/addon/chatzilla/";
+
+$data[213]['android']['pick'][0]['name'] = "AnkiDroid Flashcards";
+$data[213]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.ichi2.anki";
+$data[213]['android']['pick'][0]['source'] = "jb";
+
+$data[213]['distro']['pick'][0]['name'] = "Sabayon Linux 9";
+$data[213]['distro']['pick'][0]['url'] = "http://www.sabayon.org/release/press-release-sabayon-linux-9";
 
 
 // Episode 214
@@ -1939,6 +2718,16 @@ $data[214]['date'] = "2012-06-17";
 $data[214]['runslinux']['pick'][0]['name'] = "\"Big Brain\" Computer";
 $data[214]['runslinux']['pick'][0]['url'] = "http://www.datacenterknowledge.com/archives/2012/06/14/hawking-is-first-user-of-sgi-big-brain-supercomputer/";
 
+$data[214]['desktopapp']['pick'][0]['name'] = "Mixxx DJ Mixing Software";
+$data[214]['desktopapp']['pick'][0]['url'] = "http://www.mixxx.org/";
+
+$data[214]['android']['pick'][0]['name'] = "StreamFurious";
+$data[214]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/streamfurious/com.streamfurious.android.free";
+$data[214]['android']['pick'][0]['source'] = "jb";
+
+$data[214]['distro']['pick'][0]['name'] = "Metasploitable";
+$data[214]['distro']['pick'][0]['url'] = "http://www.offensive-security.com/metasploit-unleashed/Metasploitable";
+
 
 // Episode 215
 $data[215]['title'] = "Linux Logging Basics | LAS 215 (S22E05)";
@@ -1947,6 +2736,16 @@ $data[215]['date'] = "2012-06-24";
 
 $data[215]['runslinux']['pick'][0]['name'] = "World's Fastest Supercomputer";
 $data[215]['runslinux']['pick'][0]['url'] = "http://www.muktware.com/3720/worlds-fastest-supercomputer-runs-linux-red-hat-enterprise-linux";
+
+$data[215]['desktopapp']['pick'][0]['name'] = "Terminator";
+$data[215]['desktopapp']['pick'][0]['url'] = "http://www.tenshu.net/p/terminator.html";
+
+$data[215]['android']['pick'][0]['name'] = "TapChat";
+$data[215]['android']['pick'][0]['url'] = "http://tapchatapp.com/";
+$data[215]['android']['pick'][0]['source'] = "jb";
+
+$data[215]['distro']['pick'][0]['name'] = "Pinguy OS – 12.04";
+$data[215]['distro']['pick'][0]['url'] = "http://pinguyos.com/";
 
 
 // Episode 216
@@ -1957,6 +2756,16 @@ $data[216]['date'] = "2012-07-01";
 $data[216]['runslinux']['pick'][0]['name'] = "ASUS Netbooks";
 $data[216]['runslinux']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2012/06/asus-quietly-launch-new-ubuntu-netbook";
 
+$data[216]['desktopapp']['pick'][0]['name'] = "ASEPRITE";
+$data[216]['desktopapp']['pick'][0]['url'] = "http://www.aseprite.org/";
+
+$data[216]['android']['pick'][0]['name'] = "Google Analytics";
+$data[216]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/google-analytics/com.google.android.apps.giant";
+$data[216]['android']['pick'][0]['source'] = "jb";
+
+$data[216]['distro']['pick'][0]['name'] = "Parted Magic";
+$data[216]['distro']['pick'][0]['url'] = "http://partedmagic.com/doku.php";
+
 
 // Episode 217
 $data[217]['title'] = "Ubuntu App Showdown | LAS 217 (S22E07)";
@@ -1965,6 +2774,18 @@ $data[217]['date'] = "2012-07-08";
 
 $data[217]['runslinux']['pick'][0]['name'] = "Computers searching for \"Higgs boson\"";
 $data[217]['runslinux']['pick'][0]['url'] = "http://www.ubuntuvibes.com/2012/07/linux-played-crucial-role-in-discovery.html";
+
+$data[217]['desktopapp']['pick'][0]['name'] = "Ubuntu One Dolphin Plugin";
+$data[217]['desktopapp']['pick'][0]['url'] = "http://opendesktop.org/content/show.php/Ubuntu+One+Dolphin+Plugin?content=152035";
+$data[217]['desktopapp']['pick'][1]['name'] = "Dropbox ServiceMenu";
+$data[217]['desktopapp']['pick'][1]['url'] = "http://kde-apps.org/content/show.php/Dropbox+ServiceMenu?content=124416";
+
+$data[217]['android']['pick'][0]['name'] = "WarGames: WOPR";
+$data[217]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.berad.wargames";
+$data[217]['android']['pick'][0]['source'] = "jb";
+
+$data[217]['distro']['pick'][0]['name'] = "Descent|OS 3.0 Alpha 2";
+$data[217]['distro']['pick'][0]['url'] = "http://distrowatch.com/?newsid=07328";
 
 
 // Episode 218
@@ -1975,6 +2796,16 @@ $data[218]['date'] = "2012-07-15";
 $data[218]['runslinux']['pick'][0]['name'] = "This \"Smart TV\" from a Spanish hospital";
 $data[218]['runslinux']['pick'][0]['url'] = "http://imgur.com/a/Hi5Q9";
 
+$data[218]['desktopapp']['pick'][0]['name'] = "nano";
+$data[218]['desktopapp']['pick'][0]['url'] = "http://en.wikipedia.org/wiki/Nano_(text_editor)";
+
+$data[218]['android']['pick'][0]['name'] = "XBMC For Android";
+$data[218]['android']['pick'][0]['url'] = "http://xbmc.org/theuni/2012/07/13/xbmc-for-android/";
+$data[218]['android']['pick'][0]['source'] = "jb";
+
+$data[218]['distro']['pick'][0]['name'] = "Liquid Lemur";
+$data[218]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=liquidlemur";
+
 
 // Episode 219
 $data[219]['title'] = "Opening the Valve | LAS 219 (S22E09)";
@@ -1983,6 +2814,16 @@ $data[219]['date'] = "2012-07-22";
 
 $data[219]['runslinux']['pick'][0]['name'] = "This 8-bit micro";
 $data[219]['runslinux']['pick'][0]['url'] = "http://dmitry.co/index.php?p=./04.Thoughts/07.%20Linux%20on%208bit";
+
+$data[219]['desktopapp']['pick'][0]['name'] = "OcenAudio";
+$data[219]['desktopapp']['pick'][0]['url'] = "http://www.ubuntugeek.com/ocenaudio-easy-to-use-audio-editor.html";
+
+$data[219]['android']['pick'][0]['name'] = "TextSecure Beta";
+$data[219]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en";
+$data[219]['android']['pick'][0]['source'] = "jb";
+
+$data[219]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[219]['distro']['pick'][0]['url'] = "0";
 
 
 // Episode 220
@@ -1993,6 +2834,16 @@ $data[220]['date'] = "2012-07-29";
 $data[220]['runslinux']['pick'][0]['name'] = "47,456-core German supercomputer";
 $data[220]['runslinux']['pick'][0]['url'] = "http://dmitry.co/index.php?p=./04.Thoughts/07.%20Linux%20on%208bit";
 
+$data[220]['desktopapp']['pick'][0]['name'] = "Radio Tray";
+$data[220]['desktopapp']['pick'][0]['url'] = "http://radiotray.sourceforge.net/";
+
+$data[220]['android']['pick'][0]['name'] = "Waze";
+$data[220]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/waze-social-gps-traffic-gas/com.waze";
+$data[220]['android']['pick'][0]['source'] = "jb";
+
+$data[220]['distro']['pick'][0]['name'] = "Raspbmc";
+$data[220]['distro']['pick'][0]['url'] = "http://www.ubuntuvibes.com/2012/02/raspbmc-xbmc-linux-distribution-for.html";
+
 
 // Episode 221
 $data[221]['title'] = "The Phoronix Man | LAS 221 (S23E01)";
@@ -2001,6 +2852,16 @@ $data[221]['date'] = "2012-08-05";
 
 $data[221]['runslinux']['pick'][0]['name'] = "MIT's Semi-Autonomous Car";
 $data[221]['runslinux']['pick'][0]['url'] = "http://www.wired.com/autopia/2012/07/mits-semi-autonomous-car/";
+
+$data[221]['desktopapp']['pick'][0]['name'] = "NitroShare";
+$data[221]['desktopapp']['pick'][0]['url'] = "http://quickmediasolutions.com/apps/14/nitroshare";
+
+$data[221]['android']['pick'][0]['name'] = "ownCloud";
+$data[221]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/owncloud/com.owncloud.android";
+$data[221]['android']['pick'][0]['source'] = "jb";
+
+$data[221]['distro']['pick'][0]['name'] = "DoudouLinux";
+$data[221]['distro']['pick'][0]['url'] = "http://www.doudoulinux.org/web/english/index.html";
 
 
 // Episode 222
@@ -2011,6 +2872,16 @@ $data[222]['date'] = "2012-08-12";
 $data[222]['runslinux']['pick'][0]['name'] = "SpaceX rockets";
 $data[222]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=UtHoccnm4cU&t=9m30s";
 
+$data[222]['desktopapp']['pick'][0]['name'] = "Lightread";
+$data[222]['desktopapp']['pick'][0]['url'] = "https://launchpad.net/lightread";
+
+$data[222]['android']['pick'][0]['name'] = "Terminal IDE";
+$data[222]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.spartacusrex.spartacuside&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5zcGFydGFjdXNyZXguc3BhcnRhY3VzaWRlIl0.";
+$data[222]['android']['pick'][0]['source'] = "jb";
+
+$data[222]['distro']['pick'][0]['name'] = "Bedrock Linux";
+$data[222]['distro']['pick'][0]['url'] = "http://opensource.osu.edu/~paradigm/bedrock/";
+
 
 // Episode 223
 $data[223]['title'] = "Making Unity Usable | LAS 223 (S23E03)";
@@ -2019,6 +2890,16 @@ $data[223]['date'] = "2012-08-19";
 
 $data[223]['runslinux']['pick'][0]['name'] = "Touch Screen Enabled Label Printer";
 $data[223]['runslinux']['pick'][0]['url'] = "http://e17releasemanager.wordpress.com/2012/08/15/and-now-for-something-completely-different/";
+
+$data[223]['desktopapp']['pick'][0]['name'] = "Format Junkie";
+$data[223]['desktopapp']['pick'][0]['url'] = "http://www.reddit.com/r/Ubuntu/comments/ya3u4/format_junkie_fully_featured_media_converter/";
+
+$data[223]['android']['pick'][0]['name'] = "Flipboard";
+$data[223]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/flipboard%3A-your-news-magazine/flipboard.app";
+$data[223]['android']['pick'][0]['source'] = "jb";
+
+$data[223]['distro']['pick'][0]['name'] = "Untangle Gateway 9.3";
+$data[223]['distro']['pick'][0]['url'] = "http://distrowatch.com/?newsid=07384";
 
 
 // Episode 224
@@ -2029,6 +2910,16 @@ $data[224]['date'] = "2012-08-26";
 $data[224]['runslinux']['pick'][0]['name'] = "Nikon's Point and Shoot Camera";
 $data[224]['runslinux']['pick'][0]['url'] = "http://www.engadget.com/2012/08/22/nikon-coolpix-s800c-android-camera-pricing-ship-date-details/";
 
+$data[224]['desktopapp']['pick'][0]['name'] = "Wake on Plan";
+$data[224]['desktopapp']['pick'][0]['url'] = "https://launchpad.net/wakeonplan";
+
+$data[224]['android']['pick'][0]['name'] = "AppBrain Ad Detector";
+$data[224]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/appbrain-ad-detector/com.appspot.swisscodemonkeys.detector";
+$data[224]['android']['pick'][0]['source'] = "jb";
+
+$data[224]['distro']['pick'][0]['name'] = "Manjaro Linux";
+$data[224]['distro']['pick'][0]['url'] = "http://blog.manjaro.org/";
+
 
 // Episode 225
 $data[225]['title'] = "Trisquel GNU/Linux Review | LAS 225 (S23E05)";
@@ -2037,6 +2928,16 @@ $data[225]['date'] = "2012-09-02";
 
 $data[225]['runslinux']['pick'][0]['name'] = "Stephen Fry";
 $data[225]['runslinux']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2012/08/stephen-fry-i-use-ubuntu";
+
+$data[225]['desktopapp']['pick'][0]['name'] = "Smuxi - IRC Client";
+$data[225]['desktopapp']['pick'][0]['url'] = "http://www.smuxi.org/main/";
+
+$data[225]['android']['pick'][0]['name'] = "rsync backup";
+$data[225]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/rsync-backup-for-android/eu.kowalczuk.rsync4android";
+$data[225]['android']['pick'][0]['source'] = "jb";
+
+$data[225]['distro']['pick'][0]['name'] = "TurnKey Linux";
+$data[225]['distro']['pick'][0]['url'] = "http://www.turnkeylinux.org/";
 
 
 // Episode 226
@@ -2047,6 +2948,16 @@ $data[226]['date'] = "2012-09-09";
 $data[226]['runslinux']['pick'][0]['name'] = "Most Formula 1 Teams";
 $data[226]['runslinux']['pick'][0]['url'] = "http://www.itpro.co.uk/192522/linux-and-formula-one";
 
+$data[226]['desktopapp']['pick'][0]['name'] = "Glances by nicolargo";
+$data[226]['desktopapp']['pick'][0]['url'] = "http://nicolargo.github.com/glances/";
+
+$data[226]['android']['pick'][0]['name'] = "Callisto";
+$data[226]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.qweex.callisto";
+$data[226]['android']['pick'][0]['source'] = "jb";
+
+$data[226]['distro']['pick'][0]['name'] = "CTKArch";
+$data[226]['distro']['pick'][0]['url'] = "http://ctkarch.org/";
+
 
 // Episode 227
 $data[227]['title'] = "The Best XFCE Distro? | LAS 227 (S23E07)";
@@ -2055,6 +2966,16 @@ $data[227]['date'] = "2012-09-16";
 
 $data[227]['runslinux']['pick'][0]['name'] = "Westcliff High Scool for Girls";
 $data[227]['runslinux']['pick'][0]['url'] = "http://www.whsg.info/index.php/open-source-software/2-uncategorised/40-suse";
+
+$data[227]['desktopapp']['pick'][0]['name'] = "Geary";
+$data[227]['desktopapp']['pick'][0]['url'] = "http://yorba.org/geary/";
+
+$data[227]['android']['pick'][0]['name'] = "AirDroid";
+$data[227]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.sand.airdroid";
+$data[227]['android']['pick'][0]['source'] = "jb";
+
+$data[227]['distro']['pick'][0]['name'] = "VectorLinux";
+$data[227]['distro']['pick'][0]['url'] = "http://www.vectorlinux.com/";
 
 
 // Episode 228
@@ -2065,6 +2986,16 @@ $data[228]['date'] = "2012-09-23";
 $data[228]['runslinux']['pick'][0]['name'] = "IBM Research Watch";
 $data[228]['runslinux']['pick'][0]['url'] = "http://www.research.ibm.com/WearableComputing/linuxwatch/oledwatch/oledwatch.html";
 
+$data[228]['desktopapp']['pick'][0]['name'] = "Laptop Mode Tools";
+$data[228]['desktopapp']['pick'][0]['url'] = "http://samwel.tk/laptop_mode/";
+
+$data[228]['android']['pick'][0]['name'] = "Instant EXIF Remover";
+$data[228]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=jp.espresso3389.exifedit";
+$data[228]['android']['pick'][0]['source'] = "jb";
+
+$data[228]['distro']['pick'][0]['name'] = "Overclockix";
+$data[228]['distro']['pick'][0]['url'] = "http://www.overclockix.com/";
+
 
 // Episode 229
 $data[229]['title'] = "PC-BSD 9.1 Review | LAS 229 (S23E09)";
@@ -2073,6 +3004,16 @@ $data[229]['date'] = "2012-09-30";
 
 $data[229]['runslinux']['pick'][0]['name'] = "US Congressman Michael Grimm";
 $data[229]['runslinux']['pick'][0]['url'] = "http://www.theregister.co.uk/2012/09/26/vandals_install_linux_on_congressman_office_computers/";
+
+$data[229]['desktopapp']['pick'][0]['name'] = "syncBackup";
+$data[229]['desktopapp']['pick'][0]['url'] = "http://darhon.com/syncbackup";
+
+$data[229]['android']['pick'][0]['name'] = "Paragon NTFS & HFS+";
+$data[229]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.paragon.mounter";
+$data[229]['android']['pick'][0]['source'] = "jb";
+
+$data[229]['distro']['pick'][0]['name'] = "CentOS";
+$data[229]['distro']['pick'][0]['url'] = "https://www.centos.org/";
 
 
 // Episode 230
@@ -2083,6 +3024,16 @@ $data[230]['date'] = "2012-10-07";
 $data[230]['runslinux']['pick'][0]['name'] = "PROITERES Satellite";
 $data[230]['runslinux']['pick'][0]['url'] = "http://www.thepowerbase.com/2012/09/linux-powered-proiteres-satellite-safely-in-orbit/";
 
+$data[230]['desktopapp']['pick'][0]['name'] = "MediaInfo";
+$data[230]['desktopapp']['pick'][0]['url'] = "http://mediainfo.sourceforge.net/en";
+
+$data[230]['android']['pick'][0]['name'] = "ezNetScan";
+$data[230]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/eznetscan/com.vrsspl.eznetscan";
+$data[230]['android']['pick'][0]['source'] = "jb";
+
+$data[230]['distro']['pick'][0]['name'] = "Fuduntu";
+$data[230]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=Fuduntu";
+
 
 // Episode 231
 $data[231]['title'] = "Ubuntu 12.10 Review | LAS 231 (S24E01)";
@@ -2091,6 +3042,16 @@ $data[231]['date'] = "2012-10-14";
 
 $data[231]['runslinux']['pick'][0]['name'] = "Ben NanoNote";
 $data[231]['runslinux']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2012/01/the-ben-nanonote-the-worlds-smallest-linux-laptop";
+
+$data[231]['desktopapp']['pick'][0]['name'] = "Gamecaster";
+$data[231]['desktopapp']['pick'][0]['url'] = "http://www.ubuntuvibes.com/2012/10/gamecaster-updated-for-ubuntu-1210.html";
+
+$data[231]['android']['pick'][0]['name'] = "Pocket Casts";
+$data[231]['android']['pick'][0]['url'] = "http://www.appbrain.com/app/pocket-casts/au.com.shiftyjelly.pocketcasts";
+$data[231]['android']['pick'][0]['source'] = "jb";
+
+$data[231]['distro']['pick'][0]['name'] = "lubuntu";
+$data[231]['distro']['pick'][0]['url'] = "http://lubuntu.net/";
 
 
 // Episode 232
@@ -2101,6 +3062,19 @@ $data[232]['date'] = "2012-10-21";
 $data[232]['runslinux']['pick'][0]['name'] = "Bento Laptop Tablet Hybrid";
 $data[232]['runslinux']['pick'][0]['url'] = "http://www.yankodesign.com/2011/05/06/bento-box-kinda-like-voltron/";
 
+$data[232]['desktopapp']['pick'][0]['name'] = "Hotot";
+$data[232]['desktopapp']['pick'][0]['url'] = "http://www.hotot.org/";
+
+$data[232]['android']['pick'][0]['name'] = "CalDAV-Sync beta";
+$data[232]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=org.dmfs.caldav.lib";
+$data[232]['android']['pick'][0]['source'] = "jb";
+$data[232]['android']['pick'][1]['name'] = "CardDAV-Sync free beta";
+$data[232]['android']['pick'][1]['url'] = "https://play.google.com/store/apps/details?id=org.dmfs.carddav.sync";
+$data[232]['android']['pick'][1]['source'] = "jb";
+
+$data[232]['distro']['pick'][0]['name'] = "CinnArch";
+$data[232]['distro']['pick'][0]['url'] = "http://www.cinnarch.com/";
+
 
 // Episode 233
 $data[233]['title'] = "Secure Your Linux Box | LAS 233 (S24E03)";
@@ -2109,6 +3083,16 @@ $data[233]['date'] = "2012-10-28";
 
 $data[233]['runslinux']['pick'][0]['name'] = "Parallella: A Supercomputer For Everyone";
 $data[233]['runslinux']['pick'][0]['url'] = "http://www.kickstarter.com/projects/adapteva/parallella-a-supercomputer-for-everyone";
+
+$data[233]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[233]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[233]['android']['pick'][0]['name'] = "dSploit";
+$data[233]['android']['pick'][0]['url'] = "http://www.dsploit.net/";
+$data[233]['android']['pick'][0]['source'] = "jb";
+
+$data[233]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[233]['distro']['pick'][0]['url'] = "0";
 
 
 // Episode 234
@@ -2119,6 +3103,16 @@ $data[234]['date'] = "2012-11-04";
 $data[234]['runslinux']['pick'][0]['name'] = "The UbiCast";
 $data[234]['runslinux']['pick'][0]['url'] = "http://www.ubicast.eu/";
 
+$data[234]['desktopapp']['pick'][0]['name'] = "Everpad 2.1";
+$data[234]['desktopapp']['pick'][0]['url'] = "http://www.iloveubuntu.net/everpad-21-released-search-you-type-and-pinned-notes-functionalities";
+
+$data[234]['android']['pick'][0]['name'] = "AndroVid Video Trimmer";
+$data[234]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.androvid";
+$data[234]['android']['pick'][0]['source'] = "jb";
+
+$data[234]['distro']['pick'][0]['name'] = "Pear Linux 6";
+$data[234]['distro']['pick'][0]['url'] = "http://www.linuxbsdos.com/2012/11/01/pear-linux-6-review/";
+
 
 // Episode 235
 $data[235]['title'] = "Steam for Linux: First Hands On | LAS 235 (S24E05)";
@@ -2127,6 +3121,21 @@ $data[235]['date'] = "2012-11-11";
 
 $data[235]['runslinux']['pick'][0]['name'] = "Virgin Media store";
 $data[235]['runslinux']['pick'][0]['url'] = "http://tny.cz/60f60825";
+
+$data[235]['desktopapp']['pick'][0]['name'] = "Rochard";
+$data[235]['desktopapp']['pick'][0]['url'] = "http://www.rochardthegame.com/en/";
+$data[235]['desktopapp']['pick'][1]['name'] = "Icon Set for HIB 6";
+$data[235]['desktopapp']['pick'][1]['url'] = "http://slexy.org/view/s20gzdPKje";
+
+$data[235]['android']['pick'][0]['name'] = "OpenSignalMaps";
+$data[235]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.staircase3.opensignal";
+$data[235]['android']['pick'][0]['source'] = "jb";
+$data[235]['android']['pick'][1]['name'] = "Ubuntu Google Play Lens for Unity";
+$data[235]['android']['pick'][1]['url'] = "http://news.softpedia.com/news/Introducing-Ubuntu-Google-Play-Lens-for-Unity-306095.shtml";
+$data[235]['android']['pick'][1]['source'] = "jb";
+
+$data[235]['distro']['pick'][0]['name'] = "Hybryde Linux";
+$data[235]['distro']['pick'][0]['url'] = "http://distrowatch.com/table.php?distribution=hybryde";
 
 
 // Episode 236
@@ -2137,6 +3146,16 @@ $data[236]['date'] = "2012-11-18";
 $data[236]['runslinux']['pick'][0]['name'] = "The #1 Super Computer";
 $data[236]['runslinux']['pick'][0]['url'] = "http://slexy.org/view/s2zaH8HG8U";
 
+$data[236]['desktopapp']['pick'][0]['name'] = "Phatch - Photo Batch Processor";
+$data[236]['desktopapp']['pick'][0]['url'] = "http://photobatch.stani.be/";
+
+$data[236]['android']['pick'][0]['name'] = "Juice for Roku";
+$data[236]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.jigawattlabs.rokujuice";
+$data[236]['android']['pick'][0]['source'] = "jb";
+$data[236]['android']['pick'][1]['name'] = "Ubuntu/Android mtp pro-tip";
+$data[236]['android']['pick'][1]['url'] = "https://plus.google.com/108392504208314197482/posts/da7TRKVViWx";
+$data[236]['android']['pick'][1]['source'] = "jb";
+
 
 // Episode 237
 $data[237]['title'] = "Linux Mint 14 Review | LAS 237 (S24E07)";
@@ -2145,6 +3164,15 @@ $data[237]['date'] = "2012-11-25";
 
 $data[237]['runslinux']['pick'][0]['name'] = "Home-built \"Bio Computer\"";
 $data[237]['runslinux']['pick'][0]['url'] = "http://www.gizmag.com/bio-computer-grows-wheatgrass/22550/pictures";
+
+$data[237]['desktopapp']['pick'][0]['name'] = "FreetuxTV";
+$data[237]['desktopapp']['pick'][0]['url'] = "http://www.ubuntuvibes.com/2010/10/freetuxtv-lets-you-watch-and-record.html";
+$data[237]['desktopapp']['pick'][1]['name'] = "FreetuxTV Database";
+$data[237]['desktopapp']['pick'][1]['url'] = "http://database.freetuxtv.net/";
+
+$data[237]['android']['pick'][0]['name'] = "Ubuntu Remote Control";
+$data[237]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter";
+$data[237]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 238
@@ -2155,6 +3183,13 @@ $data[238]['date'] = "2012-12-02";
 $data[238]['runslinux']['pick'][0]['name'] = "Wii U Demo Booths";
 $data[238]['runslinux']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2012/11/ubuntu-powering-wii-u-demo-booths";
 
+$data[238]['desktopapp']['pick'][0]['name'] = "ScreenCloud";
+$data[238]['desktopapp']['pick'][0]['url'] = "http://screencloud.net/";
+
+$data[238]['android']['pick'][0]['name'] = "DriveDroid";
+$data[238]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.softwarebakery.drivedroid";
+$data[238]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 239
 $data[239]['title'] = "System76's Bonobo Extreme Review | LAS 239 (S24E09)";
@@ -2163,6 +3198,13 @@ $data[239]['date'] = "2012-12-09";
 
 $data[239]['runslinux']['pick'][0]['name'] = "This Photobooth";
 $data[239]['runslinux']['pick'][0]['url'] = "http://linuxinthewild.tumblr.com/post/17905575203/say-cheese-photobooth-booting-after-ink-change";
+
+$data[239]['desktopapp']['pick'][0]['name'] = "Woof";
+$data[239]['desktopapp']['pick'][0]['url'] = "http://www.home.unix-ag.org/simon/woof.html";
+
+$data[239]['android']['pick'][0]['name'] = "DiskUsage";
+$data[239]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.google.android.diskusage";
+$data[239]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 240
@@ -2173,6 +3215,13 @@ $data[240]['date'] = "2012-12-16";
 $data[240]['runslinux']['pick'][0]['name'] = "A \"off-the-shelf\" satellite";
 $data[240]['runslinux']['pick'][0]['url'] = "http://slexy.org/view/s20OGuYQal";
 
+$data[240]['desktopapp']['pick'][0]['name'] = "Geeknote";
+$data[240]['desktopapp']['pick'][0]['url'] = "http://geeknote.me/";
+
+$data[240]['android']['pick'][0]['name'] = "Android XBMC with Jupiter Broadcasting";
+$data[240]['android']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/14lz8n/android_xbmc_with_jupiter_broadcasting/";
+$data[240]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 241
 $data[241]['title'] = "2013 Linux Predictions | LAS 241 (S25E01)";
@@ -2181,6 +3230,13 @@ $data[241]['date'] = "2012-12-30";
 
 $data[241]['runslinux']['pick'][0]['name'] = "Nokia's N950";
 $data[241]['runslinux']['pick'][0]['url'] = "http://www.engadget.com/2012/12/29/hands-on-with-jollas-sailfish-os-video/";
+
+$data[241]['desktopapp']['pick'][0]['name'] = "NetHogs";
+$data[241]['desktopapp']['pick'][0]['url'] = "http://nethogs.sourceforge.net/";
+
+$data[241]['android']['pick'][0]['name'] = "SuperGNES – SNES Android Emulator";
+$data[241]['android']['pick'][0]['url'] = "http://www.supergnes.com/";
+$data[241]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 242
@@ -2191,6 +3247,13 @@ $data[242]['date'] = "2013-01-06";
 $data[242]['runslinux']['pick'][0]['name'] = "Leikr - GPS sports watch";
 $data[242]['runslinux']['pick'][0]['url'] = "http://www.kickstarter.com/projects/903141699/leikr-the-new-danish-designed-gps-sports-watch";
 
+$data[242]['desktopapp']['pick'][0]['name'] = "Nitro";
+$data[242]['desktopapp']['pick'][0]['url'] = "http://nitrotasks.com/";
+
+$data[242]['android']['pick'][0]['name'] = "WiFi File Explorer PRO";
+$data[242]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.dooblou.WiFiFileExplorerPRO";
+$data[242]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 243
 $data[243]['title'] = "Linux Wins CES 2013 | LAS 243 (S25E03)";
@@ -2199,6 +3262,13 @@ $data[243]['date'] = "2013-01-13";
 
 $data[243]['runslinux']['pick'][0]['name'] = "Shane's Raspberry Pi Cluster";
 $data[243]['runslinux']['pick'][0]['url'] = "http://www.softwareontheside.info/2013/01/my-raspberry-pi-cluster.html";
+
+$data[243]['desktopapp']['pick'][0]['name'] = "nmon";
+$data[243]['desktopapp']['pick'][0]['url'] = "http://nmon.sourceforge.net/pmwiki.php";
+
+$data[243]['android']['pick'][0]['name'] = "Chrome Beta";
+$data[243]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.chrome.beta";
+$data[243]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 244
@@ -2209,6 +3279,13 @@ $data[244]['date'] = "2013-01-20";
 $data[244]['runslinux']['pick'][0]['name'] = "Australia's Defence";
 $data[244]['runslinux']['pick'][0]['url'] = "http://www.itnews.com.au/News/330612,defence-bets-big-on-linux.aspx";
 
+$data[244]['desktopapp']['pick'][0]['name'] = "NoPriv.py";
+$data[244]['desktopapp']['pick'][0]['url'] = "https://raymii.org/s/software/Nopriv.py.html";
+
+$data[244]['android']['pick'][0]['name'] = "VLC for Android Beta";
+$data[244]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=org.videolan.vlc.betav7neon";
+$data[244]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 245
 $data[245]['title'] = "Must Try Linux Games | LAS 245 (S25E05)";
@@ -2217,6 +3294,13 @@ $data[245]['date'] = "2013-01-27";
 
 $data[245]['runslinux']['pick'][0]['name'] = "MeCam";
 $data[245]['runslinux']['pick'][0]['url'] = "https://www.alwaysinnovating.com/company/pressrelease-5.htm";
+
+$data[245]['desktopapp']['pick'][0]['name'] = "Desurium";
+$data[245]['desktopapp']['pick'][0]['url'] = "https://github.com/lodle/Desurium";
+
+$data[245]['android']['pick'][0]['name'] = "Temple Run 2";
+$data[245]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.imangi.templerun2";
+$data[245]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 246
@@ -2227,6 +3311,13 @@ $data[246]['date'] = "2013-02-03";
 $data[246]['runslinux']['pick'][0]['name'] = "Lightweight \"Kite\" tablet";
 $data[246]['runslinux']['pick'][0]['url'] = "http://www.pcworld.com/article/2025464/lightweight-kite-tablet-runs-ubuntu-12-04-and-android-4-0.html";
 
+$data[246]['desktopapp']['pick'][0]['name'] = "Fotoxx 3.02t";
+$data[246]['desktopapp']['pick'][0]['url'] = "http://www.upubuntu.com/2013/02/fotoxx-1302-allows-now-to-convert-image.html";
+
+$data[246]['android']['pick'][0]['name'] = "Last Message";
+$data[246]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=it.fatbrain.lastmessage";
+$data[246]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 247
 $data[247]['title'] = "Podcasting On Linux | LAS 247 (S25E07)";
@@ -2235,6 +3326,13 @@ $data[247]['date'] = "2013-02-10";
 
 $data[247]['runslinux']['pick'][0]['name'] = "Dragon and Falcon 9 SpaceX Space Crafts";
 $data[247]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/IAmA/comments/1853ap/we_are_spacex_software_engineers_we_launch/";
+
+$data[247]['desktopapp']['pick'][0]['name'] = "Calligra Suite 2.6";
+$data[247]['desktopapp']['pick'][0]['url'] = "http://www.calligra-suite.org/";
+
+$data[247]['android']['pick'][0]['name'] = "USB Audio Recorder PRO";
+$data[247]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.extreamsd.usbaudiorecorderpro&feature=more_from_developer";
+$data[247]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 248
@@ -2245,6 +3343,13 @@ $data[248]['date'] = "2013-02-17";
 $data[248]['runslinux']['pick'][0]['name'] = "DuckDuckGo";
 $data[248]['runslinux']['pick'][0]['url'] = "http://highscalability.com/blog/2013/1/28/duckduckgo-architecture-1-million-deep-searches-a-day-and-gr.html";
 
+$data[248]['desktopapp']['pick'][0]['name'] = "pianobar";
+$data[248]['desktopapp']['pick'][0]['url'] = "http://6xq.net/projects/pianobar/";
+
+$data[248]['android']['pick'][0]['name'] = "Tasker";
+$data[248]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm";
+$data[248]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 249
 $data[249]['title'] = "Inside Ubuntu Touch | LAS 249 (S25E09)";
@@ -2253,6 +3358,13 @@ $data[249]['date'] = "2013-02-24";
 
 $data[249]['runslinux']['pick'][0]['name'] = "Google Pixel";
 $data[249]['runslinux']['pick'][0]['url'] = "http://www.thepowerbase.com/2013/02/google-pixel-runs-linux-mint-with-minimal-tradeoffs/";
+
+$data[249]['desktopapp']['pick'][0]['name'] = "Unvanquished";
+$data[249]['desktopapp']['pick'][0]['url'] = "http://www.unvanquished.net/";
+
+$data[249]['android']['pick'][0]['name'] = "Xabber";
+$data[249]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.xabber.android";
+$data[249]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 250
@@ -2263,6 +3375,13 @@ $data[250]['date'] = "2013-03-03";
 $data[250]['runslinux']['pick'][0]['name'] = "Bar Games";
 $data[250]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/19h17t/bar_games_runs_linux/";
 
+$data[250]['desktopapp']['pick'][0]['name'] = "Spotweb";
+$data[250]['desktopapp']['pick'][0]['url'] = "https://github.com/spotweb/spotweb/wiki";
+
+$data[250]['android']['pick'][0]['name'] = "SyncMe Wireless";
+$data[250]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.bv.wifisync";
+$data[250]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 251
 $data[251]['title'] = "Ubuntu's Big Gamble | LAS 251 (S26E01)";
@@ -2271,6 +3390,13 @@ $data[251]['date'] = "2013-03-10";
 
 $data[251]['runslinux']['pick'][0]['name'] = "High-performance network video recorders";
 $data[251]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/high-performance-network-video-recorders-run-embedded-linux/";
+
+$data[251]['desktopapp']['pick'][0]['name'] = "Gobby";
+$data[251]['desktopapp']['pick'][0]['url'] = "http://gobby.0x539.de/trac/";
+
+$data[251]['android']['pick'][0]['name'] = "Humble Bundle with Android 5 has landed!";
+$data[251]['android']['pick'][0]['url'] = "http://blog.humblebundle.com/post/44641397764/humble-bundle-with-android-5-has-landed";
+$data[251]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 252
@@ -2281,6 +3407,13 @@ $data[252]['date'] = "2013-03-17";
 $data[252]['runslinux']['pick'][0]['name'] = "tuxmm's hospital";
 $data[252]['runslinux']['pick'][0]['url'] = "http://slexy.org/view/s2q0y9E8Rk";
 
+$data[252]['desktopapp']['pick'][0]['name'] = "LAS Subreddit RSS Reader Roundup";
+$data[252]['desktopapp']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/1ac3tl/your_favorite_rss_reader_for_linux/";
+
+$data[252]['android']['pick'][0]['name'] = "Kik Messenger";
+$data[252]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=kik.android";
+$data[252]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 253
 $data[253]['title'] = "Master Linux with Puppet | LAS 253 (S26E03)";
@@ -2289,6 +3422,13 @@ $data[253]['date'] = "2013-03-24";
 
 $data[253]['runslinux']['pick'][0]['name'] = "NVIDIA's CEO";
 $data[253]['runslinux']['pick'][0]['url'] = "http://www.iloveubuntu.net/ubuntu-wild-nvidia-ceo-jen-hsun-huang-uses-ubuntu-official-event";
+
+$data[253]['desktopapp']['pick'][0]['name'] = "Electrum Bitcoin Client";
+$data[253]['desktopapp']['pick'][0]['url'] = "http://electrum.org/";
+
+$data[253]['android']['pick'][0]['name'] = "MightyText";
+$data[253]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.texty.sms";
+$data[253]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 254
@@ -2299,6 +3439,13 @@ $data[254]['date'] = "2013-03-30";
 $data[254]['runslinux']['pick'][0]['name'] = "International Space Station";
 $data[254]['runslinux']['pick'][0]['url'] = "http://www.linux.com/news/featured-blogs/191-linux-training/711318-linux-foundation-training-prepares-the-international-space-station-for-linux-migration";
 
+$data[254]['desktopapp']['pick'][0]['name'] = "Geany";
+$data[254]['desktopapp']['pick'][0]['url'] = "http://www.geany.org/Main/HomePage";
+
+$data[254]['android']['pick'][0]['name'] = "Caffeine";
+$data[254]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=nl.syntaxa.caffeine";
+$data[254]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 255
 $data[255]['title'] = "Jitsi: A Free Skype Alternative | LAS 255 (S26E05)";
@@ -2307,6 +3454,13 @@ $data[255]['date'] = "2013-04-07";
 
 $data[255]['runslinux']['pick'][0]['name'] = "Mantis - two ton turbo diesel hexapod";
 $data[255]['runslinux']['pick'][0]['url'] = "http://www.gizmag.com/mantis-hexapod-robot/26891/";
+
+$data[255]['desktopapp']['pick'][0]['name'] = "Vokoscreen";
+$data[255]['desktopapp']['pick'][0]['url'] = "http://www.unixmen.com/vokoscreen-a-new-screencasting-tool-for-linux/";
+
+$data[255]['android']['pick'][0]['name'] = "ASC";
+$data[255]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.benzul.asc&hl=en";
+$data[255]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 256
@@ -2317,6 +3471,13 @@ $data[256]['date'] = "2013-04-14";
 $data[256]['runslinux']['pick'][0]['name'] = "Aquatic Robot Server Rack at Sea";
 $data[256]['runslinux']['pick'][0]['url'] = "http://gcn.com/Articles/2013/04/09/Upgraded-aquatic-robot-a-server-rack-at-sea.aspx?s=gcntech_110413&Page=1";
 
+$data[256]['desktopapp']['pick'][0]['name'] = "Gnome SSH Tunnel Manager";
+$data[256]['desktopapp']['pick'][0]['url'] = "http://sourceforge.net/projects/gstm/";
+
+$data[256]['android']['pick'][0]['name'] = "SSH Tunnel";
+$data[256]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=org.sshtunnel";
+$data[256]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 257
 $data[257]['title'] = "Ubuntu 13.04 Review: Best But Boring? | LAS 257 (S26E07)";
@@ -2325,6 +3486,13 @@ $data[257]['date'] = "2013-04-21";
 
 $data[257]['runslinux']['pick'][0]['name'] = "Fanless microserver";
 $data[257]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/fanless-microserver-aims-linux-on-core-i7-at-harsh-environs/";
+
+$data[257]['desktopapp']['pick'][0]['name'] = "Dead Cyborg (game)";
+$data[257]['desktopapp']['pick'][0]['url'] = "http://www.deadcyborg.com/";
+
+$data[257]['android']['pick'][0]['name'] = "Subway Surfers";
+$data[257]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf";
+$data[257]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 258
@@ -2335,6 +3503,13 @@ $data[258]['date'] = "2013-04-29";
 $data[258]['runslinux']['pick'][0]['name'] = "The Little Black Box";
 $data[258]['runslinux']['pick'][0]['url'] = "http://www.thelittleblackbox.nl/en/";
 
+$data[258]['desktopapp']['pick'][0]['name'] = "DavMail";
+$data[258]['desktopapp']['pick'][0]['url'] = "http://davmail.sourceforge.net/";
+
+$data[258]['android']['pick'][0]['name'] = "Nova Launcher";
+$data[258]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher";
+$data[258]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 259
 $data[259]['title'] = "LinuxFest NW 2013 PT 2 | LAS 259 (S26E09)";
@@ -2343,6 +3518,13 @@ $data[259]['date'] = "2013-05-05";
 
 $data[259]['runslinux']['pick'][0]['name'] = "University of Tokyo's JSK Robotics Laboratory";
 $data[259]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/1d7j1z/university_of_tokyos_jsk_robotics_laboratory_runs/";
+
+$data[259]['desktopapp']['pick'][0]['name'] = "Shotcut";
+$data[259]['desktopapp']['pick'][0]['url'] = "http://www.shotcut.org/";
+
+$data[259]['android']['pick'][0]['name'] = "ServeStream";
+$data[259]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=net.sourceforge.servestream";
+$data[259]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 260
@@ -2353,6 +3535,18 @@ $data[260]['date'] = "2013-05-12";
 $data[260]['runslinux']['pick'][0]['name'] = "Paris Metro traffic info system";
 $data[260]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/1e5cov/paris_metro_traffic_info_system_runs_linux/";
 
+$data[260]['desktopapp']['pick'][0]['name'] = "iotop";
+$data[260]['desktopapp']['pick'][0]['url'] = "http://guichaz.free.fr/iotop/";
+$data[260]['desktopapp']['pick'][1]['name'] = "Atoptool.nl";
+$data[260]['desktopapp']['pick'][1]['url'] = "http://www.atoptool.nl/";
+
+$data[260]['android']['pick'][0]['name'] = "Schemes – Scheduled Networking";
+$data[260]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.oxapps.schemes";
+$data[260]['android']['pick'][0]['source'] = "jb";
+$data[260]['android']['pick'][1]['name'] = "AntennaPod";
+$data[260]['android']['pick'][1]['url'] = "https://play.google.com/store/apps/details?id=de.danoeh.antennapod&hl=en";
+$data[260]['android']['pick'][1]['source'] = "jb";
+
 
 // Episode 261
 $data[261]['title'] = "Docker: Linux Containers Made Easy | LAS 261 (S27E01)";
@@ -2361,6 +3555,15 @@ $data[261]['date'] = "2013-05-19";
 
 $data[261]['runslinux']['pick'][0]['name'] = "Google Glass";
 $data[261]['runslinux']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2013/05/ubuntu-gets-installed-on-google-glass";
+
+$data[261]['desktopapp']['pick'][0]['name'] = "Freeciv-web";
+$data[261]['desktopapp']['pick'][0]['url'] = "http://play.freeciv.org/";
+$data[261]['desktopapp']['pick'][1]['name'] = "Final Term";
+$data[261]['desktopapp']['pick'][1]['url'] = "http://finalterm.org/";
+
+$data[261]['android']['pick'][0]['name'] = "Gyft – Mobile Gift Card Wallet";
+$data[261]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.gyft.android";
+$data[261]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 262
@@ -2371,6 +3574,15 @@ $data[262]['date'] = "2013-05-26";
 $data[262]['runslinux']['pick'][0]['name'] = "Vaisala's Total Lightning Processor";
 $data[262]['runslinux']['pick'][0]['url'] = "http://www.vaisala.com/en/products/thunderstormandlightningdetectionsystems/Pages/tlp.aspx";
 
+$data[262]['desktopapp']['pick'][0]['name'] = "Gnome Encfs Manager";
+$data[262]['desktopapp']['pick'][0]['url'] = "http://www.libertyzero.com/GEncfsM/";
+$data[262]['desktopapp']['pick'][1]['name'] = "dwb (browser)";
+$data[262]['desktopapp']['pick'][1]['url'] = "http://portix.bitbucket.org/dwb/";
+
+$data[262]['android']['pick'][0]['name'] = "Sonic The Hedgehog";
+$data[262]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.sega.sonic1&feature=search_result";
+$data[262]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 263
 $data[263]['title'] = "The Arch Way | LAS 263 (S27E03)";
@@ -2379,6 +3591,13 @@ $data[263]['date'] = "2013-06-02";
 
 $data[263]['runslinux']['pick'][0]['name'] = "This prosthetic knee";
 $data[263]['runslinux']['pick'][0]['url'] = "http://www.elliottjrouse.com/postdoctoral-research/";
+
+$data[263]['desktopapp']['pick'][0]['name'] = "SimpleScreenRecorder";
+$data[263]['desktopapp']['pick'][0]['url'] = "http://www.maartenbaert.be/simplescreenrecorder/";
+
+$data[263]['android']['pick'][0]['name'] = "ArchWiki Viewer";
+$data[263]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.jtmcn.archwiki.viewer";
+$data[263]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 264
@@ -2389,6 +3608,15 @@ $data[264]['date'] = "2013-06-09";
 $data[264]['runslinux']['pick'][0]['name'] = "Chinese supercomputer";
 $data[264]['runslinux']['pick'][0]['url'] = "http://arstechnica.com/information-technology/2013/06/chinese-supercomputer-destroys-speed-record-and-will-get-much-faster/";
 
+$data[264]['desktopapp']['pick'][0]['name'] = "Guake terminal";
+$data[264]['desktopapp']['pick'][0]['url'] = "http://guake.org/";
+$data[264]['desktopapp']['pick'][1]['name'] = "Dropdown terminal";
+$data[264]['desktopapp']['pick'][1]['url'] = "https://extensions.gnome.org/extension/442/drop-down-terminal/";
+
+$data[264]['android']['pick'][0]['name'] = "Orbot: Proxy with Tor";
+$data[264]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=org.torproject.android";
+$data[264]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 265
 $data[265]['title'] = "Easy As Pi Tor Proxy | LAS 265 (S27E05)";
@@ -2397,6 +3625,15 @@ $data[265]['date'] = "2013-06-16";
 
 $data[265]['runslinux']['pick'][0]['name'] = "FireBox - 3D Internet Browser";
 $data[265]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/1ge0zn/firebox_a_3d_internet_browser_supporting_oculus/";
+
+$data[265]['desktopapp']['pick'][0]['name'] = "ZSH";
+$data[265]['desktopapp']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/1gdvc3/zsh_archlinux_best_companion/";
+$data[265]['desktopapp']['pick'][1]['name'] = "fish shell";
+$data[265]['desktopapp']['pick'][1]['url'] = "http://fishshell.com/";
+
+$data[265]['android']['pick'][0]['name'] = "OsmAnd Maps & Navigation";
+$data[265]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=net.osmand#?t=W251bGwsMSwxLDIxMiwibmV0Lm9zbWFuZCJd";
+$data[265]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 266
@@ -2407,6 +3644,13 @@ $data[266]['date'] = "2013-06-23";
 $data[266]['runslinux']['pick'][0]['name'] = "Barcelona buses";
 $data[266]['runslinux']['pick'][0]['url'] = "http://imgur.com/a/V9066";
 
+$data[266]['desktopapp']['pick'][0]['name'] = "Calise - Camera Light Sensor";
+$data[266]['desktopapp']['pick'][0]['url'] = "http://calise.sourceforge.net/wordpress/";
+
+$data[266]['android']['pick'][0]['name'] = "Velis Auto Brightness";
+$data[266]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.velis.auto.brightness&referrer=utm_source%3Dappbrain%26utm_medium%3Dappbrain_web%26utm_campaign%3Dappbrain_web";
+$data[266]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 267
 $data[267]['title'] = "Reader Replacements for Linux | LAS 267 (S27E07)";
@@ -2415,6 +3659,16 @@ $data[267]['date'] = "2013-06-30";
 
 $data[267]['runslinux']['pick'][0]['name'] = "MintBox 2";
 $data[267]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/linux-mint-mini-pc-gets-core-i5-update/";
+
+$data[267]['desktopapp']['pick'][0]['name'] = "Bitmessage";
+$data[267]['desktopapp']['pick'][0]['url'] = "https://bitmessage.org/wiki/Main_Page";
+
+$data[267]['android']['pick'][0]['name'] = "Tiny Tiny RSS";
+$data[267]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=org.fox.ttrss";
+$data[267]['android']['pick'][0]['source'] = "jb";
+$data[267]['android']['pick'][1]['name'] = "AirDroid";
+$data[267]['android']['pick'][1]['url'] = "https://play.google.com/store/apps/details?id=com.sand.airdroid";
+$data[267]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 268
@@ -2425,6 +3679,13 @@ $data[268]['date'] = "2013-07-07";
 $data[268]['runslinux']['pick'][0]['name'] = "Computer Engineer Barbie";
 $data[268]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/1hn7g5/runs_linux_computer_engineer_barbie/";
 
+$data[268]['desktopapp']['pick'][0]['name'] = "QGifer";
+$data[268]['desktopapp']['pick'][0]['url'] = "http://www.webupd8.org/2013/07/qgifer-converts-video-to-gif-supports.html";
+
+$data[268]['android']['pick'][0]['name'] = "Mr. Number-Block calls, texts";
+$data[268]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.mrnumber.blocker";
+$data[268]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 269
 $data[269]['title'] = "PRISM Free Chat on Linux | LAS 269 (S27E09)";
@@ -2433,6 +3694,13 @@ $data[269]['date'] = "2013-07-14";
 
 $data[269]['runslinux']['pick'][0]['name'] = "Lernstift (Linux Pen)";
 $data[269]['runslinux']['pick'][0]['url'] = "http://www.kickstarter.com/projects/lernstift/lernstift-the-first-pen-that-vibrates-when-u-make";
+
+$data[269]['desktopapp']['pick'][0]['name'] = "Firefox OS Simulator 4.0";
+$data[269]['desktopapp']['pick'][0]['url'] = "https://hacks.mozilla.org/2013/07/firefox-os-simulator-4-0-released/";
+
+$data[269]['android']['pick'][0]['name'] = "surespot encrypted messenger";
+$data[269]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.twofours.surespot&feature=nav_result#?t=W251bGwsMSwxLDMsImNvbS50d29mb3Vycy5zdXJlc3BvdCJd";
+$data[269]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 270
@@ -2443,6 +3711,15 @@ $data[270]['date'] = "2013-07-21";
 $data[270]['runslinux']['pick'][0]['name'] = "Modern Society";
 $data[270]['runslinux']['pick'][0]['url'] = "http://www.businessweek.com/videos/2013-07-18/is-most-of-modern-society-run-by-linux";
 
+$data[270]['desktopapp']['pick'][0]['name'] = "iftop";
+$data[270]['desktopapp']['pick'][0]['url'] = "http://www.ex-parrot.com/pdw/iftop/";
+$data[270]['desktopapp']['pick'][1]['name'] = "Gateways";
+$data[270]['desktopapp']['pick'][1]['url'] = "http://www.smudgedcat.com/gateways.htm";
+
+$data[270]['android']['pick'][0]['name'] = "BitTorrent® Sync";
+$data[270]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.bittorrent.sync";
+$data[270]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 271
 $data[271]['title'] = "Ubuntu's Edge Gamble | LAS 271 (S28E01)";
@@ -2451,6 +3728,16 @@ $data[271]['date'] = "2013-07-28";
 
 $data[271]['runslinux']['pick'][0]['name'] = "Anthony's Duvet";
 $data[271]['runslinux']['pick'][0]['url'] = "http://i.imgur.com/WE7izpB.jpg";
+
+$data[271]['desktopapp']['pick'][0]['name'] = "Conky Manager";
+$data[271]['desktopapp']['pick'][0]['url'] = "http://teejeetech.blogspot.in/p/conky-manager.html";
+
+$data[271]['android']['pick'][0]['name'] = "DroidCam Wireless Webcam";
+$data[271]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=en";
+$data[271]['android']['pick'][0]['source'] = "jb";
+$data[271]['android']['pick'][1]['name'] = "Android 4.3 x86";
+$data[271]['android']['pick'][1]['url'] = "http://www.android-x86.org/releases/build-20130725";
+$data[271]['android']['pick'][1]['source'] = "jb";
 
 
 // Episode 272
@@ -2461,6 +3748,16 @@ $data[272]['date'] = "2013-08-04";
 $data[272]['runslinux']['pick'][0]['name'] = "Steven Seagal And xKeyScore";
 $data[272]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/1jlp7f/runs_linux_steven_seagal/";
 
+$data[272]['desktopapp']['pick'][0]['name'] = "MKV Extractor Gui";
+$data[272]['desktopapp']['pick'][0]['url'] = "https://launchpad.net/~hizo/+archive/mkv-extractor-gui";
+
+$data[272]['android']['pick'][0]['name'] = "VLC Direct Pro Free";
+$data[272]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.vlcforandroid.vlcdirectprofree";
+$data[272]['android']['pick'][0]['source'] = "jb";
+$data[272]['android']['pick'][1]['name'] = "VLC media player – ArchWiki";
+$data[272]['android']['pick'][1]['url'] = "https://wiki.archlinux.org/index.php/VLC_media_player";
+$data[272]['android']['pick'][1]['source'] = "jb";
+
 
 // Episode 273
 $data[273]['title'] = "Easy Linux Remote Desktop | LAS 273 (S28E03)";
@@ -2469,6 +3766,13 @@ $data[273]['date'] = "2013-08-11";
 
 $data[273]['runslinux']['pick'][0]['name'] = "SAM (Sample Analysis at Mars)";
 $data[273]['runslinux']['pick'][0]['url'] = "http://youtu.be/uxVVgBAosqg?t=20s";
+
+$data[273]['desktopapp']['pick'][0]['name'] = "Guacamole";
+$data[273]['desktopapp']['pick'][0]['url'] = "http://guac-dev.org/";
+
+$data[273]['android']['pick'][0]['name'] = "GrooVe IP";
+$data[273]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.gvoip&hl=en";
+$data[273]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 274
@@ -2479,6 +3783,13 @@ $data[274]['date'] = "2013-08-18";
 $data[274]['runslinux']['pick'][0]['name'] = "Chris and Matt made it to the Mile High Club";
 $data[274]['runslinux']['pick'][0]['url'] = "http://i.imgur.com/rBnYrr1.jpg";
 
+$data[274]['desktopapp']['pick'][0]['name'] = "aria2";
+$data[274]['desktopapp']['pick'][0]['url'] = "http://aria2.sourceforge.net/";
+
+$data[274]['android']['pick'][0]['name'] = "Robin – The Siri Challenger";
+$data[274]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.magnifis.parking&hl=en";
+$data[274]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 275
 $data[275]['title'] = "Ubuntu Beyond the Edge | LAS 275 (S28E05)";
@@ -2487,6 +3798,13 @@ $data[275]['date'] = "2013-08-25";
 
 $data[275]['runslinux']['pick'][0]['name'] = "Crazyflie Nano Quadcopter";
 $data[275]['runslinux']['pick'][0]['url'] = "http://youtu.be/3WBUVYZkODI?t=1m40s";
+
+$data[275]['desktopapp']['pick'][0]['name'] = "Mumble";
+$data[275]['desktopapp']['pick'][0]['url'] = "http://mumble.sourceforge.net/";
+
+$data[275]['android']['pick'][0]['name'] = "CheapCast";
+$data[275]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=at.maui.cheapcast";
+$data[275]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 276
@@ -2497,6 +3815,13 @@ $data[276]['date'] = "2013-09-01";
 $data[276]['runslinux']['pick'][0]['name'] = "homebrew (beer) supply store";
 $data[276]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/1ldbqr/runs_linux_my_homebrew_beer_supply_store/";
 
+$data[276]['desktopapp']['pick'][0]['name'] = "GD Map";
+$data[276]['desktopapp']['pick'][0]['url'] = "http://gdmap.sourceforge.net/";
+
+$data[276]['android']['pick'][0]['name'] = "Android Device Manager";
+$data[276]['android']['pick'][0]['url'] = "https://www.google.com/android/devicemanager";
+$data[276]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 277
 $data[277]['title'] = "SpiderOak vs Bittorrent Sync | LAS 277 (S28E07)";
@@ -2505,6 +3830,13 @@ $data[277]['date'] = "2013-09-08";
 
 $data[277]['runslinux']['pick'][0]['name'] = "SolidRun Cube";
 $data[277]['runslinux']['pick'][0]['url'] = "https://imx.solid-run.com/";
+
+$data[277]['desktopapp']['pick'][0]['name'] = "BSD games";
+$data[277]['desktopapp']['pick'][0]['url'] = "http://wiki.linuxquestions.org/wiki/BSD_games";
+
+$data[277]['android']['pick'][0]['name'] = "Evomail – Modern Mobile Email";
+$data[277]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=io.evomail.android";
+$data[277]['android']['pick'][0]['source'] = "jb";
 
 
 // Episode 278
@@ -2515,6 +3847,19 @@ $data[278]['date'] = "2013-09-14";
 $data[278]['runslinux']['pick'][0]['name'] = "Piper";
 $data[278]['runslinux']['pick'][0]['url'] = "http://www.indiegogo.com/projects/piper-smart-elegant-security-and-home-automation";
 
+$data[278]['desktopapp']['pick'][0]['name'] = "Star Trek Voyager: Elite Force";
+$data[278]['desktopapp']['pick'][0]['url'] = "https://aur.archlinux.org/packages/iostvoy/";
+
+$data[278]['android']['pick'][0]['name'] = "Star Trek Communicator";
+$data[278]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.talkndog.startrekcommunicator&hl=en";
+$data[278]['android']['pick'][0]['source'] = "jb";
+$data[278]['android']['pick'][1]['name'] = "Star Trek Text Game";
+$data[278]['android']['pick'][1]['url'] = "https://play.google.com/store/apps/details?id=slade.android.startrek";
+$data[278]['android']['pick'][1]['source'] = "jb";
+$data[278]['android']['pick'][2]['name'] = "Scientific Sci-fi Scanner Lite";
+$data[278]['android']['pick'][2]['url'] = "https://play.google.com/store/apps/details?id=com.danms.LCARSScanner";
+$data[278]['android']['pick'][2]['source'] = "jb";
+
 
 // Episode 279
 $data[279]['title'] = "pfSense Makes Sense | LAS 279 (S28E09)";
@@ -2523,6 +3868,12 @@ $data[279]['date'] = "2013-09-22";
 
 $data[279]['runslinux']['pick'][0]['name'] = "The Peachy Printer";
 $data[279]['runslinux']['pick'][0]['url'] = "http://www.kickstarter.com/projects/117421627/the-peachy-printer-the-first-100-3d-printer-and-sc";
+
+$data[279]['desktopapp']['pick'][0]['name'] = "Flowblade Video Editor";
+$data[279]['desktopapp']['pick'][0]['url'] = "http://www.webupd8.org/2013/09/flowblade-video-editor-010-released.html";
+
+$data[279]['spotlight']['pick'][0]['name'] = "12 LinuxCon 2013 Keynote Videos";
+$data[279]['spotlight']['pick'][0]['url'] = "http://linuxgizmos.com/twelve-videos-from-linuxcon-2013/";
 
 
 // Episode 280
@@ -2533,6 +3884,12 @@ $data[280]['date'] = "2013-09-29";
 $data[280]['runslinux']['pick'][0]['name'] = "Ninja Block Home-Automation";
 $data[280]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/home-automation-device-runs-linux-on-beaglebone/";
 
+$data[280]['desktopapp']['pick'][0]['name'] = "Minitube";
+$data[280]['desktopapp']['pick'][0]['url'] = "http://flavio.tordini.org/minitube";
+
+$data[280]['spotlight']['pick'][0]['name'] = "GNOME 3.10";
+$data[280]['spotlight']['pick'][0]['url'] = "http://www.webupd8.org/2013/09/see-whats-new-in-gnome-310-video.html";
+
 
 // Episode 281
 $data[281]['title'] = "WebRTC Game Changer | LAS 281 (S29E01)";
@@ -2541,6 +3898,18 @@ $data[281]['date'] = "2013-10-06";
 
 $data[281]['runslinux']['pick'][0]['name'] = "Underwater Drone";
 $data[281]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/linux-based-underwater-robot-goes-faster-longer/";
+
+$data[281]['desktopapp']['pick'][0]['name'] = "ocenaudio";
+$data[281]['desktopapp']['pick'][0]['url'] = "http://www.ocenaudio.com.br/";
+$data[281]['desktopapp']['pick'][1]['name'] = "Geary 0.4";
+$data[281]['desktopapp']['pick'][1]['url'] = "http://blog.yorba.org/eric/2013/10/geary-0-4-is-here.html";
+$data[281]['desktopapp']['pick'][2]['name'] = "Shotwell 0.15";
+$data[281]['desktopapp']['pick'][2]['url'] = "http://blog.yorba.org/eric/2013/10/shotwell-0-15-has-arrived.html";
+
+$data[281]['spotlight']['pick'][0]['name'] = "Geary 0.4";
+$data[281]['spotlight']['pick'][0]['url'] = "http://blog.yorba.org/eric/2013/10/geary-0-4-is-here.html";
+$data[281]['spotlight']['pick'][1]['name'] = "Shotwell 0.15";
+$data[281]['spotlight']['pick'][1]['url'] = "http://blog.yorba.org/eric/2013/10/shotwell-0-15-has-arrived.html";
 
 
 // Episode 282
@@ -2551,6 +3920,23 @@ $data[282]['date'] = "2013-10-13";
 $data[282]['runslinux']['pick'][0]['name'] = "Mercedes Driverless Research Car";
 $data[282]['runslinux']['pick'][0]['url'] = "http://www.core77.com/blog/transportation/mercedes_driverless_research_car_looks_freaking_amazing_25652.asp";
 
+$data[282]['desktopapp']['pick'][0]['name'] = "Terminal Screensavers";
+$data[282]['desktopapp']['pick'][0]['url'] = "http://zeronteproject.com/121/";
+
+$data[282]['spotlight']['pick'][0]['name'] = "Debian 7";
+$data[282]['spotlight']['pick'][0]['url'] = "http://www.debian.org/News/2013/20131012";
+$data[282]['spotlight']['pick'][1]['name'] = "Neptune 3.3";
+$data[282]['spotlight']['pick'][1]['url'] = "http://www.zevenos.com/allgemein/neptune-3-3-is-ready.html";
+$data[282]['spotlight']['pick'][2]['name'] = "PCLinuxOS 2013.10";
+$data[282]['spotlight']['pick'][2]['url'] = "http://www.pclinuxos.com/maintenance-release-pclinuxos-lxde-2013-10/";
+
+$data[282]['distro']['pick'][0]['name'] = "Debian 7";
+$data[282]['distro']['pick'][0]['url'] = "http://www.debian.org/News/2013/20131012";
+$data[282]['distro']['pick'][1]['name'] = "Neptune 3.3";
+$data[282]['distro']['pick'][1]['url'] = "http://www.zevenos.com/allgemein/neptune-3-3-is-ready.html";
+$data[282]['distro']['pick'][2]['name'] = "PCLinuxOS 2013.10";
+$data[282]['distro']['pick'][2]['url'] = "http://www.pclinuxos.com/maintenance-release-pclinuxos-lxde-2013-10/";
+
 
 // Episode 283
 $data[283]['title'] = "Diskstation vs FreeNAS | LAS 283 (S29E03)";
@@ -2559,6 +3945,17 @@ $data[283]['date'] = "2013-10-20";
 
 $data[283]['runslinux']['pick'][0]['name'] = "Navy's USS Zumwalt (DDG 1000)";
 $data[283]['runslinux']['pick'][0]['url'] = "http://arstechnica.com/information-technology/2013/10/the-navys-newest-warship-is-powered-by-linux/";
+
+$data[283]['desktopapp']['pick'][0]['name'] = "Clementine Music Player";
+$data[283]['desktopapp']['pick'][0]['url'] = "http://www.clementine-player.org/#news";
+$data[283]['desktopapp']['pick'][1]['name'] = "Music player indicator";
+$data[283]['desktopapp']['pick'][1]['url'] = "https://extensions.gnome.org/extension/55/media-player-indicator/";
+
+$data[283]['spotlight']['pick'][0]['name'] = "Antergos";
+$data[283]['spotlight']['pick'][0]['url'] = "http://antergos.com";
+
+$data[283]['distro']['pick'][0]['name'] = "Antergos";
+$data[283]['distro']['pick'][0]['url'] = "http://antergos.com/";
 
 
 // Episode 284
@@ -2569,6 +3966,12 @@ $data[284]['date'] = "2013-10-27";
 $data[284]['runslinux']['pick'][0]['name'] = "M.I.T. Motion Tracking through Walls";
 $data[284]['runslinux']['pick'][0]['url'] = "http://phys.org/news/2013-10-mit-team-tracks-people-walls.html";
 
+$data[284]['desktopapp']['pick'][0]['name'] = "Glare";
+$data[284]['desktopapp']['pick'][0]['url'] = "http://www.glaregame.com/";
+
+$data[284]['spotlight']['pick'][0]['name'] = "Mozilla's Lightbeam";
+$data[284]['spotlight']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/1p82sc/mozillas_lightbeam_for_firefox_addon_lets_users/";
+
 
 // Episode 285
 $data[285]['title'] = "A Frank OwnCloud Interview | LAS 285 (S29E05)";
@@ -2577,6 +3980,12 @@ $data[285]['date'] = "2013-11-03";
 
 $data[285]['runslinux']['pick'][0]['name'] = "The Nao humanoid robo";
 $data[285]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/cloud-based-speech-tech-helps-robot-act-human/";
+
+$data[285]['desktopapp']['pick'][0]['name'] = "Rapid Photo Downloader";
+$data[285]['desktopapp']['pick'][0]['url'] = "http://damonlynch.net/rapid/index.html";
+
+$data[285]['spotlight']['pick'][0]['name'] = "Ubuntu GNOME";
+$data[285]['spotlight']['pick'][0]['url'] = "http://ubuntugnome.org/";
 
 
 // Episode 286
@@ -2587,6 +3996,15 @@ $data[286]['date'] = "2013-11-10";
 $data[286]['runslinux']['pick'][0]['name'] = "12 year old boy builds and programs robots";
 $data[286]['runslinux']['pick'][0]['url'] = "http://news.yahoo.com/blogs/this-could-be-big-abc-news/robotics-ceo-12-old-wiz-smart-ph-ds-194012375.html?vp=1";
 
+$data[286]['desktopapp']['pick'][0]['name'] = "s3fs";
+$data[286]['desktopapp']['pick'][0]['url'] = "https://aur.archlinux.org/packages/s3fs/";
+
+$data[286]['spotlight']['pick'][0]['name'] = "Slackware 14.1";
+$data[286]['spotlight']['pick'][0]['url'] = "http://www.slackware.com/announce/14.1.php";
+
+$data[286]['distro']['pick'][0]['name'] = "Slackware 14.1";
+$data[286]['distro']['pick'][0]['url'] = "http://www.slackware.com/announce/14.1.php";
+
 
 // Episode 287
 $data[287]['title'] = "openSUSE 13.1 Review | LAS 287 (S29E07)";
@@ -2595,6 +4013,14 @@ $data[287]['date'] = "2013-11-17";
 
 $data[287]['runslinux']['pick'][0]['name'] = "Brazilian Credit Union";
 $data[287]['runslinux']['pick'][0]['url'] = "http://www.linux.com/news/hardware/servers/748502-live-from-susecon-sicoob-saves-millions-with-linux-on-system-z/";
+
+$data[287]['desktopapp']['pick'][0]['name'] = "SmokePing";
+$data[287]['desktopapp']['pick'][0]['url'] = "http://www.linuxjournal.com/content/fight-good-fight-smokeping";
+$data[287]['desktopapp']['pick'][1]['name'] = "KDE Connect";
+$data[287]['desktopapp']['pick'][1]['url'] = "http://albertvaka.wordpress.com/";
+
+$data[287]['spotlight']['pick'][0]['name'] = "KDE Connect";
+$data[287]['spotlight']['pick'][0]['url'] = "http://albertvaka.wordpress.com/";
 
 
 // Episode 288
@@ -2605,6 +4031,12 @@ $data[288]['date'] = "2013-11-24";
 $data[288]['runslinux']['pick'][0]['name'] = "Safeplug";
 $data[288]['runslinux']['pick'][0]['url'] = "https://pogoplug.com/safeplug";
 
+$data[288]['desktopapp']['pick'][0]['name'] = "Genymotion";
+$data[288]['desktopapp']['pick'][0]['url'] = "http://www.genymotion.com/";
+
+$data[288]['spotlight']['pick'][0]['name'] = "A Tour of btrfs";
+$data[288]['spotlight']['pick'][0]['url'] = "http://www.youtube.com/watch?v=hxWuaozpe2I";
+
 
 // Episode 289
 $data[289]['title'] = "Linux Mint 16 Review | LAS 289 (S29E09)";
@@ -2613,6 +4045,14 @@ $data[289]['date'] = "2013-12-01";
 
 $data[289]['runslinux']['pick'][0]['name'] = "Networked DVR";
 $data[289]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/linux-powered-networked-dvr-gets-second-tuner/";
+
+$data[289]['desktopapp']['pick'][0]['name'] = "Gravity Badgers";
+$data[289]['desktopapp']['pick'][0]['url'] = "http://store.steampowered.com/app/267060/";
+$data[289]['desktopapp']['pick'][1]['name'] = "TimeShift";
+$data[289]['desktopapp']['pick'][1]['url'] = "http://www.unixmen.com/timeshift-restore-linux-desktops-previous-state/";
+
+$data[289]['spotlight']['pick'][0]['name'] = "TimeShift";
+$data[289]['spotlight']['pick'][0]['url'] = "http://www.unixmen.com/timeshift-restore-linux-desktops-previous-state/";
 
 
 // Episode 290
@@ -2623,6 +4063,16 @@ $data[290]['date'] = "2013-12-08";
 $data[290]['runslinux']['pick'][0]['name'] = "Backblaze's Storage Pod 3.0";
 $data[290]['runslinux']['pick'][0]['url'] = "http://blog.backblaze.com/2013/02/20/180tb-of-good-vibrations-storage-pod-3-0/";
 
+$data[290]['desktopapp']['pick'][0]['name'] = "Kcmsystemd";
+$data[290]['desktopapp']['pick'][0]['url'] = "http://kde-apps.org/content/show.php/Kcmsystemd?content=161871";
+
+$data[290]['spotlight']['pick'][0]['name'] = "Heaven Benchmark";
+$data[290]['spotlight']['pick'][0]['url'] = "http://unigine.com/products/heaven/";
+$data[290]['spotlight']['pick'][1]['name'] = "Valley Benchmark";
+$data[290]['spotlight']['pick'][1]['url'] = "http://unigine.com/products/valley/";
+$data[290]['spotlight']['pick'][2]['name'] = "mersenneforum GIMPS";
+$data[290]['spotlight']['pick'][2]['url'] = "http://mersenneforum.org/gimps/";
+
 
 // Episode 291
 $data[291]['title'] = "System76 Leopard Extreme Review | LAS 291 (S30E01)";
@@ -2631,6 +4081,15 @@ $data[291]['date'] = "2013-12-15";
 
 $data[291]['runslinux']['pick'][0]['name'] = "Isaac Newton Telescope";
 $data[291]['runslinux']['pick'][0]['url'] = "https://twitter.com/siabost9deas/status/410161677393735680/photo/1";
+
+$data[291]['desktopapp']['pick'][0]['name'] = "FFmpeg Code Generator by RodrigoPolo";
+$data[291]['desktopapp']['pick'][0]['url'] = "http://rodrigopolo.com/ffmpeg/";
+
+$data[291]['spotlight']['pick'][0]['name'] = "Relax-and-Recover";
+$data[291]['spotlight']['pick'][0]['url'] = "http://relax-and-recover.org/";
+
+$data[291]['distro']['pick'][0]['name'] = "Relax-and-Recover";
+$data[291]['distro']['pick'][0]['url'] = "http://relax-and-recover.org/";
 
 
 // Episode 292
@@ -2641,6 +4100,15 @@ $data[292]['date'] = "2013-12-22";
 $data[292]['runslinux']['pick'][0]['name'] = "DARPA Robotics Computers";
 $data[292]['runslinux']['pick'][0]['url'] = "http://youtu.be/V5buFbuvWbk?t=1m45s";
 
+$data[292]['desktopapp']['pick'][0]['name'] = "Musique";
+$data[292]['desktopapp']['pick'][0]['url'] = "http://flavio.tordini.org/musique";
+
+$data[292]['spotlight']['pick'][0]['name'] = "Ye Olde SteamOSe ";
+$data[292]['spotlight']['pick'][0]['url'] = "http://directhex.github.io/steamos-installer/?r2";
+
+$data[292]['distro']['pick'][0]['name'] = "Ye Olde SteamOSe ";
+$data[292]['distro']['pick'][0]['url'] = "http://directhex.github.io/steamos-installer/?r2";
+
 
 // Episode 293
 $data[293]['title'] = "2014 Linux Predictions | LAS 293 (S30E03)";
@@ -2649,6 +4117,14 @@ $data[293]['date'] = "2013-12-29";
 
 $data[293]['runslinux']['pick'][0]['name'] = "$59 open quad-core PC";
 $data[293]['runslinux']['pick'][0]['url'] = "http://www.hardkernel.com/main/products/prdt_info.php";
+
+$data[293]['desktopapp']['pick'][0]['name'] = "The Dark Mod";
+$data[293]['desktopapp']['pick'][0]['url'] = "http://www.thedarkmod.com/main/";
+$data[293]['desktopapp']['pick'][1]['name'] = "Dust";
+$data[293]['desktopapp']['pick'][1]['url'] = "http://store.steampowered.com/app/236090/";
+
+$data[293]['spotlight']['pick'][0]['name'] = "Dust: An Elysian Tail";
+$data[293]['spotlight']['pick'][0]['url'] = "http://store.steampowered.com/app/236090/";
 
 
 // Episode 294
@@ -2665,6 +4141,10 @@ $data[294]['desktopapp']['pick'][0]['url'] = "https://launchpad.net/gdiskdump";
 $data[294]['spotlight']['pick'][0]['name'] = "XServer XSDL";
 $data[294]['spotlight']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=x.org.server&hl=en";
 
+$data[294]['android']['pick'][0]['name'] = "XServer XSDL";
+$data[294]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=x.org.server";
+$data[294]['android']['pick'][0]['source'] = "jb";
+
 
 // Episode 295
 $data[295]['title'] = "Linux at CES 2014 | LAS 295 (s30e05)";
@@ -2679,6 +4159,9 @@ $data[295]['desktopapp']['pick'][0]['url'] = "http://getspringseed.com/";
 
 $data[295]['spotlight']['pick'][0]['name'] = "Korora 20";
 $data[295]['spotlight']['pick'][0]['url'] = "http://www.phoronix.com/scan.php?page=news_item&px=MTU2NjY";
+
+$data[295]['distro']['pick'][0]['name'] = "Korora 20";
+$data[295]['distro']['pick'][0]['url'] = "http://www.phoronix.com/scan.php?page=news_item&px=MTU2NjY";
 
 
 // Episode 296
@@ -2727,6 +4210,9 @@ $data[298]['desktopapp']['pick'][0]['url'] = "http://livestreamer.tanuki.se/en/l
 $data[298]['spotlight']['pick'][0]['name'] = "MATE desktop live CD";
 $data[298]['spotlight']['pick'][0]['url'] = "http://mate-desktop.org/blog/2014-01-30-mate-desktop-live-cd/";
 
+$data[298]['distro']['pick'][0]['name'] = "MATE desktop live CD";
+$data[298]['distro']['pick'][0]['url'] = "http://mate-desktop.org/blog/2014-01-30-mate-desktop-live-cd/";
+
 
 // Episode 299
 $data[299]['title'] = "YaCy Creator Interview | LAS 299 (s30e09)";
@@ -2741,6 +4227,9 @@ $data[299]['desktopapp']['pick'][0]['url'] = "https://github.com/afaqurk/linux-d
 
 $data[299]['spotlight']['pick'][0]['name'] = "BlackArch";
 $data[299]['spotlight']['pick'][0]['url'] = "http://www.blackarch.org/index.html";
+
+$data[299]['distro']['pick'][0]['name'] = "BlackArch";
+$data[299]['distro']['pick'][0]['url'] = "http://www.blackarch.org/index.html";
 
 
 // Episode 300
@@ -2776,6 +4265,10 @@ $data[301]['desktopapp']['pick'][0]['url'] = "https://github.com/claudehohl/Stik
 $data[301]['spotlight']['pick'][0]['name'] = "Humble Indie Bundle 11";
 $data[301]['spotlight']['pick'][0]['url'] = "https://www.humblebundle.com/";
 
+$data[301]['android']['pick'][0]['name'] = "VSCO Cam";
+$data[301]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en";
+$data[301]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 302
 $data[302]['title'] = "Kulture of Design | LAS 302 (s31e02)";
@@ -2792,6 +4285,10 @@ $data[302]['desktopapp']['pick'][1]['url'] = "https://github.com/naxuroqa/Venom"
 
 $data[302]['spotlight']['pick'][0]['name'] = "Wings of Saint Nazaire";
 $data[302]['spotlight']['pick'][0]['url'] = "http://www.wingsofstnazaire.com/index.html";
+
+$data[302]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[302]['android']['pick'][0]['url'] = "0";
+$data[302]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 303
@@ -2810,6 +4307,10 @@ $data[303]['desktopapp']['pick'][1]['url'] = "http://www.msec.it/blog/?page_id=1
 $data[303]['spotlight']['pick'][0]['name'] = "Dukto";
 $data[303]['spotlight']['pick'][0]['url'] = "http://www.msec.it/blog/?page_id=11";
 
+$data[303]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[303]['android']['pick'][0]['url'] = "0";
+$data[303]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 304
 $data[304]['title'] = "SolydXK Linux Review | LAS 304 (s31e04)";
@@ -2824,6 +4325,10 @@ $data[304]['desktopapp']['pick'][0]['url'] = "https://asciinema.org/";
 
 $data[304]['spotlight']['pick'][0]['name'] = "Firefox preview of Unreal Engine 4";
 $data[304]['spotlight']['pick'][0]['url'] = "https://blog.mozilla.org/blog/2014/03/12/mozilla-and-epic-preview-unreal-engine-4-running-in-firefox/";
+
+$data[304]['android']['pick'][0]['name'] = "Screen Filter";
+$data[304]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.haxor";
+$data[304]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 305
@@ -2842,6 +4347,10 @@ $data[305]['spotlight']['pick'][0]['url'] = "http://www.youtube.com/watch?v=FsTQ
 $data[305]['spotlight']['pick'][1]['name'] = "Matt goes monkey";
 $data[305]['spotlight']['pick'][1]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/1a45pa/if_mir_fails_within_one_year_from_now_ill_wear/";
 
+$data[305]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[305]['android']['pick'][0]['url'] = "0";
+$data[305]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 306
 $data[306]['title'] = "Gentoo's Jeff Horelick | LAS 306 (s31e06)";
@@ -2856,6 +4365,10 @@ $data[306]['desktopapp']['pick'][0]['url'] = "http://dev.yorhel.nl/ncdu";
 
 $data[306]['spotlight']['pick'][0]['name'] = "Race The Sun";
 $data[306]['spotlight']['pick'][0]['url'] = "http://flippfly.com/racethesun/";
+
+$data[306]['android']['pick'][0]['name'] = "Amazon Appstore";
+$data[306]['android']['pick'][0]['url'] = "http://www.amazon.com/gp/mas/get/android";
+$data[306]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 307
@@ -2872,6 +4385,10 @@ $data[307]['desktopapp']['pick'][0]['url'] = "http://incubator.apache.org/wave/"
 $data[307]['spotlight']['pick'][0]['name'] = "Novena";
 $data[307]['spotlight']['pick'][0]['url'] = "http://www.crowdsupply.com/kosagi/novena-open-laptop";
 
+$data[307]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[307]['android']['pick'][0]['url'] = "0";
+$data[307]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 308
 $data[308]['title'] = "Intel NUC Review | LAS 308 (s31e08)";
@@ -2886,6 +4403,13 @@ $data[308]['desktopapp']['pick'][0]['url'] = "http://docs.bmark.us/en/latest/";
 
 $data[308]['spotlight']['pick'][0]['name'] = "CoreOS";
 $data[308]['spotlight']['pick'][0]['url'] = "https://coreos.com/";
+
+$data[308]['android']['pick'][0]['name'] = "Onavo Extend";
+$data[308]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.onavo.android.onavoics";
+$data[308]['android']['pick'][0]['source'] = "ting";
+
+$data[308]['distro']['pick'][0]['name'] = "CoreOS";
+$data[308]['distro']['pick'][0]['url'] = "https://coreos.com/";
 
 
 // Episode 309
@@ -2902,6 +4426,10 @@ $data[309]['desktopapp']['pick'][0]['url'] = "http://peterlevi.com/variety/";
 $data[309]['spotlight']['pick'][0]['name'] = "PPA Security";
 $data[309]['spotlight']['pick'][0]['url'] = "http://askubuntu.com/questions/35629/are-ppas-safe-to-add-to-my-system-and-what-are-some-red-flags-to-watch-out-fo";
 
+$data[309]['android']['pick'][0]['name'] = "Wi-Fi Finder";
+$data[309]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.jiwire.android.finder";
+$data[309]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 310
 $data[310]['title'] = "LinuxFest Northwest 2014 | LAS 310 (s31e10)";
@@ -2916,6 +4444,10 @@ $data[310]['desktopapp']['pick'][0]['url'] = "http://screenstudio.crombz.com/";
 
 $data[310]['spotlight']['pick'][0]['name'] = "Album released as kernel module";
 $data[310]['spotlight']['pick'][0]['url'] = "http://www.networkworld.com/community/blog/band-releases-album-linux-kernel-module";
+
+$data[310]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[310]['android']['pick'][0]['url'] = "0";
+$data[310]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 311
@@ -2934,6 +4466,13 @@ $data[311]['desktopapp']['pick'][1]['url'] = "http://lintut.com/slurm-command-li
 $data[311]['spotlight']['pick'][0]['name'] = "mooOS";
 $data[311]['spotlight']['pick'][0]['url'] = "http://sourceforge.net/projects/mooos/";
 
+$data[311]['android']['pick'][0]['name'] = "Snapdragon BatteryGuru";
+$data[311]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.xiam.snapdragon.app";
+$data[311]['android']['pick'][0]['source'] = "ting";
+
+$data[311]['distro']['pick'][0]['name'] = "mooOS";
+$data[311]['distro']['pick'][0]['url'] = "http://sourceforge.net/projects/mooos/";
+
 
 // Episode 312
 $data[312]['title'] = "LXQt the Xfce Killer? | LAS 312";
@@ -2948,6 +4487,13 @@ $data[312]['desktopapp']['pick'][0]['url'] = "https://atom.io/";
 
 $data[312]['spotlight']['pick'][0]['name'] = "KaOS";
 $data[312]['spotlight']['pick'][0]['url'] = "http://kaosx.us/";
+
+$data[312]['android']['pick'][0]['name'] = "FastCustomer";
+$data[312]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=www.fastcustomer.com";
+$data[312]['android']['pick'][0]['source'] = "ting";
+
+$data[312]['distro']['pick'][0]['name'] = "KaOS";
+$data[312]['distro']['pick'][0]['url'] = "http://kaosx.us/";
 
 
 // Episode 313
@@ -2964,6 +4510,10 @@ $data[313]['desktopapp']['pick'][0]['url'] = "http://sourceforge.net/projects/ca
 $data[313]['spotlight']['pick'][0]['name'] = "Syncthing";
 $data[313]['spotlight']['pick'][0]['url'] = "http://syncthing.net/";
 
+$data[313]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[313]['android']['pick'][0]['url'] = "0";
+$data[313]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 314
 $data[314]['title'] = "OpenShot 2.0 Interview | LAS 314";
@@ -2978,6 +4528,10 @@ $data[314]['desktopapp']['pick'][0]['url'] = "http://pinta-project.com/";
 
 $data[314]['spotlight']['pick'][0]['name'] = "Mosh - the mobile shell";
 $data[314]['spotlight']['pick'][0]['url'] = "http://mosh.mit.edu/#";
+
+$data[314]['android']['pick'][0]['name'] = "Image Shrink";
+$data[314]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.gmail.anolivetree.imageshrinklite";
+$data[314]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 315
@@ -2994,6 +4548,10 @@ $data[315]['desktopapp']['pick'][0]['url'] = "http://libertyzero.com/GEncfsM/";
 $data[315]['spotlight']['pick'][0]['name'] = "Mozilla Labs - Together JS";
 $data[315]['spotlight']['pick'][0]['url'] = "https://togetherjs.com/";
 
+$data[315]['android']['pick'][0]['name'] = "Tiny Flashlight + LED";
+$data[315]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.devuni.flashlight";
+$data[315]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 316
 $data[316]['title'] = "Introducing Bedrock Linux | LAS 316";
@@ -3008,6 +4566,10 @@ $data[316]['desktopapp']['pick'][0]['url'] = "http://otter-browser.org/";
 
 $data[316]['spotlight']['pick'][0]['name'] = "Minimum Workspaces - GNOME Shell extension";
 $data[316]['spotlight']['pick'][0]['url'] = "https://extensions.gnome.org/extension/820/minimum-workspaces/";
+
+$data[316]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[316]['android']['pick'][0]['url'] = "0";
+$data[316]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 317
@@ -3026,6 +4588,10 @@ $data[317]['desktopapp']['pick'][1]['url'] = "https://magpie-notes.readthedocs.o
 $data[317]['spotlight']['pick'][0]['name'] = "Magpie";
 $data[317]['spotlight']['pick'][0]['url'] = "https://magpie-notes.readthedocs.org/en/latest/";
 
+$data[317]['android']['pick'][0]['name'] = "Couple";
+$data[317]['android']['pick'][0]['url'] = "http://bit.ly/CoupleAndroid";
+$data[317]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 318
 $data[318]['title'] = "SouthEast LinuxFest Highlights | LAS 318";
@@ -3040,6 +4606,13 @@ $data[318]['desktopapp']['pick'][0]['url'] = "https://github.com/joelthelion/aut
 
 $data[318]['spotlight']['pick'][0]['name'] = "ArchAssault";
 $data[318]['spotlight']['pick'][0]['url'] = "https://archassault.org/";
+
+$data[318]['android']['pick'][0]['name'] = "EasilyDo";
+$data[318]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.easilydo";
+$data[318]['android']['pick'][0]['source'] = "ting";
+
+$data[318]['distro']['pick'][0]['name'] = "ArchAssault";
+$data[318]['distro']['pick'][0]['url'] = "https://archassault.org/";
 
 
 // Episode 319
@@ -3056,6 +4629,10 @@ $data[319]['desktopapp']['pick'][0]['url'] = "http://beets.radbox.org/";
 $data[319]['spotlight']['pick'][0]['name'] = "Unix and Linux Stack Exchange";
 $data[319]['spotlight']['pick'][0]['url'] = "http://unix.stackexchange.com/questions?sort=votes";
 
+$data[319]['android']['pick'][0]['name'] = "Square Register";
+$data[319]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.squareup&hl=en";
+$data[319]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 320
 $data[320]['title'] = "Preventing a btrfs Nightmare | LAS 320";
@@ -3070,6 +4647,13 @@ $data[320]['desktopapp']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2014/06
 
 $data[320]['spotlight']['pick'][0]['name'] = "Tails";
 $data[320]['spotlight']['pick'][0]['url'] = "https://tails.boum.org/";
+
+$data[320]['android']['pick'][0]['name'] = "Wiser";
+$data[320]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.wiser.home";
+$data[320]['android']['pick'][0]['source'] = "ting";
+
+$data[320]['distro']['pick'][0]['name'] = "Tails";
+$data[320]['distro']['pick'][0]['url'] = "https://tails.boum.org/";
 
 
 // Episode 321
@@ -3086,6 +4670,10 @@ $data[321]['desktopapp']['pick'][0]['url'] = "http://mpv.io/";
 $data[321]['spotlight']['pick'][0]['name'] = "Unreal Engine 4";
 $data[321]['spotlight']['pick'][0]['url'] = "http://www.gamingonlinux.com/articles/unreal-engine-4-now-has-linux-demo-games-to-try.3992";
 
+$data[321]['android']['pick'][0]['name'] = "PhotoGrid";
+$data[321]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.roidapp.photogrid&hl=en";
+$data[321]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 322
 $data[322]['title'] = "Debunking Manjaro Myths | LAS 322";
@@ -3100,6 +4688,10 @@ $data[322]['desktopapp']['pick'][0]['url'] = "http://pad.haroopress.com/";
 
 $data[322]['spotlight']['pick'][0]['name'] = "nbwmon - ncurses bandwidth monitor";
 $data[322]['spotlight']['pick'][0]['url'] = "https://github.com/defer-/nbwmon";
+
+$data[322]['android']['pick'][0]['name'] = "DashClock Widget";
+$data[322]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock";
+$data[322]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 323
@@ -3118,6 +4710,10 @@ $data[323]['desktopapp']['pick'][0]['url'] = "https://attic-backup.org/foreword.
 $data[323]['spotlight']['pick'][0]['name'] = "ZM-VE300-B";
 $data[323]['spotlight']['pick'][0]['url'] = "http://www.zalman.com/global/product/Product_Read.php?Idx=674";
 
+$data[323]['android']['pick'][0]['name'] = "Runtastic Heart Rate";
+$data[323]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.runtastic.android.heartrate.lite&hl=en";
+$data[323]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 324
 $data[324]['title'] = "ownCloud 7 Interview | LAS 324";
@@ -3134,6 +4730,10 @@ $data[324]['desktopapp']['pick'][1]['url'] = "https://github.com/Tox/toxic";
 
 $data[324]['spotlight']['pick'][0]['name'] = "Toxic";
 $data[324]['spotlight']['pick'][0]['url'] = "https://github.com/Tox/toxic";
+
+$data[324]['android']['pick'][0]['name'] = "OpenTable";
+$data[324]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.opentable&hl=en";
+$data[324]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 325
@@ -3154,6 +4754,15 @@ $data[325]['spotlight']['pick'][0]['url'] = "http://www.knopper.net/knoppix/knop
 $data[325]['spotlight']['pick'][1]['name'] = "TalkingArch";
 $data[325]['spotlight']['pick'][1]['url'] = "http://talkingarch.tk/";
 
+$data[325]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[325]['android']['pick'][0]['url'] = "0";
+$data[325]['android']['pick'][0]['source'] = "ting";
+
+$data[325]['distro']['pick'][0]['name'] = "KNOPPIX 7.4.0";
+$data[325]['distro']['pick'][0]['url'] = "http://www.knopper.net/knoppix/knoppix740-en.html";
+$data[325]['distro']['pick'][1]['name'] = "TalkingArch";
+$data[325]['distro']['pick'][1]['url'] = "http://talkingarch.tk/";
+
 
 // Episode 326
 $data[326]['title'] = "What's Next for Fedora | LAS 326";
@@ -3168,6 +4777,13 @@ $data[326]['desktopapp']['pick'][0]['url'] = "http://rootkit.nl/projects/lynis.h
 
 $data[326]['spotlight']['pick'][0]['name'] = "DEFT Linux 8.2";
 $data[326]['spotlight']['pick'][0]['url'] = "http://www.deftlinux.net/2014/08/10/deft-8-2-ready-for-download/";
+
+$data[326]['android']['pick'][0]['name'] = "Wattpad";
+$data[326]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=wp.wattpad";
+$data[326]['android']['pick'][0]['source'] = "ting";
+
+$data[326]['distro']['pick'][0]['name'] = "DEFT Linux 8.2";
+$data[326]['distro']['pick'][0]['url'] = "http://www.deftlinux.net/2014/08/10/deft-8-2-ready-for-download/";
 
 
 // Episode 327
@@ -3184,6 +4800,10 @@ $data[327]['desktopapp']['pick'][0]['url'] = "http://shutter-project.org/2014/08
 $data[327]['spotlight']['pick'][0]['name'] = "HandBrake 0.10 (Beta)";
 $data[327]['spotlight']['pick'][0]['url'] = "http://www.noobslab.com/2014/08/handbrake-converter-for-ubuntu-mint.html";
 
+$data[327]['android']['pick'][0]['name'] = "Wallaby Credit Card Rewards";
+$data[327]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=by.walla.wallaby&hl=en";
+$data[327]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 328
 $data[328]['title'] = "A Chat with Icculus | LAS 328";
@@ -3198,6 +4818,13 @@ $data[328]['desktopapp']['pick'][0]['url'] = "http://store.steampowered.com/app/
 
 $data[328]['spotlight']['pick'][0]['name'] = "GParted (Turns 10)";
 $data[328]['spotlight']['pick'][0]['url'] = "http://gparted.sourceforge.net/news.php?item=180";
+
+$data[328]['android']['pick'][0]['name'] = "Yo";
+$data[328]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.justyo&hl=en";
+$data[328]['android']['pick'][0]['source'] = "ting";
+
+$data[328]['distro']['pick'][0]['name'] = "GParted (Turns 10)";
+$data[328]['distro']['pick'][0]['url'] = "http://gparted.sourceforge.net/news.php?item=180";
 
 
 // Episode 329
@@ -3214,6 +4841,13 @@ $data[329]['desktopapp']['pick'][0]['url'] = "https://github.com/slap-editor/sla
 $data[329]['spotlight']['pick'][0]['name'] = "Simplicity Linux 14.10 Alpha";
 $data[329]['spotlight']['pick'][0]['url'] = "http://simplicitylinux.org/2014/09/simplicity-linux-14-10-netbook-and-desktop-alphas-now-available/";
 
+$data[329]['android']['pick'][0]['name'] = "Yard Sale Treasure Map";
+$data[329]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.webmap&hl=en";
+$data[329]['android']['pick'][0]['source'] = "ting";
+
+$data[329]['distro']['pick'][0]['name'] = "Simplicity Linux 14.10 Alpha";
+$data[329]['distro']['pick'][0]['url'] = "http://simplicitylinux.org/2014/09/simplicity-linux-14-10-netbook-and-desktop-alphas-now-available/";
+
 
 // Episode 330
 $data[330]['title'] = "Switching Ubuntu to Gnome | LAS 330";
@@ -3228,6 +4862,10 @@ $data[330]['desktopapp']['pick'][0]['url'] = "http://www.opbyte.it/grsync/";
 
 $data[330]['spotlight']['pick'][0]['name'] = "Builder for Gnome";
 $data[330]['spotlight']['pick'][0]['url'] = "https://wiki.gnome.org/Apps/Builder";
+
+$data[330]['android']['pick'][0]['name'] = "Mailbox";
+$data[330]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.mailboxapp&hl=en";
+$data[330]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 331
@@ -3246,6 +4884,10 @@ $data[331]['desktopapp']['pick'][1]['url'] = "https://www.4kdownload.com/product
 $data[331]['spotlight']['pick'][0]['name'] = "JB Jacket";
 $data[331]['spotlight']['pick'][0]['url'] = "http://teespring.com/jbjacket";
 
+$data[331]['android']['pick'][0]['name'] = "Llama";
+$data[331]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.kebab.Llama&hl=en";
+$data[331]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 332
 $data[332]['title'] = "Weaponized Bash | LAS 332";
@@ -3260,6 +4902,10 @@ $data[332]['desktopapp']['pick'][0]['url'] = "https://shellshocker.net/";
 
 $data[332]['spotlight']['pick'][0]['name'] = "RockStor";
 $data[332]['spotlight']['pick'][0]['url'] = "http://rockstor.com/";
+
+$data[332]['android']['pick'][0]['name'] = "WeTransfer";
+$data[332]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.wetransfer.app.live&hl=en";
+$data[332]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 333
@@ -3278,6 +4924,10 @@ $data[333]['desktopapp']['pick'][1]['url'] = "https://code.google.com/p/logstalg
 $data[333]['spotlight']['pick'][0]['name'] = "Logstalgia";
 $data[333]['spotlight']['pick'][0]['url'] = "https://code.google.com/p/logstalgia/";
 
+$data[333]['android']['pick'][0]['name'] = "Sunrise Calendar";
+$data[333]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=am.sunrise.android.calendar&hl=en";
+$data[333]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 334
 $data[334]['title'] = "Painless Plex Migration | LAS 334";
@@ -3293,6 +4943,10 @@ $data[334]['desktopapp']['pick'][0]['url'] = "https://github.com/MichaelJCole/bi
 $data[334]['spotlight']['pick'][0]['name'] = "The Egg - mobile web server";
 $data[334]['spotlight']['pick'][0]['url'] = "http://linuxgizmos.com/pocket-sized-mobile-touchscreen-web-server-runs-tizen/";
 
+$data[334]['android']['pick'][0]['name'] = "Unclouded";
+$data[334]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.cgollner.unclouded&hl=en";
+$data[334]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 335
 $data[335]['title'] = "Ubuntu 14.10 Mega Review | LAS 335";
@@ -3307,6 +4961,10 @@ $data[335]['desktopapp']['pick'][0]['url'] = "https://www.codeweavers.com/suppor
 
 $data[335]['spotlight']['pick'][0]['name'] = "Ohio LinuxFest 2014";
 $data[335]['spotlight']['pick'][0]['url'] = "http://www.ohiolinux.org/";
+
+$data[335]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[335]['android']['pick'][0]['url'] = "0";
+$data[335]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 336
@@ -3325,6 +4983,10 @@ $data[336]['desktopapp']['pick'][1]['url'] = "http://sparkleshare.org/";
 $data[336]['spotlight']['pick'][0]['name'] = "SparkleShare";
 $data[336]['spotlight']['pick'][0]['url'] = "http://sparkleshare.org/";
 
+$data[336]['android']['pick'][0]['name'] = "Goat Simulator";
+$data[336]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.coffeestainstudios.goatsimulator&hl=en";
+$data[336]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 337
 $data[337]['title'] = "openSUSE 13.2 Review | LAS 337";
@@ -3339,6 +5001,10 @@ $data[337]['desktopapp']['pick'][0]['url'] = "http://www.webupd8.org/2014/10/dow
 
 $data[337]['spotlight']['pick'][0]['name'] = "systemctl Tutorial";
 $data[337]['spotlight']['pick'][0]['url'] = "http://www.good-linux-tips.com/2014/10/managing-services-with-systemctl.html?utm_source";
+
+$data[337]['android']['pick'][0]['name'] = "Snowball";
+$data[337]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.squanda.swoop.app&hl=en";
+$data[337]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 338
@@ -3357,6 +5023,10 @@ $data[338]['spotlight']['pick'][0]['url'] = "http://store.steampowered.com/app/3
 $data[338]['spotlight']['pick'][1]['name'] = "War Thunder";
 $data[338]['spotlight']['pick'][1]['url'] = "http://warthunder.com/en/news/2608-war-thunder-is-now-available-on-linux-en";
 
+$data[338]['android']['pick'][0]['name'] = "Mr. Number";
+$data[338]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.mrnumber.blocker&hl=en";
+$data[338]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 339
 $data[339]['title'] = "Making Linux Beautiful | LAS 339";
@@ -3371,6 +5041,15 @@ $data[339]['desktopapp']['pick'][0]['url'] = "http://meldmerge.org/";
 
 $data[339]['spotlight']['pick'][0]['name'] = "Linux Mint 17.1 \"Rebecca\" Cinnamon RC";
 $data[339]['spotlight']['pick'][0]['url'] = "http://blog.linuxmint.com/?p=2703";
+
+$data[339]['android']['pick'][0]['name'] = "Hangouts";
+$data[339]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.google.android.talk&hl=en";
+$data[339]['android']['pick'][1]['name'] = "Hangouts Dialer";
+$data[339]['android']['pick'][1]['url'] = "https://play.google.com/store/apps/details?id=com.google.android.apps.hangoutsdialer&hl=en";
+$data[339]['android']['pick'][0]['source'] = "ting";
+
+$data[339]['distro']['pick'][0]['name'] = "Linux Mint 17.1 \"Rebecca\" Cinnamon RC";
+$data[339]['distro']['pick'][0]['url'] = "http://blog.linuxmint.com/?p=2703";
 
 
 // Episode 340
@@ -3389,6 +5068,9 @@ $data[340]['desktopapp']['pick'][1]['url'] = "http://corebird.baedert.org/";
 $data[340]['spotlight']['pick'][0]['name'] = "Corebird";
 $data[340]['spotlight']['pick'][0]['url'] = "http://corebird.baedert.org/";
 
+$data[340]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[340]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 341
 $data[341]['title'] = "Mark Shuttleworth Interview | LAS 341";
@@ -3406,6 +5088,10 @@ $data[341]['spotlight']['pick'][0]['url'] = "https://thp.io/2008/urlwatch/";
 $data[341]['spotlight']['pick'][1]['name'] = "NetMauMau";
 $data[341]['spotlight']['pick'][1]['url'] = "http://sourceforge.net/projects/netmaumau/";
 
+$data[341]['android']['pick'][0]['name'] = "Ibotta";
+$data[341]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.ibotta.android&hl=en";
+$data[341]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 342
 $data[342]['title'] = "Lennart's Linux Revolution | LAS 342";
@@ -3420,6 +5106,10 @@ $data[342]['desktopapp']['pick'][0]['url'] = "https://www.bunkus.org/videotools/
 
 $data[342]['spotlight']['pick'][0]['name'] = "prettyping.sh";
 $data[342]['spotlight']['pick'][0]['url'] = "https://bitbucket.org/denilsonsa/small_scripts/src/696d9fad54df1d46418a009149adff6d48911380/prettyping.sh?at=default";
+
+$data[342]['android']['pick'][0]['name'] = "Twilight";
+$data[342]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.urbandroid.lux&hl=en";
+$data[342]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 343
@@ -3438,13 +5128,16 @@ $data[343]['desktopapp']['pick'][1]['url'] = "https://github.com/opensuse/imagew
 $data[343]['spotlight']['pick'][0]['name'] = "openSUSE Imagewriter";
 $data[343]['spotlight']['pick'][0]['url'] = "https://github.com/opensuse/imagewriter";
 
+$data[343]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[343]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 344
 $data[344]['title'] = "Best Of LAS 2014 | LAS 344";
 $data[344]['url'] = "http://www.jupiterbroadcasting.com/74262/best-of-las-2014-las-344/";
 $data[344]['date'] = "2014-12-21";
 
-$data[344]['runslinux']['pick'][0]['name'] = "Revisited: 297, 298, 299, 306, 333, 335";
+$data[344]['runslinux']['pick'][0]['name'] = "Revisited: 297, 298, 299, 306, 333, &amp; 335";
 $data[344]['runslinux']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/74262/best-of-las-2014-las-344/";
 
 $data[344]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
@@ -3452,6 +5145,9 @@ $data[344]['desktopapp']['pick'][0]['url'] = "0";
 
 $data[344]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
 $data[344]['spotlight']['pick'][0]['url'] = "0";
+
+$data[344]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[344]['android']['pick'][0]['url'] = "0";
 
 
 // Episode 345
@@ -3472,34 +5168,294 @@ $data[345]['spotlight']['pick'][0]['url'] = "http://www.easylifeproject.org/";
 
 $data[345]['android']['pick'][0]['name'] = "Telegram Messenger";
 $data[345]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=org.telegram.messenger";
+$data[345]['android']['pick'][0]['source'] = "jb";
+
+
+// Episode 346
+$data[346]['title'] = "Greg KH: The Interview | LAS 346";
+$data[346]['url'] = "http://www.jupiterbroadcasting.com/74867/greg-kh-the-interview-las-346/";
+$data[346]['date'] = "2015-01-04";
+
+$data[346]['runslinux']['pick'][0]['name'] = "Roman Airport";
+$data[346]['runslinux']['pick'][0]['url'] = "http://slexy.org/view/s257BT7USu";
+$data[346]['runslinux']['pick'][1]['name'] = "Boston Pizza's Urinals";
+$data[346]['runslinux']['pick'][1]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2r6fws/runs_linux_linux_in_the_wild/";
+
+$data[346]['desktopapp']['pick'][0]['name'] = "Gnome MultiWriter";
+$data[346]['desktopapp']['pick'][0]['url'] = "https://github.com/hughsie/gnome-multi-writer";
+$data[346]['desktopapp']['pick'][1]['name'] = "MUP, a Markup Previewer";
+$data[346]['desktopapp']['pick'][1]['url'] = "http://agateau.com/2014/mup-a-markup-previewer/";
+
+$data[346]['spotlight']['pick'][0]['name'] = "MUP, a Markup Previewer";
+$data[346]['spotlight']['pick'][0]['url'] = "http://agateau.com/2014/mup-a-markup-previewer/";
+$data[346]['spotlight']['pick'][1]['name'] = "This Website :)";
+$data[346]['spotlight']['pick'][1]['url'] = "http://jupiterbroadcasting.com/laspicks/";
+
+$data[346]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[346]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 347
-$data[0]['title'] = "Meet MATE's Mastermind";
-$data[0]['url'] = "http://www.jupiterbroadcasting.com/75242/meet-mates-mastermind-las-347/";
-$data[0]['date'] = "2015-1-11";
+$data[347]['title'] = "Meet MATE's Mastermind | LAS 347";
+$data[347]['url'] = "http://www.jupiterbroadcasting.com/75242/meet-mates-mastermind-las-347/";
+$data[347]['date'] = "2015-01-11";
 
-$data[0]['runslinux']['pick'][0]['name'] = "NVIDIA CES 2015 press conference";
-$data[0]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=zsVsUvx8ieo";
+$data[347]['runslinux']['pick'][0]['name'] = "NVIDIA CES 2015";
+$data[347]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=zsVsUvx8ieo";
 
-$data[0]['desktopapp']['pick'][0]['name'] = "Qtractor";
-$data[0]['desktopapp']['pick'][0]['url'] = "http://qtractor.sourceforge.net/qtractor-index.html";
+$data[347]['desktopapp']['pick'][0]['name'] = "Qtractor";
+$data[347]['desktopapp']['pick'][0]['url'] = "http://qtractor.sourceforge.net/qtractor-index.html";
 
-$data[0]['spotlight']['pick'][0]['name'] = "The history of grep, the 40 year old Unix command";
-$data[0]['spotlight']['pick'][0]['url'] = "https://medium.com/@rualthanzauva/grep-was-a-private-command-of-mine-for-quite-a-while-before-i-made-it-public-ken-thompson-a40e24a5ef48";
+$data[347]['spotlight']['pick'][0]['name'] = "grep, turns 40 years old";
+$data[347]['spotlight']['pick'][0]['url'] = "https://medium.com/@rualthanzauva/grep-was-a-private-command-of-mine-for-quite-a-while-before-i-made-it-public-ken-thompson-a40e24a5ef48";
+
+$data[347]['android']['pick'][0]['name'] = "Ting's Top Five of 2014";
+$data[347]['android']['pick'][0]['url'] = "https://ting.com/blog/app-of-the-week-tings-top-five-apps-of-2014/";
+$data[347]['android']['pick'][0]['source'] = "ting";
 
 
-//Episode 348
-$data[0]['title'] = "The Deepin Review";
-$data[0]['url'] = "http://www.jupiterbroadcasting.com/75737/the-deepin-review-linux-action-show-348/";
-$data[0]['date'] = "2015-1-18";
+// Episode 348
+$data[348]['title'] = "The Deepin Review | LAS 348";
+$data[348]['url'] = "http://www.jupiterbroadcasting.com/75737/the-deepin-review-linux-action-show-348/";
+$data[348]['date'] = "2015-01-18";
 
-$data[0]['runslinux']['pick'][0]['name'] = "Mars One";
-$data[0]['runslinux']['pick'][0]['url'] = "http://www.mars-one.com/";
+$data[348]['runslinux']['pick'][0]['name'] = "Mars One";
+$data[348]['runslinux']['pick'][0]['url'] = "http://www.mars-one.com/";
 
-$data[0]['desktopapp']['pick'][0]['name'] = "StarFaux";
-$data[0]['desktopapp']['pick'][0]['url'] = "https://github.com/insomniac34/StarFaux";
+$data[348]['desktopapp']['pick'][0]['name'] = "StarFaux";
+$data[348]['desktopapp']['pick'][0]['url'] = "https://github.com/insomniac34/StarFaux";
 
-$data[0]['spotlight']['pick'][0]['name'] = "Douane";
-$data[0]['spotlight']['pick'][0]['url'] = "http://douaneapp.com/";
+$data[348]['spotlight']['pick'][0]['name'] = "Douane";
+$data[348]['spotlight']['pick'][0]['url'] = "http://douaneapp.com/";
+
+$data[348]['android']['pick'][0]['name'] = "Instructables";
+$data[348]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.adsk.instructables&hl=en";
+$data[348]['android']['pick'][0]['source'] = "ting";
+
+
+// Episode 349
+$data[349]['title'] = "Trisquel Founder Interview | LAS 349";
+$data[349]['url'] = "http://www.jupiterbroadcasting.com/76167/trisquel-founder-interview-las-349/";
+$data[349]['date'] = "2015-01-25";
+
+$data[349]['runslinux']['pick'][0]['name'] = "The Mouse Box";
+$data[349]['runslinux']['pick'][0]['url'] = "http://mouse-box.com/";
+
+$data[349]['desktopapp']['pick'][0]['name'] = "swatd";
+$data[349]['desktopapp']['pick'][0]['url'] = "https://github.com/defuse/swatd";
+
+$data[349]['spotlight']['pick'][0]['name'] = "Dex UI | NNKD";
+$data[349]['spotlight']['pick'][0]['url'] = "http://nnkd.org/dexui/";
+
+$data[349]['android']['pick'][0]['name'] = "Google Opinion Rewards";
+$data[349]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks&hl=en";
+$data[349]['android']['pick'][0]['source'] = "ting";
+
+
+// Episode 350
+$data[350]['title'] = "How Non-Devs Can Help Linux | LAS 350";
+$data[350]['url'] = "http://www.jupiterbroadcasting.com/76592/how-non-devs-can-help-linux-las-350/";
+$data[350]['date'] = "2015-02-01";
+
+$data[350]['runslinux']['pick'][0]['name'] = "Samsung Smart Refrigerator";
+$data[350]['runslinux']['pick'][0]['url'] = "http://www.samsung.com/us/appliances/refrigerators/RF28HMELBSR/AA";
+
+$data[350]['desktopapp']['pick'][0]['name'] = "Gourmet Recipe Manager";
+$data[350]['desktopapp']['pick'][0]['url'] = "http://thinkle.github.io/gourmet/";
+
+$data[350]['spotlight']['pick'][0]['name'] = "BeansBooks";
+$data[350]['spotlight']['pick'][0]['url'] = "https://beansbooks.com/";
+
+$data[350]['android']['pick'][0]['name'] = "Wordament";
+$data[350]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.microsoft.wordament&hl=en";
+$data[350]['android']['pick'][0]['source'] = "ting";
+
+
+// Episode 351
+$data[351]['title'] = "Meet SELKS | LAS 351";
+$data[351]['url'] = "http://www.jupiterbroadcasting.com/76982/meet-selks-linux-action-show-351/";
+$data[351]['date'] = "2015-02-08";
+
+$data[351]['runslinux']['pick'][0]['name'] = "Scientists Creating Nanobots";
+$data[351]['runslinux']['pick'][0]['url'] = "http://edition.cnn.com/videos/tv/2015/01/29/spc-make-create-innovate-nanobots.cnn";
+
+$data[351]['desktopapp']['pick'][0]['name'] = "Virtual Machine Manager";
+$data[351]['desktopapp']['pick'][0]['url'] = "http://virt-manager.org//";
+
+$data[351]['spotlight']['pick'][0]['name'] = "Tails";
+$data[351]['spotlight']['pick'][0]['url'] = "https://tails.boum.org/";
+
+$data[351]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[351]['android']['pick'][0]['url'] = "0";
+
+$data[351]['distro']['pick'][0]['name'] = "Tails";
+$data[351]['distro']['pick'][0]['url'] = "https://tails.boum.org/";
+
+
+// Episode 352
+$data[352]['title'] = "Questions for elementary OS | LAS 352";
+$data[352]['url'] = "http://www.jupiterbroadcasting.com/77377/questions-for-elementary-os-las-352/";
+$data[352]['date'] = "2015-02-15";
+
+$data[352]['runslinux']['pick'][0]['name'] = "The Lego Movie";
+$data[352]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2v4fip/the_lego_movie_runs_linux/";
+
+$data[352]['desktopapp']['pick'][0]['name'] = "Lets Make Music (LMMS)";
+$data[352]['desktopapp']['pick'][0]['url'] = "http://lmms.io/";
+
+$data[352]['spotlight']['pick'][0]['name'] = "AutoKey";
+$data[352]['spotlight']['pick'][0]['url'] = "https://code.google.com/p/autokey/";
+
+$data[352]['android']['pick'][0]['name'] = "Reddit Offline";
+$data[352]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=hr.redditoffline&hl=en";
+$data[352]['android']['pick'][0]['source'] = "ting";
+
+
+// Episode 353
+$data[353]['title'] = "Retro Blasted Action | LAS 353";
+$data[353]['url'] = "http://www.jupiterbroadcasting.com/77752/retro-blasted-action-las-353/";
+$data[353]['date'] = "2015-02-22";
+
+$data[353]['runslinux']['pick'][0]['name'] = "Revisited: 328, 321, 319, 331, 324, &amp; 325";
+$data[353]['runslinux']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/77752/retro-blasted-action-las-353/";
+
+$data[353]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[353]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[353]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[353]['spotlight']['pick'][0]['url'] = "0";
+
+$data[353]['android']['pick'][0]['name'] = "Drippler";
+$data[353]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.drippler.android.updates&hl=en";
+$data[353]['android']['pick'][0]['source'] = "ting";
+
+
+// Episode 354
+$data[354]['title'] = "Outstanding SCALE 13x | LAS 354";
+$data[354]['url'] = "http://www.jupiterbroadcasting.com/78027/outstanding-scale-13x-las-354/";
+$data[354]['date'] = "2015-03-01";
+
+$data[354]['runslinux']['pick'][0]['name'] = "Runescape";
+$data[354]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2wx4hy/runs_linux_runescape/";
+
+$data[354]['desktopapp']['pick'][0]['name'] = "Brasero";
+$data[354]['desktopapp']['pick'][0]['url'] = "https://wiki.gnome.org/Apps/Brasero";
+
+$data[354]['spotlight']['pick'][0]['name'] = "Krita 2.9";
+$data[354]['spotlight']['pick'][0]['url'] = "https://krita.org/krita-2-9-the-kickstarter-release/";
+
+$data[354]['android']['pick'][0]['name'] = "Glympse";
+$data[354]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.glympse.android.glympse&hl=en";
+$data[354]['android']['pick'][0]['source'] = "ting";
+
+
+// Episode 355
+$data[355]['title'] = "Linux Media Production | LAS 355";
+$data[355]['url'] = "http://www.jupiterbroadcasting.com/78447/linux-media-production-las-355/";
+$data[355]['date'] = "2015-03-08";
+
+$data[355]['runslinux']['pick'][0]['name'] = "Cuberox (six screen device)";
+$data[355]['runslinux']['pick'][0]['url'] = "https://www.kickstarter.com/projects/1426448868/cuberox-six-screen-waterproof-linux-powered-comput";
+
+$data[355]['desktopapp']['pick'][0]['name'] = "Torchlight II";
+$data[355]['desktopapp']['pick'][0]['url'] = "http://store.steampowered.com/app/200710/";
+$data[355]['desktopapp']['pick'][1]['name'] = "Snowmix";
+$data[355]['desktopapp']['pick'][1]['url'] = "http://sourceforge.net/projects/snowmix/";
+$data[355]['desktopapp']['pick'][2]['name'] = "Rtorrent";
+$data[355]['desktopapp']['pick'][2]['url'] = "https://rakshasa.github.io/rtorrent/";
+$data[355]['desktopapp']['pick'][3]['name'] = "ocenaudio";
+$data[355]['desktopapp']['pick'][3]['url'] = "http://www.ocenaudio.com.br/";
+
+$data[355]['spotlight']['pick'][0]['name'] = "Imcomptech";
+$data[355]['spotlight']['pick'][0]['url'] = "http://incompetech.com/";
+$data[355]['spotlight']['pick'][1]['name'] = "LAS at LFNW 2015";
+$data[355]['spotlight']['pick'][1]['url'] = "http://teespring.com/linux";
+
+$data[355]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[355]['android']['pick'][0]['url'] = "0";
+
+
+// Episode 356
+$data[356]['title'] = "Linux's Slice of HAM | LAS 356";
+$data[356]['url'] = "http://www.jupiterbroadcasting.com/78797/linuxs-slice-of-ham-las-356/";
+$data[356]['date'] = "2015-03-15";
+
+$data[356]['runslinux']['pick'][0]['name'] = "Army Cyber Warfare";
+$data[356]['runslinux']['pick'][0]['url'] = "http://imgur.com/13Yepyq";
+
+$data[356]['desktopapp']['pick'][0]['name'] = "ShellInABox";
+$data[356]['desktopapp']['pick'][0]['url'] = "https://code.google.com/p/shellinabox/";
+
+$data[356]['spotlight']['pick'][0]['name'] = "Ozon OS (Beta)";
+$data[356]['spotlight']['pick'][0]['url'] = "http://ozon-os.com/";
+
+$data[356]['android']['pick'][0]['name'] = "Crossy Road";
+$data[356]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.yodo1.crossyroad";
+$data[356]['android']['pick'][0]['source'] = "ting";
+
+$data[356]['distro']['pick'][0]['name'] = "Ozon OS (Beta)";
+$data[356]['distro']['pick'][0]['url'] = "http://ozon-os.com/";
+
+
+// Episode 357
+$data[357]['title'] = "Kodiculious Review | LAS 357";
+$data[357]['url'] = "http://www.jupiterbroadcasting.com/79247/kodiculious-review-las-357/";
+$data[357]['date'] = "2015-03-22";
+
+$data[357]['runslinux']['pick'][0]['name'] = "NVidia Dev Box";
+$data[357]['runslinux']['pick'][0]['url'] = "https://developer.nvidia.com/devbox";
+
+$data[357]['desktopapp']['pick'][0]['name'] = "Pithos";
+$data[357]['desktopapp']['pick'][0]['url'] = "http://pithos.github.io/";
+
+$data[357]['spotlight']['pick'][0]['name'] = "Document Freedom Day";
+$data[357]['spotlight']['pick'][0]['url'] = "https://documentfreedom.org/";
+
+$data[357]['android']['pick'][0]['name'] = "YouTube Kids";
+$data[357]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids";
+$data[357]['android']['pick'][0]['source'] = "ting";
+
+
+// Episode 358
+$data[358]['title'] = "Remote Desktop Roundup | LAS 358";
+$data[358]['url'] = "http://www.jupiterbroadcasting.com/79607/remote-desktop-roundup-las-358";
+$data[358]['date'] = "2015-03-29";
+
+$data[358]['runslinux']['pick'][0]['name'] = "NCAR-Wyoming Supercomputing Center (rats08/Zach)";
+$data[358]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=Y2Cw65TGA84";
+
+$data[358]['desktopapp']['pick'][0]['name'] = "Remmina";
+$data[358]['desktopapp']['pick'][0]['url'] = "https://freerdp.github.io/Remmina/index.html";
+
+$data[358]['spotlight']['pick'][0]['name'] = "OpenELEC (Kodi)";
+$data[358]['spotlight']['pick'][0]['url'] = "http://openelec.tv";
+
+$data[358]['android']['pick'][0]['name'] = "Pluto TV";
+$data[358]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=tv.pluto.android&hl=en";
+$data[358]['android']['pick'][0]['source'] = "ting";
+
+$data[358]['distro']['pick'][0]['name'] = "OpenELEC (Kodi)";
+$data[358]['distro']['pick'][0]['url'] = "http://openelec.tv";
+
+
+// Episode 359
+$data[359]['title'] = "Get A Job, You Linux Bum! | LAS 359";
+$data[359]['url'] = "http://www.jupiterbroadcasting.com/79937/get-a-job-you-linux-bum-las-359/";
+$data[359]['date'] = "2015-04-03";
+
+$data[359]['runslinux']['pick'][0]['name'] = "Bowling Alley";
+$data[359]['runslinux']['pick'][0]['url'] = "http://imgur.com/M0IV27O,T6fzI9t,1F9Tpb1,EZKVZay,oU3jFL9,bXGXLtz,44R87wO";
+
+$data[359]['desktopapp']['pick'][0]['name'] = "ClipGrab";
+$data[359]['desktopapp']['pick'][0]['url'] = "http://clipgrab.org/";
+$data[359]['desktopapp']['pick'][1]['name'] = "Go For It";
+$data[359]['desktopapp']['pick'][1]['url'] = "http://manuel-kehl.de/projects/go-for-it/";
+
+$data[359]['spotlight']['pick'][0]['name'] = "Go For It";
+$data[359]['spotlight']['pick'][0]['url'] = "http://manuel-kehl.de/projects/go-for-it/";
+
+$data[359]['android']['pick'][0]['name'] = "Boot the Dispute";
+$data[359]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.bipolardesign.bootdispute";
+$data[359]['android']['pick'][0]['source'] = "ting";
 
 ?>
