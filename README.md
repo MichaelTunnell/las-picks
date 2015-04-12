@@ -9,6 +9,10 @@ This site includes a separate picks lists for the "Runs Linux", Desktop Apps, Sp
 
 ---------------
 
+<a href="http://jupiterbroadcasting.com/laspicks/contribute.php">View the LAS Picks Contributors</a>
+
+---------------
+
 Contributions are welcomed and encouraged.
 
 ### How to Contribute
@@ -29,4 +33,4 @@ Video is currently being produced so it is not available yet.
 
 ### Website Preview
 
-![LAS Picks Preview](https://raw.githubusercontent.com/MichaelTunnell/las-picks/master/site/las-picks-preview.png)
+![LAS Picks Preview](https://raw.githubusercontent.com/MichaelTunnell/las-picks/master/site/las-picks-preview.jpg)
