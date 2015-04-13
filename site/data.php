@@ -5461,8 +5461,8 @@ $data[359]['android']['pick'][0]['source'] = "ting";
 
 
 // Episode 360
-$data[360]['title'] = "LAS 360";
-$data[360]['url'] = "http://jupiterbroadcasting.com";
+$data[360]['title'] = "Chronicles of a Linux Switcher | LAS 360";
+$data[360]['url'] = "http://www.jupiterbroadcasting.com/80312/chronicles-of-a-linux-switcher-las-360/";
 $data[360]['date'] = "2015-04-12";
 
 $data[360]['runslinux']['pick'][0]['name'] = "Coastland Mall Touchscreen Kiosk";
