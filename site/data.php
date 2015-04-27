@@ -5478,4 +5478,39 @@ $data[360]['android']['pick'][0]['name'] = "Yummly";
 $data[360]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.yummly.android&hl=en";
 $data[360]['android']['pick'][0]['source'] = "ting";
 
+// Episode 361
+$data[361]['title'] = "From Apples to Penguins | LAS 361";
+$data[361]['url'] = "http://www.jupiterbroadcasting.com/80702/from-apples-to-penguins-las-361/";
+$data[361]['date'] = "2015-04-19";
+
+$data[361]['runslinux']['pick'][0]['name'] = "Honda";
+$data[361]['runslinux']['pick'][0]['url'] = "https://youtu.be/S5AnWzjHtWA?t=6m";
+
+$data[361]['desktopapp']['pick'][0]['name'] = "Time Shift";
+$data[361]['desktopapp']['pick'][0]['url'] = "http://www.teejeetech.in/p/timeshift.html";
+
+$data[361]['spotlight']['pick'][0]['name'] = "osTicket";
+$data[361]['spotlight']['pick'][0]['url'] = "http://osticket.com/";
+
+$data[361]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[361]['android']['pick'][0]['url'] = "0";
+
+// Episode 362
+$data[362]['title'] = "Rockin 2015 LinuxFest NW | LAS 362";
+$data[362]['url'] = "http://www.jupiterbroadcasting.com/81137/rockin-2015-linuxfest-nw-las-362/";
+$data[362]['date'] = "2015-04-26";
+
+$data[362]['runslinux']['pick'][0]['name'] = "Linux Action Show Live Video Production";
+$data[362]['runslinux']['pick'][0]['url'] = "https://obsproject.com/";
+
+$data[362]['desktopapp']['pick'][0]['name'] = "Irssi";
+$data[362]['desktopapp']['pick'][0]['url'] = "http://www.irssi.org/about";
+
+$data[362]['spotlight']['pick'][0]['name'] = "OpenRA Release 20150424";
+$data[362]['spotlight']['pick'][0]['url'] = "http://www.openra.net/news/release-20150424/";
+
+$data[362]['android']['pick'][0]['name'] = "Checky";
+$data[362]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.calm.checky";
+$data[362]['android']['pick'][0]['source'] = "ting";
+
 ?>
