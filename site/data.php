@@ -5515,4 +5515,42 @@ $data[362]['android']['pick'][0]['name'] = "Checky";
 $data[362]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.calm.checky";
 $data[362]['android']['pick'][0]['source'] = "ting";
 
+
+// Episode 363
+$data[362]['title'] = "Linux's Victory Blow | LAS 363";
+$data[362]['url'] = "http://www.jupiterbroadcasting.com/81432/linuxs-victory-blow-las-363/";
+$data[362]['date'] = "2015-05-03";
+
+$data[362]['runslinux']['pick'][0]['name'] = "My Media Center";
+$data[362]['runslinux']['pick'][0]['url'] = "http://imgur.com/oG1BOOI";
+
+$data[362]['desktopapp']['pick'][0]['name'] = "Natron";
+$data[362]['desktopapp']['pick'][0]['url'] = "https://natron.inria.fr/";
+
+$data[362]['spotlight']['pick'][0]['name'] = "PiTop";
+$data[362]['spotlight']['pick'][0]['url'] = "https://www.indiegogo.com/projects/pi-top-a-raspberry-pi-laptop-you-build-yourself";
+
+$data[362]['android']['pick'][0]['name'] = "Runtastic Heart Rate";
+$data[362]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.runtastic.android.heartrate.pro";
+$data[362]['android']['pick'][0]['source'] = "ting";
+
+
+// Episode 364
+$data[362]['title'] = "Krita Developer Interview | LAS 364";
+$data[362]['url'] = "http://www.jupiterbroadcasting.com/81807/krita-developer-interview-las-364/";
+$data[362]['date'] = "2015-05-10";
+
+$data[362]['runslinux']['pick'][0]['name'] = "Ubunu Powered Drone";
+$data[362]['runslinux']['pick'][0]['url'] = "http://www.techworm.net/2015/05/worlds-first-ubuntu-powered-drone-launched.html";
+
+$data[362]['desktopapp']['pick'][0]['name'] = "Fort Password Manager";
+$data[362]['desktopapp']['pick'][0]['url'] = "http://www.ideabyte.net/fort/";
+
+$data[362]['spotlight']['pick'][0]['name'] = "CentOS 7 on the Desktop";
+$data[362]['spotlight']['pick'][0]['url'] = "http://fetyr2004.github.io/";
+
+$data[362]['android']['pick'][0]['name'] = "Fyuse Beta";
+$data[362]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.fyusion.fyuse";
+$data[362]['android']['pick'][0]['source'] = "ting";
+
 ?>
