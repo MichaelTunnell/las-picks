@@ -5183,7 +5183,7 @@ $data[346]['runslinux']['pick'][1]['name'] = "Boston Pizza's Urinals";
 $data[346]['runslinux']['pick'][1]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2r6fws/runs_linux_linux_in_the_wild/";
 
 $data[346]['desktopapp']['pick'][0]['name'] = "Gnome MultiWriter";
-$data[346]['desktopapp']['pick'][0]['url'] = "https://github.com/hughsie/gnome-multi-writer";
+$data[346]['desktopapp']['pick'][0]['url'] = "https://github.com/GNOME/gnome-multi-writer";
 $data[346]['desktopapp']['pick'][1]['name'] = "MUP, a Markup Previewer";
 $data[346]['desktopapp']['pick'][1]['url'] = "http://agateau.com/2014/mup-a-markup-previewer/";
 
@@ -5301,7 +5301,7 @@ $data[352]['date'] = "2015-02-15";
 $data[352]['runslinux']['pick'][0]['name'] = "The Lego Movie";
 $data[352]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2v4fip/the_lego_movie_runs_linux/";
 
-$data[352]['desktopapp']['pick'][0]['name'] = "Lets Make Music (LMMS)";
+$data[352]['desktopapp']['pick'][0]['name'] = "Linux Multimedia Studio (LMMS)";
 $data[352]['desktopapp']['pick'][0]['url'] = "http://lmms.io/";
 
 $data[352]['spotlight']['pick'][0]['name'] = "AutoKey";
