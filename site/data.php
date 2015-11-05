@@ -5301,7 +5301,7 @@ $data[352]['date'] = "2015-02-15";
 $data[352]['runslinux']['pick'][0]['name'] = "The Lego Movie";
 $data[352]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2v4fip/the_lego_movie_runs_linux/";
 
-$data[352]['desktopapp']['pick'][0]['name'] = "Lets Make Music (LMMS)";
+$data[352]['desktopapp']['pick'][0]['name'] = "Linux Multimedia Studio (LMMS)";
 $data[352]['desktopapp']['pick'][0]['url'] = "http://lmms.io/";
 
 $data[352]['spotlight']['pick'][0]['name'] = "AutoKey";
