@@ -5515,4 +5515,23 @@ $data[362]['android']['pick'][0]['name'] = "Checky";
 $data[362]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.calm.checky";
 $data[362]['android']['pick'][0]['source'] = "ting";
 
+// Episode 404
+$data[404]['title'] = "How Not to Install Discourse | LAS 404";
+$data[404]['url'] = "http://www.jupiterbroadcasting.com/93751/how-not-to-install-discourse-las-404/";
+$data[404]['date'] = "2016-02-14";
+
+$data[404]['runslinux']['pick'][0]['name'] = "My Adult Sandbox RUNS LINUX";
+$data[404]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=EETkn5_qrhM";
+$data[404]['runslinux']['pick'][1]['name'] = "After 100 years, scientists are finally closing in on Einstein’s ripples";
+$data[404]['runslinux']['pick'][1]['url'] = "http://arstechnica.com/science/2016/02/after-100-years-scientists-are-finally-closing-in-on-einsteins-ripples/";
+
+$data[404]['desktopapp']['pick'][0]['name'] = "CopyQ";
+$data[404]['desktopapp']['pick'][0]['url'] = "http://hluk.github.io/CopyQ/";
+
+$data[404]['spotlight']['pick'][0]['name'] = "Stremio";
+$data[404]['spotlight']['pick'][0]['url'] = "http://strem.io/";
+
+$data[404]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[404]['android']['pick'][0]['url'] = "0";
+
 ?>

@@ -15,34 +15,35 @@ $ak_runslinux	= "runslinux";
 $pt_runslinux	= "Runs Linux";
 $nav_runslinux	= $pt_runslinux;
 $th_runslinux	= $pt_runslinux;
-$time_runslinux	= array('2006', "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015");
+$time_runslinux	= array('2006', "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016");
 
 $ak_desktop		= "desktopapp";
 $pt_desktop		= "Desktop App Picks";
 $nav_desktop	= "Desktop Apps";
 $th_desktop		= "App Pick";
-$time_desktop	= array("2011", "2012", "2013", "2014", "2015");
+$time_desktop	= array("2011", "2012", "2013", "2014", "2015", "2016");
 
 $ak_spotlight	= "spotlight";
 $pt_spotlight	= "Spotlight Picks";
 $nav_spotlight	= "Spotlights";
 $th_spotlight	= "Spotlight Pick";
-$time_spotlight	= array("2013", "2014", "2015");
+$time_spotlight	= array("2013", "2014", "2015", "2016");
 
 $ak_android		= "android";
 $pt_android		= "Android Picks";
 $nav_android	= "Android";
 $th_android		= "Android Pick";
-$time_android	= array("2010", "2011", "2012", "2013", "2014", "2015");
+$time_android	= array("2010", "2011", "2012", "2013", "2014", "2015", "2016");
 
 $ak_distro		= "distro";
 $pt_distro		= "Distro of the Day";
 $nav_distro		= "Distros";
 $th_distro		= "Distro";
-$time_distro	= array("2012", "2013", "2014", "2015");
+$time_distro	= array("2012", "2013", "2014", "2015", "2016");
 
 
 // Date Variables
+$startdates['2016'] = "2016-01-04 10:00 PST";
 $startdates['2015'] = "2015-01-04 10:00 PST";
 $startdates['2014'] = "2014-01-05 10:00 PST";
 $startdates['2013'] = "2013-01-06 10:00 PST";
