@@ -6184,3 +6184,20 @@ $data[399]['spotlight']['pick'][0]['url'] = "http://www.osticket.com/";
 
 $data[399]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[399]['android']['pick'][0]['url'] = "0";
+
+// Episode 400
+$data[400]['title'] = "LAS 400 Phones Home | LAS 400";
+$data[400]['url'] = "http://www.jupiterbroadcasting.com/92716/las-400-phones-home-las-400/";
+$data[400]['date'] = "2016-01-15";
+
+$data[400]['runslinux']['pick'][0]['name'] = "Gym";
+$data[400]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/40o74u/my_gym_runs_linux/";
+
+$data[400]['desktopapp']['pick'][0]['name'] = "netboot.xyz";
+$data[400]['desktopapp']['pick'][0]['url'] = "http://netboot.xyz/";
+
+$data[400]['spotlight']['pick'][0]['name'] = "Open-AudIT";
+$data[400]['spotlight']['pick'][0]['url'] = "http://www.open-audit.org/";
+
+$data[400]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[400]['android']['pick'][0]['url'] = "0";
