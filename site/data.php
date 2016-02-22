@@ -6150,3 +6150,20 @@ $data[397]['spotlight']['pick'][0]['url'] = "0";
 
 $data[397]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[397]['android']['pick'][0]['url'] = "0";
+
+// Episode 398
+$data[398]['title'] = "Consulting the Oracle for 2016 | LAS 398";
+$data[398]['url'] = "http://www.jupiterbroadcasting.com/92261/consulting-the-oracle-for-2016-las-398/";
+$data[398]['date'] = "2016-01-03";
+
+$data[398]['runslinux']['pick'][0]['name'] = "Hotel Music";
+$data[398]['runslinux']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/92261/consulting-the-oracle-for-2016-las-398/";
+
+$data[398]['desktopapp']['pick'][0]['name'] = "OnionShare";
+$data[398]['desktopapp']['pick'][0]['url'] = "https://onionshare.org/";
+
+$data[398]['spotlight']['pick'][0]['name'] = "DHCPPing";
+$data[398]['spotlight']['pick'][0]['url'] = "http://www.mavetju.org/unix/dhcping-man.php";
+
+$data[398]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[398]['android']['pick'][0]['url'] = "0";
