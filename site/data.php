@@ -6012,3 +6012,20 @@ $data[389]['spotlight']['pick'][0]['url'] = "http://chromixium.org/";
 
 $data[389]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[389]['android']['pick'][0]['url'] = "0";
+
+// Episode 390
+$data[390]['title'] = "Fedora from the Cockpit | LAS 390";
+$data[390]['url'] = "http://www.jupiterbroadcasting.com/90206/fedora-from-the-cockpit-las-390/";
+$data[390]['date'] = "2015-11-08";
+
+$data[390]['runslinux']['pick'][0]['name'] = "Group of neighbors";
+$data[390]['runslinux']['pick'][0]['url'] = "http://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/";
+
+$data[390]['desktopapp']['pick'][0]['name'] = "Trine 3";
+$data[390]['desktopapp']['pick'][0]['url'] = "http://www.phoronix.com/scan.php?page=news_item&px=Trine-3-Linux-Release";
+
+$data[390]['spotlight']['pick'][0]['name'] = "Architect Linux";
+$data[390]['spotlight']['pick'][0]['url'] = "http://sourceforge.net/projects/architect-linux/";
+
+$data[390]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[390]['android']['pick'][0]['url'] = "0";
