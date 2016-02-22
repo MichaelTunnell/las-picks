@@ -6097,3 +6097,20 @@ $data[394]['spotlight']['pick'][0]['url'] = "https://www.humblebundle.com/books"
 
 $data[394]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[394]['android']['pick'][0]['url'] = "0";
+
+// Episode 395
+$data[395]['title'] = "Shooting the Breeze with KDE | LAS 395";
+$data[395]['url'] = "http://www.jupiterbroadcasting.com/91451/shooting-the-breeze-with-kde-las-395/";
+$data[395]['date'] = "2015-12-13";
+
+$data[395]['runslinux']['pick'][0]['name'] = "The PINE 64";
+$data[395]['runslinux']['pick'][0]['url'] = "http://pine64.com/";
+
+$data[395]['desktopapp']['pick'][0]['name'] = "ksuperkey";
+$data[395]['desktopapp']['pick'][0]['url'] = "http://kde-apps.org/content/show.php/ksuperkey?content=154569";
+
+$data[395]['spotlight']['pick'][0]['name'] = "KeePassX 2.0 has arrived";
+$data[395]['spotlight']['pick'][0]['url'] = "https://www.keepassx.org/news/2015/12/533";
+
+$data[395]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[395]['android']['pick'][0]['url'] = "0";
