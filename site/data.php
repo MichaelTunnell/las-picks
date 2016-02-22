@@ -6029,3 +6029,20 @@ $data[390]['spotlight']['pick'][0]['url'] = "http://sourceforge.net/projects/arc
 
 $data[390]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[390]['android']['pick'][0]['url'] = "0";
+
+// Episode 391
+$data[391]['title'] = "Live From System76 | LAS 391";
+$data[391]['url'] = "http://www.jupiterbroadcasting.com/90386/live-from-system76-las-391/";
+$data[391]['date'] = "2015-11-15";
+
+$data[391]['runslinux']['pick'][0]['name'] = "Lego Robotics Club";
+$data[391]['runslinux']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/90386/live-from-system76-las-391/";
+
+$data[391]['desktopapp']['pick'][0]['name'] = "TiddlyWiki";
+$data[391]['desktopapp']['pick'][0]['url'] = "http://tiddlywiki.com/";
+
+$data[391]['spotlight']['pick'][0]['name'] = "Novacut";
+$data[391]['spotlight']['pick'][0]['url'] = "https://launchpad.net/novacut";
+
+$data[391]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[391]['android']['pick'][0]['url'] = "0";
