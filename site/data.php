@@ -6270,3 +6270,20 @@ $data[404]['spotlight']['pick'][0]['url'] = "http://strem.io/";
 
 $data[404]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[404]['android']['pick'][0]['url'] = "0";
+
+// Episode 405
+$data[405]['title'] = "The High Price of Purism | LAS 405";
+$data[405]['url'] = "http://www.jupiterbroadcasting.com/96641/the-high-price-of-purism-las-405-2/";
+$data[405]['date'] = "2016-02-21";
+
+$data[405]['runslinux']['pick'][0]['name'] = "Endless";
+$data[405]['runslinux']['pick'][0]['url'] = "https://endlessm.com/";
+
+$data[405]['desktopapp']['pick'][0]['name'] = ".clayo – osmo";
+$data[405]['desktopapp']['pick'][0]['url'] = "http://clayo.org/osmo/";
+
+$data[405]['spotlight']['pick'][0]['name'] = "Log.io – Real-time log monitoring in your browser";
+$data[405]['spotlight']['pick'][0]['url'] = "http://logio.org/";
+
+$data[405]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[405]['android']['pick'][0]['url'] = "0";
