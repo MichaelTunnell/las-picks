@@ -6080,3 +6080,20 @@ $data[393]['spotlight']['pick'][0]['url'] = "https://sandstorm.io/";
 
 $data[393]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[393]['android']['pick'][0]['url'] = "0";
+
+// Episode 394
+$data[394]['title'] = "Linux in Mint Condition | LAS 394";
+$data[394]['url'] = "http://www.jupiterbroadcasting.com/91181/linux-in-mint-condition-las-394/";
+$data[394]['date'] = "2015-12-06";
+
+$data[394]['runslinux']['pick'][0]['name'] = "Race Cars";
+$data[394]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=I5e_OEisNFY";
+
+$data[394]['desktopapp']['pick'][0]['name'] = "Free Astronomical Observatory Software";
+$data[394]['desktopapp']['pick'][0]['url'] = "http://linux.softpedia.com/blog/stellarium-0-14-1-free-astronomical-observatory-software-has-better-4k-support-497040.shtml";
+
+$data[394]['spotlight']['pick'][0]['name'] = "$276.00 worth of Raspberry Pi / Arduino";
+$data[394]['spotlight']['pick'][0]['url'] = "https://www.humblebundle.com/books";
+
+$data[394]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[394]['android']['pick'][0]['url'] = "0";
