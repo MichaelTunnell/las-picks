@@ -6046,3 +6046,20 @@ $data[391]['spotlight']['pick'][0]['url'] = "https://launchpad.net/novacut";
 
 $data[391]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[391]['android']['pick'][0]['url'] = "0";
+
+// Episode 392
+$data[392]['title'] = "The Evolution of Solus | LAS 392";
+$data[392]['url'] = "http://www.jupiterbroadcasting.com/90616/the-evolution-of-solus-las-392/";
+$data[392]['date'] = "2015-11-22";
+
+$data[392]['runslinux']['pick'][0]['name'] = "D-Link’s Komfy Switch with Camera";
+$data[392]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/smart-light-switch-includes-hd-camera-iftt-support/";
+
+$data[392]['desktopapp']['pick'][0]['name'] = "Pitivi 0.95";
+$data[392]['desktopapp']['pick'][0]['url'] = "http://jeff.ecchi.ca/blog/2015/11/19/pitivi-0-95-enfant-suisse/";
+
+$data[392]['spotlight']['pick'][0]['name'] = "Nmap 7";
+$data[392]['spotlight']['pick'][0]['url'] = "https://nmap.org/7/";
+
+$data[392]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[392]['android']['pick'][0]['url'] = "0";
