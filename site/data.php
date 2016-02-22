@@ -6114,3 +6114,22 @@ $data[395]['spotlight']['pick'][0]['url'] = "https://www.keepassx.org/news/2015/
 
 $data[395]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[395]['android']['pick'][0]['url'] = "0";
+
+// Episode 396
+$data[396]['title'] = "Let’s Encrypt: A New Hope | LAS 396";
+$data[396]['url'] = "http://www.jupiterbroadcasting.com/91736/lets-encrypt-a-new-hope-las-396/";
+$data[396]['date'] = "2015-12-20";
+
+$data[396]['runslinux']['pick'][0]['name'] = "George’s Hacked Acrua";
+$data[396]['runslinux']['pick'][0]['url'] = "http://www.bloomberg.com/features/2015-george-hotz-self-driving-car/";
+
+$data[396]['desktopapp']['pick'][0]['name'] = "Nuvola Player";
+$data[396]['desktopapp']['pick'][0]['url'] = "https://tiliado.eu/nuvolaplayer/";
+
+$data[396]['spotlight']['pick'][0]['name'] = "GDriveFS";
+$data[396]['spotlight']['pick'][0]['url'] = "https://github.com/dsoprea/GDriveFS";
+$data[396]['spotlight']['pick'][1]['name'] = "Block Spoilers for Star Wars";
+$data[396]['spotlight']['pick'][1]['url'] = "https://chrome.google.com/webstore/detail/force-block-the-star-wars/bplpphlobgcnjhoglonpnkooaaenlmol/related";
+
+$data[396]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[396]['android']['pick'][0]['url'] = "0";
