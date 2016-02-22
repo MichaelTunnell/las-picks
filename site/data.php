@@ -6236,3 +6236,54 @@ $data[402]['spotlight']['pick'][0]['url'] = "https://seb-apps.github.io/yarock/"
 
 $data[402]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[402]['android']['pick'][0]['url'] = "0";
+
+// Episode 403
+$data[403]['title'] = "Rocket Chat & Mattermost Cut the Slack | LAS 403";
+$data[403]['url'] = "http://www.jupiterbroadcasting.com/93521/rocket-chat-mattermost-cut-the-slack-las-403/";
+$data[403]['date'] = "2016-02-07";
+
+$data[403]['runslinux']['pick'][0]['name'] = "Linux Solves Rubics Cube";
+$data[403]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=ixTddQQ2Hs4";
+
+$data[403]['desktopapp']['pick'][0]['name'] = "Wallpaper Timer";
+$data[403]['desktopapp']['pick'][0]['url'] = "http://peterlevi.com/variety/";
+
+$data[403]['spotlight']['pick'][0]['name'] = "Stikked";
+$data[403]['spotlight']['pick'][0]['url'] = "https://github.com/claudehohl/Stikked";
+
+$data[403]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[403]['android']['pick'][0]['url'] = "0";
+
+// Episode 404
+$data[404]['title'] = "How Not to Install Discourse | LAS 404";
+$data[404]['url'] = "http://www.jupiterbroadcasting.com/93751/how-not-to-install-discourse-las-404/";
+$data[404]['date'] = "2016-02-14";
+
+$data[404]['runslinux']['pick'][0]['name'] = "My Adult Sandbox";
+$data[404]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=EETkn5_qrhM";
+
+$data[404]['desktopapp']['pick'][0]['name'] = "CopyQ";
+$data[404]['desktopapp']['pick'][0]['url'] = "http://hluk.github.io/CopyQ/";
+
+$data[404]['spotlight']['pick'][0]['name'] = "Stremio";
+$data[404]['spotlight']['pick'][0]['url'] = "http://strem.io/";
+
+$data[404]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[404]['android']['pick'][0]['url'] = "0";
+
+// Episode 405
+$data[405]['title'] = "The High Price of Purism | LAS 405";
+$data[405]['url'] = "http://www.jupiterbroadcasting.com/96641/the-high-price-of-purism-las-405-2/";
+$data[405]['date'] = "2016-02-21";
+
+$data[405]['runslinux']['pick'][0]['name'] = "Endless";
+$data[405]['runslinux']['pick'][0]['url'] = "https://endlessm.com/";
+
+$data[405]['desktopapp']['pick'][0]['name'] = ".clayo – osmo";
+$data[405]['desktopapp']['pick'][0]['url'] = "http://clayo.org/osmo/";
+
+$data[405]['spotlight']['pick'][0]['name'] = "Log.io – Real-time log monitoring in your browser";
+$data[405]['spotlight']['pick'][0]['url'] = "http://logio.org/";
+
+$data[405]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[405]['android']['pick'][0]['url'] = "0";
