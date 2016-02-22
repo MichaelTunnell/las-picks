@@ -5301,7 +5301,7 @@ $data[352]['date'] = "2015-02-15";
 $data[352]['runslinux']['pick'][0]['name'] = "The Lego Movie";
 $data[352]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2v4fip/the_lego_movie_runs_linux/";
 
-$data[352]['desktopapp']['pick'][0]['name'] = "Lets Make Music (LMMS)";
+$data[352]['desktopapp']['pick'][0]['name'] = "Linux Multimedia Studio (LMMS)";
 $data[352]['desktopapp']['pick'][0]['url'] = "http://lmms.io/";
 
 $data[352]['spotlight']['pick'][0]['name'] = "AutoKey";
@@ -5515,6 +5515,7 @@ $data[362]['android']['pick'][0]['name'] = "Checky";
 $data[362]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.calm.checky";
 $data[362]['android']['pick'][0]['source'] = "ting";
 
+
 // Episode 363
 $data[363]['title'] = "Linux's Victory Blow | LAS 363";
 $data[363]['url'] = "http://www.jupiterbroadcasting.com/81432/linuxs-victory-blow-las-363/";
@@ -5532,6 +5533,7 @@ $data[363]['spotlight']['pick'][0]['url'] = "https://www.indiegogo.com/projects/
 $data[363]['android']['pick'][0]['name'] = "Runtastic Heart Rate";
 $data[363]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.runtastic.android.heartrate.lite&hl=en";
 $data[363]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 364
 $data[364]['title'] = "Krita Developer Interview | LAS 364";
@@ -5557,6 +5559,7 @@ $data[364]['android']['pick'][0]['source'] = "ting";
 $data[364]['distro']['pick'][0]['name'] = "Centos 7 on the Desktop";
 $data[364]['distro']['pick'][0]['url'] = "http://fetyr2004.github.io/";
 
+
 // Episode 365
 $data[365]['title'] = "The Emulation Game | LAS 365";
 $data[365]['url'] = "http://www.jupiterbroadcasting.com/82207/the-emulation-game-las-365/";
@@ -5575,6 +5578,7 @@ $data[365]['android']['pick'][0]['name'] = "Trepn Profiler";
 $data[365]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.quicinc.trepn&hl=en";
 $data[365]['android']['pick'][0]['source'] = "ting";
 
+
 // Episode 366
 $data[366]['title'] = "Bodhi: Enlightened Linux | LAS 366";
 $data[366]['url'] = "http://www.jupiterbroadcasting.com/82642/bodhi-enlightened-linux-las-366/";
@@ -5592,6 +5596,7 @@ $data[366]['spotlight']['pick'][0]['url'] = "http://groovebasin.com/";
 $data[366]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[366]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 367
 $data[367]['title'] = "Fedora 22 Review | LAS 367";
 $data[367]['url'] = "http://www.jupiterbroadcasting.com/83032/fedora-22-review-las-367/";
@@ -5608,6 +5613,7 @@ $data[367]['spotlight']['pick'][0]['url'] = "https://www.yubico.com/products/yub
 
 $data[367]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[367]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 368
 $data[368]['title'] = "Party with Linux | LAS 368";
@@ -5627,6 +5633,7 @@ $data[368]['android']['pick'][0]['name'] = "Ting App";
 $data[368]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.ting.dashboard&hl=en";
 $data[368]['android']['pick'][0]['source'] = "ting";
 
+
 // Episode 369
 $data[369]['title'] = "Live from SouthEast LinuxFest | LAS 369";
 $data[369]['url'] = "http://www.jupiterbroadcasting.com/83662/live-from-southeast-linuxfest-las-369/";
@@ -5644,6 +5651,7 @@ $data[369]['spotlight']['pick'][0]['url'] = "0";
 $data[369]['android']['pick'][0]['name'] = "Snake Rewind";
 $data[369]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.rumilusdesign.snake&hl=en";
 $data[369]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 370
 $data[370]['title'] = "A Chat with Red Hat | LAS 370";
@@ -5665,6 +5673,7 @@ $data[370]['android']['pick'][0]['url'] = "0";
 $data[370]['distro']['pick'][0]['name'] = "Red Hat";
 $data[370]['distro']['pick'][0]['url'] = "http://redhat.com/";
 
+
 // Episode 371
 $data[371]['title'] = "SIPing on some Linux | LAS 371";
 $data[371]['url'] = "http://www.jupiterbroadcasting.com/84332/siping-on-some-linux-las-371/";
@@ -5682,6 +5691,7 @@ $data[371]['spotlight']['pick'][0]['url'] = "https://www.crowdsupply.com/purism/
 $data[371]['android']['pick'][0]['name'] = "Untappd";
 $data[371]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.untappdllc.app&hl=en";
 $data[371]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 372
 $data[372]['title'] = "Linux Photography in Focus | LAS 372";
@@ -5701,6 +5711,7 @@ $data[372]['android']['pick'][0]['name'] = "TripCase";
 $data[372]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.sabre.tripcase.android&hl=en";
 $data[372]['android']['pick'][0]['source'] = "ting";
 
+
 // Episode 373
 $data[373]['title'] = "SSH Authentication with YubiKey | LAS 373";
 $data[373]['url'] = "http://www.jupiterbroadcasting.com/85062/ssh-authentication-with-yubikey-las-373/";
@@ -5718,6 +5729,7 @@ $data[373]['spotlight']['pick'][0]['url'] = "http://www.hydrogen-music.org/hcms/
 $data[373]['android']['pick'][0]['name'] = "Simple (Banking)";
 $data[373]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.banksimple";
 $data[373]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 374
 $data[374]['title'] = "Get Going with X2Go | LAS 374";
@@ -5742,6 +5754,7 @@ $data[374]['spotlight']['pick'][2]['url'] = "https://chrome.google.com/webstore/
 $data[374]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[374]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 375
 $data[375]['title'] = "OSCON 2015 | LAS 375";
 $data[375]['url'] = "http://www.jupiterbroadcasting.com/85582/oscon-2015-las-375/";
@@ -5759,6 +5772,7 @@ $data[375]['spotlight']['pick'][0]['url'] = "https://meet.jit.si/";
 $data[375]['android']['pick'][0]['name'] = "Swappa Price";
 $data[375]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.swappa.app.mvp&hl=en";
 $data[375]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 376
 $data[376]['title'] = "Windows 10 vs Linux | LAS 376";
@@ -5778,6 +5792,7 @@ $data[376]['android']['pick'][0]['name'] = "Image Shrink";
 $data[376]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.gmail.anolivetree.imageshrinklite";
 $data[376]['android']['pick'][0]['source'] = "ting";
 
+
 // Episode 377
 $data[377]['title'] = "Level Up Your LAN | LAS 377";
 $data[377]['url'] = "http://www.jupiterbroadcasting.com/86282/level-up-your-lan-las-377/";
@@ -5795,6 +5810,7 @@ $data[377]['spotlight']['pick'][0]['url'] = "https://www.seafile.com/en/home/";
 $data[377]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[377]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 378
 $data[378]['title'] = "Serval: A Desktop Dominator | LAS 378";
 $data[378]['url'] = "http://www.jupiterbroadcasting.com/86577/serval-a-desktop-dominator-las-378/";
@@ -5811,6 +5827,7 @@ $data[378]['spotlight']['pick'][0]['url'] = "https://education.github.com/";
 
 $data[378]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[378]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 379
 $data[379]['title'] = "Experience LinuxCon 2015 | LAS 379";
@@ -5830,6 +5847,7 @@ $data[379]['android']['pick'][0]['name'] = "Bitmoji";
 $data[379]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.bitstrips.imoji";
 $data[379]['android']['pick'][0]['source'] = "ting";
 
+
 // Episode 380
 $data[380]['title'] = "Remote Controlled Terminal | LAS 380";
 $data[380]['url'] = "http://www.jupiterbroadcasting.com/87101/remote-controlled-terminal-las-380/";
@@ -5846,6 +5864,7 @@ $data[380]['spotlight']['pick'][0]['url'] = "http://www.freeipa.org/page/Main_Pa
 
 $data[380]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[380]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 381
 $data[381]['title'] = "How We Got Started With Linux | LAS 381";
@@ -5864,6 +5883,7 @@ $data[381]['spotlight']['pick'][0]['url'] = "https://www.youtube.com/playlist?li
 $data[381]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[381]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 382
 $data[382]['title'] = "Gmail in the Black Tank | LAS 382";
 $data[382]['url'] = "http://www.jupiterbroadcasting.com/87616/gmail-in-the-black-tank-las-382/";
@@ -5880,6 +5900,7 @@ $data[382]['spotlight']['pick'][0]['url'] = "https://github.com/jliljebl/flowbla
 
 $data[382]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[382]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 383
 $data[383]['title'] = "Open Source Plex Alternative | LAS 383";
@@ -5898,6 +5919,7 @@ $data[383]['spotlight']['pick'][0]['url'] = "https://github.com/sshuttle/sshuttl
 $data[383]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[383]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 384
 $data[384]['title'] = "Rooting Noah's House | LAS 384";
 $data[384]['url'] = "http://www.jupiterbroadcasting.com/88201/rooting-noahs-house-las-384/";
@@ -5914,6 +5936,7 @@ $data[384]['spotlight']['pick'][0]['url'] = "http://www.appgrid.org/";
 
 $data[384]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[384]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 385
 $data[385]['title'] = "OpenSUSE's Big Leap | LAS 385";
@@ -5937,6 +5960,7 @@ $data[385]['distro']['pick'][0]['url'] = "https://en.opensuse.org/Portal:Leap";
 
 $data[385]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[385]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 386
 $data[386]['title'] = "Rolling with Netrunner | LAS 386";
@@ -5962,6 +5986,7 @@ $data[386]['distro']['pick'][0]['url'] = "http://www.netrunner.com/";
 $data[386]['distro']['pick'][1]['name'] = "Slackel Linux (Slackware-based)";
 $data[386]['distro']['pick'][1]['url'] = "http://www.linuxinsider.com/story/Slackel-Linux-Not-Your-Fathers-Slackware-82568.html";
 
+
 // Episode 387
 $data[387]['title'] = "Passing On LastPass | LAS 387";
 $data[387]['url'] = "http://www.jupiterbroadcasting.com/89366/passing-on-lastpass-las-387/";
@@ -5979,6 +6004,7 @@ $data[387]['spotlight']['pick'][0]['url'] = "https://github.com/tdryer/hangups";
 $data[387]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[387]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 388
 $data[388]['title'] = "Wolfing Down Ubuntu 15.10 | LAS 388";
 $data[388]['url'] = "http://www.jupiterbroadcasting.com/89676/wolfing-down-ubuntu-15-10-las-388/";
@@ -5993,8 +6019,10 @@ $data[388]['desktopapp']['pick'][0]['url'] = "http://sourceforge.net/projects/bl
 $data[388]['spotlight']['pick'][0]['name'] = "Hawaii – The QtQuick and Wayland system";
 $data[388]['spotlight']['pick'][0]['url'] = "http://hawaiios.org/";
 
-$data[388]['android']['pick'][0]['name'] = "Episode did not include a pick";
-$data[388]['android']['pick'][0]['url'] = "0";
+$data[388]['android']['pick'][0]['name'] = "Companion Safety App";
+$data[388]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=io.companionapp.companion";
+$data[388]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 389
 $data[389]['title'] = "The Linux WiFI Tower | LAS 389";
@@ -6013,6 +6041,7 @@ $data[389]['spotlight']['pick'][0]['url'] = "http://chromixium.org/";
 $data[389]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[389]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 390
 $data[390]['title'] = "Fedora from the Cockpit | LAS 390";
 $data[390]['url'] = "http://www.jupiterbroadcasting.com/90206/fedora-from-the-cockpit-las-390/";
@@ -6029,6 +6058,7 @@ $data[390]['spotlight']['pick'][0]['url'] = "http://sourceforge.net/projects/arc
 
 $data[390]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[390]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 391
 $data[391]['title'] = "Live From System76 | LAS 391";
@@ -6047,6 +6077,7 @@ $data[391]['spotlight']['pick'][0]['url'] = "https://launchpad.net/novacut";
 $data[391]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[391]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 392
 $data[392]['title'] = "The Evolution of Solus | LAS 392";
 $data[392]['url'] = "http://www.jupiterbroadcasting.com/90616/the-evolution-of-solus-las-392/";
@@ -6063,6 +6094,7 @@ $data[392]['spotlight']['pick'][0]['url'] = "https://nmap.org/7/";
 
 $data[392]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[392]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 393
 $data[393]['title'] = "Thankfully It’s Open Source | LAS 393";
@@ -6081,6 +6113,7 @@ $data[393]['spotlight']['pick'][0]['url'] = "https://sandstorm.io/";
 $data[393]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[393]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 394
 $data[394]['title'] = "Linux in Mint Condition | LAS 394";
 $data[394]['url'] = "http://www.jupiterbroadcasting.com/91181/linux-in-mint-condition-las-394/";
@@ -6095,8 +6128,10 @@ $data[394]['desktopapp']['pick'][0]['url'] = "http://linux.softpedia.com/blog/st
 $data[394]['spotlight']['pick'][0]['name'] = "$276.00 worth of Raspberry Pi / Arduino";
 $data[394]['spotlight']['pick'][0]['url'] = "https://www.humblebundle.com/books";
 
-$data[394]['android']['pick'][0]['name'] = "Episode did not include a pick";
-$data[394]['android']['pick'][0]['url'] = "0";
+$data[394]['android']['pick'][0]['name'] = "Ting compatibility checker";
+$data[394]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.ting.compatibilitycheck";
+$data[394]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 395
 $data[395]['title'] = "Shooting the Breeze with KDE | LAS 395";
@@ -6115,6 +6150,7 @@ $data[395]['spotlight']['pick'][0]['url'] = "https://www.keepassx.org/news/2015/
 $data[395]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[395]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 396
 $data[396]['title'] = "Let’s Encrypt: A New Hope | LAS 396";
 $data[396]['url'] = "http://www.jupiterbroadcasting.com/91736/lets-encrypt-a-new-hope-las-396/";
@@ -6131,8 +6167,10 @@ $data[396]['spotlight']['pick'][0]['url'] = "https://github.com/dsoprea/GDriveFS
 $data[396]['spotlight']['pick'][1]['name'] = "Block Spoilers for Star Wars";
 $data[396]['spotlight']['pick'][1]['url'] = "https://chrome.google.com/webstore/detail/force-block-the-star-wars/bplpphlobgcnjhoglonpnkooaaenlmol/related";
 
-$data[396]['android']['pick'][0]['name'] = "Episode did not include a pick";
-$data[396]['android']['pick'][0]['url'] = "0";
+$data[396]['android']['pick'][0]['name'] = "Overcast (iOS)";
+$data[396]['android']['pick'][0]['url'] = "https://itunes.apple.com/nl/app/overcast-podcast-player/id888422857?mt=8";
+$data[396]['android']['pick'][0]['source'] = "ting";
+
 
 // Episode 397
 $data[397]['title'] = "Big Moments From 2015 | LAS 397";
@@ -6150,6 +6188,7 @@ $data[397]['spotlight']['pick'][0]['url'] = "0";
 
 $data[397]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[397]['android']['pick'][0]['url'] = "0";
+
 
 // Episode 398
 $data[398]['title'] = "Consulting the Oracle for 2016 | LAS 398";
@@ -6169,6 +6208,7 @@ $data[398]['android']['pick'][0]['name'] = "Top five apps of 2015";
 $data[398]['android']['pick'][0]['url'] = "https://ting.com/blog/ting-download-top-five-apps-of-2015/";
 $data[398]['android']['pick'][0]['source'] = 'ting'
 
+
 // Episode 399
 $data[399]['title'] = "2016 Linux Wish List | LAS 399";
 $data[399]['url'] = "http://www.jupiterbroadcasting.com/92471/2016-linux-wish-list-las-399/";
@@ -6186,6 +6226,7 @@ $data[399]['spotlight']['pick'][0]['url'] = "http://www.osticket.com/";
 $data[399]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[399]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 400
 $data[400]['title'] = "LAS 400 Phones Home | LAS 400";
 $data[400]['url'] = "http://www.jupiterbroadcasting.com/92716/las-400-phones-home-las-400/";
@@ -6200,8 +6241,9 @@ $data[400]['desktopapp']['pick'][0]['url'] = "http://netboot.xyz/";
 $data[400]['spotlight']['pick'][0]['name'] = "Open-AudIT";
 $data[400]['spotlight']['pick'][0]['url'] = "http://www.open-audit.org/";
 
-$data[400]['android']['pick'][0]['name'] = "Episode did not include a pick";
-$data[400]['android']['pick'][0]['url'] = "0";
+$data[400]['android']['pick'][0]['name'] = "LastPass";
+$data[400]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.lastpass.lpandroid";
+
 
 // Episode 401
 $data[401]['title'] = "Pre SCaLE LAS | LAS 401";
@@ -6220,6 +6262,7 @@ $data[401]['spotlight']['pick'][0]['url'] = "https://galliumos.org/";
 $data[401]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[401]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 402
 $data[402]['title'] = "The Stories of SCALE14x | LAS 402";
 $data[402]['url'] = "http://www.jupiterbroadcasting.com/93271/the-stories-of-scale14x-las-402/";
@@ -6237,6 +6280,7 @@ $data[402]['spotlight']['pick'][0]['url'] = "https://seb-apps.github.io/yarock/"
 $data[402]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[402]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 403
 $data[403]['title'] = "Rocket Chat & Mattermost Cut the Slack | LAS 403";
 $data[403]['url'] = "http://www.jupiterbroadcasting.com/93521/rocket-chat-mattermost-cut-the-slack-las-403/";
@@ -6251,8 +6295,9 @@ $data[403]['desktopapp']['pick'][0]['url'] = "http://peterlevi.com/variety/";
 $data[403]['spotlight']['pick'][0]['name'] = "Stikked";
 $data[403]['spotlight']['pick'][0]['url'] = "https://github.com/claudehohl/Stikked";
 
-$data[403]['android']['pick'][0]['name'] = "Episode did not include a pick";
-$data[403]['android']['pick'][0]['url'] = "0";
+$data[403]['android']['pick'][0]['name'] = "Pintasking";
+$data[403]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.phinxapps.pintasking";
+
 
 // Episode 404
 $data[404]['title'] = "How Not to Install Discourse | LAS 404";
@@ -6271,6 +6316,7 @@ $data[404]['spotlight']['pick'][0]['url'] = "http://strem.io/";
 $data[404]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[404]['android']['pick'][0]['url'] = "0";
 
+
 // Episode 405
 $data[405]['title'] = "The High Price of Purism | LAS 405";
 $data[405]['url'] = "http://www.jupiterbroadcasting.com/96641/the-high-price-of-purism-las-405-2/";
@@ -6285,5 +6331,5 @@ $data[405]['desktopapp']['pick'][0]['url'] = "http://clayo.org/osmo/";
 $data[405]['spotlight']['pick'][0]['name'] = "Log.io – Real-time log monitoring in your browser";
 $data[405]['spotlight']['pick'][0]['url'] = "http://logio.org/";
 
-$data[405]['android']['pick'][0]['name'] = "Episode did not include a pick";
-$data[405]['android']['pick'][0]['url'] = "0";
+$data[405]['android']['pick'][0]['name'] = "Google Photos";
+$data[405]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.google.android.apps.photos";
