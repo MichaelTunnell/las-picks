@@ -6167,3 +6167,20 @@ $data[398]['spotlight']['pick'][0]['url'] = "http://www.mavetju.org/unix/dhcping
 
 $data[398]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[398]['android']['pick'][0]['url'] = "0";
+
+// Episode 399
+$data[399]['title'] = "2016 Linux Wish List | LAS 399";
+$data[399]['url'] = "http://www.jupiterbroadcasting.com/92471/2016-linux-wish-list-las-399/";
+$data[399]['date'] = "2016-01-10";
+
+$data[399]['runslinux']['pick'][0]['name'] = "Life Science Supercomputer";
+$data[399]['runslinux']['pick'][0]['url'] = "http://www.cbs.dtu.dk/resources/computerome/index.php";
+
+$data[399]['desktopapp']['pick'][0]['name'] = "EasyTAG";
+$data[399]['desktopapp']['pick'][0]['url'] = "http://sourceforge.net/projects/easytag/";
+
+$data[399]['spotlight']['pick'][0]['name'] = "OSTicket";
+$data[399]['spotlight']['pick'][0]['url'] = "http://www.osticket.com/";
+
+$data[399]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[399]['android']['pick'][0]['url'] = "0";
