@@ -5515,4 +5515,436 @@ $data[362]['android']['pick'][0]['name'] = "Checky";
 $data[362]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.calm.checky";
 $data[362]['android']['pick'][0]['source'] = "ting";
 
+// Episode 363
+$data[363]['title'] = "Linux's Victory Blow | LAS 363";
+$data[363]['url'] = "http://www.jupiterbroadcasting.com/81432/linuxs-victory-blow-las-363/";
+$data[363]['date'] = "2015-05-03";
+
+$data[363]['runslinux']['pick'][0]['name'] = "Luke's 1940s Media Center";
+$data[363]['runslinux']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/81432/linuxs-victory-blow-las-363/";
+
+$data[363]['desktopapp']['pick'][0]['name'] = "Natron";
+$data[363]['desktopapp']['pick'][0]['url'] = "https://natron.inria.fr/";
+
+$data[363]['spotlight']['pick'][0]['name'] = "PiTop";
+$data[363]['spotlight']['pick'][0]['url'] = "https://www.indiegogo.com/projects/pi-top-a-raspberry-pi-laptop-you-build-yourself";
+
+$data[363]['android']['pick'][0]['name'] = "Runtastic Heart Rate";
+$data[363]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.runtastic.android.heartrate.lite&hl=en";
+$data[363]['android']['pick'][0]['source'] = "ting";
+
+// Episode 364
+$data[364]['title'] = "Krita Developer Interview | LAS 364";
+$data[364]['url'] = "http://www.jupiterbroadcasting.com/81807/krita-developer-interview-las-364/";
+$data[364]['date'] = "2015-05-10";
+
+$data[364]['runslinux']['pick'][0]['name'] = "Ubuntu Powered Drone";
+$data[364]['runslinux']['pick'][0]['url'] = "http://www.techworm.net/2015/05/worlds-first-ubuntu-powered-drone-launched.html";
+
+$data[364]['desktopapp']['pick'][0]['name'] = "Fort Password Manager";
+$data[364]['desktopapp']['pick'][0]['url'] = "http://www.ideabyte.net/fort/";
+
+$data[364]['desktopapp']['pick'][1]['name'] = "QtPass";
+$data[364]['desktopapp']['pick'][1]['url'] = "http://ijhack.github.io/qtpass/";
+
+$data[364]['spotlight']['pick'][0]['name'] = "Centos 7 on the Desktop";
+$data[364]['spotlight']['pick'][0]['url'] = "http://fetyr2004.github.io/";
+
+$data[364]['android']['pick'][0]['name'] = "Fyuse";
+$data[364]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.fyusion.fyuse&hl=en";
+$data[364]['android']['pick'][0]['source'] = "ting";
+
+// Episode 365
+$data[365]['title'] = "The Emulation Game | LAS 365";
+$data[365]['url'] = "http://www.jupiterbroadcasting.com/82207/the-emulation-game-las-365/";
+$data[365]['date'] = "2015-05-17";
+
+$data[365]['runslinux']['pick'][0]['name'] = "ChillHub Smart Fridge";
+$data[365]['runslinux']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2015/05/meet-the-smart-fridge-that-runs-ubuntu";
+
+$data[365]['desktopapp']['pick'][0]['name'] = "Wireshark 1.12.5";
+$data[365]['desktopapp']['pick'][0]['url'] = "https://www.wireshark.org/docs/relnotes/wireshark-1.12.5.html";
+
+$data[365]['spotlight']['pick'][0]['name'] = "qBittorrent";
+$data[365]['spotlight']['pick'][0]['url'] = "http://www.webupd8.org/2015/05/multi-platform-bittorrent-client.html";
+
+$data[365]['android']['pick'][0]['name'] = "Trepn Profiler";
+$data[365]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.quicinc.trepn&hl=en";
+$data[365]['android']['pick'][0]['source'] = "ting";
+
+// Episode 366
+$data[366]['title'] = "Bodhi: Enlightened Linux | LAS 366";
+$data[366]['url'] = "http://www.jupiterbroadcasting.com/82642/bodhi-enlightened-linux-las-366/";
+$data[366]['date'] = "2015-05-24";
+
+$data[366]['runslinux']['pick'][0]['name'] = "The Hunt for Gravitational Waves";
+$data[366]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/35mnoz/runs_linux_the_hunt_for_gravitational_waves_runs/";
+
+$data[366]['desktopapp']['pick'][0]['name'] = "LanguageTool, Spelling and Grammar Checker";
+$data[366]['desktopapp']['pick'][0]['url'] = "https://languagetool.org/";
+
+$data[366]['spotlight']['pick'][0]['name'] = "Groove Basin, Server Based Music Player";
+$data[366]['spotlight']['pick'][0]['url'] = "http://groovebasin.com/";
+
+$data[366]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[366]['android']['pick'][0]['url'] = "0";
+
+// Episode 367
+$data[367]['title'] = "Fedora 22 Review | LAS 367";
+$data[367]['url'] = "http://www.jupiterbroadcasting.com/83032/fedora-22-review-las-367/";
+$data[367]['date'] = "2015-05-31";
+
+$data[367]['runslinux']['pick'][0]['name'] = "Project Soli, Interactive Radar Technology";
+$data[367]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=0QNiZfSsPc0";
+
+$data[367]['desktopapp']['pick'][0]['name'] = "fallocate, file space manipulation";
+$data[367]['desktopapp']['pick'][0]['url'] = "http://man7.org/linux/man-pages/man2/fallocate.2.html";
+
+$data[367]['spotlight']['pick'][0]['name'] = "Yubico Yubikey";
+$data[367]['spotlight']['pick'][0]['url'] = "https://www.yubico.com/products/yubikey-hardware/yubikey-2/";
+
+$data[367]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[367]['android']['pick'][0]['url'] = "0";
+
+// Episode 368
+$data[368]['title'] = "Party with Linux | LAS 368";
+$data[368]['url'] = "http://www.jupiterbroadcasting.com/83342/party-with-linux-las-368/";
+$data[368]['date'] = "2015-06-07";
+
+$data[368]['runslinux']['pick'][0]['name'] = "Train Advertisement Sensor";
+$data[368]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?t=66&v=064ipuBiWDg";
+
+$data[368]['desktopapp']['pick'][0]['name'] = "Q Light Controller Plus";
+$data[368]['desktopapp']['pick'][0]['url'] = "http://sourceforge.net/projects/qlcplus/";
+
+$data[368]['spotlight']['pick'][0]['name'] = "SSHFS, file system client based on SSH";
+$data[368]['spotlight']['pick'][0]['url'] = "https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh";
+
+$data[368]['android']['pick'][0]['name'] = "Ting App";
+$data[368]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.ting.dashboard&hl=en";
+$data[368]['android']['pick'][0]['source'] = "ting";
+
+// Episode 369
+$data[369]['title'] = "Live from SouthEast LinuxFest | LAS 369";
+$data[369]['url'] = "http://www.jupiterbroadcasting.com/83662/live-from-southeast-linuxfest-las-369/";
+$data[369]['date'] = "2015-06-14";
+
+$data[369]['runslinux']['pick'][0]['name'] = "DRC-Hubo, winner of the DARPA Robotics Challenge";
+$data[369]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/linux-powers-darpa-robotics-challenge-winner/";
+
+$data[369]['desktopapp']['pick'][0]['name'] = "FileZilla, FTP Client";
+$data[369]['desktopapp']['pick'][0]['url'] = "https://filezilla-project.org/";
+
+$data[369]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[369]['spotlight']['pick'][0]['url'] = "0";
+
+$data[369]['android']['pick'][0]['name'] = "Snake Rewind";
+$data[369]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.rumilusdesign.snake&hl=en";
+$data[369]['android']['pick'][0]['source'] = "ting";
+
+// Episode 370
+$data[370]['title'] = "A Chat with Red Hat | LAS 370";
+$data[370]['url'] = "http://www.jupiterbroadcasting.com/84017/a-chat-with-red-hat-las-370/";
+$data[370]['date'] = "2015-06-21";
+
+$data[370]['runslinux']['pick'][0]['name'] = "Episode did not include a pick";
+$data[370]['runslinux']['pick'][0]['url'] = "0";
+
+$data[370]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[370]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[370]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[370]['spotlight']['pick'][0]['url'] = "0";
+
+$data[370]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[370]['android']['pick'][0]['url'] = "0";
+
+// Episode 371
+$data[371]['title'] = "SIPing on some Linux | LAS 371";
+$data[371]['url'] = "http://www.jupiterbroadcasting.com/84332/siping-on-some-linux-las-371/";
+$data[371]['date'] = "2015-06-28";
+
+$data[371]['runslinux']['pick'][0]['name'] = "Tiny Mikrotik Router";
+$data[371]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=Ss-mxC3vGvk";
+
+$data[371]['desktopapp']['pick'][0]['name'] = "Ring";
+$data[371]['desktopapp']['pick'][0]['url'] = "http://ring.cx/";
+
+$data[371]['spotlight']['pick'][0]['name'] = "Librem 13\" Laptop Announced";
+$data[371]['spotlight']['pick'][0]['url'] = "https://www.crowdsupply.com/purism/librem-13?utm_medium=ref&utm_source=puri&utm_campaign=librem13&utm_content=referral";
+
+$data[371]['android']['pick'][0]['name'] = "Untappd";
+$data[371]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.untappdllc.app&hl=en";
+$data[371]['android']['pick'][0]['source'] = "ting";
+
+// Episode 372
+$data[372]['title'] = "Linux Photography in Focus | LAS 372";
+$data[372]['url'] = "http://www.jupiterbroadcasting.com/84722/linux-photography-in-focus-las-372/";
+$data[372]['date'] = "2015-07-05";
+
+$data[372]['runslinux']['pick'][0]['name'] = "The NSA XKEYSCORE";
+$data[372]['runslinux']['pick'][0]['url'] = "https://firstlook.org/theintercept/2015/07/02/look-under-hood-xkeyscore/";
+
+$data[372]['desktopapp']['pick'][0]['name'] = "digiKam";
+$data[372]['desktopapp']['pick'][0]['url'] = "https://www.digikam.org/about";
+
+$data[372]['spotlight']['pick'][0]['name'] = "OpenMediaVault 2.1";
+$data[372]['spotlight']['pick'][0]['url'] = "http://www.openmediavault.org/?p=1707";
+
+$data[372]['android']['pick'][0]['name'] = "TripCase";
+$data[372]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.sabre.tripcase.android&hl=en";
+$data[372]['android']['pick'][0]['source'] = "ting";
+
+// Episode 373
+$data[373]['title'] = "SSH Authentication with YubiKey | LAS 373";
+$data[373]['url'] = "http://www.jupiterbroadcasting.com/85062/ssh-authentication-with-yubikey-las-373/";
+$data[373]['date'] = "2015-07-12";
+
+$data[373]['runslinux']['pick'][0]['name'] = "Personal Trainer Robot";
+$data[373]['runslinux']['pick'][0]['url'] = "http://exameinformatica.sapo.pt/videos/reporterei/2015-06-24-Reporter-EI-Robo-Vizzy-do-Tecnico";
+
+$data[373]['desktopapp']['pick'][0]['name'] = "PeaZip | Free archiver and RAR file extractor utility";
+$data[373]['desktopapp']['pick'][0]['url'] = "http://peazip.sourceforge.net/peazip-linux.html/";
+
+$data[373]['spotlight']['pick'][0]['name'] = "Hydrogen Rythem Sequencer (Music)";
+$data[373]['spotlight']['pick'][0]['url'] = "http://www.hydrogen-music.org/hcms/";
+
+$data[373]['android']['pick'][0]['name'] = "Simple (Banking)";
+$data[373]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.banksimple";
+$data[373]['android']['pick'][0]['source'] = "ting";
+
+// Episode 374
+$data[374]['title'] = "Get Going with X2Go | LAS 374";
+$data[374]['url'] = "http://www.jupiterbroadcasting.com/85377/get-going-with-x2go-las-374/";
+$data[374]['date'] = "2015-07-19";
+
+$data[374]['runslinux']['pick'][0]['name'] = "Mr Robot, the TV Show";
+$data[374]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/3cklj2/runs_linux_tv_show_mr_robot_so_i_see_youre/";
+
+$data[374]['desktopapp']['pick'][0]['name'] = "Aegisub | Subtitles Editor";
+$data[374]['desktopapp']['pick'][0]['url'] = "http://www.aegisub.org/";
+
+$data[374]['spotlight']['pick'][0]['name'] = "Amazon Prime Video User-Agent";
+$data[374]['spotlight']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/85377/get-going-with-x2go-las-374/";
+
+$data[374]['spotlight']['pick'][1]['name'] = "Firefox Addon";
+$data[374]['spotlight']['pick'][1]['url'] = "https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher/";
+
+$data[374]['spotlight']['pick'][2]['name'] = "Chrome Extension";
+$data[374]['spotlight']['pick'][2]['url'] = "https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg";
+
+$data[374]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[374]['android']['pick'][0]['url'] = "0";
+
+// Episode 375
+$data[375]['title'] = "OSCON 2015 | LAS 375";
+$data[375]['url'] = "http://www.jupiterbroadcasting.com/85582/oscon-2015-las-375/";
+$data[375]['date'] = "2015-07-26";
+
+$data[375]['runslinux']['pick'][0]['name'] = "Radical Bomb: Arcade Machine Project";
+$data[375]['runslinux']['pick'][0]['url'] = "http://www.radicalbomb.com/2015/06/project-arcade-machine-complete.html";
+
+$data[375]['desktopapp']['pick'][0]['name'] = "Unified Remote - Remote Control";
+$data[375]['desktopapp']['pick'][0]['url'] = "https://www.unifiedremote.com/";
+
+$data[375]['spotlight']['pick'][0]['name'] = "Jitsi Meet - Hangouts Alternative";
+$data[375]['spotlight']['pick'][0]['url'] = "https://meet.jit.si/";
+
+$data[375]['android']['pick'][0]['name'] = "Swappa Price";
+$data[375]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.swappa.app.mvp&hl=en";
+$data[375]['android']['pick'][0]['source'] = "ting";
+
+// Episode 376
+$data[376]['title'] = "Windows 10 vs Linux | LAS 376";
+$data[376]['url'] = "http://www.jupiterbroadcasting.com/85922/windows-10-vs-linux-las-376/";
+$data[376]['date'] = "2015-08-02";
+
+$data[376]['runslinux']['pick'][0]['name'] = "Learning about WWII (Youtube Removed)";
+$data[376]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=qc6K1RciIeM&feature=youtu.be&t=41m55s";
+
+$data[376]['desktopapp']['pick'][0]['name'] = "TagSpaces - File Organizer";
+$data[376]['desktopapp']['pick'][0]['url'] = "http://www.tagspaces.org/";
+
+$data[376]['spotlight']['pick'][0]['name'] = "LAN Turtle";
+$data[376]['spotlight']['pick'][0]['url'] = "http://lanturtle.com/";
+
+$data[376]['android']['pick'][0]['name'] = "Image Shrink";
+$data[376]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.gmail.anolivetree.imageshrinklite";
+$data[376]['android']['pick'][0]['source'] = "ting";
+
+// Episode 377
+$data[377]['title'] = "Level Up Your LAN | LAS 377";
+$data[377]['url'] = "http://www.jupiterbroadcasting.com/86282/level-up-your-lan-las-377/";
+$data[377]['date'] = "2015-08-09";
+
+$data[377]['runslinux']['pick'][0]['name'] = "School Bell in the UK";
+$data[377]['runslinux']['pick'][0]['url'] = "https://jblive.wufoo.com/cabinet/w7x2r7/h3ShJwuslashGbPF4%3D/bells_run_linux.zip";
+
+$data[377]['desktopapp']['pick'][0]['name'] = "Zoiper";
+$data[377]['desktopapp']['pick'][0]['url'] = "http://www.zoiper.com/en";
+
+$data[377]['spotlight']['pick'][0]['name'] = "SeaFile";
+$data[377]['spotlight']['pick'][0]['url'] = "https://www.seafile.com/en/home/";
+
+$data[377]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[377]['android']['pick'][0]['url'] = "0";
+
+// Episode 378
+$data[378]['title'] = "Serval: A Desktop Dominator | LAS 378";
+$data[378]['url'] = "http://www.jupiterbroadcasting.com/86577/serval-a-desktop-dominator-las-378/";
+$data[378]['date'] = "2015-08-16";
+
+$data[378]['runslinux']['pick'][0]['name'] = "SpaceVR";
+$data[378]['runslinux']['pick'][0]['url'] = "https://www.kickstarter.com/projects/1035872323/overview-one-explore-space-through-virtual-reality";
+
+$data[378]['desktopapp']['pick'][0]['name'] = "Atom 1.0.7 Text Editor";
+$data[378]['desktopapp']['pick'][0]['url'] = "http://www.linuxandubuntu.com/home/atom-1-0-7-text-editor-made-for-developers";
+
+$data[378]['spotlight']['pick'][0]['name'] = "GitHub's Student Developer Pack";
+$data[378]['spotlight']['pick'][0]['url'] = "https://education.github.com/";
+
+$data[378]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[378]['android']['pick'][0]['url'] = "0";
+
+// Episode 379
+$data[379]['title'] = "Experience LinuxCon 2015 | LAS 379";
+$data[379]['url'] = "http://www.jupiterbroadcasting.com/86832/experience-linuxcon-2015-las-379/";
+$data[379]['date'] = "2015-08-23";
+
+$data[379]['runslinux']['pick'][0]['name'] = "Museum of Science and Industry in Chicago";
+$data[379]['runslinux']['pick'][0]['url'] = "http://i.imgur.com/XLvh6bQ.jpg";
+
+$data[379]['desktopapp']['pick'][0]['name'] = "FileZilla 3.13.0";
+$data[379]['desktopapp']['pick'][0]['url'] = "http://www.linuxandubuntu.com/home/filezilla-client-3-13-0-released-how-to-install-in-ubuntu-linux-or-derivatives-distros";
+
+$data[379]['spotlight']['pick'][0]['name'] = "GitLab Mattermost (Slack alternative)";
+$data[379]['spotlight']['pick'][0]['url'] = "https://about.gitlab.com/2015/08/18/gitlab-loves-mattermost/";
+
+$data[379]['android']['pick'][0]['name'] = "Bitmoji";
+$data[379]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.bitstrips.imoji";
+$data[379]['android']['pick'][0]['source'] = "ting";
+
+// Episode 380
+$data[380]['title'] = "Remote Controlled Terminal | LAS 380";
+$data[380]['url'] = "http://www.jupiterbroadcasting.com/87101/remote-controlled-terminal-las-380/";
+$data[380]['date'] = "2015-08-30";
+
+$data[380]['runslinux']['pick'][0]['name'] = "Burger King's POS system";
+$data[380]['runslinux']['pick'][0]['url'] = "http://bit.ly/1Emm9Qh";
+
+$data[380]['desktopapp']['pick'][0]['name'] = "Choqok Microblogging Client";
+$data[380]['desktopapp']['pick'][0]['url'] = "http://choqok.gnufolks.org/";
+
+$data[380]['spotlight']['pick'][0]['name'] = "FreeIPA";
+$data[380]['spotlight']['pick'][0]['url'] = "http://www.freeipa.org/page/Main_Page";
+
+$data[380]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[380]['android']['pick'][0]['url'] = "0";
+
+// Episode 381
+$data[381]['title'] = "How We Got Started With Linux | LAS 381";
+$data[381]['url'] = "http://www.jupiterbroadcasting.com/87321/how-we-got-started-with-linux-las-381/";
+$data[381]['date'] = "2015-09-06";
+
+$data[381]['runslinux']['pick'][0]['name'] = "Dawn of Killer Robots";
+$data[381]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=5qBjFZV19p0&feature=youtu.be";
+
+$data[381]['desktopapp']['pick'][0]['name'] = "Bash Scanner";
+$data[381]['desktopapp']['pick'][0]['url'] = "http://seclist.us/bash-scanner-a-fast-way-to-scan-your-server-for-outdated-software-and-potential-exploits.html";
+
+$data[381]['spotlight']['pick'][0]['name'] = "Road Trip Playlist";
+$data[381]['spotlight']['pick'][0]['url'] = "https://www.youtube.com/playlist?list=PLUW3LUwQvegyb9yVeQZiNc_LhesQnq-GH";
+
+$data[381]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[381]['android']['pick'][0]['url'] = "0";
+
+// Episode 382
+$data[382]['title'] = "Gmail in the Black Tank | LAS 382";
+$data[382]['url'] = "http://www.jupiterbroadcasting.com/87616/gmail-in-the-black-tank-las-382/";
+$data[382]['date'] = "2015-09-13";
+
+$data[382]['runslinux']['pick'][0]['name'] = "Shanghai Subway";
+$data[382]['runslinux']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/87616/gmail-in-the-black-tank-las-382/";
+
+$data[382]['desktopapp']['pick'][0]['name'] = "Lighttable - Text Editor";
+$data[382]['desktopapp']['pick'][0]['url'] = "http://lighttable.com/";
+
+$data[382]['spotlight']['pick'][0]['name'] = "Flowblade 1.2";
+$data[382]['spotlight']['pick'][0]['url'] = "https://github.com/jliljebl/flowblade/blob/master/flowblade-trunk/docs/RELEASE_NOTES.md";
+
+$data[382]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[382]['android']['pick'][0]['url'] = "0";
+
+// Episode 383
+$data[383]['title'] = "Open Source Plex Alternative | LAS 383";
+$data[383]['url'] = "http://www.jupiterbroadcasting.com/87956/open-source-plex-alternative-las-383/";
+$data[383]['date'] = "2015-09-20";
+
+$data[383]['runslinux']['pick'][0]['name'] = "Disney's Light-bulb (TCP support)";
+$data[383]['runslinux']['pick'][0]['url'] = "http://www.theregister.co.uk/2015/09/14/disneys_lightbulb_moment_iot_comms_in_led_lamps/";
+
+$data[383]['desktopapp']['pick'][0]['name'] = "Privoxy";
+$data[383]['desktopapp']['pick'][0]['url'] = "http://www.privoxy.org/";
+
+$data[383]['spotlight']['pick'][0]['name'] = "sshuttle";
+$data[383]['spotlight']['pick'][0]['url'] = "https://github.com/sshuttle/sshuttle";
+
+$data[383]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[383]['android']['pick'][0]['url'] = "0";
+
+// Episode 384
+$data[384]['title'] = "Rooting Noah's House | LAS 384";
+$data[384]['url'] = "http://www.jupiterbroadcasting.com/88201/rooting-noahs-house-las-384/";
+$data[384]['date'] = "2015-09-27";
+
+$data[384]['runslinux']['pick'][0]['name'] = "Z-Wave Plus (Home-Automation via Raspberry Pi)";
+$data[384]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/z-wave-plus-home-automation-hub-runs-linux-on-raspberry-pi/";
+
+$data[384]['desktopapp']['pick'][0]['name'] = "Avidemux";
+$data[384]['desktopapp']['pick'][0]['url'] = "http://fixounet.free.fr/avidemux/";
+
+$data[384]['spotlight']['pick'][0]['name'] = "App Grid";
+$data[384]['spotlight']['pick'][0]['url'] = "http://www.appgrid.org/";
+
+$data[384]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[384]['android']['pick'][0]['url'] = "0";
+
+// Episode 385
+$data[385]['title'] = "OpenSUSE's Big Leap | LAS 385";
+$data[385]['url'] = "http://www.jupiterbroadcasting.com/88561/opensuses-big-leap-las-385/";
+$data[385]['date'] = "2015-10-04";
+
+$data[385]['runslinux']['pick'][0]['name'] = "RGB Propeller Display via Smarter Every Day";
+$data[385]['runslinux']['pick'][0]['url'] = "https://youtu.be/_FlV6pgwlrk?t=2m57s";
+
+$data[385]['desktopapp']['pick'][0]['name'] = "Gpick (Color Picker)";
+$data[385]['desktopapp']['pick'][0]['url'] = "http://www.gpick.org/";
+
+$data[385]['desktopapp']['pick'][1]['name'] = "KColorChooser";
+$data[385]['desktopapp']['pick'][1]['url'] = "https://www.kde.org/applications/graphics/kcolorchooser/";
+
+$data[385]['spotlight']['pick'][0]['name'] = "FeedReader - RSS desktop client";
+$data[385]['spotlight']['pick'][0]['url'] = "https://jangernert.github.io/feedreader/";
+
+$data[385]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[385]['android']['pick'][0]['url'] = "0";
+
+// Episode 386
+$data[386]['title'] = "Rolling with Netrunner | LAS 386";
+$data[386]['url'] = "http://www.jupiterbroadcasting.com/88931/rolling-with-netrunner-las-386/";
+$data[386]['date'] = "2015-10-11";
+
+$data[386]['runslinux']['pick'][0]['name'] = "Karl G. Jansky Very Large Array";
+$data[386]['runslinux']['pick'][0]['url'] = "https://www.dropbox.com/sc/s7rmxobuxpjztgx/AABf6CnMZWIgDpaJQSPkWofZa";
+
+$data[386]['desktopapp']['pick'][0]['name'] = "KeepassC - curses-interface command line";
+$data[386]['desktopapp']['pick'][0]['url'] = "http://raymontag.github.io/keepassc/";
+
+$data[386]['spotlight']['pick'][0]['name'] = "Traccar - Open Source GPS Tracking System";
+$data[386]['spotlight']['pick'][0]['url'] = "https://www.traccar.org/";
+
+$data[386]['android']['pick'][0]['name'] = "Giphy Cam";
+$data[386]['android']['pick'][0]['url'] = "https://giphy.com/apps#giphycam";
+$data[386]['android']['pick'][0]['source'] = "ting";
+
 ?>
