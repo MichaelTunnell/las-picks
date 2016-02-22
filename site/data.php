@@ -5967,7 +5967,7 @@ $data[387]['title'] = "Passing On LastPass | LAS 387";
 $data[387]['url'] = "http://www.jupiterbroadcasting.com/89366/passing-on-lastpass-las-387/";
 $data[387]['date'] = "2015-10-18";
 
-$data[387]['runslinux']['pick'][0]['name'] = "Etch-a-sketch RUNS LINUX!";
+$data[387]['runslinux']['pick'][0]['name'] = "Etch-a-sketch";
 $data[387]['runslinux']['pick'][0]['url'] = "http://www.rtl-sdr.com/demonstrating-the-rtl-sdr-based-etch-a-sdr-portable-sdr/";
 
 $data[387]['desktopapp']['pick'][0]['name'] = "FreeMind Mind Mapping Tool";
@@ -5978,3 +5978,37 @@ $data[387]['spotlight']['pick'][0]['url'] = "https://github.com/tdryer/hangups";
 
 $data[387]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[387]['android']['pick'][0]['url'] = "0";
+
+// Episode 388
+$data[388]['title'] = "Wolfing Down Ubuntu 15.10 | LAS 388";
+$data[388]['url'] = "http://www.jupiterbroadcasting.com/89676/wolfing-down-ubuntu-15-10-las-388/";
+$data[388]['date'] = "2015-10-25";
+
+$data[388]['runslinux']['pick'][0]['name'] = "DAQRI Smart Helmet";
+$data[388]['runslinux']['pick'][0]['url'] = "http://hardware.daqri.com/home/product/daqri-smart-helmet/";
+
+$data[388]['desktopapp']['pick'][0]['name'] = "BlueProximity";
+$data[388]['desktopapp']['pick'][0]['url'] = "http://sourceforge.net/projects/blueproximity/";
+
+$data[388]['spotlight']['pick'][0]['name'] = "Hawaii – The QtQuick and Wayland system";
+$data[388]['spotlight']['pick'][0]['url'] = "http://hawaiios.org/";
+
+$data[388]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[388]['android']['pick'][0]['url'] = "0";
+
+// Episode 389
+$data[389]['title'] = "The Linux WiFI Tower | LAS 389";
+$data[389]['url'] = "http://www.jupiterbroadcasting.com/89956/the-linux-wifi-tower-las-389/";
+$data[389]['date'] = "2015-11-01";
+
+$data[389]['runslinux']['pick'][0]['name'] = "Rugged vehicle-PC";
+$data[389]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/rugged-vehicle-pc-runs-linux-on-dual-core-5th-gen-core/";
+
+$data[389]['desktopapp']['pick'][0]['name'] = "Cutegram";
+$data[389]['desktopapp']['pick'][0]['url'] = "http://aseman.co/en/products/cutegram/";
+
+$data[389]['spotlight']['pick'][0]['name'] = "Chromixium OS";
+$data[389]['spotlight']['pick'][0]['url'] = "http://chromixium.org/";
+
+$data[389]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[389]['android']['pick'][0]['url'] = "0";
