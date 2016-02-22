@@ -6063,3 +6063,20 @@ $data[392]['spotlight']['pick'][0]['url'] = "https://nmap.org/7/";
 
 $data[392]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[392]['android']['pick'][0]['url'] = "0";
+
+// Episode 393
+$data[393]['title'] = "Thankfully It’s Open Source | LAS 393";
+$data[393]['url'] = "http://www.jupiterbroadcasting.com/90881/thankfully-its-open-source-las-393/";
+$data[393]['date'] = "2015-11-29";
+
+$data[393]['runslinux']['pick'][0]['name'] = "Wheat Farm";
+$data[393]['runslinux']['pick'][0]['url'] = "http://slexy.org/view/s20wYYr6Y9";
+
+$data[393]['desktopapp']['pick'][0]['name'] = "Atraci";
+$data[393]['desktopapp']['pick'][0]['url'] = "http://atraci.github.io/Atraci-website/";
+
+$data[393]['spotlight']['pick'][0]['name'] = "Sandstorm.io";
+$data[393]['spotlight']['pick'][0]['url'] = "https://sandstorm.io/";
+
+$data[393]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[393]['android']['pick'][0]['url'] = "0";
