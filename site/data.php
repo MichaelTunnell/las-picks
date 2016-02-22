@@ -5183,7 +5183,7 @@ $data[346]['runslinux']['pick'][1]['name'] = "Boston Pizza's Urinals";
 $data[346]['runslinux']['pick'][1]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2r6fws/runs_linux_linux_in_the_wild/";
 
 $data[346]['desktopapp']['pick'][0]['name'] = "Gnome MultiWriter";
-$data[346]['desktopapp']['pick'][0]['url'] = "https://github.com/GNOME/gnome-multi-writer";
+$data[346]['desktopapp']['pick'][0]['url'] = "https://github.com/hughsie/gnome-multi-writer";
 $data[346]['desktopapp']['pick'][1]['name'] = "MUP, a Markup Previewer";
 $data[346]['desktopapp']['pick'][1]['url'] = "http://agateau.com/2014/mup-a-markup-previewer/";
 
@@ -5301,7 +5301,7 @@ $data[352]['date'] = "2015-02-15";
 $data[352]['runslinux']['pick'][0]['name'] = "The Lego Movie";
 $data[352]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2v4fip/the_lego_movie_runs_linux/";
 
-$data[352]['desktopapp']['pick'][0]['name'] = "Linux Multimedia Studio (LMMS)";
+$data[352]['desktopapp']['pick'][0]['name'] = "Lets Make Music (LMMS)";
 $data[352]['desktopapp']['pick'][0]['url'] = "http://lmms.io/";
 
 $data[352]['spotlight']['pick'][0]['name'] = "AutoKey";
@@ -5554,6 +5554,9 @@ $data[364]['android']['pick'][0]['name'] = "Fyuse";
 $data[364]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.fyusion.fyuse&hl=en";
 $data[364]['android']['pick'][0]['source'] = "ting";
 
+$data[364]['distro']['pick'][0]['name'] = "Centos 7 on the Desktop";
+$data[364]['distro']['pick'][0]['url'] = "http://fetyr2004.github.io/";
+
 // Episode 365
 $data[365]['title'] = "The Emulation Game | LAS 365";
 $data[365]['url'] = "http://www.jupiterbroadcasting.com/82207/the-emulation-game-las-365/";
@@ -5658,6 +5661,9 @@ $data[370]['spotlight']['pick'][0]['url'] = "0";
 
 $data[370]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[370]['android']['pick'][0]['url'] = "0";
+
+$data[370]['distro']['pick'][0]['name'] = "Red Hat";
+$data[370]['distro']['pick'][0]['url'] = "http://redhat.com/";
 
 // Episode 371
 $data[371]['title'] = "SIPing on some Linux | LAS 371";
@@ -5926,6 +5932,9 @@ $data[385]['desktopapp']['pick'][1]['url'] = "https://www.kde.org/applications/g
 $data[385]['spotlight']['pick'][0]['name'] = "FeedReader - RSS desktop client";
 $data[385]['spotlight']['pick'][0]['url'] = "https://jangernert.github.io/feedreader/";
 
+$data[385]['distro']['pick'][0]['name'] = "openSUSE Leap";
+$data[385]['distro']['pick'][0]['url'] = "https://en.opensuse.org/Portal:Leap";
+
 $data[385]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[385]['android']['pick'][0]['url'] = "0";
 
@@ -5947,4 +5956,8 @@ $data[386]['android']['pick'][0]['name'] = "Giphy Cam";
 $data[386]['android']['pick'][0]['url'] = "https://giphy.com/apps#giphycam";
 $data[386]['android']['pick'][0]['source'] = "ting";
 
-?>
+$data[386]['distro']['pick'][0]['name'] = "Netrunner";
+$data[386]['distro']['pick'][0]['url'] = "http://www.netrunner.com/";
+
+$data[386]['distro']['pick'][1]['name'] = "Slackel Linux (Slackware-based)";
+$data[386]['distro']['pick'][1]['url'] = "http://www.linuxinsider.com/story/Slackel-Linux-Not-Your-Fathers-Slackware-82568.html";
