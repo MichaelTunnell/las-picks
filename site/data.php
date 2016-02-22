@@ -6219,3 +6219,20 @@ $data[401]['spotlight']['pick'][0]['url'] = "https://galliumos.org/";
 
 $data[401]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[401]['android']['pick'][0]['url'] = "0";
+
+// Episode 402
+$data[402]['title'] = "The Stories of SCALE14x | LAS 402";
+$data[402]['url'] = "http://www.jupiterbroadcasting.com/93271/the-stories-of-scale14x-las-402/";
+$data[402]['date'] = "2016-02-01";
+
+$data[402]['runslinux']['pick'][0]['name'] = "Nintendo 64";
+$data[402]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=Q3cPWUT8hXw&feature=youtu.be";
+
+$data[402]['desktopapp']['pick'][0]['name'] = "My recommended GNOME Extensions";
+$data[402]['desktopapp']['pick'][0]['url'] = "https://linuxious.com/2016/01/10/my-recommended-gnome-extensions/";
+
+$data[402]['spotlight']['pick'][0]['name'] = "Yarock – Linux music player";
+$data[402]['spotlight']['pick'][0]['url'] = "https://seb-apps.github.io/yarock/";
+
+$data[402]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[402]['android']['pick'][0]['url'] = "0";
