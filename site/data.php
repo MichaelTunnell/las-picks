@@ -5961,3 +5961,20 @@ $data[386]['distro']['pick'][0]['url'] = "http://www.netrunner.com/";
 
 $data[386]['distro']['pick'][1]['name'] = "Slackel Linux (Slackware-based)";
 $data[386]['distro']['pick'][1]['url'] = "http://www.linuxinsider.com/story/Slackel-Linux-Not-Your-Fathers-Slackware-82568.html";
+
+// Episode 387
+$data[387]['title'] = "Passing On LastPass | LAS 387";
+$data[387]['url'] = "http://www.jupiterbroadcasting.com/89366/passing-on-lastpass-las-387/";
+$data[387]['date'] = "2015-10-18";
+
+$data[387]['runslinux']['pick'][0]['name'] = "Etch-a-sketch RUNS LINUX!";
+$data[387]['runslinux']['pick'][0]['url'] = "http://www.rtl-sdr.com/demonstrating-the-rtl-sdr-based-etch-a-sdr-portable-sdr/";
+
+$data[387]['desktopapp']['pick'][0]['name'] = "FreeMind Mind Mapping Tool";
+$data[387]['desktopapp']['pick'][0]['url'] = "http://freemind.sourceforge.net/wiki/index.php/Main_Page";
+
+$data[387]['spotlight']['pick'][0]['name'] = "Hangups";
+$data[387]['spotlight']['pick'][0]['url'] = "https://github.com/tdryer/hangups";
+
+$data[387]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[387]['android']['pick'][0]['url'] = "0";
