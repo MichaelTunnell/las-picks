@@ -6133,3 +6133,20 @@ $data[396]['spotlight']['pick'][1]['url'] = "https://chrome.google.com/webstore/
 
 $data[396]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[396]['android']['pick'][0]['url'] = "0";
+
+// Episode 397
+$data[397]['title'] = "Big Moments From 2015 | LAS 397";
+$data[397]['url'] = "http://www.jupiterbroadcasting.com/91986/big-moments-from-2015-las-397/";
+$data[397]['date'] = "2015-12-27";
+
+$data[397]['runslinux']['pick'][0]['name'] = "Episode did not include a pick";
+$data[397]['runslinux']['pick'][0]['url'] = "0";
+
+$data[397]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[397]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[397]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[397]['spotlight']['pick'][0]['url'] = "0";
+
+$data[397]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[397]['android']['pick'][0]['url'] = "0";
