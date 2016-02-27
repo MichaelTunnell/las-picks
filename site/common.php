@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 // <span><br />Phones, Tablets, DVRs, TV Shows, Movie Studios, Cars, Race Cars, Satellites, and so much more Run Linux. Each week Chris &amp; Matt feature a pick that shows just how awesome Linux is and how far it reaches.<span>
 // <span><br />Productivity Suites, File Syncing &amp; File Comparison, Media Players &amp; Editors, Customization Apps, Command-Line Tools, and so much more. Each week Chris &amp; Matt feature a pick to improve your Desktop Linux experience.</span>
@@ -15,34 +15,35 @@ $ak_runslinux	= "runslinux";
 $pt_runslinux	= "Runs Linux";
 $nav_runslinux	= $pt_runslinux;
 $th_runslinux	= $pt_runslinux;
-$time_runslinux	= array('2006', "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015");
+$time_runslinux	= array('2006', "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016");
 
 $ak_desktop		= "desktopapp";
 $pt_desktop		= "Desktop App Picks";
 $nav_desktop	= "Desktop Apps";
 $th_desktop		= "App Pick";
-$time_desktop	= array("2011", "2012", "2013", "2014", "2015");
+$time_desktop	= array("2011", "2012", "2013", "2014", "2015", "2016");
 
 $ak_spotlight	= "spotlight";
 $pt_spotlight	= "Spotlight Picks";
 $nav_spotlight	= "Spotlights";
 $th_spotlight	= "Spotlight Pick";
-$time_spotlight	= array("2013", "2014", "2015");
+$time_spotlight	= array("2013", "2014", "2015", "2016");
 
 $ak_android		= "android";
 $pt_android		= "Android Picks";
 $nav_android	= "Android";
 $th_android		= "Android Pick";
-$time_android	= array("2010", "2011", "2012", "2013", "2014", "2015");
+$time_android	= array("2010", "2011", "2012", "2013", "2014", "2015", "2016");
 
 $ak_distro		= "distro";
 $pt_distro		= "Distro of the Day";
 $nav_distro		= "Distros";
 $th_distro		= "Distro";
-$time_distro	= array("2012", "2013", "2014", "2015");
+$time_distro	= array("2012", "2013", "2014", "2015", "2016");
 
 
 // Date Variables
+$startdates['2016'] = "2016-01-04 10:00 PST";
 $startdates['2015'] = "2015-01-04 10:00 PST";
 $startdates['2014'] = "2014-01-05 10:00 PST";
 $startdates['2013'] = "2013-01-06 10:00 PST";
@@ -66,8 +67,8 @@ $startdates['2006'] = "2006-06-10 10:00 PST";
 // Android Picks
 // JB Start: 102 | S11E02 | 2010-03-01
 // JB End: 278 | S28E08 | 2014-09-14
-// Ting Start: 
-// Ting End: 
+// Ting Start:
+// Ting End:
 // Up to date
 
 // Desktop Apps
