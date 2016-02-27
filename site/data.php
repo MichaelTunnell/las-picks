@@ -2150,7 +2150,7 @@ $data[183]['desktopapp']['pick'][0]['url'] = "http://guake.org/";
 $data[183]['desktopapp']['pick'][1]['name'] = "Yakuake terminal";
 $data[183]['desktopapp']['pick'][1]['url'] = "http://kde-apps.org/content/show.php?content=29153";
 
-$data[183]['android']['pick'][0]['name'] = "Guns’n’Glory WW2";
+$data[183]['android']['pick'][0]['name'] = "Guns'n'Glory WW2";
 $data[183]['android']['pick'][0]['url'] = "https://market.android.com/details?id=com.hg.gunsandglory2free&feature=apps_topselling_free";
 $data[183]['android']['pick'][0]['source'] = "jb";
 
@@ -5301,7 +5301,7 @@ $data[352]['date'] = "2015-02-15";
 $data[352]['runslinux']['pick'][0]['name'] = "The Lego Movie";
 $data[352]['runslinux']['pick'][0]['url'] = "http://www.reddit.com/r/LinuxActionShow/comments/2v4fip/the_lego_movie_runs_linux/";
 
-$data[352]['desktopapp']['pick'][0]['name'] = "Linux Multimedia Studio (LMMS)";
+$data[352]['desktopapp']['pick'][0]['name'] = "Lets Make Music (LMMS)";
 $data[352]['desktopapp']['pick'][0]['url'] = "http://lmms.io/";
 
 $data[352]['spotlight']['pick'][0]['name'] = "AutoKey";
@@ -5545,7 +5545,6 @@ $data[364]['runslinux']['pick'][0]['url'] = "http://www.techworm.net/2015/05/wor
 
 $data[364]['desktopapp']['pick'][0]['name'] = "Fort Password Manager";
 $data[364]['desktopapp']['pick'][0]['url'] = "http://www.ideabyte.net/fort/";
-
 $data[364]['desktopapp']['pick'][1]['name'] = "QtPass";
 $data[364]['desktopapp']['pick'][1]['url'] = "http://ijhack.github.io/qtpass/";
 
@@ -5744,10 +5743,8 @@ $data[374]['desktopapp']['pick'][0]['url'] = "http://www.aegisub.org/";
 
 $data[374]['spotlight']['pick'][0]['name'] = "Amazon Prime Video User-Agent";
 $data[374]['spotlight']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/85377/get-going-with-x2go-las-374/";
-
 $data[374]['spotlight']['pick'][1]['name'] = "Firefox Addon";
 $data[374]['spotlight']['pick'][1]['url'] = "https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher/";
-
 $data[374]['spotlight']['pick'][2]['name'] = "Chrome Extension";
 $data[374]['spotlight']['pick'][2]['url'] = "https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg";
 
@@ -5806,6 +5803,8 @@ $data[377]['desktopapp']['pick'][0]['url'] = "http://www.zoiper.com/en";
 
 $data[377]['spotlight']['pick'][0]['name'] = "SeaFile";
 $data[377]['spotlight']['pick'][0]['url'] = "https://www.seafile.com/en/home/";
+$data[377]['spotlight']['pick'][1]['name'] = "Privacy Badger, Block Online Trackers";
+$data[377]['spotlight']['pick'][1]['url'] = "https://www.eff.org/deeplinks/2015/08/privacy-badger-10-here-stop-online-tracking";
 
 $data[377]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[377]['android']['pick'][0]['url'] = "0";
@@ -5827,6 +5826,9 @@ $data[378]['spotlight']['pick'][0]['url'] = "https://education.github.com/";
 
 $data[378]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[378]['android']['pick'][0]['url'] = "0";
+
+$data[378]['distro']['pick'][0]['name'] = "GuixSD";
+$data[378]['distro']['pick'][0]['url'] = "https://www.gnu.org/software/guix/";
 
 
 // Episode 379
@@ -5948,7 +5950,6 @@ $data[385]['runslinux']['pick'][0]['url'] = "https://youtu.be/_FlV6pgwlrk?t=2m57
 
 $data[385]['desktopapp']['pick'][0]['name'] = "Gpick (Color Picker)";
 $data[385]['desktopapp']['pick'][0]['url'] = "http://www.gpick.org/";
-
 $data[385]['desktopapp']['pick'][1]['name'] = "KColorChooser";
 $data[385]['desktopapp']['pick'][1]['url'] = "https://www.kde.org/applications/graphics/kcolorchooser/";
 
@@ -5982,7 +5983,6 @@ $data[386]['android']['pick'][0]['source'] = "ting";
 
 $data[386]['distro']['pick'][0]['name'] = "Netrunner";
 $data[386]['distro']['pick'][0]['url'] = "http://www.netrunner.com/";
-
 $data[386]['distro']['pick'][1]['name'] = "Slackel Linux (Slackware-based)";
 $data[386]['distro']['pick'][1]['url'] = "http://www.linuxinsider.com/story/Slackel-Linux-Not-Your-Fathers-Slackware-82568.html";
 
@@ -6083,7 +6083,7 @@ $data[392]['title'] = "The Evolution of Solus | LAS 392";
 $data[392]['url'] = "http://www.jupiterbroadcasting.com/90616/the-evolution-of-solus-las-392/";
 $data[392]['date'] = "2015-11-22";
 
-$data[392]['runslinux']['pick'][0]['name'] = "D-Link’s Komfy Switch with Camera";
+$data[392]['runslinux']['pick'][0]['name'] = "D-Link's Komfy Switch with Camera";
 $data[392]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/smart-light-switch-includes-hd-camera-iftt-support/";
 
 $data[392]['desktopapp']['pick'][0]['name'] = "Pitivi 0.95";
@@ -6097,7 +6097,7 @@ $data[392]['android']['pick'][0]['url'] = "0";
 
 
 // Episode 393
-$data[393]['title'] = "Thankfully It’s Open Source | LAS 393";
+$data[393]['title'] = "Thankfully It's Open Source | LAS 393";
 $data[393]['url'] = "http://www.jupiterbroadcasting.com/90881/thankfully-its-open-source-las-393/";
 $data[393]['date'] = "2015-11-29";
 
@@ -6152,11 +6152,11 @@ $data[395]['android']['pick'][0]['url'] = "0";
 
 
 // Episode 396
-$data[396]['title'] = "Let’s Encrypt: A New Hope | LAS 396";
+$data[396]['title'] = "Let's Encrypt: A New Hope | LAS 396";
 $data[396]['url'] = "http://www.jupiterbroadcasting.com/91736/lets-encrypt-a-new-hope-las-396/";
 $data[396]['date'] = "2015-12-20";
 
-$data[396]['runslinux']['pick'][0]['name'] = "George’s Hacked Acrua";
+$data[396]['runslinux']['pick'][0]['name'] = "George's Hacked Acrua";
 $data[396]['runslinux']['pick'][0]['url'] = "http://www.bloomberg.com/features/2015-george-hotz-self-driving-car/";
 
 $data[396]['desktopapp']['pick'][0]['name'] = "Nuvola Player";
@@ -6206,7 +6206,7 @@ $data[398]['spotlight']['pick'][0]['url'] = "http://www.mavetju.org/unix/dhcping
 
 $data[398]['android']['pick'][0]['name'] = "Top five apps of 2015";
 $data[398]['android']['pick'][0]['url'] = "https://ting.com/blog/ting-download-top-five-apps-of-2015/";
-$data[398]['android']['pick'][0]['source'] = 'ting'
+$data[398]['android']['pick'][0]['source'] = 'ting';
 
 
 // Episode 399
@@ -6274,7 +6274,7 @@ $data[402]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=Q3c
 $data[402]['desktopapp']['pick'][0]['name'] = "My recommended GNOME Extensions";
 $data[402]['desktopapp']['pick'][0]['url'] = "https://linuxious.com/2016/01/10/my-recommended-gnome-extensions/";
 
-$data[402]['spotlight']['pick'][0]['name'] = "Yarock – Linux music player";
+$data[402]['spotlight']['pick'][0]['name'] = "Yarock - Linux music player";
 $data[402]['spotlight']['pick'][0]['url'] = "https://seb-apps.github.io/yarock/";
 
 $data[402]['android']['pick'][0]['name'] = "Episode did not include a pick";
@@ -6325,11 +6325,13 @@ $data[405]['date'] = "2016-02-21";
 $data[405]['runslinux']['pick'][0]['name'] = "Endless";
 $data[405]['runslinux']['pick'][0]['url'] = "https://endlessm.com/";
 
-$data[405]['desktopapp']['pick'][0]['name'] = ".clayo – osmo";
+$data[405]['desktopapp']['pick'][0]['name'] = ".clayo - osmo";
 $data[405]['desktopapp']['pick'][0]['url'] = "http://clayo.org/osmo/";
 
-$data[405]['spotlight']['pick'][0]['name'] = "Log.io – Real-time log monitoring in your browser";
+$data[405]['spotlight']['pick'][0]['name'] = "Log.io - Real-time log monitoring in your browser";
 $data[405]['spotlight']['pick'][0]['url'] = "http://logio.org/";
 
 $data[405]['android']['pick'][0]['name'] = "Google Photos";
 $data[405]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.google.android.apps.photos";
+
+?>

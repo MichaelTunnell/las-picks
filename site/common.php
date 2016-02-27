@@ -39,7 +39,7 @@ $ak_distro		= "distro";
 $pt_distro		= "Distro of the Day";
 $nav_distro		= "Distros";
 $th_distro		= "Distro";
-$time_distro	= array("2012", "2013", "2014", "2015", "2016");
+$time_distro	= array("2012", "2013", "2014", "2015");
 
 
 // Date Variables
