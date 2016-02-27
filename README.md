@@ -33,4 +33,4 @@ Video is currently being produced so it is not available yet.
 
 ### Website Preview
 
-![LAS Picks Preview](https://raw.githubusercontent.com/MichaelTunnell/las-picks/master/site/las-picks-preview.jpg)
+![LAS Picks Preview](https://raw.githubusercontent.com/MichaelTunnell/las-picks/master/site/las-picks-preview.png)
