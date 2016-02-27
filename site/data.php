@@ -5515,4 +5515,59 @@ $data[362]['android']['pick'][0]['name'] = "Checky";
 $data[362]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.calm.checky";
 $data[362]['android']['pick'][0]['source'] = "ting";
 
+// TODO add episode 363 to 399
+
+// Episode 400
+$data[400]['title'] = "LAS 400 Phones Home | LAS 400";
+$data[400]['url'] = "http://www.jupiterbroadcasting.com/92716/las-400-phones-home-las-400/";
+$data[400]['date'] = "2016-01-15";
+
+$data[400]['runslinux']['pick'][0]['name'] = "My gym runs linux!";
+$data[400]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/40o74u/my_gym_runs_linux/";
+
+$data[400]['desktopapp']['pick'][0]['name'] = "netboot.xyz";
+$data[400]['desktopapp']['pick'][0]['url'] = "http://netboot.xyz/";
+
+$data[400]['spotlight']['pick'][0]['name'] = "Open audIT";
+$data[400]['spotlight']['pick'][0]['url'] = "http://www.open-audit.org/";
+
+$data[400]['android']['pick'][0]['name'] = "LastPass";
+$data[400]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.lastpass.lpandroid";
+$data[400]['android']['pick'][0]['source'] = "ting";
+
+// Episode 401
+$data[401]['title'] = "Pre SCaLE LAS | LAS 401";
+$data[401]['url'] = "http://www.jupiterbroadcasting.com/92926/pre-scale-las-las-401/";
+$data[401]['date'] = "2016-01-24";
+
+$data[401]['runslinux']['pick'][0]['name'] = "This Viewers Car Runs Linux";
+$data[401]['runslinux']['pick'][0]['url'] = "0";
+
+$data[401]['desktopapp']['pick'][0]['name'] = "reep.io";
+$data[401]['desktopapp']['pick'][0]['url'] = "https://reep.io/";
+
+$data[401]['spotlight']['pick'][0]['name'] = "GalliumOS – A fast and lightweight Linux distro for ChromeOS devices";
+$data[401]['spotlight']['pick'][0]['url'] = "https://galliumos.org/";
+
+$data[401]['android']['pick'][0]['name'] = "none";
+$data[401]['android']['pick'][0]['url'] = "0";
+
+// Episode 402
+$data[402]['title'] = "The Stories of SCALE14x | LAS 402";
+$data[402]['url'] = "http://www.jupiterbroadcasting.com/93271/the-stories-of-scale14x-las-402/";
+$data[402]['date'] = "2016-02-01";
+
+$data[402]['runslinux']['pick'][0]['name'] = "Nintendo 64 RUNS LINUX!";
+$data[402]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=Q3cPWUT8hXw";
+
+$data[402]['desktopapp']['pick'][0]['name'] = "My recommended GNOME Extension ";
+$data[402]['desktopapp']['pick'][0]['url'] = "https://linuxious.com/2016/01/10/my-recommended-gnome-extensions/";
+
+$data[402]['spotlight']['pick'][0]['name'] = "Yarock – Linux music player";
+$data[402]['spotlight']['pick'][0]['url'] = "https://seb-apps.github.io/yarock/";
+
+$data[402]['android']['pick'][0]['name'] = "none";
+$data[402]['android']['pick'][0]['url'] = "0";
+
+
 ?>
