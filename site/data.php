@@ -6334,4 +6334,20 @@ $data[405]['spotlight']['pick'][0]['url'] = "http://logio.org/";
 $data[405]['android']['pick'][0]['name'] = "Google Photos";
 $data[405]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.google.android.apps.photos";
 
+
+
+// Episode 406
+$data[406]['title'] = "Entroware Apollo: Linux Macbook Killer | LAS 406";
+$data[406]['url'] = "http://www.jupiterbroadcasting.com/96836/entroware-apollo-linux-macbook-killer-las-406/";
+$data[406]['date'] = "2016-02-29";
+
+$data[406]['runslinux']['pick'][0]['name'] = "Soda Can Solar Collector";
+$data[406]['runslinux']['pick'][0]['url'] = "http://www.solarair.livotel.com/";
+
+$data[406]['desktopapp']['pick'][0]['name'] = "N1 – The extensible, open source mail client.";
+$data[406]['desktopapp']['pick'][0]['url'] = "https://www.nylas.com/N1/";
+
+$data[406]['spotlight']['pick'][0]['name'] = "Password Generation on Linux";
+$data[406]['spotlight']['pick'][0]['url'] = "http://linux.die.net/man/1/apg";
+
 ?>
