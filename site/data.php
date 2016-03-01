@@ -6334,5 +6334,4 @@ $data[405]['spotlight']['pick'][0]['url'] = "http://logio.org/";
 $data[405]['android']['pick'][0]['name'] = "Google Photos";
 $data[405]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.google.android.apps.photos";
 
-
 ?>
