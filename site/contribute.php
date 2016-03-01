@@ -60,6 +60,11 @@ include 'header.php';
 						API Developer<br />
 						Data Contributor
 					</li>
+					<li><strong>andrewlivi</strong><br />
+						Links: <a href="https://github.com/andrewlivi">GitHub</a><br />
+						Contributions:<br />
+						Data Contributor
+					</li>
 					<li><strong>computerfr33k</strong><br />
 						Links: <a href="https://github.com/computerfr33k">GitHub</a><br />
 						Contributions:<br />
@@ -86,6 +91,11 @@ include 'header.php';
 						Contributions:<br />
 						Data Contributor
 					</li>
+					<li><strong>hubertbanas</strong><br />
+						Links: <a href="https://github.com/hubertbanas">GitHub</a><br />
+						Contributions:<br />
+						Data Contributor
+					</li>
 					<li><strong>skullplate</strong><br />
 						Links: <a href="https://github.com/skullplate">GitHub</a><br />
 						Contributions:<br />
@@ -97,6 +107,11 @@ include 'header.php';
 					</li>
 					<li><strong>textheadmin</strong><br />
 						Links: <a href="https://github.com/textheadmin">GitHub</a><br />
+						Contributions:<br />
+						Data Contributor
+					</li>
+					<li><strong>thefenriswolf</strong><br />
+						Links: <a href="https://github.com/thefenriswolf">GitHub</a><br />
 						Contributions:<br />
 						Data Contributor
 					</li>
