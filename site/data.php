@@ -6352,4 +6352,22 @@ $data[406]['spotlight']['pick'][0]['url'] = "http://linux.die.net/man/1/apg";
 $data[406]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[406]['android']['pick'][0]['url'] = "0";
 
+
+// Episode 407
+$data[407]['title'] = "3rd Slice of Pi w/ Mycroft | LAS 407";
+$data[407]['url'] = "http://www.jupiterbroadcasting.com/97166/3rd-slice-of-pi-with-extra-mycroft-las-407/";
+$data[407]['date'] = "2016-03-06";
+
+$data[407]['runslinux']['pick'][0]['name'] = "Indian Driverless car RUNS LINUX";
+$data[407]['runslinux']['pick'][0]['url'] = "https://youtu.be/5mPanjv50TM?t=2m47s";
+
+$data[407]['desktopapp']['pick'][0]['name'] = "Google Play Music Desktop Player";
+$data[407]['desktopapp']['pick'][0]['url'] = "http://www.googleplaymusicdesktopplayer.com/";
+
+$data[407]['spotlight']['pick'][0]['name'] = "VideoLAN - VLMC, open source video editor";
+$data[407]['spotlight']['pick'][0]['url'] = "https://www.videolan.org/vlmc/";
+
+$data[407]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[407]['android']['pick'][0]['url'] = "0";
+
 ?>
