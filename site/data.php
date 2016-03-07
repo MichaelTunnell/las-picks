@@ -6354,7 +6354,7 @@ $data[406]['android']['pick'][0]['url'] = "0";
 
 
 // Episode 407
-$data[407]['title'] = "3rd Slice of Pi w/ Mycroft | LAS 407";
+$data[407]['title'] = "3rd Slice of Pi with Extra Mycroft | LAS 407";
 $data[407]['url'] = "http://www.jupiterbroadcasting.com/97166/3rd-slice-of-pi-with-extra-mycroft-las-407/";
 $data[407]['date'] = "2016-03-06";
 
