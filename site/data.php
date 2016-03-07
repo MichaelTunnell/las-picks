@@ -6353,18 +6353,36 @@ $data[406]['spotlight']['pick'][0]['url'] = "http://linux.die.net/man/1/apg";
 
 
 // Episode 407
-$data[407]['title'] = "";
-$data[407]['url'] = "";
-$data[407]['date'] = "2016-02-29";
+$data[407]['title'] = "3rd Slice of Pi with Extra Mycroft | LAS 407";
+$data[407]['url'] = "http://www.jupiterbroadcasting.com/97166/3rd-slice-of-pi-with-extra-mycroft-las-407/";
+$data[407]['date'] = "2016-03-06";
 
-$data[407]['runslinux']['pick'][0]['name'] = "";
-$data[407]['runslinux']['pick'][0]['url'] = "";
+$data[407]['runslinux']['pick'][0]['name'] = "Indian Driverless car";
+$data[407]['runslinux']['pick'][0]['url'] = "https://youtu.be/5mPanjv50TM?t=2m47s";
 
-$data[407]['desktopapp']['pick'][0]['name'] = "";
-$data[407]['desktopapp']['pick'][0]['url'] = "";
+$data[407]['desktopapp']['pick'][0]['name'] = "Google Play Music Desktop Player";
+$data[407]['desktopapp']['pick'][0]['url'] = "http://www.googleplaymusicdesktopplayer.com/";
 
-$data[407]['spotlight']['pick'][0]['name'] = "";
-$data[407]['spotlight']['pick'][0]['url'] = "";
+$data[407]['spotlight']['pick'][0]['name'] = "VideoLAN – VLMC, open source video editor";
+$data[407]['spotlight']['pick'][0]['url'] = "https://www.videolan.org/vlmc/";
+
+
+
+// Episode 408
+$data[408]['title'] = "";
+$data[408]['url'] = "";
+$data[408]['date'] = "2016-03-13";
+
+$data[408]['runslinux']['pick'][0]['name'] = "";
+$data[408]['runslinux']['pick'][0]['url'] = "";
+
+$data[408]['desktopapp']['pick'][0]['name'] = "";
+$data[408]['desktopapp']['pick'][0]['url'] = "";
+
+$data[408]['spotlight']['pick'][0]['name'] = "";
+$data[408]['spotlight']['pick'][0]['url'] = "";
+
 
 
 ?>
+
