@@ -6370,4 +6370,22 @@ $data[407]['spotlight']['pick'][0]['url'] = "https://www.videolan.org/vlmc/";
 $data[407]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[407]['android']['pick'][0]['url'] = "0";
 
+
+// Episode 408
+$data[408]['title'] = "Making Music with Linux | LAS 408";
+$data[408]['url'] = "http://www.jupiterbroadcasting.com/97561/making-music-with-linux-las-408/";
+$data[408]['date'] = "2016-03-13";
+
+$data[408]['runslinux']['pick'][0]['name'] = "Mr Lube - RUNS LINUX!";
+$data[408]['runslinux']['pick'][0]['url'] = "http://imgur.com/VnaAY5J";
+
+$data[408]['desktopapp']['pick'][0]['name'] = "Git GUI Client for Windows Mac and Linux";
+$data[408]['desktopapp']['pick'][0]['url'] = "https://www.youtube.com/embed/GE1ImXs2LnI";
+
+$data[408]['spotlight']['pick'][0]['name'] = "bomi";
+$data[408]['spotlight']['pick'][0]['url'] = "https://bomi-player.github.io/";
+
+$data[408]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[408]['android']['pick'][0]['url'] = "0";
+
 ?>
