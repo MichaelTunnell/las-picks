@@ -6328,7 +6328,7 @@ $data[405]['runslinux']['pick'][0]['url'] = "https://endlessm.com/";
 $data[405]['desktopapp']['pick'][0]['name'] = ".clayo - osmo";
 $data[405]['desktopapp']['pick'][0]['url'] = "http://clayo.org/osmo/";
 
-$data[405]['spotlight']['pick'][0]['name'] = "Log.io - Real-time log monitoring in your browser";
+$data[405]['spotlight']['pick'][0]['name'] = "Log.io - Real-time log monitoring in a browser";
 $data[405]['spotlight']['pick'][0]['url'] = "http://logio.org/";
 
 $data[405]['android']['pick'][0]['name'] = "Google Photos";
@@ -6358,7 +6358,7 @@ $data[407]['title'] = "3rd Slice of Pi with Extra Mycroft | LAS 407";
 $data[407]['url'] = "http://www.jupiterbroadcasting.com/97166/3rd-slice-of-pi-with-extra-mycroft-las-407/";
 $data[407]['date'] = "2016-03-06";
 
-$data[407]['runslinux']['pick'][0]['name'] = "Indian Driverless car RUNS LINUX";
+$data[407]['runslinux']['pick'][0]['name'] = "Indian Driverless car";
 $data[407]['runslinux']['pick'][0]['url'] = "https://youtu.be/5mPanjv50TM?t=2m47s";
 
 $data[407]['desktopapp']['pick'][0]['name'] = "Google Play Music Desktop Player";
@@ -6369,5 +6369,23 @@ $data[407]['spotlight']['pick'][0]['url'] = "https://www.videolan.org/vlmc/";
 
 $data[407]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[407]['android']['pick'][0]['url'] = "0";
+
+
+// Episode 408
+$data[408]['title'] = "Making Music with Linux | LAS 408";
+$data[408]['url'] = "http://www.jupiterbroadcasting.com/97561/making-music-with-linux-las-408/";
+$data[408]['date'] = "2016-03-13";
+
+$data[408]['runslinux']['pick'][0]['name'] = "Mr Lube";
+$data[408]['runslinux']['pick'][0]['url'] = "http://imgur.com/VnaAY5J";
+
+$data[408]['desktopapp']['pick'][0]['name'] = "GitKraken - Git GUI Client";
+$data[408]['desktopapp']['pick'][0]['url'] = "https://www.youtube.com/embed/GE1ImXs2LnI";
+
+$data[408]['spotlight']['pick'][0]['name'] = "bomi - media player";
+$data[408]['spotlight']['pick'][0]['url'] = "https://bomi-player.github.io/";
+
+$data[408]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[408]['android']['pick'][0]['url'] = "0";
 
 ?>
