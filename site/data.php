@@ -6388,4 +6388,23 @@ $data[408]['spotlight']['pick'][0]['url'] = "https://bomi-player.github.io/";
 $data[408]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[408]['android']['pick'][0]['url'] = "0";
 
+
+// Episode 409
+$data[409]['title'] = "What Is KDE Neon? | LAS 409";
+$data[409]['url'] = "http://www.jupiterbroadcasting.com/97801/what-is-kde-neon-las-409/";
+$data[409]['date'] = "2016-03-20";
+
+$data[409]['runslinux']['pick'][0]['name'] = "Sears";
+$data[409]['runslinux']['pick'][0]['url'] = "http://imgur.com/a/dBL2V";
+
+$data[409]['desktopapp']['pick'][0]['name'] = "Bombono DVD - authoring program";
+$data[409]['desktopapp']['pick'][0]['url'] = "http://www.bombono.org/";
+
+$data[409]['spotlight']['pick'][0]['name'] = "BlueGriffon - content editor for the World Wide Web";
+$data[409]['spotlight']['pick'][0]['url'] = "http://www.bluegriffon.org/";
+
+$data[409]['android']['pick'][0]['name'] = "ChoreMonster";
+$data[409]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.choremonster.cmandroid&hl=en";
+$data[409]['android']['pick'][0]['source'] = 'ting';
+
 ?>
