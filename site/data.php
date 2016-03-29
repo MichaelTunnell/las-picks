@@ -6407,4 +6407,22 @@ $data[409]['android']['pick'][0]['name'] = "ChoreMonster";
 $data[409]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.choremonster.cmandroid&hl=en";
 $data[409]['android']['pick'][0]['source'] = 'ting';
 
+
+// Episode 410
+$data[410]['title'] = "Floating on ownCloud 9 | LAS 410";
+$data[410]['url'] = "http://www.jupiterbroadcasting.com/98121/floating-on-owncloud-9-las-410/";
+$data[410]['date'] = "2016-03-27";
+
+$data[410]['runslinux']['pick'][0]['name'] = "Maple Syrup Remote Monitoring";
+$data[410]['runslinux']['pick'][0]['url'] = "http://imgur.com/a/8IiZN";
+
+$data[410]['desktopapp']['pick'][0]['name'] = "QOwnNotes - Plain-Text Notepad with Markdown";
+$data[410]['desktopapp']['pick'][0]['url'] = "http://www.qownnotes.org/";
+
+$data[410]['spotlight']['pick'][0]['name'] = "Newsbeuter - Command-Line RSS/Atom Feed Reader";
+$data[410]['spotlight']['pick'][0]['url'] = "http://newsbeuter.org/";
+
+$data[410]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[410]['android']['pick'][0]['url'] = "0";
+
 ?>
