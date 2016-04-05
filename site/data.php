@@ -6425,4 +6425,24 @@ $data[410]['spotlight']['pick'][0]['url'] = "http://newsbeuter.org/";
 $data[410]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[410]['android']['pick'][0]['url'] = "0";
 
+
+// Episode 411
+$data[411]['title'] = "Windows Gets Bash-ed | LAS 411";
+$data[411]['url'] = "http://www.jupiterbroadcasting.com/98481/windows-gets-bash-ed-las-411/";
+$data[411]['date'] = "2016-04-03";
+
+$data[411]['runslinux']['pick'][0]['name'] = "iCarus";
+$data[411]['runslinux']['pick'][0]['url'] = "http://i-carus.com/";
+$data[411]['runslinux']['pick'][1]['name'] = "Hotel Sign";
+$data[411]['runslinux']['pick'][1]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/4d6dgu/hotel_sign_runs_linux/";
+
+$data[411]['desktopapp']['pick'][0]['name'] = "Simplenote";
+$data[411]['desktopapp']['pick'][0]['url'] = "http://simplenote.com/";
+
+$data[411]['spotlight']['pick'][0]['name'] = "ZenyPass - password manager";
+$data[411]['spotlight']['pick'][0]['url'] = "https://zenyway.com/password-manager/home/en/index.html";
+
+$data[411]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[411]['android']['pick'][0]['url'] = "0";
+
 ?>
