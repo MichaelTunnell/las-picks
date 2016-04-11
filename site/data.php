@@ -6445,4 +6445,22 @@ $data[411]['spotlight']['pick'][0]['url'] = "https://zenyway.com/password-manage
 $data[411]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[411]['android']['pick'][0]['url'] = "0";
 
+
+// Episode 412
+$data[412]['title'] = "Noah Delivers Linux | LAS 412";
+$data[412]['url'] = "http://www.jupiterbroadcasting.com/98666/noah-delivers-linux-las-412/";
+$data[412]['date'] = "2016-04-10";
+
+$data[412]['runslinux']['pick'][0]['name'] = "Pi-Hole - Network Wide Ad Blocking Solution";
+$data[412]['runslinux']['pick'][0]['url'] = "https://pi-hole.net/";
+
+$data[412]['desktopapp']['pick'][0]['name'] = "BlueCherry - Survillance System";
+$data[412]['desktopapp']['pick'][0]['url'] = "http://www.bluecherrydvr.com/";
+
+$data[412]['spotlight']['pick'][0]['name'] = "Lightworks - Video Editing Software";
+$data[412]['spotlight']['pick'][0]['url'] = "http://www.lwks.com/";
+
+$data[412]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[412]['android']['pick'][0]['url'] = "0";
+
 ?>
