@@ -6463,4 +6463,22 @@ $data[412]['spotlight']['pick'][0]['url'] = "http://www.lwks.com/";
 $data[412]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[412]['android']['pick'][0]['url'] = "0";
 
+
+// Episode 413
+$data[413]['title'] = "Ubuntu 16.04: From Warty to Wimpy | LAS 413";
+$data[413]['url'] = "http://www.jupiterbroadcasting.com/98906/ubuntu-16-04-from-warty-to-wimpy-las-413/";
+$data[413]['date'] = "2016-04-17";
+
+$data[413]['runslinux']['pick'][0]['name'] = "Pi Powered Weather Monitor";
+$data[413]['runslinux']['pick'][0]['url'] = "http://lifehacker.com/make-a-raspberry-pi-powered-remote-camera-that-monitors-1771019090";
+
+$data[413]['desktopapp']['pick'][0]['name'] = "AltYo - Drop-Down Console";
+$data[413]['desktopapp']['pick'][0]['url'] = "https://github.com/linvinus/AltYo";
+
+$data[413]['spotlight']['pick'][0]['name'] = "wttr.in -  Web frontend for wego";
+$data[413]['spotlight']['pick'][0]['url'] = "https://github.com/chubin/wttr.in";
+
+$data[413]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[413]['android']['pick'][0]['url'] = "0";
+
 ?>
