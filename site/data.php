@@ -6481,4 +6481,11 @@ $data[413]['spotlight']['pick'][0]['url'] = "https://github.com/chubin/wttr.in";
 $data[413]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[413]['android']['pick'][0]['url'] = "0";
 
+$data[413]['distro']['pick'][0]['name'] = "Ubuntu 16.04";
+$data[413]['distro']['pick'][0]['url'] = "http://releases.ubuntu.com/16.04/";
+$data[413]['distro']['pick'][1]['name'] = "Ubuntu Mate";
+$data[413]['distro']['pick'][1]['url'] = "https://ubuntu-mate.org/";
+$data[413]['distro']['pick'][2]['name'] = "KDE neon";
+$data[413]['distro']['pick'][2]['url'] = "http://neon.kde.org/";
+
 ?>
