@@ -6488,4 +6488,22 @@ $data[413]['distro']['pick'][1]['url'] = "https://ubuntu-mate.org/";
 $data[413]['distro']['pick'][2]['name'] = "KDE neon";
 $data[413]['distro']['pick'][2]['url'] = "http://neon.kde.org/";
 
+
+// Episode 414
+$data[414]['title'] = "LinuxFest Northwest 2016 | LAS 414";
+$data[414]['url'] = "http://www.jupiterbroadcasting.com/99036/linuxfest-northwest-2016-las-414/";
+$data[414]['date'] = "2016-04-24";
+
+$data[414]['runslinux']['pick'][0]['name'] = "LAS broadcasting servers";
+$data[414]['runslinux']['pick'][0]['url'] = "https://obsproject.com/";
+
+$data[414]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[414]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[414]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[414]['spotlight']['pick'][0]['url'] = "0";
+
+$data[414]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[414]['android']['pick'][0]['url'] = "0";
+
 ?>
