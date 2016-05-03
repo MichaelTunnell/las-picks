@@ -6506,4 +6506,22 @@ $data[414]['spotlight']['pick'][0]['url'] = "0";
 $data[414]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[414]['android']['pick'][0]['url'] = "0";
 
+
+// Episode 415
+$data[415]['title'] = "Linux Switch Competition | LAS 415";
+$data[415]['url'] = "http://www.jupiterbroadcasting.com/99206/linux-switch-competition-las-415/";
+$data[415]['date'] = "2016-05-01";
+
+$data[415]['runslinux']['pick'][0]['name'] = "Mars Rover controlling software from the ESA";
+$data[415]['runslinux']['pick'][0]['url'] = "https://youtu.be/PoNHzi-50hY?t=5m9s";
+
+$data[415]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[415]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[415]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[415]['spotlight']['pick'][0]['url'] = "0";
+
+$data[415]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[415]['android']['pick'][0]['url'] = "0";
+
 ?>
