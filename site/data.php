@@ -6524,4 +6524,23 @@ $data[415]['spotlight']['pick'][0]['url'] = "0";
 $data[415]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[415]['android']['pick'][0]['url'] = "0";
 
+
+// Episode 416
+$data[416]['title'] = "Getting Inside the Oryx Pro | LAS 416";
+$data[416]['url'] = "http://www.jupiterbroadcasting.com/99566/getting-inside-the-oryx-pro-las-416/";
+$data[416]['date'] = "2016-05-08";
+
+$data[416]['runslinux']['pick'][0]['name'] = "Starbucks Coffee";
+$data[416]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=JTyjQf8e_go";
+
+$data[416]['desktopapp']['pick'][0]['name'] = "Fade In - Screenwriting Software";
+$data[416]['desktopapp']['pick'][0]['url'] = "http://www.fadeinpro.com/";
+
+$data[416]['spotlight']['pick'][0]['name'] = "Ghetto Skype";
+$data[416]['spotlight']['pick'][0]['url'] = "https://github.com/stanfieldr/ghetto-skype";
+
+$data[416]['android']['pick'][0]['name'] = "NetGuard";
+$data[416]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=eu.faircode.netguard";
+$data[416]['android']['pick'][0]['source'] = 'ting';
+
 ?>
