@@ -6543,4 +6543,24 @@ $data[416]['android']['pick'][0]['name'] = "NetGuard";
 $data[416]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=eu.faircode.netguard";
 $data[416]['android']['pick'][0]['source'] = 'ting';
 
+
+// Episode 417
+$data[417]['title'] = "Penguin Powered Production | LAS 417";
+$data[417]['url'] = "http://www.jupiterbroadcasting.com/99741/penguin-powered-production-las-417/";
+$data[417]['date'] = "2016-05-15";
+
+$data[417]['runslinux']['pick'][0]['name'] = "Lightman Group from the \"Lie to Me\" TV series";
+$data[417]['runslinux']['pick'][0]['url'] = "http://imgur.com/wLhNFQy";
+
+$data[417]['desktopapp']['pick'][0]['name'] = "Kdenlive - Video Editor";
+$data[417]['desktopapp']['pick'][0]['url'] = "https://kdenlive.org/";
+$data[417]['desktopapp']['pick'][1]['name'] = "Droopy - File Sharing";
+$data[417]['desktopapp']['pick'][1]['url'] = "https://github.com/stackp/Droopy";
+
+$data[417]['spotlight']['pick'][0]['name'] = "Telegram Snap Package";
+$data[417]['spotlight']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2016/05/telegram-snap-package-ubuntu-16-04";
+
+$data[417]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[417]['android']['pick'][0]['url'] = "0";
+
 ?>
