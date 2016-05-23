@@ -6563,4 +6563,24 @@ $data[417]['spotlight']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2016/05/
 $data[417]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[417]['android']['pick'][0]['url'] = "0";
 
+
+// Episode 418
+$data[418]['title'] = "Virtualization Revelation | LAS 418";
+$data[418]['url'] = "http://www.jupiterbroadcasting.com/99891/virtualization-revelation-las-418/";
+$data[418]['date'] = "2016-05-22";
+
+$data[418]['runslinux']['pick'][0]['name'] = "NVIDIA DGX-1 Deep Learning System";
+$data[418]['runslinux']['pick'][0]['url'] = "http://www.nvidia.com/object/deep-learning-system.html";
+
+$data[418]['desktopapp']['pick'][0]['name'] = "Netdata - Performance Monitoring";
+$data[418]['desktopapp']['pick'][0]['url'] = "http://www.kitploit.com/2016/05/netdata-real-time-performance-monitoring.html";
+$data[418]['desktopapp']['pick'][1]['name'] = "NetHogs - \"net top\" tool";
+$data[418]['desktopapp']['pick'][1]['url'] = "https://github.com/raboof/nethogs";
+
+$data[418]['spotlight']['pick'][0]['name'] = "Systemd Manager";
+$data[418]['spotlight']['pick'][0]['url'] = "https://github.com/mmstick/systemd-manager";
+
+$data[418]['android']['pick'][0]['name'] = "Square Cash";
+$data[418]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.squareup.cash";
+
 ?>
