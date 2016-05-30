@@ -6583,4 +6583,22 @@ $data[418]['spotlight']['pick'][0]['url'] = "https://github.com/mmstick/systemd-
 $data[418]['android']['pick'][0]['name'] = "Square Cash";
 $data[418]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.squareup.cash";
 
+
+// Episode 419
+$data[419]['title'] = "13 Inches of Freedom | LAS 419";
+$data[419]['url'] = "http://www.jupiterbroadcasting.com/100036/13-inches-of-freedom-las-419/";
+$data[419]['date'] = "2016-05-29";
+
+$data[419]['runslinux']['pick'][0]['name'] = "FixIT Leeds";
+$data[419]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=GvSQj9aE0FA";
+
+$data[419]['desktopapp']['pick'][0]['name'] = "Etcher - OS Image Flasher";
+$data[419]['desktopapp']['pick'][0]['url'] = "http://www.etcher.io/";
+
+$data[419]['spotlight']['pick'][0]['name'] = "Solaar - Device Manager for Logitech's Receiver";
+$data[419]['spotlight']['pick'][0]['url'] = "https://pwr.github.io/Solaar/";
+
+$data[419]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[419]['android']['pick'][0]['url'] = "0";
+
 ?>
