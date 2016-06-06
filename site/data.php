@@ -6604,7 +6604,7 @@ $data[419]['android']['pick'][0]['url'] = "0";
 
 // Episode 420
 $data[420]['title'] = "Jumping to the Nextcloud | LAS 420";
-$data[420]['url'] = "";
+$data[420]['url'] = "http://www.jupiterbroadcasting.com/100191/jumping-to-the-nextcloud-las-420/";
 $data[420]['date'] = "2016-06-05";
 
 $data[420]['runslinux']['pick'][0]['name'] = "Country Wedding";
