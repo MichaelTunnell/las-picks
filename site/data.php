@@ -17,6 +17,9 @@ $data[0]['android']['pick'][0]['name'] = "";
 $data[0]['android']['pick'][0]['url'] = "";
 $data[0]['android']['pick'][0]['source'] = "ting";
 
+$data[0]['distro']['pick'][0]['name'] = "";
+$data[0]['distro']['pick'][0]['url'] = "";
+
 
 // Episode 1
 $data[1]['title'] = "Linux Action Show! | LAS 1";
