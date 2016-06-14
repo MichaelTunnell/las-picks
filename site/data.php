@@ -6624,4 +6624,28 @@ $data[420]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/de
 $data[420]['android']['pick'][1]['name'] = "Mindroid";
 $data[420]['android']['pick'][1]['url'] = "https://play.google.com/store/apps/details?id=com.urbandroid.mind";
 
+// Episode 421
+$data[0]['title'] = "The 10th Anniversary | LAS 421";
+$data[0]['url'] = "http://www.jupiterbroadcasting.com/100391/the-10th-anniversary-las-421/";
+$data[0]['date'] = "2016-06-12";
+
+$data[0]['runslinux']['pick'][0]['name'] = "The World is Surrouned in Linux, we all Run Linux";
+$data[0]['runslinux']['pick'][0]['url'] = "https://en.wikipedia.org/wiki/Linux_adoption";
+
+$data[0]['runslinux']['pick'][0]['name'] = "Doe Bay Internet Users Association";
+$data[0]['runslinux']['pick'][0]['url'] = "https://dbiua.org/";
+
+$data[0]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[0]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[0]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[0]['spotlight']['pick'][0]['url'] = "0";
+
+$data[0]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[0]['android']['pick'][0]['url'] = "0";
+$data[0]['android']['pick'][0]['source'] = "ting";
+
+$data[0]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[0]['distro']['pick'][0]['url'] = "0";
+
 ?>
