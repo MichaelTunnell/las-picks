@@ -17,6 +17,9 @@ $data[0]['android']['pick'][0]['name'] = "";
 $data[0]['android']['pick'][0]['url'] = "";
 $data[0]['android']['pick'][0]['source'] = "ting";
 
+$data[0]['distro']['pick'][0]['name'] = "";
+$data[0]['distro']['pick'][0]['url'] = "";
+
 
 // Episode 1
 $data[1]['title'] = "Linux Action Show! | LAS 1";
@@ -6600,5 +6603,48 @@ $data[419]['spotlight']['pick'][0]['url'] = "https://pwr.github.io/Solaar/";
 
 $data[419]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[419]['android']['pick'][0]['url'] = "0";
+
+
+// Episode 420
+$data[420]['title'] = "Jumping to the Nextcloud | LAS 420";
+$data[420]['url'] = "http://www.jupiterbroadcasting.com/100191/jumping-to-the-nextcloud-las-420/";
+$data[420]['date'] = "2016-06-05";
+
+$data[420]['runslinux']['pick'][0]['name'] = "Country Wedding";
+$data[420]['runslinux']['pick'][0]['url'] = "http://i.imgur.com/ZqupHsR.png";
+
+$data[420]['desktopapp']['pick'][0]['name'] = "Turtl: encrypted Evernote alternative";
+$data[420]['desktopapp']['pick'][0]['url'] = "https://turtl.it/";
+
+$data[420]['spotlight']['pick'][0]['name'] = "QLC Plus - Q Light Controller";
+$data[420]['spotlight']['pick'][0]['url'] = "http://www.qlcplus.org/";
+
+$data[420]['android']['pick'][0]['name'] = "Brain It On";
+$data[420]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.orbital.brainiton";
+$data[420]['android']['pick'][1]['name'] = "Mindroid";
+$data[420]['android']['pick'][1]['url'] = "https://play.google.com/store/apps/details?id=com.urbandroid.mind";
+
+// Episode 421
+$data[421]['title'] = "The 10th Anniversary | LAS 421";
+$data[421]['url'] = "http://www.jupiterbroadcasting.com/100391/the-10th-anniversary-las-421/";
+$data[421]['date'] = "2016-06-12";
+
+$data[421]['runslinux']['pick'][0]['name'] = "The World is Surrouned in Linux, we all Run Linux";
+$data[421]['runslinux']['pick'][0]['url'] = "https://en.wikipedia.org/wiki/Linux_adoption";
+
+$data[421]['runslinux']['pick'][1]['name'] = "Doe Bay Internet Users Association";
+$data[421]['runslinux']['pick'][1]['url'] = "https://dbiua.org/";
+
+$data[421]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[421]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[421]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[421]['spotlight']['pick'][0]['url'] = "0";
+
+$data[421]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[421]['android']['pick'][0]['url'] = "0";
+
+$data[421]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[421]['distro']['pick'][0]['url'] = "0";
 
 ?>
