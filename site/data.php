@@ -6647,4 +6647,24 @@ $data[421]['android']['pick'][0]['url'] = "0";
 $data[421]['distro']['pick'][0]['name'] = "Episode did not include a pick";
 $data[421]['distro']['pick'][0]['url'] = "0";
 
+// Episode 422
+$data[422]['title'] = "A Bearded Thinkpad | LAS 422";
+$data[422]['url'] = "http://www.jupiterbroadcasting.com/100541/a-bearded-thinkpad-las-422/";
+$data[422]['date'] = "2016-06-19";
+
+$data[422]['runslinux']['pick'][0]['name'] = "ASM™ IV Series Automatic Scrap Monitoring System";
+$data[422]['runslinux']['pick'][0]['url'] = "https://www.thermofisher.com/order/catalog/product/ASMIV";
+
+$data[422]['desktopapp']['pick'][0]['name'] = "Taskwarrior";
+$data[422]['desktopapp']['pick'][0]['url'] = "https://taskwarrior.org/";
+
+$data[422]['spotlight']['pick'][0]['name'] = "Deep->Derp Browser Extension";
+$data[422]['spotlight']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/4okj6j/deepderp_browser_extension/";
+
+$data[422]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[422]['android']['pick'][0]['url'] = "0";
+
+$data[422]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[422]['distro']['pick'][0]['url'] = "0";
+
 ?>
