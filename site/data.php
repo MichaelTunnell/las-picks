@@ -6672,7 +6672,7 @@ $data[423]['title'] = "Fedora 24: Tokyo Drift | LAS 423";
 $data[423]['url'] = "http://www.jupiterbroadcasting.com/100676/fedora-24-tokyo-drift-las-423/";
 $data[423]['date'] = "2016-06-26";
 
-$data[423]['runslinux']['pick'][0]['name'] = "The Grid by Goodwill";
+$data[423]['runslinux']['pick'][0]['name'] = "The GRID by Goodwill";
 $data[423]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/4pve35/runs_linux_the_computers_for_these_monitors_on/";
 
 $data[423]['desktopapp']['pick'][0]['name'] = "Abricotine markdown editor";
