@@ -6687,7 +6687,7 @@ $data[424]['title'] = "All By My SELF | LAS 424";
 $data[424]['url'] = "http://www.jupiterbroadcasting.com/100881/all-by-my-self-las-424/";
 $data[424]['date'] = "2016-06-26";
 
-$data[424]['runslinux']['pick'][0]['name'] = "Raspberry Pi Powered Fireworks";
+$data[424]['runslinux']['pick'][0]['name'] = "Fireworks powered by Raspberry Pi";
 $data[424]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=WBZ5bPL79hg";
 
 $data[424]['desktopapp']['pick'][0]['name'] = "Rambox";
