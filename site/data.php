@@ -6652,7 +6652,7 @@ $data[422]['date'] = "2016-06-19";
 $data[422]['runslinux']['pick'][0]['name'] = "ASM&trade; IV Series Automatic Scrap Monitoring System";
 $data[422]['runslinux']['pick'][0]['url'] = "https://www.thermofisher.com/order/catalog/product/ASMIV";
 
-$data[422]['desktopapp']['pick'][0]['name'] = "Taskwarrior";
+$data[422]['desktopapp']['pick'][0]['name'] = "Taskwarrior - Command-Line Todo List Manager";
 $data[422]['desktopapp']['pick'][0]['url'] = "https://taskwarrior.org/";
 
 $data[422]['spotlight']['pick'][0]['name'] = "Deep->Derp Browser Extension";
@@ -6690,7 +6690,7 @@ $data[424]['date'] = "2016-06-26";
 $data[424]['runslinux']['pick'][0]['name'] = "Fireworks powered by Raspberry Pi";
 $data[424]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=WBZ5bPL79hg";
 
-$data[424]['desktopapp']['pick'][0]['name'] = "Rambox";
+$data[424]['desktopapp']['pick'][0]['name'] = "Rambox - Open Source Multi-Service Messaging &amp; Email";
 $data[424]['desktopapp']['pick'][0]['url'] = "http://rambox.pro/";
 
 $data[424]['spotlight']['pick'][0]['name'] = "K3b Disk Burner";
