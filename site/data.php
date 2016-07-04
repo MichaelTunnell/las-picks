@@ -6644,9 +6644,6 @@ $data[421]['spotlight']['pick'][0]['url'] = "0";
 $data[421]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[421]['android']['pick'][0]['url'] = "0";
 
-$data[421]['distro']['pick'][0]['name'] = "Episode did not include a pick";
-$data[421]['distro']['pick'][0]['url'] = "0";
-
 // Episode 422
 $data[422]['title'] = "A Bearded Thinkpad | LAS 422";
 $data[422]['url'] = "http://www.jupiterbroadcasting.com/100541/a-bearded-thinkpad-las-422/";
@@ -6663,9 +6660,6 @@ $data[422]['spotlight']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActio
 
 $data[422]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[422]['android']['pick'][0]['url'] = "0";
-
-$data[422]['distro']['pick'][0]['name'] = "Episode did not include a pick";
-$data[422]['distro']['pick'][0]['url'] = "0";
 
 // Episode 423
 $data[423]['title'] = "Fedora 24: Tokyo Drift | LAS 423";
@@ -6686,5 +6680,23 @@ $data[423]['android']['pick'][0]['url'] = "0";
 
 $data[423]['distro']['pick'][0]['name'] = "Fedora";
 $data[423]['distro']['pick'][0]['url'] = "https://fedoramagazine.org/whats-new-fedora-24-workstation/";
+
+
+// Episode 424
+$data[424]['title'] = "All By My SELF | LAS 424";
+$data[424]['url'] = "http://www.jupiterbroadcasting.com/100881/all-by-my-self-las-424/";
+$data[424]['date'] = "2016-06-26";
+
+$data[424]['runslinux']['pick'][0]['name'] = "Raspberry Pi Powered Fireworks";
+$data[424]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=WBZ5bPL79hg";
+
+$data[424]['desktopapp']['pick'][0]['name'] = "Rambox";
+$data[424]['desktopapp']['pick'][0]['url'] = "http://rambox.pro/";
+
+$data[424]['spotlight']['pick'][0]['name'] = "K3b Disk Burner";
+$data[424]['spotlight']['pick'][0]['url'] = "https://www.kde.org/applications/multimedia/k3b/";
+
+$data[424]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[424]['android']['pick'][0]['url'] = "0";
 
 ?>
