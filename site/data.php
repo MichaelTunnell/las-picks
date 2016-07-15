@@ -6699,4 +6699,22 @@ $data[424]['spotlight']['pick'][0]['url'] = "https://www.kde.org/applications/mu
 $data[424]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[424]['android']['pick'][0]['url'] = "0";
 
+
+// Episode 425
+$data[425]['title'] = "Remotely Helpful | LAS 425";
+$data[425]['url'] = "http://www.jupiterbroadcasting.com/101061/remotely-helpful-las-425/";
+$data[425]['date'] = "2016-07-10";
+
+$data[425]['runslinux']['pick'][0]['name'] = "Tim Hortons dougnut shop";
+$data[425]['runslinux']['pick'][0]['url'] = "https://jblive.wufoo.com/cabinet/dzd4MnI3/8jindpawuBexhE%3D/tmp_20188img_20160709_1647401544258220.jpg";
+
+$data[425]['desktopapp']['pick'][0]['name'] = "Ping-indicator";
+$data[425]['desktopapp']['pick'][0]['url'] = "http://salseeg.github.io/ping-indicator/";
+
+$data[425]['spotlight']['pick'][0]['name'] = "Open Broadcaster Software";
+$data[425]['spotlight']['pick'][0]['url'] = "https://obsproject.com/";
+
+$data[425]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[425]['android']['pick'][0]['url'] = "0";
+
 ?>
