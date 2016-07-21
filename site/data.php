@@ -6717,4 +6717,26 @@ $data[425]['spotlight']['pick'][0]['url'] = "https://obsproject.com/";
 $data[425]['android']['pick'][0]['name'] = "Episode did not include a pick";
 $data[425]['android']['pick'][0]['url'] = "0";
 
+
+// Episode 426
+$data[426]['title'] = "Mint 18: Convenience Over Security | LAS 426";
+$data[426]['url'] = "http://www.jupiterbroadcasting.com/101212/mint-18-convenience-over-security-las-426/";
+$data[426]['date'] = "2016-07-17";
+
+$data[426]['runslinux']['pick'][0]['name'] = "Ford Fusion";
+$data[426]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=lBl54D4Eon0";
+
+$data[426]['desktopapp']['pick'][0]['name'] = "Recalbox";
+$data[426]['desktopapp']['pick'][0]['url'] = "http://www.recalbox.com/";
+
+$data[426]['spotlight']['pick'][0]['name'] = "Felony";
+$data[426]['spotlight']['pick'][0]['url'] = "https://github.com/henryboldi/felony";
+
+$data[426]['android']['pick'][0]['name'] = "Opera Max";
+$data[426]['android']['pick'][0]['url'] = "https://play.google.com/store/apps/details?id=com.opera.max.global&hl=en";
+$data[426]['android']['pick'][0]['source'] = 'ting';
+
+$data[426]['distro']['pick'][0]['name'] = "Linux Mint 18";
+$data[426]['distro']['pick'][0]['url'] = "https://www.linuxmint.com/rel_sarah_cinnamon.php";
+
 ?>
