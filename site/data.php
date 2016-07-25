@@ -6754,4 +6754,7 @@ $data[427]['desktopapp']['pick'][0]['url'] = "http://evpo.net/encryptpad/";
 $data[427]['spotlight']['pick'][0]['name'] = "Simple Docker UI";
 $data[427]['spotlight']['pick'][0]['url'] = "https://chrome.google.com/webstore/detail/simple-docker-ui/jfaelnolkgonnjdlkfokjadedkacbnib";
 
+$data[427]['distro']['pick'][0]['name'] = "Korora 24 (Sheldon)";
+$data[427]['distro']['pick'][0]['url'] = "https://kororaproject.org/about/news/korora-24-sheldon-is-now-available";
+
 ?>
