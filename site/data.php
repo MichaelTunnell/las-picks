@@ -6739,4 +6739,19 @@ $data[426]['android']['pick'][0]['source'] = 'ting';
 $data[426]['distro']['pick'][0]['name'] = "Linux Mint 18";
 $data[426]['distro']['pick'][0]['url'] = "https://www.linuxmint.com/rel_sarah_cinnamon.php";
 
+
+// Episode 427
+$data[427]['title'] = "Unspecified Video Error | LAS 427";
+$data[427]['url'] = "http://www.jupiterbroadcasting.com/101397/unspecified-video-error-las-427/";
+$data[427]['date'] = "2016-07-24";
+
+$data[427]['runslinux']['pick'][0]['name'] = "Walmart Display Monitors";
+$data[427]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/4t7ubn/runs_linux_walmart_display_monitors/";
+
+$data[427]['desktopapp']['pick'][0]['name'] = "EncryptPad";
+$data[427]['desktopapp']['pick'][0]['url'] = "http://evpo.net/encryptpad/";
+
+$data[427]['spotlight']['pick'][0]['name'] = "Simple Docker UI";
+$data[427]['spotlight']['pick'][0]['url'] = "https://chrome.google.com/webstore/detail/simple-docker-ui/jfaelnolkgonnjdlkfokjadedkacbnib";
+
 ?>
