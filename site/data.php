@@ -6775,4 +6775,19 @@ $data[428]['desktopapp']['pick'][0]['url'] = "https://github.com/haecker-felix/g
 $data[428]['spotlight']['pick'][0]['name'] = "Pioneer DJ DDJ-SB2 DJ Controller";
 $data[428]['spotlight']['pick'][0]['url'] = "https://www.amazon.com/gp/product/B0149XD9CY/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1";
 
+
+// Episode 429
+$data[429]['title'] = "Fear and Linux in Las Vegas | LAS 429";
+$data[429]['url'] = "http://www.jupiterbroadcasting.com/101726/fear-and-linux-in-las-vegas-las-429/";
+$data[429]['date'] = "2016-08-07";
+
+$data[429]['runslinux']['pick'][0]['name'] = "Sewer Camera";
+$data[429]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/4vvc96/runs_linux_this_sewer_camera_that_my_plumber_used/";
+
+$data[429]['desktopapp']['pick'][0]['name'] = "Lifeograph";
+$data[429]['desktopapp']['pick'][0]['url'] = "http://lifeograph.sourceforge.net/wiki/Main_Page";
+
+$data[429]['spotlight']['pick'][0]['name'] = "Stellarium 0.15.0";
+$data[429]['spotlight']['pick'][0]['url'] = "https://launchpad.net/stellarium/+announcement/14055";
+
 ?>
