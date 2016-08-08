@@ -6754,7 +6754,40 @@ $data[427]['desktopapp']['pick'][0]['url'] = "http://evpo.net/encryptpad/";
 $data[427]['spotlight']['pick'][0]['name'] = "Simple Docker UI";
 $data[427]['spotlight']['pick'][0]['url'] = "https://chrome.google.com/webstore/detail/simple-docker-ui/jfaelnolkgonnjdlkfokjadedkacbnib";
 
+$data[427]['android']['pick'][0]['name'] = "Episode did not include a pick";
+$data[427]['android']['pick'][0]['url'] = "0";
+
 $data[427]['distro']['pick'][0]['name'] = "Korora 24 (Sheldon)";
 $data[427]['distro']['pick'][0]['url'] = "https://kororaproject.org/about/news/korora-24-sheldon-is-now-available";
+
+
+// Episode 428
+$data[428]['title'] = "Android TV Showdown! | LAS 428";
+$data[428]['url'] = "http://www.jupiterbroadcasting.com/101551/android-tv-showdown-las-428/";
+$data[428]['date'] = "2016-07-31";
+
+$data[428]['runslinux']['pick'][0]['name'] = "ADLINK Matrix MXE-5500";
+$data[428]['runslinux']['pick'][0]['url'] = "http://hackerboards.com/tough-skylake-box-pc-has-four-gbe-and-eight-usb-ports/";
+
+$data[428]['desktopapp']['pick'][0]['name'] = "Gradio";
+$data[428]['desktopapp']['pick'][0]['url'] = "https://github.com/haecker-felix/gradio";
+
+$data[428]['spotlight']['pick'][0]['name'] = "Pioneer DJ DDJ-SB2 DJ Controller";
+$data[428]['spotlight']['pick'][0]['url'] = "https://www.amazon.com/gp/product/B0149XD9CY/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1";
+
+
+// Episode 429
+$data[429]['title'] = "Fear and Linux in Las Vegas | LAS 429";
+$data[429]['url'] = "http://www.jupiterbroadcasting.com/101726/fear-and-linux-in-las-vegas-las-429/";
+$data[429]['date'] = "2016-08-07";
+
+$data[429]['runslinux']['pick'][0]['name'] = "Sewer Camera";
+$data[429]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/4vvc96/runs_linux_this_sewer_camera_that_my_plumber_used/";
+
+$data[429]['desktopapp']['pick'][0]['name'] = "Lifeograph";
+$data[429]['desktopapp']['pick'][0]['url'] = "http://lifeograph.sourceforge.net/wiki/Main_Page";
+
+$data[429]['spotlight']['pick'][0]['name'] = "Stellarium 0.15.0";
+$data[429]['spotlight']['pick'][0]['url'] = "https://launchpad.net/stellarium/+announcement/14055";
 
 ?>
