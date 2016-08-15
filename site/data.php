@@ -6804,8 +6804,8 @@ $data[430]['desktopapp']['pick'][0]['url'] = "https://www.vanheusden.com/httping
 
 $data[430]['spotlight']['pick'][0]['name'] = "AllTube Download";
 $data[430]['spotlight']['pick'][0]['url'] = "http://www.alltubedownload.net/";
-$data[430]['spotlight']['pick'][0]['name'] = "youtube-dl";
-$data[430]['spotlight']['pick'][0]['url'] = "https://rg3.github.io/youtube-dl/";
+$data[430]['spotlight']['pick'][1]['name'] = "youtube-dl";
+$data[430]['spotlight']['pick'][1]['url'] = "https://rg3.github.io/youtube-dl/";
 
 
 // Episode 431
