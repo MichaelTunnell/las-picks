@@ -6790,4 +6790,36 @@ $data[429]['desktopapp']['pick'][0]['url'] = "http://lifeograph.sourceforge.net/
 $data[429]['spotlight']['pick'][0]['name'] = "Stellarium 0.15.0";
 $data[429]['spotlight']['pick'][0]['url'] = "https://launchpad.net/stellarium/+announcement/14055";
 
+
+// Episode 430
+$data[430]['title'] = "Bringing Linux to the Surface | LAS 430";
+$data[430]['url'] = "http://www.jupiterbroadcasting.com/show/linuxactionshow/";
+$data[430]['date'] = "2016-08-14";
+
+$data[430]['runslinux']['pick'][0]['name'] = "Darpa Cyber Grand Challenge at DefCon 24";
+$data[430]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/4wrfes/runs_linux_the_darpa_cyber_grand_challenge_at/";
+
+$data[430]['desktopapp']['pick'][0]['name'] = "httping";
+$data[430]['desktopapp']['pick'][0]['url'] = "https://www.vanheusden.com/httping/";
+
+$data[430]['spotlight']['pick'][0]['name'] = "AllTube Download";
+$data[430]['spotlight']['pick'][0]['url'] = "http://www.alltubedownload.net/";
+$data[430]['spotlight']['pick'][0]['name'] = "youtube-dl";
+$data[430]['spotlight']['pick'][0]['url'] = "https://rg3.github.io/youtube-dl/";
+
+
+// Episode 431
+$data[431]['title'] = "Throwback Thursday . . . On Sunday | LAS 431";
+$data[431]['url'] = "http://www.jupiterbroadcasting.com/show/linuxactionshow/";
+$data[431]['date'] = "2016-08-21";
+
+$data[431]['runslinux']['pick'][0]['name'] = "Black Hole Laboratory at the University of Nottingham";
+$data[431]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/4wr055/runs_linux_black_hole_laboratory_at_the/";
+
+$data[431]['desktopapp']['pick'][0]['name'] = "Lsyncd (Live Syncing Daemon)";
+$data[431]['desktopapp']['pick'][0]['url'] = "https://github.com/axkibe/lsyncd";
+
+$data[431]['spotlight']['pick'][0]['name'] = "CumulusClips (Free Video CMS)";
+$data[431]['spotlight']['pick'][0]['url'] = "http://cumulusclips.org/";
+
 ?>
