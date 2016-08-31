@@ -6822,4 +6822,19 @@ $data[431]['desktopapp']['pick'][0]['url'] = "https://github.com/axkibe/lsyncd";
 $data[431]['spotlight']['pick'][0]['name'] = "CumulusClips (Free Video CMS)";
 $data[431]['spotlight']['pick'][0]['url'] = "http://cumulusclips.org/";
 
+
+// Episode 432
+$data[432]['title'] = "IoT and Chill | LAS 432";
+$data[432]['url'] = "http://www.jupiterbroadcasting.com/102556/iot-and-chill-las-432/";
+$data[432]['date'] = "2016-08-28";
+
+$data[432]['runslinux']['pick'][0]['name'] = "Promethean (interactive Board)";
+$data[432]['runslinux']['pick'][0]['url'] = "https://www.prometheanworld.com/";
+
+$data[432]['desktopapp']['pick'][0]['name'] = "BleachBit";
+$data[432]['desktopapp']['pick'][0]['url'] = "https://www.bleachbit.org/";
+
+$data[432]['spotlight']['pick'][0]['name'] = "KDE Connect v1.0";
+$data[432]['spotlight']['pick'][0]['url'] = "https://albertvaka.wordpress.com/2016/08/26/kde-connect-1-0-is-here/";
+
 ?>
