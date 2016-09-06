@@ -6837,4 +6837,19 @@ $data[432]['desktopapp']['pick'][0]['url'] = "https://www.bleachbit.org/";
 $data[432]['spotlight']['pick'][0]['name'] = "KDE Connect v1.0";
 $data[432]['spotlight']['pick'][0]['url'] = "https://albertvaka.wordpress.com/2016/08/26/kde-connect-1-0-is-here/";
 
+
+// Episode 433
+$data[433]['title'] = "Linux Gets Schooled | LAS 433";
+$data[433]['url'] = "http://www.jupiterbroadcasting.com/102791/linux-gets-schooled-las-433/";
+$data[433]['date'] = "2016-09-04";
+
+$data[433]['runslinux']['pick'][0]['name'] = "Real-Time Graphics in Pixar Film Production";
+$data[433]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=x9ikzGQW0ys&feature=youtu.be";
+
+$data[433]['desktopapp']['pick'][0]['name'] = "peek: Simple Gif screen recorder";
+$data[433]['desktopapp']['pick'][0]['url'] = "https://github.com/phw/peek";
+
+$data[433]['spotlight']['pick'][0]['name'] = "micro: A modern and intuitive terminal text editor";
+$data[433]['spotlight']['pick'][0]['url'] = "https://github.com/zyedidia/micro";
+
 ?>
