@@ -6852,4 +6852,19 @@ $data[433]['desktopapp']['pick'][0]['url'] = "https://github.com/phw/peek";
 $data[433]['spotlight']['pick'][0]['name'] = "micro: A modern and intuitive terminal text editor";
 $data[433]['spotlight']['pick'][0]['url'] = "https://github.com/zyedidia/micro";
 
+
+// Episode 434
+$data[434]['title'] = "Looking At Loki | LAS 434";
+$data[434]['url'] = "http://www.jupiterbroadcasting.com/102976/looking-at-loki-las-434/";
+$data[434]['date'] = "2016-09-11";
+
+$data[434]['runslinux']['pick'][0]['name'] = "Amazon pickup stations";
+$data[434]['runslinux']['pick'][0]['url'] = "https://twitter.com/lgreer84/status/774653619522142208/photo/1";
+
+$data[434]['desktopapp']['pick'][0]['name'] = "Teleconsole: Command line tool to share your UNIX terminal";
+$data[434]['desktopapp']['pick'][0]['url'] = "https://github.com/gravitational/teleconsole";
+
+$data[434]['spotlight']['pick'][0]['name'] = "OpenSprinkler";
+$data[434]['spotlight']['pick'][0]['url'] = "https://opensprinkler.com/";
+
 ?>
