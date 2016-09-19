@@ -6867,4 +6867,19 @@ $data[434]['desktopapp']['pick'][0]['url'] = "https://github.com/gravitational/t
 $data[434]['spotlight']['pick'][0]['name'] = "OpenSprinkler";
 $data[434]['spotlight']['pick'][0]['url'] = "https://opensprinkler.com/";
 
+
+// Episode 435
+$data[435]['title'] = "Noah Builds A Linux Ark | LAS 435";
+$data[435]['url'] = "http://www.jupiterbroadcasting.com/103196/noah-builds-a-linux-ark-las-435/";
+$data[435]['date'] = "2016-09-18";
+
+$data[435]['runslinux']['pick'][0]['name'] = "Squirrel Systems POS terminals";
+$data[435]['runslinux']['pick'][0]['url'] = "http://www.squirrelsystems.com/pos-hardware/";
+
+$data[435]['desktopapp']['pick'][0]['name'] = "Podfox";
+$data[435]['desktopapp']['pick'][0]['url'] = "https://github.com/brtmr/podfox";
+
+$data[435]['spotlight']['pick'][0]['name'] = "HomeBank";
+$data[435]['spotlight']['pick'][0]['url'] = "http://homebank.free.fr/";
+
 ?>
