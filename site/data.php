@@ -6882,4 +6882,19 @@ $data[435]['desktopapp']['pick'][0]['url'] = "https://github.com/brtmr/podfox";
 $data[435]['spotlight']['pick'][0]['name'] = "HomeBank";
 $data[435]['spotlight']['pick'][0]['url'] = "http://homebank.free.fr/";
 
+
+// Episode 436
+$data[436]['title'] = "OpenMediaVault vs FreeNAS | LAS 436";
+$data[436]['url'] = "http://www.jupiterbroadcasting.com/103356/openmediavault-vs-freenas-las-436/";
+$data[436]['date'] = "2016-09-25";
+
+$data[436]['runslinux']['pick'][0]['name'] = "The Moto Mods Development Kit";
+$data[436]['runslinux']['pick'][0]['url'] = "https://youtu.be/HLSLrzmcXGM?t=1m51s";
+
+$data[436]['desktopapp']['pick'][0]['name'] = "Greyhole";
+$data[436]['desktopapp']['pick'][0]['url'] = "https://www.greyhole.net/";
+
+$data[436]['spotlight']['pick'][0]['name'] = "Upcoming OSS Events (see show notes)";
+$data[436]['spotlight']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/103356/openmediavault-vs-freenas-las-436/";
+
 ?>
