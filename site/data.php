@@ -6897,4 +6897,19 @@ $data[436]['desktopapp']['pick'][0]['url'] = "https://www.greyhole.net/";
 $data[436]['spotlight']['pick'][0]['name'] = "Upcoming OSS Events (see show notes)";
 $data[436]['spotlight']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/103356/openmediavault-vs-freenas-las-436/";
 
+
+// Episode 437
+$data[437]['title'] = "Software Defined Networking | LAS 437";
+$data[437]['url'] = "http://www.jupiterbroadcasting.com/103531/software-defined-networking-las-437/";
+$data[437]['date'] = "2016-10-02";
+
+$data[437]['runslinux']['pick'][0]['name'] = "Film World";
+$data[437]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=eVDk0Dt0zZg";
+
+$data[437]['desktopapp']['pick'][0]['name'] = "Modem Manager GUI";
+$data[437]['desktopapp']['pick'][0]['url'] = "http://linuxonly.ru/cms/page.php?7";
+
+$data[437]['spotlight']['pick'][0]['name'] = "Ring";
+$data[437]['spotlight']['pick'][0]['url'] = "https://ring.cx/";
+
 ?>
