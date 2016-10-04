@@ -6867,4 +6867,49 @@ $data[434]['desktopapp']['pick'][0]['url'] = "https://github.com/gravitational/t
 $data[434]['spotlight']['pick'][0]['name'] = "OpenSprinkler";
 $data[434]['spotlight']['pick'][0]['url'] = "https://opensprinkler.com/";
 
+
+// Episode 435
+$data[435]['title'] = "Noah Builds A Linux Ark | LAS 435";
+$data[435]['url'] = "http://www.jupiterbroadcasting.com/103196/noah-builds-a-linux-ark-las-435/";
+$data[435]['date'] = "2016-09-18";
+
+$data[435]['runslinux']['pick'][0]['name'] = "Squirrel Systems POS terminals";
+$data[435]['runslinux']['pick'][0]['url'] = "http://www.squirrelsystems.com/pos-hardware/";
+
+$data[435]['desktopapp']['pick'][0]['name'] = "Podfox";
+$data[435]['desktopapp']['pick'][0]['url'] = "https://github.com/brtmr/podfox";
+
+$data[435]['spotlight']['pick'][0]['name'] = "HomeBank";
+$data[435]['spotlight']['pick'][0]['url'] = "http://homebank.free.fr/";
+
+
+// Episode 436
+$data[436]['title'] = "OpenMediaVault vs FreeNAS | LAS 436";
+$data[436]['url'] = "http://www.jupiterbroadcasting.com/103356/openmediavault-vs-freenas-las-436/";
+$data[436]['date'] = "2016-09-25";
+
+$data[436]['runslinux']['pick'][0]['name'] = "The Moto Mods Development Kit";
+$data[436]['runslinux']['pick'][0]['url'] = "https://youtu.be/HLSLrzmcXGM?t=1m51s";
+
+$data[436]['desktopapp']['pick'][0]['name'] = "Greyhole";
+$data[436]['desktopapp']['pick'][0]['url'] = "https://www.greyhole.net/";
+
+$data[436]['spotlight']['pick'][0]['name'] = "Upcoming OSS Events (see show notes)";
+$data[436]['spotlight']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/103356/openmediavault-vs-freenas-las-436/";
+
+
+// Episode 437
+$data[437]['title'] = "Software Defined Networking | LAS 437";
+$data[437]['url'] = "http://www.jupiterbroadcasting.com/103531/software-defined-networking-las-437/";
+$data[437]['date'] = "2016-10-02";
+
+$data[437]['runslinux']['pick'][0]['name'] = "Film World";
+$data[437]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=eVDk0Dt0zZg";
+
+$data[437]['desktopapp']['pick'][0]['name'] = "Modem Manager GUI";
+$data[437]['desktopapp']['pick'][0]['url'] = "http://linuxonly.ru/cms/page.php?7";
+
+$data[437]['spotlight']['pick'][0]['name'] = "Ring";
+$data[437]['spotlight']['pick'][0]['url'] = "https://ring.cx/";
+
 ?>
