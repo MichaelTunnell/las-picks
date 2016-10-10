@@ -6912,4 +6912,19 @@ $data[437]['desktopapp']['pick'][0]['url'] = "http://linuxonly.ru/cms/page.php?7
 $data[437]['spotlight']['pick'][0]['name'] = "Ring";
 $data[437]['spotlight']['pick'][0]['url'] = "https://ring.cx/";
 
+
+// Episode 438
+$data[438]['title'] = "Plasma 5.8 Shines Bright | LAS 438";
+$data[438]['url'] = "http://www.jupiterbroadcasting.com/103736/plasma-5-8-shines-bright-las-438/";
+$data[438]['date'] = "2016-10-09";
+
+$data[438]['runslinux']['pick'][0]['name'] = "Hurricane tracker";
+$data[438]['runslinux']['pick'][0]['url'] = "https://twitter.com/HRD_AOML_NOAA/status/783787973397602305";
+
+$data[438]['desktopapp']['pick'][0]['name'] = "PDFtk Server";
+$data[438]['desktopapp']['pick'][0]['url'] = "https://www.pdflabs.com/tools/pdftk-server/";
+
+$data[438]['spotlight']['pick'][0]['name'] = "Paperwork";
+$data[438]['spotlight']['pick'][0]['url'] = "http://paperwork.rocks/";
+
 ?>
