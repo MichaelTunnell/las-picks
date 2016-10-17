@@ -6942,4 +6942,7 @@ $data[439]['desktopapp']['pick'][0]['url'] = "http://idjc.sourceforge.net/";
 $data[439]['spotlight']['pick'][0]['name'] = "Ben F Switched to Linux (see show notes)";
 $data[439]['spotlight']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/103926/all-aboard-ubuntu-16-10-las-439/";
 
+$data[439]['distro']['pick'][0]['name'] = "Ubuntu 16.10";
+$data[439]['distro']['pick'][0]['url'] = "http://releases.ubuntu.com/16.10/";
+
 ?>
