@@ -6927,4 +6927,19 @@ $data[438]['desktopapp']['pick'][0]['url'] = "https://www.pdflabs.com/tools/pdft
 $data[438]['spotlight']['pick'][0]['name'] = "Paperwork";
 $data[438]['spotlight']['pick'][0]['url'] = "http://paperwork.rocks/";
 
+
+// Episode 439
+$data[439]['title'] = "All Aboard Ubuntu 16.10 | LAS 439";
+$data[439]['url'] = "http://www.jupiterbroadcasting.com/103926/all-aboard-ubuntu-16-10-las-439/";
+$data[439]['date'] = "2016-10-16";
+
+$data[439]['runslinux']['pick'][0]['name'] = "Dutch Train Station";
+$data[439]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/Ubuntu/comments/575kti/dutch_train_station/";
+
+$data[439]['desktopapp']['pick'][0]['name'] = "Internet DJ Console";
+$data[439]['desktopapp']['pick'][0]['url'] = "http://idjc.sourceforge.net/";
+
+$data[439]['spotlight']['pick'][0]['name'] = "Ben F Switched to Linux (see show notes)";
+$data[439]['spotlight']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/103926/all-aboard-ubuntu-16-10-las-439/";
+
 ?>
