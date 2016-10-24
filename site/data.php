@@ -6912,4 +6912,37 @@ $data[437]['desktopapp']['pick'][0]['url'] = "http://linuxonly.ru/cms/page.php?7
 $data[437]['spotlight']['pick'][0]['name'] = "Ring";
 $data[437]['spotlight']['pick'][0]['url'] = "https://ring.cx/";
 
+
+// Episode 438
+$data[438]['title'] = "Plasma 5.8 Shines Bright | LAS 438";
+$data[438]['url'] = "http://www.jupiterbroadcasting.com/103736/plasma-5-8-shines-bright-las-438/";
+$data[438]['date'] = "2016-10-09";
+
+$data[438]['runslinux']['pick'][0]['name'] = "Hurricane tracker";
+$data[438]['runslinux']['pick'][0]['url'] = "https://twitter.com/HRD_AOML_NOAA/status/783787973397602305";
+
+$data[438]['desktopapp']['pick'][0]['name'] = "PDFtk Server";
+$data[438]['desktopapp']['pick'][0]['url'] = "https://www.pdflabs.com/tools/pdftk-server/";
+
+$data[438]['spotlight']['pick'][0]['name'] = "Paperwork";
+$data[438]['spotlight']['pick'][0]['url'] = "http://paperwork.rocks/";
+
+
+// Episode 439
+$data[439]['title'] = "All Aboard Ubuntu 16.10 | LAS 439";
+$data[439]['url'] = "http://www.jupiterbroadcasting.com/103926/all-aboard-ubuntu-16-10-las-439/";
+$data[439]['date'] = "2016-10-16";
+
+$data[439]['runslinux']['pick'][0]['name'] = "Dutch Train Station";
+$data[439]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/Ubuntu/comments/575kti/dutch_train_station/";
+
+$data[439]['desktopapp']['pick'][0]['name'] = "Internet DJ Console";
+$data[439]['desktopapp']['pick'][0]['url'] = "http://idjc.sourceforge.net/";
+
+$data[439]['spotlight']['pick'][0]['name'] = "Ben F Switched to Linux (see show notes)";
+$data[439]['spotlight']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/103926/all-aboard-ubuntu-16-10-las-439/";
+
+$data[439]['distro']['pick'][0]['name'] = "Ubuntu 16.10";
+$data[439]['distro']['pick'][0]['url'] = "http://releases.ubuntu.com/16.10/";
+
 ?>
