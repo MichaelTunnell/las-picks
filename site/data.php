@@ -6945,4 +6945,20 @@ $data[439]['spotlight']['pick'][0]['url'] = "http://www.jupiterbroadcasting.com/
 $data[439]['distro']['pick'][0]['name'] = "Ubuntu 16.10";
 $data[439]['distro']['pick'][0]['url'] = "http://releases.ubuntu.com/16.10/";
 
+
+
+// Episode 440
+$data[440]['title'] = "Livepatch Your CoW | LAS 440";
+$data[440]['url'] = "http://www.jupiterbroadcasting.com/104121/livepatch-your-cow-las-440/";
+$data[440]['date'] = "2016-10-23";
+
+$data[440]['runslinux']['pick'][0]['name'] = "CVS";
+$data[440]['runslinux']['pick'][0]['url'] = "https://imgur.com/gallery/9Trn1";
+
+$data[440]['desktopapp']['pick'][0]['name'] = "f.lux";
+$data[440]['desktopapp']['pick'][0]['url'] = "https://justgetflux.com/";
+
+$data[440]['spotlight']['pick'][0]['name'] = "ShowTerm";
+$data[440]['spotlight']['pick'][0]['url'] = "https://showterm.herokuapp.com/";
+
 ?>
