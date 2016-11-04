@@ -6960,4 +6960,19 @@ $data[440]['desktopapp']['pick'][0]['url'] = "https://justgetflux.com/";
 $data[440]['spotlight']['pick'][0]['name'] = "ShowTerm";
 $data[440]['spotlight']['pick'][0]['url'] = "https://showterm.herokuapp.com/";
 
+
+// Episode 441
+$data[441]['title'] = "Slaying the Arch Zombie | LAS 441";
+$data[441]['url'] = "http://www.jupiterbroadcasting.com/104306/slaying-the-arch-zombie-las-441/";
+$data[441]['date'] = "2016-10-30";
+
+$data[441]['runslinux']['pick'][0]['name'] = "21K FPS Camera";
+$data[441]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=i5TjWu7snyI&feature=youtu.be";
+
+$data[441]['desktopapp']['pick'][0]['name'] = "Wire";
+$data[441]['desktopapp']['pick'][0]['url'] = "https://wire.com/";
+
+$data[441]['spotlight']['pick'][0]['name'] = "Easystroke";
+$data[441]['spotlight']['pick'][0]['url'] = "https://github.com/thjaeger/easystroke/wiki";
+
 ?>
