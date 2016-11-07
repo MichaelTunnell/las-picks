@@ -6975,4 +6975,19 @@ $data[441]['desktopapp']['pick'][0]['url'] = "https://wire.com/";
 $data[441]['spotlight']['pick'][0]['name'] = "Easystroke";
 $data[441]['spotlight']['pick'][0]['url'] = "https://github.com/thjaeger/easystroke/wiki";
 
+
+// Episode 442
+$data[442]['title'] = "Noah Switches to Arch | LAS 442";
+$data[442]['url'] = "http://www.jupiterbroadcasting.com/104511/noah-switches-to-arch-las-442/";
+$data[442]['date'] = "2016-11-06";
+
+$data[442]['runslinux']['pick'][0]['name'] = "The NES Classic";
+$data[442]['runslinux']['pick'][0]['url'] = "http://arstechnica.com/gaming/2016/11/nes-mini-teardowns-have-begun-chips-identified/";
+
+$data[442]['desktopapp']['pick'][0]['name'] = "SSH Power Tool";
+$data[442]['desktopapp']['pick'][0]['url'] = "https://code.google.com/archive/p/sshpt/";
+
+$data[442]['spotlight']['pick'][0]['name'] = "Gruik";
+$data[442]['spotlight']['pick'][0]['url'] = "http://gruik.io/";
+
 ?>
