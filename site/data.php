@@ -7005,4 +7005,19 @@ $data[443]['desktopapp']['pick'][0]['url'] = "https://freshrss.org/";
 $data[443]['spotlight']['pick'][0]['name'] = "Flatdoc";
 $data[443]['spotlight']['pick'][0]['url'] = "http://ricostacruz.com/flatdoc/";
 
+
+// Episode 444
+$data[444]['title'] = "This Old Linux RV | LAS 444";
+$data[444]['url'] = "http://www.jupiterbroadcasting.com/104801/this-old-linux-rv-las-444/";
+$data[444]['date'] = "2016-11-20";
+
+$data[444]['runslinux']['pick'][0]['name'] = "The Synthetic Human";
+$data[444]['runslinux']['pick'][0]['url'] = "http://www.channel4.com/programmes/how-to-build-a-human";
+
+$data[444]['desktopapp']['pick'][0]['name'] = "Ranger - console file manager";
+$data[444]['desktopapp']['pick'][0]['url'] = "http://ranger.nongnu.org/";
+
+$data[444]['spotlight']['pick'][0]['name'] = "sshuttle";
+$data[444]['spotlight']['pick'][0]['url'] = "https://github.com/apenwarr/sshuttle";
+
 ?>
