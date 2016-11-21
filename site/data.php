@@ -6990,4 +6990,19 @@ $data[442]['desktopapp']['pick'][0]['url'] = "https://code.google.com/archive/p/
 $data[442]['spotlight']['pick'][0]['name'] = "Gruik";
 $data[442]['spotlight']['pick'][0]['url'] = "http://gruik.io/";
 
+
+// Episode 443
+$data[443]['title'] = "Qnap's Thick NAS | LAS 443";
+$data[443]['url'] = "http://www.jupiterbroadcasting.com/104636/qnaps-thick-nas-las-443/";
+$data[443]['date'] = "2016-11-13";
+
+$data[443]['runslinux']['pick'][0]['name'] = "Electric skateboard";
+$data[443]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=2WLEur3M8Yk";
+
+$data[443]['desktopapp']['pick'][0]['name'] = "FreshRSS";
+$data[443]['desktopapp']['pick'][0]['url'] = "https://freshrss.org/";
+
+$data[443]['spotlight']['pick'][0]['name'] = "Flatdoc";
+$data[443]['spotlight']['pick'][0]['url'] = "http://ricostacruz.com/flatdoc/";
+
 ?>
