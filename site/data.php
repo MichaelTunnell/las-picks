@@ -7020,4 +7020,19 @@ $data[444]['desktopapp']['pick'][0]['url'] = "http://ranger.nongnu.org/";
 $data[444]['spotlight']['pick'][0]['name'] = "sshuttle";
 $data[444]['spotlight']['pick'][0]['url'] = "https://github.com/apenwarr/sshuttle";
 
+
+// Episode 445
+$data[445]['title'] = "Hats Off to Wayland | LAS 445";
+$data[445]['url'] = "http://www.jupiterbroadcasting.com/105046/hats-off-to-wayland-las-445/";
+$data[445]['date'] = "2016-11-27";
+
+$data[445]['runslinux']['pick'][0]['name'] = "\"My Mower\"";
+$data[445]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/LinuxActionShow/comments/5e62ei/my_mower_runs_linux/";
+
+$data[445]['desktopapp']['pick'][0]['name'] = "Midnight Commander";
+$data[445]['desktopapp']['pick'][0]['url'] = "https://www.midnight-commander.org/";
+
+$data[445]['spotlight']['pick'][0]['name'] = "Pinebook - $89 ARM Laptop";
+$data[445]['spotlight']['pick'][0]['url'] = "https://www.pine64.org/?page_id=3707";
+
 ?>
