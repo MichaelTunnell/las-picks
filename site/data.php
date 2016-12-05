@@ -7035,4 +7035,7 @@ $data[445]['desktopapp']['pick'][0]['url'] = "https://www.midnight-commander.org
 $data[445]['spotlight']['pick'][0]['name'] = "Pinebook - $89 ARM Laptop";
 $data[445]['spotlight']['pick'][0]['url'] = "https://www.pine64.org/?page_id=3707";
 
+$data[445]['distro']['pick'][0]['name'] = "Fedora 25";
+$data[445]['distro']['pick'][0]['url'] = "https://fedoramagazine.org/fedora-25-released/";
+
 ?>
