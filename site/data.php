@@ -7053,4 +7053,21 @@ $data[446]['desktopapp']['pick'][0]['url'] = "https://unmark.it/";
 $data[446]['spotlight']['pick'][0]['name'] = "Karbon";
 $data[446]['spotlight']['pick'][0]['url'] = "https://www.calligra.org/karbon/";
 
+
+// Episode 447
+$data[447]['title'] = "Linux Light Show | LAS 447";
+$data[447]['url'] = "http://www.jupiterbroadcasting.com/105346/linux-light-show-las-447/";
+$data[447]['date'] = "2016-12-11";
+
+$data[447]['runslinux']['pick'][0]['name'] = "Peeqo";
+$data[447]['runslinux']['pick'][0]['url'] = "http://imgur.com/a/ue4Ax";
+
+$data[447]['desktopapp']['pick'][0]['name'] = "Tixati";
+$data[447]['desktopapp']['pick'][0]['url'] = "https://www.tixati.com/";
+
+$data[447]['spotlight']['pick'][0]['name'] = "lowRISC";
+$data[447]['spotlight']['pick'][0]['url'] = "http://www.lowrisc.org/";
+$data[447]['spotlight']['pick'][1]['name'] = "Pytify";
+$data[447]['spotlight']['pick'][1]['url'] = "https://github.com/bjarneo/Pytify";
+
 ?>
