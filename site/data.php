@@ -7070,4 +7070,19 @@ $data[447]['spotlight']['pick'][0]['url'] = "http://www.lowrisc.org/";
 $data[447]['spotlight']['pick'][1]['name'] = "Pytify";
 $data[447]['spotlight']['pick'][1]['url'] = "https://github.com/bjarneo/Pytify";
 
+
+// Episode 448
+$data[448]['title'] = "High on NextCloud | LAS 448";
+$data[448]['url'] = "http://www.jupiterbroadcasting.com/105501/high-on-nextcloud-las-448/";
+$data[448]['date'] = "2016-12-19";
+
+$data[448]['runslinux']['pick'][0]['name'] = "Uber's self-driving cars";
+$data[448]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=YKQ-6YnrKNc";
+
+$data[448]['desktopapp']['pick'][0]['name'] = "Hiri Email Client";
+$data[448]['desktopapp']['pick'][0]['url'] = "https://www.hiri.com/product/";
+
+$data[448]['spotlight']['pick'][0]['name'] = "Piler";
+$data[448]['spotlight']['pick'][0]['url'] = "http://www.mailpiler.org/wiki/start";
+
 ?>
