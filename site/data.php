@@ -7113,4 +7113,7 @@ $data[450]['desktopapp']['pick'][0]['url'] = "https://handbrake.fr/news.php?arti
 $data[450]['spotlight']['pick'][0]['name'] = "Request Tracker";
 $data[450]['spotlight']['pick'][0]['url'] = "https://bestpractical.com/request-tracker/";
 
+$data[450]['distro']['pick'][0]['name'] = "Solus";
+$data[450]['distro']['pick'][0]['url'] = "https://solus-project.com/";
+
 ?>
