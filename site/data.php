@@ -7085,4 +7085,32 @@ $data[448]['desktopapp']['pick'][0]['url'] = "https://www.hiri.com/product/";
 $data[448]['spotlight']['pick'][0]['name'] = "Piler";
 $data[448]['spotlight']['pick'][0]['url'] = "http://www.mailpiler.org/wiki/start";
 
+// Episode 449
+$data[449]['title'] = "Forward Momentum | LAS 449";
+$data[449]['url'] = "http://www.jupiterbroadcasting.com/105661/forward-momentum-las-449/";
+$data[449]['date'] = "2016-12-25";
+
+$data[449]['runslinux']['pick'][0]['name'] = "Episode did not include a pick";
+$data[449]['runslinux']['pick'][0]['url'] = "0";
+
+$data[449]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[449]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[449]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[449]['spotlight']['pick'][0]['url'] = "0";
+
+// Episode 450
+$data[450]['title'] = "Winter Solus Review | LAS 450";
+$data[450]['url'] = "http://www.jupiterbroadcasting.com/105836/winter-solus-review-las-450/";
+$data[450]['date'] = "2017-01-01";
+
+$data[450]['runslinux']['pick'][0]['name'] = "World's First Giant Manned Robot (South Korea)";
+$data[450]['runslinux']['pick'][0]['url'] = "https://www.youtube.com/watch?v=7rgFtkMiXms#t=1m";
+
+$data[450]['desktopapp']['pick'][0]['name'] = "HandBrake";
+$data[450]['desktopapp']['pick'][0]['url'] = "https://handbrake.fr/news.php?article=37";
+
+$data[450]['spotlight']['pick'][0]['name'] = "Request Tracker";
+$data[450]['spotlight']['pick'][0]['url'] = "https://bestpractical.com/request-tracker/";
+
 ?>
