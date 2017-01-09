@@ -7085,6 +7085,7 @@ $data[448]['desktopapp']['pick'][0]['url'] = "https://www.hiri.com/product/";
 $data[448]['spotlight']['pick'][0]['name'] = "Piler";
 $data[448]['spotlight']['pick'][0]['url'] = "http://www.mailpiler.org/wiki/start";
 
+
 // Episode 449
 $data[449]['title'] = "Forward Momentum | LAS 449";
 $data[449]['url'] = "http://www.jupiterbroadcasting.com/105661/forward-momentum-las-449/";
@@ -7098,6 +7099,7 @@ $data[449]['desktopapp']['pick'][0]['url'] = "0";
 
 $data[449]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
 $data[449]['spotlight']['pick'][0]['url'] = "0";
+
 
 // Episode 450
 $data[450]['title'] = "Winter Solus Review | LAS 450";
@@ -7115,5 +7117,22 @@ $data[450]['spotlight']['pick'][0]['url'] = "https://bestpractical.com/request-t
 
 $data[450]['distro']['pick'][0]['name'] = "Solus";
 $data[450]['distro']['pick'][0]['url'] = "https://solus-project.com/";
+
+
+// Episode 451
+$data[451]['title'] = "Mac's Exodus of 2017 | LAS 451";
+$data[451]['url'] = "http://www.jupiterbroadcasting.com/106046/macs-exodus-of-2017-las-451/";
+$data[451]['date'] = "2017-01-08";
+
+$data[451]['runslinux']['pick'][0]['name'] = "Smart Watch";
+$data[451]['runslinux']['pick'][0]['url'] = "https://learntemail.sam.today/blog/my-watch-runs-gnu-linux-and-it-is-amazing/";
+
+$data[451]['desktopapp']['pick'][0]['name'] = "FSlint";
+$data[451]['desktopapp']['pick'][0]['url'] = "http://www.pixelbeat.org/fslint/";
+$data[451]['desktopapp']['pick'][1]['name'] = "Thunderbird";
+$data[451]['desktopapp']['pick'][1]['url'] = "https://www.mozilla.org/en-US/thunderbird/";
+
+$data[451]['spotlight']['pick'][0]['name'] = "DAW VST Plugins";
+$data[451]['spotlight']['pick'][0]['url'] = "https://www.tracktion.com/products/daw-essentials-collection/";
 
 ?>
