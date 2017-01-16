@@ -7135,4 +7135,19 @@ $data[451]['desktopapp']['pick'][1]['url'] = "https://www.mozilla.org/en-US/thun
 $data[451]['spotlight']['pick'][0]['name'] = "DAW VST Plugins";
 $data[451]['spotlight']['pick'][0]['url'] = "https://www.tracktion.com/products/daw-essentials-collection/";
 
+
+// Episode 452
+$data[452]['title'] = "Taking Linux To Heart | LAS 452";
+$data[452]['url'] = "http://www.jupiterbroadcasting.com/106176/taking-linux-to-heart-las-452/";
+$data[452]['date'] = "2017-01-15";
+
+$data[452]['runslinux']['pick'][0]['name'] = "ZeroPhone";
+$data[452]['runslinux']['pick'][0]['url'] = "https://hackaday.io/project/19035-zerophone-a-raspberry-pi-smartphone";
+
+$data[452]['desktopapp']['pick'][0]['name'] = "Albert";
+$data[452]['desktopapp']['pick'][0]['url'] = "https://github.com/albertlauncher/albert";
+
+$data[452]['spotlight']['pick'][0]['name'] = "Kanban Project Management";
+$data[452]['spotlight']['pick'][0]['url'] = "https://kanboard.net/";
+
 ?>
