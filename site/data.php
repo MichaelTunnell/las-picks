@@ -7165,4 +7165,7 @@ $data[453]['desktopapp']['pick'][0]['url'] = "https://keepassxc.org/";
 $data[453]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
 $data[453]['spotlight']['pick'][0]['url'] = "0";
 
+$data[453]['distro']['pick'][0]['name'] = "Chakra";
+$data[453]['distro']['pick'][0]['url'] = "https://chakralinux.org/";
+
 ?>
