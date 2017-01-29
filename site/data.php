@@ -7150,4 +7150,19 @@ $data[452]['desktopapp']['pick'][0]['url'] = "https://github.com/albertlauncher/
 $data[452]['spotlight']['pick'][0]['name'] = "Kanban Project Management";
 $data[452]['spotlight']['pick'][0]['url'] = "https://kanboard.net/";
 
+
+// Episode 453
+$data[453]['title'] = "Ghost of Predictions Past | LAS 453";
+$data[453]['url'] = "http://www.jupiterbroadcasting.com/106336/ghost-of-predictions-past-las-453/";
+$data[453]['date'] = "2017-01-22";
+
+$data[453]['runslinux']['pick'][0]['name'] = "Jessie F - CoreOS/Docker";
+$data[453]['runslinux']['pick'][0]['url'] = "https://blog.jessfraz.com/post/ultimate-linux-on-the-desktop/";
+
+$data[453]['desktopapp']['pick'][0]['name'] = "KeePassXC";
+$data[453]['desktopapp']['pick'][0]['url'] = "https://keepassxc.org/";
+
+$data[453]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[453]['spotlight']['pick'][0]['url'] = "0";
+
 ?>
