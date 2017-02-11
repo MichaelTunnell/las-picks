@@ -7186,10 +7186,4 @@ $data[455]['spotlight']['pick'][0]['url'] = "0";
 $data[455]['distro']['pick'][0]['name'] = "Whonix";
 $data[455]['distro']['pick'][0]['url'] = "https://www.whonix.org/";
 
-
-
-
-
-
-
 ?>
