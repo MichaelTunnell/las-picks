@@ -7203,7 +7203,7 @@ $data[455]['distro']['pick'][0]['url'] = "https://www.whonix.org/";
 
 
 // Episode 456
-$data[456]['title'] = "https://geckolinux.github.io/";
+$data[456]['title'] = "Inside the Plasma Dev Den | LAS 456";
 $data[456]['url'] = "http://www.jupiterbroadcasting.com/106791/inside-the-plasma-dev-den-las-456/";
 $data[456]['date'] = "2017-02-12";
 
