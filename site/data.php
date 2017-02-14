@@ -7201,4 +7201,22 @@ $data[455]['spotlight']['pick'][0]['url'] = "0";
 $data[455]['distro']['pick'][0]['name'] = "Whonix";
 $data[455]['distro']['pick'][0]['url'] = "https://www.whonix.org/";
 
+
+// Episode 456
+$data[456]['title'] = "https://geckolinux.github.io/";
+$data[456]['url'] = "http://www.jupiterbroadcasting.com/106791/inside-the-plasma-dev-den-las-456/";
+$data[456]['date'] = "2017-02-12";
+
+$data[456]['runslinux']['pick'][0]['name'] = "M&Ms and Skittles sorting machine - Willemm.nl";
+$data[456]['runslinux']['pick'][0]['url'] = "https://willemm.nl/mm-skittles-sorting-machine/";
+
+$data[456]['desktopapp']['pick'][0]['name'] = "Synapse";
+$data[456]['desktopapp']['pick'][0]['url'] = "http://lifehacker.com/5704221/synapse-is-a-super-fast-tightly-integrated-application-launcher-for-linux";
+
+$data[456]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[456]['spotlight']['pick'][0]['url'] = "0";
+
+$data[456]['distro']['pick'][0]['name'] = "GeckoLinux";
+$data[456]['distro']['pick'][0]['url'] = "https://geckolinux.github.io/";
+
 ?>
