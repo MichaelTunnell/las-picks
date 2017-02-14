@@ -7183,7 +7183,22 @@ $data[454]['desktopapp']['pick'][0]['url'] = "https://www.teleconsole.com/";
 $data[454]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
 $data[454]['spotlight']['pick'][0]['url'] = "0";
 
-$data[454]['distro']['pick'][0]['name'] = "GeckoLinux";
-$data[454]['distro']['pick'][0]['url'] = "https://geckolinux.github.io/";
+
+// Episode 455
+$data[455]['title'] = "Low Cost Linux Challenge | LAS 455";
+$data[455]['url'] = "http://www.jupiterbroadcasting.com/106646/low-cost-linux-challenge-las-455/";
+$data[455]['date'] = "2017-02-05";
+
+$data[455]['runslinux']['pick'][0]['name'] = "TERES-A64-BLACK, DIY Laptop";
+$data[455]['runslinux']['pick'][0]['url'] = "https://www.olimex.com/Products/DIY%20Laptop/KITS/TERES-A64-BLACK/open-source-hardware";
+
+$data[455]['desktopapp']['pick'][0]['name'] = "jam: console Google Play Music player";
+$data[455]['desktopapp']['pick'][0]['url'] = "https://github.com/budkin/jam";
+
+$data[455]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[455]['spotlight']['pick'][0]['url'] = "0";
+
+$data[455]['distro']['pick'][0]['name'] = "Whonix";
+$data[455]['distro']['pick'][0]['url'] = "https://www.whonix.org/";
 
 ?>
