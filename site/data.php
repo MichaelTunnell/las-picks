@@ -7169,6 +7169,21 @@ $data[453]['distro']['pick'][0]['name'] = "Chakra";
 $data[453]['distro']['pick'][0]['url'] = "https://chakralinux.org/";
 
 
+// Episode 454
+$data[454]['title'] = "Noah's IPSEC Adventure | LAS 454";
+$data[454]['url'] = "http://www.jupiterbroadcasting.com/106496/noahs-ipsec-adventure-las-454/";
+$data[454]['date'] = "2017-01-29";
+
+$data[454]['runslinux']['pick'][0]['name'] = "British Maritime Museum";
+$data[454]['runslinux']['pick'][0]['url'] = "https://i.reddituploads.com/bdb4c4e5e62d4cb4a858150f8adfeef1?fit=max&h=1536&w=1536&s=0c3ab0007612c82cd167388e9f278e12";
+
+$data[454]['desktopapp']['pick'][0]['name'] = "Teleconsole";
+$data[454]['desktopapp']['pick'][0]['url'] = "https://www.teleconsole.com/";
+
+$data[454]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[454]['spotlight']['pick'][0]['url'] = "0";
+
+
 // Episode 455
 $data[455]['title'] = "Low Cost Linux Challenge | LAS 455";
 $data[455]['url'] = "http://www.jupiterbroadcasting.com/106646/low-cost-linux-challenge-las-455/";
