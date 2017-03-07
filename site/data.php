@@ -7255,4 +7255,22 @@ $data[458]['spotlight']['pick'][0]['url'] = "0";
 $data[458]['distro']['pick'][0]['name'] = "NuTyX GNU/Linux";
 $data[458]['distro']['pick'][0]['url'] = "http://www.nutyx.org/en/";
 
+
+// Episode 459
+$data[459]['title'] = "Live from SCaLE 15x | LAS 459";
+$data[459]['url'] = "http://www.jupiterbroadcasting.com/107286/live-from-scale-15x-las-459/";
+$data[459]['date'] = "2017-03-05";
+
+$data[459]['runslinux']['pick'][0]['name'] = "Ubuntu Augmented Reality Helmet";
+$data[459]['runslinux']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2017/02/ubuntu-augmented-reality-helmet-hololens";
+
+$data[459]['desktopapp']['pick'][0]['name'] = "Standard Notes";
+$data[459]['desktopapp']['pick'][0]['url'] = "https://standardnotes.org/extensions/collaborative-editor";
+
+$data[459]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[459]['spotlight']['pick'][0]['url'] = "0";
+
+$data[459]['distro']['pick'][0]['name'] = "Zenwalk GNU/Linux";
+$data[459]['distro']['pick'][0]['url'] = "http://zenwalkgnulinux.blogspot.ca/2017/02/new-zenwalk-current-iso-for-22-feb-2017.html";
+
 ?>
