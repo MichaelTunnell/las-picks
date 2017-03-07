@@ -7219,4 +7219,21 @@ $data[456]['spotlight']['pick'][0]['url'] = "0";
 $data[456]['distro']['pick'][0]['name'] = "GeckoLinux";
 $data[456]['distro']['pick'][0]['url'] = "https://geckolinux.github.io/";
 
+// Episode 457
+$data[457]['title'] = "XPS 13 Review | LAS 457";
+$data[457]['url'] = "http://www.jupiterbroadcasting.com/106921/xps-13-review-las-457/";
+$data[457]['date'] = "2017-02-18";
+
+$data[457]['runslinux']['pick'][0]['name'] = "Mavizen’s 130 MPH TTX02 Electric Motorcycle";
+$data[457]['runslinux']['pick'][0]['url'] = "http://www.treehugger.com/cars/mavizens-130-mph-ttx02-electric-motorcycle-runs-on-linux.html";
+
+$data[457]['desktopapp']['pick'][0]['name'] = "Undistract Me";
+$data[457]['desktopapp']['pick'][0]['url'] = "https://github.com/jml/undistract-me";
+
+$data[457]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[457]['spotlight']['pick'][0]['url'] = "0";
+
+$data[457]['distro']['pick'][0]['name'] = "NixOS";
+$data[457]['distro']['pick'][0]['url'] = "https://nixos.org/";
+
 ?>
