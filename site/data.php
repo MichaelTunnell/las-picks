@@ -7219,4 +7219,58 @@ $data[456]['spotlight']['pick'][0]['url'] = "0";
 $data[456]['distro']['pick'][0]['name'] = "GeckoLinux";
 $data[456]['distro']['pick'][0]['url'] = "https://geckolinux.github.io/";
 
+
+// Episode 457
+$data[457]['title'] = "XPS 13 Review | LAS 457";
+$data[457]['url'] = "http://www.jupiterbroadcasting.com/106921/xps-13-review-las-457/";
+$data[457]['date'] = "2017-02-18";
+
+$data[457]['runslinux']['pick'][0]['name'] = "Mavizen’s 130 MPH TTX02 Electric Motorcycle";
+$data[457]['runslinux']['pick'][0]['url'] = "http://www.treehugger.com/cars/mavizens-130-mph-ttx02-electric-motorcycle-runs-on-linux.html";
+
+$data[457]['desktopapp']['pick'][0]['name'] = "Undistract Me";
+$data[457]['desktopapp']['pick'][0]['url'] = "https://github.com/jml/undistract-me";
+
+$data[457]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[457]['spotlight']['pick'][0]['url'] = "0";
+
+$data[457]['distro']['pick'][0]['name'] = "NixOS";
+$data[457]['distro']['pick'][0]['url'] = "https://nixos.org/";
+
+
+// Episode 458
+$data[458]['title'] = "Noah's Radio Hack | LAS 458";
+$data[458]['url'] = "http://www.jupiterbroadcasting.com/107116/noahs-radio-hack-las-458/";
+$data[458]['date'] = "2017-02-26";
+
+$data[458]['runslinux']['pick'][0]['name'] = "UK Payroll";
+$data[458]['runslinux']['pick'][0]['url'] = "https://jblive.wufoo.com/cabinet/dzd4MnI3/hBYH9rte4HI%3D/screenshot_from_20170208_124839.png";
+
+$data[458]['desktopapp']['pick'][0]['name'] = "smem: memory usage monitor";
+$data[458]['desktopapp']['pick'][0]['url'] = "https://www.selenic.com/smem/";
+
+$data[458]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[458]['spotlight']['pick'][0]['url'] = "0";
+
+$data[458]['distro']['pick'][0]['name'] = "NuTyX GNU/Linux";
+$data[458]['distro']['pick'][0]['url'] = "http://www.nutyx.org/en/";
+
+
+// Episode 459
+$data[459]['title'] = "Live from SCaLE 15x | LAS 459";
+$data[459]['url'] = "http://www.jupiterbroadcasting.com/107286/live-from-scale-15x-las-459/";
+$data[459]['date'] = "2017-03-05";
+
+$data[459]['runslinux']['pick'][0]['name'] = "Ubuntu Augmented Reality Helmet";
+$data[459]['runslinux']['pick'][0]['url'] = "http://www.omgubuntu.co.uk/2017/02/ubuntu-augmented-reality-helmet-hololens";
+
+$data[459]['desktopapp']['pick'][0]['name'] = "Standard Notes";
+$data[459]['desktopapp']['pick'][0]['url'] = "https://standardnotes.org/extensions/collaborative-editor";
+
+$data[459]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[459]['spotlight']['pick'][0]['url'] = "0";
+
+$data[459]['distro']['pick'][0]['name'] = "Zenwalk GNU/Linux";
+$data[459]['distro']['pick'][0]['url'] = "http://zenwalkgnulinux.blogspot.ca/2017/02/new-zenwalk-current-iso-for-22-feb-2017.html";
+
 ?>
