@@ -7309,4 +7309,22 @@ $data[461]['spotlight']['pick'][0]['url'] = "0";
 $data[461]['distro']['pick'][0]['name'] = "Arch Linux";
 $data[461]['distro']['pick'][0]['url'] = "https://www.archlinux.org/";
 
+
+// Episode 462
+$data[462]['title'] = "The Final Countdown | LAS 462";
+$data[462]['url'] = "http://www.jupiterbroadcasting.com/113241/the-final-countdown-las-462/";
+$data[462]['date'] = "2017-03-26";
+
+$data[462]['runslinux']['pick'][0]['name'] = "Crashed Display in Walmart";
+$data[462]['runslinux']['pick'][0]['url'] = "https://www.reddit.com/r/linux/comments/612aps/display_in_walmart_stuck_in_a_linux_boot_loop/";
+
+$data[462]['desktopapp']['pick'][0]['name'] = "Enpass: Password Manager";
+$data[462]['desktopapp']['pick'][0]['url'] = "https://www.enpass.io/";
+
+$data[462]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[462]['spotlight']['pick'][0]['url'] = "0";
+
+$data[462]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[462]['distro']['pick'][0]['url'] = "0";
+
 ?>
