@@ -7327,4 +7327,22 @@ $data[462]['spotlight']['pick'][0]['url'] = "0";
 $data[462]['distro']['pick'][0]['name'] = "Episode did not include a pick";
 $data[462]['distro']['pick'][0]['url'] = "0";
 
+
+// Episode 463
+$data[463]['title'] = "Dubstep Allan | LAS 463";
+$data[463]['url'] = "http://www.jupiterbroadcasting.com/113386/dubstep-allan-las-463/";
+$data[463]['date'] = "2017-04-01";
+
+$data[463]['runslinux']['pick'][0]['name'] = "Acer Travelmate 4150 retrofitting to Raspberry Pi Laptop";
+$data[463]['runslinux']['pick'][0]['url'] = "https://codeandunicorns.com/acer-travelmate-4150-retrofitting-raspberry-pi-laptop-part-1-lcd-cleanup/";
+
+$data[463]['desktopapp']['pick'][0]['name'] = "sesutils";
+$data[463]['desktopapp']['pick'][0]['url'] = "https://www.freebsd.org/cgi/man.cgi?query=sesutil&sektion=8";
+
+$data[463]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[463]['spotlight']['pick'][0]['url'] = "0";
+
+$data[463]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[463]['distro']['pick'][0]['url'] = "0";
+
 ?>
