@@ -7327,4 +7327,40 @@ $data[462]['spotlight']['pick'][0]['url'] = "0";
 $data[462]['distro']['pick'][0]['name'] = "Episode did not include a pick";
 $data[462]['distro']['pick'][0]['url'] = "0";
 
+
+// Episode 463
+$data[463]['title'] = "Dubstep Allan | LAS 463";
+$data[463]['url'] = "http://www.jupiterbroadcasting.com/113386/dubstep-allan-las-463/";
+$data[463]['date'] = "2017-04-01";
+
+$data[463]['runslinux']['pick'][0]['name'] = "TravelMate Laptop with Rasp Pi";
+$data[463]['runslinux']['pick'][0]['url'] = "https://codeandunicorns.com/acer-travelmate-4150-retrofitting-raspberry-pi-laptop-part-1-lcd-cleanup/";
+
+$data[463]['desktopapp']['pick'][0]['name'] = "sesutils: Utility for managing SCSI Enclosure Services";
+$data[463]['desktopapp']['pick'][0]['url'] = "https://www.freebsd.org/cgi/man.cgi?query=sesutil&sektion=8";
+
+$data[463]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[463]['spotlight']['pick'][0]['url'] = "0";
+
+$data[463]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[463]['distro']['pick'][0]['url'] = "0";
+
+
+// Episode 464
+$data[464]['title'] = "Our Trip to Dell | LAS 464";
+$data[464]['url'] = "http://www.jupiterbroadcasting.com/113646/our-trip-to-dell-las-464/";
+$data[464]['date'] = "2017-04-09";
+
+$data[464]['runslinux']['pick'][0]['name'] = "The Briggo Coffee Robot";
+$data[464]['runslinux']['pick'][0]['url'] = "http://www.slate.com/articles/technology/future_tense/2013/10/briggo_coffee_robot_should_starbucks_replace_baristas_with_machines.html";
+
+$data[464]['desktopapp']['pick'][0]['name'] = "Gydl: GUI wrapper for youtube-dl";
+$data[464]['desktopapp']['pick'][0]['url'] = "https://github.com/JannikHv/gydl";
+
+$data[464]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[464]['spotlight']['pick'][0]['url'] = "0";
+
+$data[464]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[464]['distro']['pick'][0]['url'] = "0";
+
 ?>
