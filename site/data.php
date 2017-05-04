@@ -7363,4 +7363,61 @@ $data[464]['spotlight']['pick'][0]['url'] = "0";
 $data[464]['distro']['pick'][0]['name'] = "Episode did not include a pick";
 $data[464]['distro']['pick'][0]['url'] = "0";
 
+
+// Episode 465
+$data[465]['title'] = "Dell’s Secret Sauce | LAS 465";
+$data[465]['url'] = "http://www.jupiterbroadcasting.com/113916/dells-secret-sauce-las-465/";
+$data[465]['date'] = "2017-04-17";
+
+$data[465]['runslinux']['pick'][0]['name'] = "Episode did not include a pick";
+$data[465]['runslinux']['pick'][0]['url'] = "0";
+
+$data[465]['desktopapp']['pick'][0]['name'] = "Episode did not include a pick";
+$data[465]['desktopapp']['pick'][0]['url'] = "0";
+
+$data[465]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[465]['spotlight']['pick'][0]['url'] = "0";
+
+$data[465]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[465]['distro']['pick'][0]['url'] = "0";
+
+
+// Episode 466
+$data[466]['title'] = "Adopt-a-Dongle | LAS 466";
+$data[466]['url'] = "http://www.jupiterbroadcasting.com/114096/adopt-a-dongle-las-466/";
+$data[466]['date'] = "2017-04-23";
+
+$data[466]['runslinux']['pick'][0]['name'] = "Cloud-enabled WiFi router adds VPN and Dynamic DNS";
+$data[466]['runslinux']['pick'][0]['url'] = "http://linuxgizmos.com/cloud-enabled-wifi-router-adds-vpn-and-dynamic-dns/";
+
+$data[466]['desktopapp']['pick'][0]['name'] = "Counter Attack";
+$data[466]['desktopapp']['pick'][0]['url'] = "http://store.steampowered.com/app/451600";
+
+$data[466]['desktopapp']['pick'][1]['name'] = "HiDPI-Steam-Skin";
+$data[466]['desktopapp']['pick'][1]['url'] = "https://github.com/MoriTanosuke/HiDPI-Steam-Skin";
+
+$data[466]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[466]['spotlight']['pick'][0]['url'] = "0";
+
+$data[466]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[466]['distro']['pick'][0]['url'] = "0";
+
+
+// Episode 467
+$data[467]['title'] = "Second to LAS | LAS 467";
+$data[467]['url'] = "http://www.jupiterbroadcasting.com/114301/second-to-las-las-467/";
+$data[467]['date'] = "2017-04-30";
+
+$data[467]['runslinux']['pick'][0]['name'] = "The First Open Source Satellite";
+$data[467]['runslinux']['pick'][0]['url'] = "http://hackaday.com/2017/04/19/flying-the-first-open-source-satellite/";
+
+$data[467]['desktopapp']['pick'][0]['name'] = "pulseeffects: Limiter, compressor, reverberation, equalizer and auto volume effects";
+$data[467]['desktopapp']['pick'][0]['url'] = "https://github.com/wwmm/pulseeffects";
+
+$data[467]['spotlight']['pick'][0]['name'] = "Episode did not include a pick";
+$data[467]['spotlight']['pick'][0]['url'] = "0";
+
+$data[467]['distro']['pick'][0]['name'] = "Episode did not include a pick";
+$data[467]['distro']['pick'][0]['url'] = "0";
+
 ?>
