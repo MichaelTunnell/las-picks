@@ -1,0 +1,677 @@
+{
+	"AppPicks": [
+		{
+			"Date": "2014-12-28",
+			"AppTitle": "Telegram Desktop",
+			"AppUrl": "https://desktop.telegram.org/",
+			"EpisodeTitle": "2015 Linux Predictions | LAS 
+345",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/74497/2015-linux-predictions-linux-action-show-345/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-12-28",
+			"AppTitle": "Telegram Messenger",
+			"AppUrl": 
+"https://play.google.com/store/apps/details?id=org.telegram.messenger",
+			"EpisodeTitle": "2015 Linux Predictions | LAS 
+345",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/74497/2015-linux-predictions-linux-action-show-345/",
+			"Type": "Android"
+		},
+		{
+			"Date": "2014-12-14",
+			"AppTitle": "dcfldd",
+			"AppUrl": "http://dcfldd.sourceforge.net/",
+			"EpisodeTitle": "Fedora Developer Roundtable | 
+LAS 343",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/73857/fedora-developer-roundtable-las-343/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-12-14",
+			"AppTitle": "openSUSE Imagewriter",
+			"AppUrl": 
+"https://github.com/opensuse/imagewriter",
+			"EpisodeTitle": "Fedora Developer Roundtable | 
+LAS 343",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/73857/fedora-developer-roundtable-las-343/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-12-07",
+			"AppTitle": "mkvtoolnix",
+			"AppUrl": 
+"https://www.bunkus.org/videotools/mkvtoolnix/",
+			"EpisodeTitle": "Lennart's Linux Revolution | 
+LAS 342",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/73122/lennarts-linux-revolution-las-342/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-11-30",
+			"AppTitle": "MenuLibre",
+			"AppUrl": 
+"http://smdavis.us/projects/menulibre/",
+			"EpisodeTitle": "Mark Shuttleworth Interview | 
+LAS 341",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/72637/mark-shuttleworth-interview-las-341/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-11-23",
+			"AppTitle": "MOC - music on console",
+			"AppUrl": "http://moc.daper.net/about",
+			"EpisodeTitle": "Rooting for the Kids | LAS 
+340",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/72112/rooting-for-the-kids-las-340/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-11-23",
+			"AppTitle": "Corebird",
+			"AppUrl": "http://corebird.baedert.org/",
+			"EpisodeTitle": "Rooting for the Kids | LAS 
+340",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/72112/rooting-for-the-kids-las-340/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-11-16",
+			"AppTitle": "Meld",
+			"AppUrl": "http://meldmerge.org/",
+			"EpisodeTitle": "Making Linux Beautiful | LAS 
+339",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/71512/making-linux-beautiful-las-339/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-11-09",
+			"AppTitle": "QWinFF",
+			"AppUrl": "https://github.com/qwinff/qwinff",
+			"EpisodeTitle": "Lumina Desktop Preview | LAS 
+338",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/70922/lumina-desktop-preview-las-338/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-11-02",
+			"AppTitle": "Google Play Downloader",
+			"AppUrl": 
+"http://www.webupd8.org/2014/10/download-apks-from-google-play-to-your.html",
+			"EpisodeTitle": "openSUSE 13.2 Review | LAS 
+337",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/70397/opensuse-13-2-review-linux-action-show-337/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-10-27",
+			"AppTitle": "Memo",
+			"AppUrl": "http://www.ideabyte.net/memo/",
+			"EpisodeTitle": "Best of Ohio LinuxFest | LAS 
+336",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/70022/best-of-ohio-linuxfest-linux-action-show-336/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-10-27",
+			"AppTitle": "SparkleShare",
+			"AppUrl": "http://sparkleshare.org/",
+			"EpisodeTitle": "Best of Ohio LinuxFest | LAS 
+336",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/70022/best-of-ohio-linuxfest-linux-action-show-336/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-10-19",
+			"AppTitle": "CrossOver 14.0",
+			"AppUrl": 
+"https://www.codeweavers.com/support/forums/announce/?t=24;mhl=167623;msg=167623#msg167623",
+			"EpisodeTitle": "Ubuntu 14.10 Mega Review | LAS 
+335",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/69512/ubuntu-14-10-mega-review-las-335/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-10-12",
+			"AppTitle": "bithammer",
+			"AppUrl": 
+"https://github.com/MichaelJCole/bithammer",
+			"EpisodeTitle": "Painless Plex Migration | LAS 
+334",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/68967/painless-plex-migration-linux-action-show-334/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-10-05",
+			"AppTitle": "Firejail",
+			"AppUrl": 
+"http://l3net.wordpress.com/projects/firejail/",
+			"EpisodeTitle": "Top 5 Linux Games | LAS 333",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/68222/top-5-linux-games-las-333/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-10-05",
+			"AppTitle": "Logstalgia",
+			"AppUrl": 
+"https://code.google.com/p/logstalgia/",
+			"EpisodeTitle": "Top 5 Linux Games | LAS 333",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/68222/top-5-linux-games-las-333/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-09-28",
+			"AppTitle": "Shellshocker",
+			"AppUrl": "https://shellshocker.net/",
+			"EpisodeTitle": "Weaponized Bash | LAS 332",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/67717/weaponized-bash-linux-action-show-332/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-09-21",
+			"AppTitle": "Angry IP Scanner",
+			"AppUrl": "http://angryip.org/",
+			"EpisodeTitle": "Security Onion Review | LAS 
+331",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/67182/security-onion-review-las-331/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-09-21",
+			"AppTitle": "4K Stogram",
+			"AppUrl": 
+"https://www.4kdownload.com/products/product-stogram",
+			"EpisodeTitle": "Security Onion Review | LAS 
+331",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/67182/security-onion-review-las-331/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-09-14",
+			"AppTitle": "Grsync",
+			"AppUrl": "http://www.opbyte.it/grsync/",
+			"EpisodeTitle": "Switching Ubuntu to Gnome | LAS 
+330",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/66657/switching-ubuntu-to-gnome-las-330/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-09-07",
+			"AppTitle": "slap",
+			"AppUrl": "https://github.com/slap-editor/slap",
+			"EpisodeTitle": "OwnCloud Your Chromebook | LAS 
+329",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/66142/owncloud-your-chromebook-las-329/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-08-31",
+			"AppTitle": "Braid",
+			"AppUrl": 
+"http://store.steampowered.com/app/26800/",
+			"EpisodeTitle": "A Chat with Icculus | LAS 328",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/65607/a-chat-with-icculus-linux-action-show-328/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-08-24",
+			"AppTitle": "Shutter 0.93",
+			"AppUrl": 
+"http://shutter-project.org/2014/08/shutter-0-93-released/",
+			"EpisodeTitle": "Best of LinuxCon 2014 | LAS 
+327",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/65207/best-of-linuxcon-2014-las-327/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-08-17",
+			"AppTitle": "Lynis",
+			"AppUrl": 
+"http://rootkit.nl/projects/lynis.html",
+			"EpisodeTitle": "What's Next for Fedora | LAS 
+326",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/64637/whats-next-for-fedora-las-326/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-08-10",
+			"AppTitle": "Serman",
+			"AppUrl": 
+"http://www.reddit.com/r/LinuxActionShow/comments/2cy5a5/aur_en_serman_dialogbased_systemd_service/",
+			"EpisodeTitle": "Tomb of Secrets | LAS 325",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/64207/tomb-of-secrets-las-325/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-08-10",
+			"AppTitle": "Skyward Collapse",
+			"AppUrl": 
+"http://store.steampowered.com/app/238890/",
+			"EpisodeTitle": "Tomb of Secrets | LAS 325",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/64207/tomb-of-secrets-las-325/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-08-03",
+			"AppTitle": "Cool-old-term",
+			"AppUrl": 
+"http://swordfishslabs.wordpress.com/2014/07/29/brace-yourself-cool-old-term-is-coming/",
+			"EpisodeTitle": "ownCloud 7 Interview | LAS 
+324",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/63592/owncloud-7-interview-las-324/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-08-03",
+			"AppTitle": "Toxic",
+			"AppUrl": "https://github.com/Tox/toxic",
+			"EpisodeTitle": "ownCloud 7 Interview | LAS 
+324",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/63592/owncloud-7-interview-las-324/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-07-27",
+			"AppTitle": "Attic - Deduplicating Archiver",
+			"AppUrl": 
+"https://attic-backup.org/foreword.html#features",
+			"EpisodeTitle": "OSCON Interview Roundup | LAS 
+323",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/63147/oscon-interview-roundup-las-323/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-07-20",
+			"AppTitle": "Haroopad",
+			"AppUrl": "http://pad.haroopress.com/",
+			"EpisodeTitle": "Debunking Manjaro Myths | LAS 
+322",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/62637/debunking-manjaro-myths-las-322/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-07-13",
+			"AppTitle": "MPV - Media Player",
+			"AppUrl": "http://mpv.io/",
+			"EpisodeTitle": "Kali Linux Interview | LAS 
+321",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/62177/kali-linux-interview-las-321/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-07-06",
+			"AppTitle": "Vocal",
+			"AppUrl": 
+"http://www.omgubuntu.co.uk/2014/06/linux-podcast-app-vocal-hits-preview-kicker",
+			"EpisodeTitle": "Preventing a btrfs Nightmare | 
+LAS 320",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/61572/preventing-a-btrfs-nightmare-las-320/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-06-29",
+			"AppTitle": "Beets - the music geeks media 
+organizer",
+			"AppUrl": "http://beets.radbox.org/",
+			"EpisodeTitle": "Sharing with Samba | LAS 319",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/60967/sharing-with-samba-las-319/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-06-22",
+			"AppTitle": "Autojump",
+			"AppUrl": 
+"https://github.com/joelthelion/autojump/wiki",
+			"EpisodeTitle": "SouthEast LinuxFest Highlights 
+| LAS 318",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/60412/southeast-linuxfest-highlights-las-318/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-06-15",
+			"AppTitle": "SnapRAID",
+			"AppUrl": 
+"http://snapraid.sourceforge.net/design.html",
+			"EpisodeTitle": "Qubes OS: Security By Isolation 
+| LAS 317",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/59912/qubes-os-security-by-isolation-las-317/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-06-15",
+			"AppTitle": "Magpie",
+			"AppUrl": 
+"https://magpie-notes.readthedocs.org/en/latest/",
+			"EpisodeTitle": "Qubes OS: Security By Isolation 
+| LAS 317",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/59912/qubes-os-security-by-isolation-las-317/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-06-08",
+			"AppTitle": "Otter Browser",
+			"AppUrl": "http://otter-browser.org/",
+			"EpisodeTitle": "Introducing Bedrock Linux | LAS 
+316",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/59352/introducing-bedrock-linux-las-316/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-06-01",
+			"AppTitle": "Gnome Encfs Manager",
+			"AppUrl": "http://libertyzero.com/GEncfsM/",
+			"EpisodeTitle": "CoreOS: Future of Servers | LAS 
+315",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/58602/coreos-future-of-servers-las-315/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-05-25",
+			"AppTitle": "Pinta",
+			"AppUrl": "http://pinta-project.com/",
+			"EpisodeTitle": "OpenShot 2.0 Interview | LAS 
+314",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/58192/openshot-2-0-interview-las-314/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-05-18",
+			"AppTitle": "Castawesome",
+			"AppUrl": 
+"http://sourceforge.net/projects/castawesome/",
+			"EpisodeTitle": "Arch Home Server Challenge | 
+LAS 313",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/57622/arch-home-server-challenge-las-313/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-05-11",
+			"AppTitle": "Atom",
+			"AppUrl": "https://atom.io/",
+			"EpisodeTitle": "LXQt the Xfce Killer? | LAS 
+312",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/57112/lxqt-the-xfce-killer-las-312/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-05-04",
+			"AppTitle": "Speedometer",
+			"AppUrl": "http://excess.org/speedometer/",
+			"EpisodeTitle": "Linux Gaming for Everyone | LAS 
+311",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/56552/linux-gaming-for-everyone-las-311/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-05-04",
+			"AppTitle": "Slurm",
+			"AppUrl": 
+"http://lintut.com/slurm-command-line-bandwidth-monitoring-tool-for-linux/",
+			"EpisodeTitle": "Linux Gaming for Everyone | LAS 
+311",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/56552/linux-gaming-for-everyone-las-311/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-04-27",
+			"AppTitle": "ScreenStudio",
+			"AppUrl": "http://screenstudio.crombz.com/",
+			"EpisodeTitle": "LinuxFest Northwest 2014 | LAS 
+310 (s31e10)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/56082/linuxfest-northwest-2014-las-s31e10-310/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-04-20",
+			"AppTitle": "Variety",
+			"AppUrl": "http://peterlevi.com/variety/",
+			"EpisodeTitle": "Ubuntu 14.04 Review | LAS 309 
+(s31e09)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/55477/ubuntu-14-04-review-las-s31e09/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-04-13",
+			"AppTitle": "Bookie",
+			"AppUrl": "http://docs.bmark.us/en/latest/",
+			"EpisodeTitle": "Intel NUC Review | LAS 308 
+(s31e08)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/55107/intel-nuc-review-las-s31e08-308/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-04-06",
+			"AppTitle": "Apache Wave",
+			"AppUrl": "http://incubator.apache.org/wave/",
+			"EpisodeTitle": "Sabayon Revisited | LAS 307 
+(s31e07)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/54652/sabayon-revisited-las-s31e07/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-03-30",
+			"AppTitle": "NCurses Disk Usage",
+			"AppUrl": "http://dev.yorhel.nl/ncdu",
+			"EpisodeTitle": "Gentoo's Jeff Horelick | LAS 
+306 (s31e06)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/54277/gentoos-jeff-horelick-las-s31e06/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-03-23",
+			"AppTitle": "Viber",
+			"AppUrl": "http://www.viber.com/",
+			"EpisodeTitle": "Mir Monkey Business | LAS 305 
+(s31e05)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/53867/mir-monkey-business-las-s31e05/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-03-16",
+			"AppTitle": "Asciinema",
+			"AppUrl": "https://asciinema.org/",
+			"EpisodeTitle": "SolydXK Linux Review | LAS 304 
+(s31e04)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/53482/solydxk-linux-review-las-s31e04/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-03-09",
+			"AppTitle": "uGet",
+			"AppUrl": 
+"http://ugetdm.com/blog/3-stable/55-uget-1104-released-and-a-bit-of-celebration",
+			"EpisodeTitle": "Linux Your Chromebook | LAS 303 
+(s31e03)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/53067/linux-your-chromebook-las-s31e03/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-03-09",
+			"AppTitle": "Dukto",
+			"AppUrl": "http://www.msec.it/blog/?page_id=11",
+			"EpisodeTitle": "Linux Your Chromebook | LAS 303 
+(s31e03)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/53067/linux-your-chromebook-las-s31e03/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-03-02",
+			"AppTitle": "Tox",
+			"AppUrl": "http://tox.im/",
+			"EpisodeTitle": "Kulture of Design | LAS 302 
+(s31e02)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/52532/kulture-of-design-las-s31e02/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-03-02",
+			"AppTitle": "Venom",
+			"AppUrl": "https://github.com/naxuroqa/Venom",
+			"EpisodeTitle": "Kulture of Design | LAS 302 
+(s31e02)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/52532/kulture-of-design-las-s31e02/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-02-23",
+			"AppTitle": "Stikked",
+			"AppUrl": 
+"https://github.com/claudehohl/Stikked",
+			"EpisodeTitle": "Numix your Linux | LAS 301 
+(s31e01)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/52182/numix-your-linux-las-s31e01/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-02-16",
+			"AppTitle": "KDE Partition Manager",
+			"AppUrl": 
+"http://kde.org/applications/system/kdepartitionmanager/",
+			"EpisodeTitle": "LAS: The Next Generation | 300 
+(s30e10)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/51677/las-the-next-generation-s30e10/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-02-16",
+			"AppTitle": "speedtest-cli",
+			"AppUrl": 
+"https://github.com/sivel/speedtest-cli",
+			"EpisodeTitle": "LAS: The Next Generation | 300 
+(s30e10)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/51677/las-the-next-generation-s30e10/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-02-09",
+			"AppTitle": "Linux-dash",
+			"AppUrl": 
+"https://github.com/afaqurk/linux-dash#installation",
+			"EpisodeTitle": "YaCy Creator Interview | LAS 
+299 (s30e09)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/51277/yacy-creator-interview-las-s30e09/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-02-02",
+			"AppTitle": "Livestreamer",
+			"AppUrl": 
+"http://livestreamer.tanuki.se/en/latest/",
+			"EpisodeTitle": "CuBox Linux Review | LAS 298 
+(s30e08)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/50842/cubox-linux-review-las-s30e08/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-01-26",
+			"AppTitle": "Bro pages",
+			"AppUrl": "http://bropages.org/",
+			"EpisodeTitle": "Steam Streaming Showcased | LAS 
+297 (s30e07)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/50352/steam-streaming-showcased-las-s30e07/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-01-26",
+			"AppTitle": "Splashtop",
+			"AppUrl": "http://www.splashtop.com/linux",
+			"EpisodeTitle": "Steam Streaming Showcased | LAS 
+297 (s30e07)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/50352/steam-streaming-showcased-las-s30e07/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-01-19",
+			"AppTitle": "I-Nex",
+			"AppUrl": "https://github.com/eloaders/I-Nex",
+			"EpisodeTitle": "HDR Photography on Linux | LAS 
+296 (s30e06)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/49842/hdr-photography-on-linux-las-s30e06/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-01-12",
+			"AppTitle": "Springseed",
+			"AppUrl": "http://getspringseed.com/",
+			"EpisodeTitle": "Linux at CES 2014 | LAS 295 
+(s30e05)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/49347/linux-at-ces-2014-las-s30e05/",
+			"Type": "Desktop"
+		},
+		{
+			"Date": "2014-01-05",
+			"AppTitle": "gdiskdump",
+			"AppUrl": "https://launchpad.net/gdiskdump",
+			"EpisodeTitle": "In Defense of Gnome 3 | LAS 294 
+(s30e04)",
+			"EpisodeURL": 
+"http://www.jupiterbroadcasting.com/48967/in-defense-of-gnome-3-las-s30e04/",
+			"Type": "Desktop"
+		}
+	]
+}
