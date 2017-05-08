@@ -1,3 +1,5 @@
+## *Linux Action Show has ended* at episode 468 so this repo no longer has a reason to exist. The list, data, code, etc will all be kept online here but the repo will no longer be updated.
+
 LAS Picks
 =========
 
